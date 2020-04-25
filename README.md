@@ -1,3 +1,0 @@
-# Paginawebjuegodelucharetro
-
-Hola que tal
