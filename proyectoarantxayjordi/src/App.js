@@ -2,6 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {PaginaPrincipal} from './componentes/PaginaPrincipal'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import * as ReactBootstrap from 'react-bootstrap';
+
+//CADA COMPONENTE ESTARA FORMADO POR PAGINA-
 
 function App() {
   return (
@@ -19,11 +23,24 @@ function App() {
         >
           Learn React
           
+          
         </a>
         <PaginaPrincipal/>
+        <ReactBootstrap.Button variant="primary">Primary</ReactBootstrap.Button>{' '}
+        <ReactBootstrap.Navbar></ReactBootstrap.Navbar>
+
       </header>
     </div>
   );
 }
 
+
+
+
+
+/**
+ * Texto de preuba
+ * arraypersonajes { 0= id ,nombre,img}
+ * 
+ */
 export default App;
