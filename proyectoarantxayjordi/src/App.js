@@ -6,12 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import * as ReactBootstrap from 'react-bootstrap';
 
 //CADA COMPONENTE ESTARA FORMADO POR PAGINA-
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+/*        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/.js</code> and save to reload.
         </p>
@@ -24,12 +19,19 @@ function App() {
           Learn React
           
           
-        </a>
-        <PaginaPrincipal/>
-        <ReactBootstrap.Button variant="primary">Primary</ReactBootstrap.Button>{' '}
-        <ReactBootstrap.Navbar></ReactBootstrap.Navbar>
+        </a>*/ 
+function App() {
+  return (
+    <div className="App">
+          <PaginaPrincipal/>
+      <header className="App-header">
+
+    
+     
+
 
       </header>
+      <body></body>
     </div>
   );
 }
