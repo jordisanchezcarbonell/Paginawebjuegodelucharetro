@@ -10,8 +10,8 @@ export class PaginaPrincipal extends Component{
 
                 <div>
 
-                <ReactBootstrap.Navbar bg="light" expand="lg" class="NavbarBoostrap">
-  <ReactBootstrap.Navbar.Brand class="NavBarTitulo" href="#home">Retro Games</ReactBootstrap.Navbar.Brand>
+                <ReactBootstrap.Navbar bg="light" expand="lg" className="NavbarBoostrap">
+  <ReactBootstrap.Navbar.Brand className="NavBarTitulo" href="#home">Retro Games</ReactBootstrap.Navbar.Brand>
   <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
  
 </ReactBootstrap.Navbar>
@@ -19,7 +19,7 @@ export class PaginaPrincipal extends Component{
 
                 </div>
                 <div>
-               <ReactBootstrap.Navbar bg="light" expand="lg" class="NavbarBoostrap">
+               <ReactBootstrap.Navbar bg="light" expand="lg" className="NavbarBoostrap">
   <ReactBootstrap.Navbar.Brand href="#home">Juegos</ReactBootstrap.Navbar.Brand>
   <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
   <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
