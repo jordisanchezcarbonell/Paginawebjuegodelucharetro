@@ -44,7 +44,8 @@
 
   width: 100%;
   text-align: center!important;
-position: center!important;
+  display: flex !important;;
+  justify-content: center !important;;
 
 }
 body{
