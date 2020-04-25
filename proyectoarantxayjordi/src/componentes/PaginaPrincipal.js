@@ -51,4 +51,17 @@ export class PaginaPrincipal extends Component{
 
 
 
+export class Footer extends Component {
+    render(){
+
+        return (
+            <div>
+      <h1>hola</h1>
+        </div>
+    )
+}
+
+
+}
+
 
