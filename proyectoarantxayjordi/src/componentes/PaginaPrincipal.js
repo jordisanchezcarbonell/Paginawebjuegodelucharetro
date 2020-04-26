@@ -51,17 +51,22 @@ export class PaginaPrincipal extends Component{
 
 
 
-export class Footer extends Component {
-    render(){
-
-        return (
-            <div>
-      <h1>hola</h1>
-        </div>
+ 
+export class Footer extends React.Component {
+ 
+  render() {
+ 
+    return (
+ 
+        <footer className="container">
+            <p className="float-right"><a href="#">Subir</a></p>
+            <p>&copy; {(new Date().getFullYear())} Mi Proyecto, Inc. &middot; <a href="#">Política de Privacidad</a> &middot; <a href="#">Términos</a></p>
+        </footer>
+ 
     )
+    
+  }
+ 
 }
-
-
-}
-
+ 
 
