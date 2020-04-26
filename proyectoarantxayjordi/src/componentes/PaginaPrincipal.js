@@ -20,7 +20,7 @@ export class PaginaPrincipal extends Component{
                 </div>
                 <div>
                <ReactBootstrap.Navbar bg="light" expand="lg" className="NavbarBoostrap">
-  <ReactBootstrap.Navbar.Brand href="#home">Juegos</ReactBootstrap.Navbar.Brand>
+  <ReactBootstrap.Navbar.Brand href="PaginaPersonajes.js">Juegos</ReactBootstrap.Navbar.Brand>
   <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
   <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
     <ReactBootstrap.Nav className="mr-auto">

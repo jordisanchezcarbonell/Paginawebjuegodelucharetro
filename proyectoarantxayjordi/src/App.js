@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import {PaginaPrincipal} from './componentes/PaginaPrincipal'
 import {Footer} from './componentes/PaginaPrincipal'
+import {PaginaPersonajes} from './componentes/PaginaPersonajes'
+
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import * as ReactBootstrap from 'react-bootstrap';
@@ -29,7 +31,7 @@ function App() {
       <header className="App-header">
 
     
-
+<PaginaPersonajes/>
 
       </header>
 
