@@ -34,8 +34,12 @@ function App() {
     
 
       </header>
+      
+<footer>
 
 <Footer/>
+</footer>
+
 
 
 

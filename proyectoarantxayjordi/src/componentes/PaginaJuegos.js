@@ -1,13 +1,13 @@
 import React , {Component} from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
-export class PaginaPersonajes extends Component{
+export class PaginaJuegos extends Component{
 
 
     render(){
 
         return (
 
-            <h1>Vengo de la pagina Personajes</h1>
+            <h1>Vengo de la pagina Juegos</h1>
         )}
     
     
