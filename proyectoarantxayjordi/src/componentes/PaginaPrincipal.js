@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import React, { Component } from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
 import { PaginaPersonajes } from './PaginaPersonajes';
@@ -77,9 +78,80 @@ export class PaginaPrincipal extends Component {
       </div>
     )
   }
+=======
+import React, { Component } from "react";
+import * as ReactBootstrap from "react-bootstrap";
+export class PaginaPrincipal extends Component {
+  render() {
+    return (
+      <div>
+        <div>
+          <ReactBootstrap.Navbar
+            bg="light"
+            expand="lg"
+            className="NavbarBoostrap"
+          >
+            <ReactBootstrap.Navbar.Brand className="NavBarTitulo" href="#home">
+              Retro Games
+            </ReactBootstrap.Navbar.Brand>
+            <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
+          </ReactBootstrap.Navbar>
+        </div>
+        <div>
+          <ReactBootstrap.Navbar
+            bg="light"
+            expand="lg"
+            className="NavbarBoostrap"
+          >
+            <ReactBootstrap.Navbar.Brand href="PaginaPersonajes.js">
+              Juegos
+            </ReactBootstrap.Navbar.Brand>
+            <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
+              <ReactBootstrap.Nav className="mr-auto">
+                <ReactBootstrap.Nav.Link href="#home">
+                  Personajes
+                </ReactBootstrap.Nav.Link>
+>>>>>>> Stashed changes
 
+                <ReactBootstrap.NavDropdown
+                  title="Plataformas"
+                  id="basic-nav-dropdown"
+                >
+                  <ReactBootstrap.NavDropdown.Item href="#action/3.1">
+                    Action
+                  </ReactBootstrap.NavDropdown.Item>
+                  <ReactBootstrap.NavDropdown.Item href="#action/3.2">
+                    Another action
+                  </ReactBootstrap.NavDropdown.Item>
+                  <ReactBootstrap.NavDropdown.Item href="#action/3.3">
+                    Something
+                  </ReactBootstrap.NavDropdown.Item>
+                  <ReactBootstrap.NavDropdown.Divider />
+                  <ReactBootstrap.NavDropdown.Item href="#action/3.4">
+                    Separated link
+                  </ReactBootstrap.NavDropdown.Item>
+                </ReactBootstrap.NavDropdown>
+              </ReactBootstrap.Nav>
+              <ReactBootstrap.Form inline>
+                <ReactBootstrap.FormControl
+                  type="text"
+                  placeholder="Search"
+                  className="mr-sm-2"
+                />
+                <ReactBootstrap.Button variant="outline-success">
+                  Search
+                </ReactBootstrap.Button>
+              </ReactBootstrap.Form>
+            </ReactBootstrap.Navbar.Collapse>
+          </ReactBootstrap.Navbar>
+        </div>
+      </div>
+    );
+  }
 }
 
+<<<<<<< Updated upstream
 
 
 
@@ -93,6 +165,11 @@ export class Footer extends React.Component {
 
     return (
 
+=======
+export class Footer extends React.Component {
+  render() {
+    return (
+>>>>>>> Stashed changes
       <footer className="container">
         <p className="float-right">
           <a href="#">Subir</a>
@@ -103,6 +180,7 @@ export class Footer extends React.Component {
           <a href="#">Términos</a>
         </p>
       </footer>
+<<<<<<< Updated upstream
     )
 
 
@@ -111,3 +189,8 @@ export class Footer extends React.Component {
 }
 
 
+=======
+    );
+  }
+}
+>>>>>>> Stashed changes
