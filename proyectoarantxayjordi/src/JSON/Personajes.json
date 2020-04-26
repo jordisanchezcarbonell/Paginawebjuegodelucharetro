@@ -1,0 +1,34 @@
+[
+    
+      {"Nombre":"RYU", 
+       "Descripcion":"PRUEBA",
+       "Foto":"../../public/imagenes/Street_Fighter_III.png",
+       "Ataques":[
+          
+        
+            {"nombreAtaque":"Hadoyken","Animacion":"Esto es un hadoyken"},
+            {"nombreAtaque":"Shoruken","Animacion":"Esto es un shoriyken"},       
+            
+            {"nombreAtaque":"JJJJ","Animacion":"PROBNA"}
+       ]
+    
+    
+    },
+    {"Nombre":"ALBERT", 
+        "Descripcion":"PRUEBA",
+        "Foto":"imagenes/Street_Fighter_III.png",
+        "Ataques":[
+           
+         
+             {"nombreAtaque":"Jordi","Animacion":"SANCHEZ"},
+             {"nombreAtaque":"ALBERT","Animacion":"SANCHEZ"},       
+             
+             {"nombreAtaque":"THEBEST","Animacion":"YOU"}
+        ]
+     
+     
+     }
+       
+     
+    
+]
