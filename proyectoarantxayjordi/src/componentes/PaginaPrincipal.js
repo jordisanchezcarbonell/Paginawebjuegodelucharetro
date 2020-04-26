@@ -5,6 +5,7 @@ import { PaginaPersonajes } from './PaginaPersonajes';
 import { PaginaPlataformas } from './PaginaPlataformas';
 import { PaginaJuegos } from './PaginaJuegos';
 
+
 import {
   BrowserRouter as Router,
   Switch,

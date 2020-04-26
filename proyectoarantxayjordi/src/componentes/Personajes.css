@@ -1,0 +1,14 @@
+
+  .card:hover, .card.flip{
+    box-shadow: 0 0 20px #4f9;
+  }
+
+.card{
+
+    width: '15rem';
+    
+    
+}
+  img{
+
+  }
