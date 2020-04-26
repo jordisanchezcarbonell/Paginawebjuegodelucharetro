@@ -1,6 +1,5 @@
 import React , {Component} from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
-
 export class PaginaPersonaje extends Component{
 
 
@@ -8,8 +7,7 @@ export class PaginaPersonaje extends Component{
 
         return (
 
-            <h1>Vengo de la pagina P</h1>
-            
+            <h1>Vengo de la pagina Personaje</h1>
         )}
     
     
