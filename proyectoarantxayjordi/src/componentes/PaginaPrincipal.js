@@ -1,24 +1,33 @@
 import React , {Component} from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 export class PaginaPrincipal extends Component{
 
 
     render(){
 
         return (
-            <div>
+            <div>        
+                  <Router>
 
                 <div>
 
                 <ReactBootstrap.Navbar bg="light" expand="lg" className="NavbarBoostrap">
-  <ReactBootstrap.Navbar.Brand className="NavBarTitulo" href="#home">Retro Games</ReactBootstrap.Navbar.Brand>
+  <ReactBootstrap.Navbar.Brand className="NavBarTitulo" href="#home"><Link to={"/PaginaPersonajes"}>Retro Games</Link></ReactBootstrap.Navbar.Brand>
   <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
  
 </ReactBootstrap.Navbar>
 
 
                 </div>
+    
                 <div>
+             
                <ReactBootstrap.Navbar bg="light" expand="lg" className="NavbarBoostrap">
   <ReactBootstrap.Navbar.Brand href="PaginaPersonajes.js">Juegos</ReactBootstrap.Navbar.Brand>
   <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -40,12 +49,28 @@ export class PaginaPrincipal extends Component{
     </ReactBootstrap.Form>
   </ReactBootstrap.Navbar.Collapse>
 </ReactBootstrap.Navbar>
-</div>
+
+
+<Switch>
+          <Route path="/PaginaPersonajes">
+            <PaginaPersonajes />
+          </Route>
+        
+         
+        </Switch>
+      </div>
+    </Router>
+ 
+
 
             </div>
         )
     }
 
+}
+
+function PaginaPersonajes() {
+  return <h2>Home</h2>;
 }
 
 
