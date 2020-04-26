@@ -4,6 +4,7 @@ import './App.css';
 import {PaginaPrincipal} from './componentes/PaginaPrincipal'
 import {Footer} from './componentes/PaginaPrincipal'
 import {PaginaPersonajes} from './componentes/PaginaPersonajes'
+import {Link} from 'react-router';
 
 
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -31,11 +32,14 @@ function App() {
       <header className="App-header">
 
     
-<PaginaPersonajes/>
 
       </header>
+      
+<footer>
 
 <Footer/>
+</footer>
+
 
 
 
