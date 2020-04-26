@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 import React, { Component } from 'react';
 import * as ReactBootstrap from 'react-bootstrap';
 import { PaginaPersonajes } from './PaginaPersonajes';
@@ -100,7 +100,7 @@ export class Footer extends React.Component {
           <a href="#">Términos</a>
         </p>
       </footer>
-<<<<<<< Updated upstream
+
     )
 
 
@@ -109,8 +109,3 @@ export class Footer extends React.Component {
 }
 
 
-=======
-    );
-  }
-}
->>>>>>> Stashed changes
