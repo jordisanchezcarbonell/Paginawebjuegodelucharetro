@@ -30,6 +30,8 @@ export class PaginaPersonajes extends Component {
     }
 
     render() {
+        const perso = this.props.personajes;
+
 
         console.log('-> render')
         return (
@@ -40,9 +42,9 @@ export class PaginaPersonajes extends Component {
                 <Router>
 
 
-                {data.map((personajes, index) => {
+                {data.map((perso, index) => {
           return (
-            <div key={personajes.Nombre} className="MoviesList-item">
+            <div key={perso.Nombre} className="MoviesList-item">
           
 
           
@@ -53,10 +55,10 @@ export class PaginaPersonajes extends Component {
                         <ReactBootstrap.Nav.Link href="/DetallesPersonajes">Personajes</ReactBootstrap.Nav.Link>
 
                         {/*Para coger la carpeta public */}
-                        <ReactBootstrap.Card.Img variant="top" src={process.env.PUBLIC_URL + personajes.Foto}  alt="Error" />
+                        <ReactBootstrap.Card.Img variant="top" src={process.env.PUBLIC_URL + perso.Foto}  alt="Error" />
                         <ReactBootstrap.Card.Body>
-                            <ReactBootstrap.Card.Title>{personajes.Nombre}</ReactBootstrap.Card.Title>
-                            <ReactBootstrap.Card.Text>         {personajes.Descripcion}    </ReactBootstrap.Card.Text>
+                            <ReactBootstrap.Card.Title>{perso.Nombre}</ReactBootstrap.Card.Title>
+                            <ReactBootstrap.Card.Text>         {perso.Descripcion}    </ReactBootstrap.Card.Text>
                             <a href="/DetallesPersonajes" className="btn btn-primary stretched-link">Go somewhere</a>
 
                         </ReactBootstrap.Card.Body>
