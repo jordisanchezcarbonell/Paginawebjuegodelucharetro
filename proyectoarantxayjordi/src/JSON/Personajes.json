@@ -2,7 +2,7 @@
     
       {"Nombre":"RYU", 
        "Descripcion":"PRUEBA",
-       "Foto":"../../public/imagenes/Street_Fighter_III.png",
+       "Foto":"imagenes/ryu.jpg",
        "Ataques":[
           
         
