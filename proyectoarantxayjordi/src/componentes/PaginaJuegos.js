@@ -1,16 +1,51 @@
-import React , {Component} from 'react';
-import * as ReactBootstrap from 'react-bootstrap';
-export class PaginaJuegos extends Component{
+import React, { Component } from 'react';
+import data from "../JSON/juegos.json";
+import './Juegos.css';
+import { CargarDatos } from './CargarDatos'
 
 
-    render(){
 
-        return (
+export class PaginaJuegos extends Component {
 
-            <h1>Vengo de la pagina Juegos</h1>
-        )}
-    
-    
-    
-    
+
+    click(e) {
+        //const mother = new Mother();
+        //mother.addMother(id);
+        console.log();
     }
+
+    render() {
+
+
+        console.log('-> render')
+        return (
+            <div className=" fondodepantalla">
+
+                <h1 className="TextoIncial">Choose your Game</h1>
+                <div className="row">
+
+                    {data.map((juego, index) => {
+                        return (
+
+                            <div key={juego.Nombre} className="Personajes">
+
+                                <div className="card" >
+
+                                    {/*Para coger la carpeta public */}
+                                    <a href="/DetallesJuegos" >
+                                        <img variant="top" src={process.env.PUBLIC_URL + juego.Foto} alt="Error" />
+                                        <span className="Nombre">{juego.Nombre}</span>
+
+                                    </a>
+                                </div>
+                            </div>
+                        );
+                    })}
+                </div>
+            </div>
+        )
+    }
+
+
+
+}

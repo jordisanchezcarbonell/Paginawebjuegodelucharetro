@@ -8,7 +8,7 @@ export class DetallesPersonajes extends Component{
     render() {
 		return (
             <ul>
-               <h1></h1>
+                {data.map(s => (<li>{s.Nombre}</li>))}
             </ul>
         );
     }

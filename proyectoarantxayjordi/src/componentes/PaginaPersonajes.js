@@ -30,56 +30,53 @@ export class PaginaPersonajes extends Component {
     }
 
     render() {
-        const perso = this.props.personajes;
 
 
         console.log('-> render')
         return (
-            <div>
+            <div className=" fondodepantalla">
 
 
 
                 <Router>
+                <h1 className="TextoIncial">Choose your character</h1>
+                    <div className="row">
+
+                        {data.map((perso, index) => {
+                            return (
+
+                                <div key={perso.Nombre} className="Personajes">
+
+                                    <div  className="card" >
+
+                                        {/*Para coger la carpeta public */}
+                                        <a   target={data.Nombre} href="/DetallesPersonajes" >
+                                            <img variant="top" src={process.env.PUBLIC_URL + perso.Foto} alt="Error" />
 
 
-                {data.map((perso, index) => {
-          return (
-            <div key={perso.Nombre} className="MoviesList-item">
-          
-
-          
-
- 
-             
-                    <ReactBootstrap.Card onClick={this.click} href="http://escuela.it " style={{ width: '15rem' }}>
-                        <ReactBootstrap.Nav.Link href="/DetallesPersonajes">Personajes</ReactBootstrap.Nav.Link>
-
-                        {/*Para coger la carpeta public */}
-                        <ReactBootstrap.Card.Img variant="top" src={process.env.PUBLIC_URL + perso.Foto}  alt="Error" />
-                        <ReactBootstrap.Card.Body>
-                            <ReactBootstrap.Card.Title>{perso.Nombre}</ReactBootstrap.Card.Title>
-                            <ReactBootstrap.Card.Text>         {perso.Descripcion}    </ReactBootstrap.Card.Text>
-                            <a href="/DetallesPersonajes" className="btn btn-primary stretched-link">Go somewhere</a>
-
-                        </ReactBootstrap.Card.Body>
+                                            <span   className="Nombre"> {perso.Nombre}</span>
 
 
-
-                        <Switch>
-                            {/* Rutas de las paginas */}
+                                        </a>
 
 
-                            <Route path="/DetallesPersonajes">
-                                <DetallesPersonajes />
-                            </Route>
-                        </Switch>
-                    </ReactBootstrap.Card>
+                                        <Switch>
+                                            {/* Rutas de las paginas */}
+
+
+                                            <Route path="/DetallesPersonajes">
+                                                <DetallesPersonajes personaje="aasdsdsadsadsaddasd" />
+                                            </Route>
+                                        </Switch>
+                                    </div>
+                                </div>
+
+
+                            );
+                        })}
                     </div>
-
-);
-})}
                 </Router>
-                
+
             </div>
         )
     }

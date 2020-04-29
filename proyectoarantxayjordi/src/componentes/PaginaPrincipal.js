@@ -5,9 +5,11 @@ import { PaginaPersonajes } from './PaginaPersonajes';
 import { PaginaPlataformas } from './PaginaPlataformas';
 import { PaginaJuegos } from './PaginaJuegos';
 import { DetallesPersonajes } from './DetallesPersonajes';
+import './Principal.css';
+
 
 import data from '../JSON/Personajes.json'
-import data_juegos from '../JSON/juegos.json'
+
 
 import {
   BrowserRouter as Router,
@@ -21,7 +23,7 @@ export class PaginaPrincipal extends Component {
   render() {
 
     return (
-      <div>
+      <div className=" fondo">
         <Router>
 
           <div>
@@ -74,12 +76,16 @@ export class PaginaPrincipal extends Component {
                 <PaginaJuegos />
               </Route>
               <Route path="/DetallesPersonajes">
-                <DetallesPersonajes />
+                <DetallesPersonajes  />
               </Route>
             </Switch>
           </div>
-        </Router>
 
+
+
+      
+        </Router>
+        <h1>Hola</h1>
      
 
       </div>
