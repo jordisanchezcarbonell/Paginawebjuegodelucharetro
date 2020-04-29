@@ -75,9 +75,9 @@ export class PaginaPrincipal extends Component {
               <Route path="/PaginaJuegos">
                 <PaginaJuegos />
               </Route>
-              <Route path="/DetallesPersonajes">
-                <DetallesPersonajes  />
-              </Route>
+              <Route path="/DetallesPersonajes/:nombre" component={DetallesPersonajes}/>
+                
+              
             </Switch>
           </div>
 

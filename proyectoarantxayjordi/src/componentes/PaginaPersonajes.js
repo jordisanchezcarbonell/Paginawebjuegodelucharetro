@@ -50,7 +50,8 @@ export class PaginaPersonajes extends Component {
                                     <div  className="card" >
 
                                         {/*Para coger la carpeta public */}
-                                        <a   target={data.Nombre} href="/DetallesPersonajes" >
+                                        <a   target={data.Nombre} href={"/DetallesPersonajes/"+ perso.Nombre+perso.Descripcion} >
+                                   
                                             <img variant="top" src={process.env.PUBLIC_URL + perso.Foto} alt="Error" />
 
 
@@ -60,14 +61,7 @@ export class PaginaPersonajes extends Component {
                                         </a>
 
 
-                                        <Switch>
-                                            {/* Rutas de las paginas */}
-
-
-                                            <Route path="/DetallesPersonajes">
-                                                <DetallesPersonajes personaje="aasdsdsadsadsaddasd" />
-                                            </Route>
-                                        </Switch>
+                                        
                                     </div>
                                 </div>
 
