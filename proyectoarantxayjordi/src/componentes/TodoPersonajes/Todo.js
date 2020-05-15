@@ -1,5 +1,8 @@
 import React from "react";
 import data from "../../JSON/Personajes.json";
+import MARVEL from "../../JSON/Marvel.json";
+import ponys from "../../JSON/ponys.json";
+
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
 class Todo extends React.Component {
@@ -7,10 +10,10 @@ class Todo extends React.Component {
     super(props);
   }
 
-  render() {
+  streetfighter(elementoporpasarparametro) {
     return (
       <div className="row">
-        {data.map((perso, index) => {
+        {elementoporpasarparametro.map((perso, index) => {
           return (
             <div key={perso.Nombre} className="Personajes">
               <div className="card">
@@ -38,6 +41,16 @@ class Todo extends React.Component {
         })}
       </div>
     );
+  }
+  render() {
+    let mostrarvalor = this.props.location.state.visible;
+    if (mostrarvalor === "Street Fighter III: 3rd Strike") {
+      return this.streetfighter(data);
+    } else if (mostrarvalor === "Them's fightin herds") {
+      return this.streetfighter(ponys);
+    } else {
+      return this.streetfighter(MARVEL);
+    }
   }
 }
 

@@ -95,7 +95,6 @@ export class PaginaPrincipal extends Component {
             </Switch>
           </div>
         </Router>
-        <h1>Hola</h1>
       </div>
     );
   }

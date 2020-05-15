@@ -1,0 +1,40 @@
+[
+  {
+    "Nombre": "ARANTAAAAA",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "JORDIII",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  }
+]

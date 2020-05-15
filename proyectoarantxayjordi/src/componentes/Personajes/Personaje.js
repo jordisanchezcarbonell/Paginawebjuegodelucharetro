@@ -1,4 +1,5 @@
 import React from "react";
+import { withRouter } from "react-router-dom";
 
 class Personaje extends React.Component {
   constructor(props) {
@@ -6,12 +7,14 @@ class Personaje extends React.Component {
   }
 
   render() {
-    const  detalles  = this.props.location.state.objecto;
+    const detalles = this.props.location.state.objecto;
     debugger;
     console.log(this.props.location.state.objecto);
 
     return (
       <div>
+        <button onClick={this.props.history.goBack}>Back</button>
+
         <h1>{detalles.Nombre}</h1>
         <h1>{detalles.Descripcion}</h1>
         <img
@@ -29,4 +32,4 @@ class Personaje extends React.Component {
   }
 }
 
-export default Personaje;
+export default withRouter(Personaje);
