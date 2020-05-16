@@ -2,7 +2,9 @@ import React from "react";
 import data from "../../JSON/Personajes.json";
 import MARVEL from "../../JSON/Marvel.json";
 import ponys from "../../JSON/ponys.json";
-
+import killerinstinct from "../../JSON/KillerInstinct.json";
+import Skullgirls from "../../JSON/SkullGirls.json";
+import Juegos from "../../JSON/juegos.json";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
 class Todo extends React.Component {
@@ -43,11 +45,17 @@ class Todo extends React.Component {
     );
   }
   render() {
+    let prueba = Juegos;
+    console.log(prueba[0].Nombre);
     let mostrarvalor = this.props.location.state.visible;
-    if (mostrarvalor === "Street Fighter III: 3rd Strike") {
+    if (mostrarvalor === prueba[0].Nombre) {
       return this.streetfighter(data);
-    } else if (mostrarvalor === "Them's fightin herds") {
+    } else if (mostrarvalor === prueba[2].Nombre) {
       return this.streetfighter(ponys);
+    } else if (mostrarvalor === prueba[3].Nombre) {
+      return this.streetfighter(killerinstinct);
+    } else if (mostrarvalor === prueba[4].Nombre) {
+      return this.streetfighter(Skullgirls);
     } else {
       return this.streetfighter(MARVEL);
     }

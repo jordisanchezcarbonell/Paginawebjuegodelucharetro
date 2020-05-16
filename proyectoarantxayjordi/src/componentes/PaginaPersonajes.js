@@ -19,14 +19,13 @@ export class PaginaPersonajes extends Component {
   }
 
   render() {
-    function clickMe(event, someParameter){
-        //do with event
-        event.preventDefault();
+    function clickMe(event, someParameter) {
+      //do with event
+      event.preventDefault();
 
-        console.log(someParameter)
-        return <DetallesPersonajes/>
-
-       }
+      console.log(someParameter);
+      return <DetallesPersonajes />;
+    }
 
     console.log("-> render");
     return (

@@ -1,0 +1,269 @@
+[
+  {
+    "Nombre": "Eliza",
+    "Descripcion": "Eliza .",
+    "Foto": "imagenes/Skullgirls/eliza.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "JJJJ",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Peacock",
+    "Descripcion": "Peacock",
+    "Foto": "imagenes/Skullgirls/peacock.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Fukua",
+    "Descripcion": "Fukua",
+    "Foto": "imagenes/Skullgirls/fukua.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Cerebella",
+    "Descripcion": "Cerebella",
+    "Foto": "imagenes/Skullgirls/cerebella.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Ms. Fortune",
+    "Descripcion": "Ms. Fortune",
+    "Foto": "imagenes/Skullgirls/ms_fortune.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Beowulf",
+    "Descripcion": "Beowulf",
+    "Foto": "imagenes/Skullgirls/beowulf.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Filia",
+    "Descripcion": "Filia .",
+    "Foto": "imagenes/Skullgirls/filia.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "JJJJ",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Valentine",
+    "Descripcion": "Valentine",
+    "Foto": "imagenes/Skullgirls/valentine.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Double",
+    "Descripcion": "Double",
+    "Foto": "imagenes/Skullgirls/double.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Robo-Fortune",
+    "Descripcion": "Robo-Fortune",
+    "Foto": "imagenes/Skullgirls/robo-fortune.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Big Band",
+    "Descripcion": "Big Band",
+    "Foto": "imagenes/Skullgirls/bigband.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Parasoul",
+    "Descripcion": "Parasoul",
+    "Foto": "imagenes/Skullgirls/parasoul.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Squigly",
+    "Descripcion": "Squigly",
+    "Foto": "imagenes/Skullgirls/squigly.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Painwheel",
+    "Descripcion": "Painwheel",
+    "Foto": "imagenes/Skullgirls/painwheel.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  }
+]

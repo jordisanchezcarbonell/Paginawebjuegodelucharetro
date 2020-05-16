@@ -5,16 +5,124 @@
     "Foto": "imagenes/Ponys/ARIZONA.png",
     "Ataques": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Light",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Medium",
+        "Animacion": ["imagenes/imagenesataques/Medium.png"]
       },
       {
-        "nombreAtaque": "JJJJ",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Heavy",
+        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
+      },
+      {
+        "nombreAtaque": "Magic",
+        "Animacion": ["imagenes/imagenesataques/Magic.png"]
+      },
+      {
+        "nombreAtaque": "Launcher",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_right.png",
+          "imagenes/imagenesataques/Heavy.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Right",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Left",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Foward",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Backwards",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Escape",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Pushblock",
+        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
+      },
+      {
+        "nombreAtaque": "Cross Counter",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Attack_2.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Recovery",
+        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
+      },
+      {
+        "nombreAtaque": "Dodge",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roll",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_left.png",
+          "imagenes/imagenesataques/Down.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
       }
     ]
   },

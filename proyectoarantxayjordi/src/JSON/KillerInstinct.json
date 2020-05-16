@@ -1,0 +1,554 @@
+[
+  {
+    "Nombre": "Fulgore",
+    "Descripcion": "Fulgore .",
+    "Foto": "imagenes/KillerInstinct/fulgore.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "JJJJ",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Aria",
+    "Descripcion": "Aria",
+    "Foto": "imagenes/KillerInstinct/aria.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Rash",
+    "Descripcion": "Rash",
+    "Foto": "imagenes/KillerInstinct/rash.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Omen",
+    "Descripcion": "Omen",
+    "Foto": "imagenes/KillerInstinct/omen.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Jago",
+    "Descripcion": "Jago",
+    "Foto": "imagenes/KillerInstinct/jago.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Maya",
+    "Descripcion": "Maya",
+    "Foto": "imagenes/KillerInstinct/maya.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kilgore",
+    "Descripcion": "Kilgore",
+    "Foto": "imagenes/KillerInstinct/kilgore.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Hisako",
+    "Descripcion": "Hisako",
+    "Foto": "imagenes/KillerInstinct/hisako.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Glacius",
+    "Descripcion": "Glacius",
+    "Foto": "imagenes/KillerInstinct/glacius.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Mira",
+    "Descripcion": "Mira",
+    "Foto": "imagenes/KillerInstinct/mira.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Eyedol",
+    "Descripcion": "Eyedol",
+    "Foto": "imagenes/KillerInstinct/eyedol.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Gargos",
+    "Descripcion": "Gargos",
+    "Foto": "imagenes/KillerInstinct/gargos.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Riptor",
+    "Descripcion": "Riptor",
+    "Foto": "imagenes/KillerInstinct/riptor.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kim Wu",
+    "Descripcion": "Kim Wu",
+    "Foto": "imagenes/KillerInstinct/kim-wu.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Shadow Jago",
+    "Descripcion": "Shadow Jago",
+    "Foto": "imagenes/KillerInstinct/shadow-jago.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Eagle",
+    "Descripcion": "Eagle",
+    "Foto": "imagenes/KillerInstinct/eagle.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Tusk",
+    "Descripcion": "Tusk",
+    "Foto": "imagenes/KillerInstinct/tusk.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Orchid",
+    "Descripcion": "Orchid",
+    "Foto": "imagenes/KillerInstinct/orchid.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Arbiter",
+    "Descripcion": "Arbiter",
+    "Foto": "imagenes/KillerInstinct/arbiter.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Sadira",
+    "Descripcion": "Sadira",
+    "Foto": "imagenes/KillerInstinct/sadira.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Spinal",
+    "Descripcion": "Spinal",
+    "Foto": "imagenes/KillerInstinct/spinal.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Cinder",
+    "Descripcion": "Cinder",
+    "Foto": "imagenes/KillerInstinct/cinder.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Kan-Ra",
+    "Descripcion": "Kan-Ra",
+    "Foto": "imagenes/KillerInstinct/kan-ra.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Sabrewulf",
+    "Descripcion": "Sabrewulf",
+    "Foto": "imagenes/KillerInstinct/sabrewulf.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Shin Hisako",
+    "Descripcion": "Shin Hisako",
+    "Foto": "imagenes/KillerInstinct/shin-hisako.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "TJ Combo",
+    "Descripcion": "TJ Combo",
+    "Foto": "imagenes/KillerInstinct/tjcombo.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Thunder",
+    "Descripcion": "Thunder",
+    "Foto": "imagenes/KillerInstinct/thunder.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Aganos",
+    "Descripcion": "Aganos",
+    "Foto": "imagenes/KillerInstinct/aganos.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "General RAAM",
+    "Descripcion": "General RAAM",
+    "Foto": "imagenes/KillerInstinct/general-raam.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  }
+]
