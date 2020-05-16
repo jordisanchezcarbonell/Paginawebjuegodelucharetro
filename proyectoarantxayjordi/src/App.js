@@ -3,7 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 import {PaginaPrincipal} from './componentes/PaginaPrincipal'
 import {Footer} from './componentes/PaginaPrincipal'
-import {PaginaPersonajes} from './componentes/PaginaPersonajes'
 import {Link} from 'react-router';
 
 

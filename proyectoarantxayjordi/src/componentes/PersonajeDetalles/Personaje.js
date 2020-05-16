@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 
-class Personaje extends React.Component {
+class PersonajeDetalles extends React.Component {
   constructor(props, context) {
     super(props, context);
     this.handleShow = this.handleShow.bind(this);
@@ -77,4 +77,4 @@ class Personaje extends React.Component {
   }
 }
 
-export default withRouter(Personaje);
+export default withRouter(PersonajeDetalles);

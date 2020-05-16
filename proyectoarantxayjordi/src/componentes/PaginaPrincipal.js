@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 import * as ReactBootstrap from "react-bootstrap";
-import { PaginaPersonajes } from "./PaginaPersonajes";
 import { PaginaPlataformas } from "./PaginaPlataformas";
 import { PaginaJuegos } from "./PaginaJuegos";
-import { DetallesPersonajes } from "./DetallesPersonajes";
-import Personaje from "./Personajes/Personaje";
-import Todo from "./TodoPersonajes/Todo";
+import JuegosDetalles from "./JuegosDetalles/JuegosDetalles"
+import Personaje from "./PersonajeDetalles/Personaje";
+import Todo from "./PersonajesGlobales/PersonajesGlobales";
 import "./Principal.css";
+import "./Personajes.css";
+
 
 import data from "../JSON/Personajes.json";
 
@@ -44,9 +45,7 @@ export class PaginaPrincipal extends Component {
               <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
               <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
                 <ReactBootstrap.Nav className="mr-auto">
-                  <ReactBootstrap.Nav.Link href="/PaginaPersonajes">
-                    Personajes
-                  </ReactBootstrap.Nav.Link>
+                
 
                   <ReactBootstrap.NavDropdown
                     title="Plataformas"
@@ -82,16 +81,17 @@ export class PaginaPrincipal extends Component {
 
             <Switch>
               {/* Rutas de las paginas */}
-              <Route path="/PaginaPersonajes" component={Todo}></Route>
 
               <Route path="/PaginaPlataformas">
                 <PaginaPlataformas />
               </Route>
+              <Route path="/PaginaPersonajes" component={Todo}></Route>
 
-              <Route path="/PaginaJuegos">
+              <Route path="/PaginaJuegos" >
                 <PaginaJuegos />
               </Route>
               <Route path="/Detalles" component={Personaje} />
+              <Route path="/JuegosDetalles" component={JuegosDetalles}/>
             </Switch>
           </div>
         </Router>

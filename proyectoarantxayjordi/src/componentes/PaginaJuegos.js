@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import data from "../JSON/juegos.json";
 import "./Juegos.css";
-import { CargarDatos } from "./CargarDatos";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -24,7 +23,7 @@ export class PaginaJuegos extends Component {
                 <div className="card">
                   <Link
                     to={{
-                      pathname: "/PaginaPersonajes",
+                      pathname: "/juegosDetalles",
                       state: {
                         visible: juego.Nombre,
                       },

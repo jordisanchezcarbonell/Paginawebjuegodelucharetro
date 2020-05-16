@@ -7,7 +7,7 @@ import Skullgirls from "../../JSON/SkullGirls.json";
 import Juegos from "../../JSON/juegos.json";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
-class Todo extends React.Component {
+class PersonajesGlobales extends React.Component {
   constructor(props) {
     super(props);
   }
@@ -62,4 +62,4 @@ class Todo extends React.Component {
   }
 }
 
-export default Todo;
+export default PersonajesGlobales;
