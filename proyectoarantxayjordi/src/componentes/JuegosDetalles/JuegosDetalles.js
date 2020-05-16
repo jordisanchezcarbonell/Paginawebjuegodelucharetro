@@ -68,12 +68,11 @@ class JuegosDetalles extends React.Component {
               <td component="th" scope="row">
                 {Ataque.nombreAtaque}
               </td>
-              <td   height="1%" className="imgAtaque" align="right">{ Ataque.Animacion.map((animaciondelataque, index) => (
+              <td    align="right">{ Ataque.Animacion.map((animaciondelataque, index) => (
                 <img 
-                
                   key={index}
                   variant="top"
-                  src={process.env.PUBLIC_URL + animaciondelataque }  width="10" height="1%"
+                  src={process.env.PUBLIC_URL + animaciondelataque }  
                   alt="Error"
                 />
               ))}</td>

@@ -30,7 +30,7 @@ export class PaginaJuegos extends Component {
                     }}
                   >
                     {/*Para coger la carpeta public */}
-                    <img
+                    <img className="tamañoimg"
                       variant="top"
                       src={process.env.PUBLIC_URL + juego.Foto}
                       alt="Error"

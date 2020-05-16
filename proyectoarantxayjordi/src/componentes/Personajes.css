@@ -37,9 +37,18 @@ margin-top: 10px;
 
 }
 
+.tamañoimg{
+  width: 150px!important;
+  min-width: 150px!important;
+  min-height: 150px!important;
+ height: 150px!important;
+ border-radius:40px 10px!important;
+
+}
+/*
 img{
 /*Damos tamaño a las fotos*/
-/*Le tenemos que dar el borde a la foto y al div card*/
+/*Le tenemos que dar el borde a la foto y al div card
   width: 150px!important;
   min-width: 150px!important;
   min-height: 150px!important;
@@ -47,7 +56,7 @@ img{
  border-radius:40px 10px!important;
 
 
-}
+}*/
 
 .Nombre{
   /*Damos estilo al nombre*/
