@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { withRouter } from "react-router-dom";
 
 class Personaje extends React.Component {
@@ -15,6 +15,7 @@ class Personaje extends React.Component {
     return (
       <div>
         <button onClick={this.props.history.goBack}>Back</button>
+
         <h1>{comp}</h1>
         <h1>{detalles.Nombre}</h1>
         <h1>{detalles.Descripcion}</h1>
