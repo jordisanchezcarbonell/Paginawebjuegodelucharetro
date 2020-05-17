@@ -43,14 +43,19 @@ class JuegosDetalles extends React.Component {
 
 
         {/* <button onClick={this.props.history.goBack}>Back</button> */}
-
-        <Row>
-        <Col md="1">
+<div >
+        <Row >
+        <Col md="3" className="fondo1">
         <h1 className="NombrePers">Foto</h1>
 
         </Col>
-        <Col md="11">
+        <Col md="5" className="fondo1">
         <h1 className="NombrePers">Them`s fightin Herds </h1>
+
+        </Col>
+
+        <Col md="4" className="prug">
+     
 
         </Col>
 
@@ -72,7 +77,7 @@ class JuegosDetalles extends React.Component {
           <h6 className="NombrePers">Descripcion </h6>
 
         </Row>
-
+        </div>
         <div className="row">
           {ponys.map((personaje, index) => {
             return (
@@ -85,15 +90,7 @@ class JuegosDetalles extends React.Component {
                       <TableContainer component={Paper} className="TablaGeneral" >
                       
                         <Table   >
-                          <TableHead className="ImagenCabecera">
-                        <img
-                      height="200px"
-                        key={index}
-                        variant="top"
-                        src={process.env.PUBLIC_URL + personaje.Foto}
-                        alt="Error"
-                      />
-                          </TableHead>
+                     
                           <TableHead >
                             <TableRow >
                               <TableCell  align="center" >Movimiento</TableCell>

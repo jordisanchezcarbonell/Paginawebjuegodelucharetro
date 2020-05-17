@@ -11,15 +11,28 @@ background-color: rgba(128, 128, 128, 0.438);
 
 }
 .NombrePers{
-    text-align: center!important;
+    text-align: left!important;
     min-width: 100%!important;
 }
+.fondo1{
+  
+   background-color: honeydew;
+   height: 10vw;
 
+}
+
+
+.prug{
+height: 10vw;
+    background-position: right right;
+    background-size: 100% 200%!important;
+    display: block;
+    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
+    background-repeat: no-repeat;
+
+}
 .TablaGeneral{
     border-radius: 0;
-    border: 1px black solid
-
-  
 }
 .MuiTableCell-head{
 
@@ -29,8 +42,3 @@ background-color: rgba(128, 128, 128, 0.438);
 .MuiTableCell-body  {
     border: 1px black solid
 } 
-.ImagenCabecera{
-
-background-color: gray;
-width: 100%;
-}
