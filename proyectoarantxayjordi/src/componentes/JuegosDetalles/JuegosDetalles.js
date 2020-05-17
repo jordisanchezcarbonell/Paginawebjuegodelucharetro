@@ -8,6 +8,7 @@ import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import { StyleSheet, Text, View } from "react";
+import { Container, Row, Col } from 'reactstrap';
 
 import './juegosDetalles.css';
 
@@ -16,6 +17,8 @@ import './juegosDetalles.css';
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import ponys from "../../JSON/ponys.json";
+import juegos from "../../JSON/juegos.json";
+
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
 
@@ -24,7 +27,7 @@ import { BrowserRouter, Route, Link } from "react-router-dom";
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
     super(props);
-   
+
   }
 
 
@@ -33,131 +36,123 @@ class JuegosDetalles extends React.Component {
 
 
     return (
-      <div>
-        <Button variant="primary" onClick={this.handleShow}>
+      <div className="DivGeneral">
+        {/* <Button variant="primary" onClick={this.handleShow}>
           Launch demo modal
-        </Button>
-            <h1>hola</h1>
-        
-        <button onClick={this.props.history.goBack}>Back</button>
-        
-      <div className="row">
-        {ponys.map((personaje, index) => {
-          return (
-            <div key={personaje.Nombre} className="Personajes">
-            
+        </Button> */}
 
 
-            <table class="egt" >
+        {/* <button onClick={this.props.history.goBack}>Back</button> */}
 
-<tr>
+        <Row>
+        <Col md="1">
+        <h1 className="NombrePers">Foto</h1>
 
-  <td>Celda 1</td>
+        </Col>
+        <Col md="11">
+        <h1 className="NombrePers">Them`s fightin Herds </h1>
 
-  <td>Celda 2</td>
+        </Col>
 
-  <td>Celda 3</td>
-
-</tr>
-
-<tr >
-
-
-{personaje.Ataques.map((Ataque) => (
-            <tr key={Ataque.nombreAtaque}>
-              <td component="th" scope="row">
-                {Ataque.nombreAtaque}
-              </td>
-              <td    align="right">{ Ataque.Animacion.map((animaciondelataque, index) => (
-                <img 
-                  key={index}
-                  variant="top"
-                  src={process.env.PUBLIC_URL + animaciondelataque }  
-                  alt="Error"
-                />
-              ))}</td>
-        
-            </tr>
-          ))}
-
-  <td>Celda 4</td>
-
-  <td>Celda 5</td>
-
-  <td>Celda 6</td>
-
-</tr>
-
-</table>
+          {/* {juegos.map((juego, index) => {
+            return (
+              <div key={juego.Nombre} className="prueba">
 
 
 
+              </div>
+              
+              
+            );
+          })} */}
+        </Row>
+
+        <Row>
+
+          <h6 className="NombrePers">Descripcion </h6>
+
+        </Row>
+
+        <div className="row">
+          {ponys.map((personaje, index) => {
+            return (
+              <div key={personaje.Nombre} className="Personajes">
+
+                <Container>
+                  <Row>
+                    <Col md="8">
+
+                      <TableContainer component={Paper} className="TablaGeneral" >
+                      
+                        <Table   >
+                          <TableHead className="ImagenCabecera">
+                        <img
+                      height="200px"
+                        key={index}
+                        variant="top"
+                        src={process.env.PUBLIC_URL + personaje.Foto}
+                        alt="Error"
+                      />
+                          </TableHead>
+                          <TableHead >
+                            <TableRow >
+                              <TableCell  align="center" >Movimiento</TableCell>
+                              <TableCell align="center">Comando</TableCell>
+
+                            </TableRow>
+                          </TableHead>
+                          <TableBody>
+                            {personaje.Ataques.map((Ataque) => (
+                              <TableRow key={Ataque.nombreAtaque} >
+                                <TableCell className=" py-2 nombreAtaques" component="th" scope="row">
+                                  {Ataque.nombreAtaque}
+                                </TableCell>
+                                <TableCell className=" py-2" align="right">{Ataque.Animacion.map((animaciondelataque, index) => (
+                                  <img
+                                    className="imgAtaque"
+                                    key={index}
+                                    variant="top"
+                                    src={process.env.PUBLIC_URL + animaciondelataque}
+                                    alt="Error"
+                                  />
+                                ))}</TableCell>
+
+                              </TableRow>
+                            ))}
+                          </TableBody>
+                        </Table>
+                      </TableContainer>
 
 
 
+                    </Col>
+
+
+                    <Col md="4">
+                      <img
+                        key={index}
+                        variant="top"
+                        src={process.env.PUBLIC_URL + personaje.Foto}
+                        alt="Error"
+                      />
+
+
+                    </Col>
+                  </Row>
+
+
+                </Container>
 
 
 
+              </div>
+            );
+          })}
+        </div>
 
-            <TableContainer component={Paper}>
-      <Table className="imgAtaque" >
-        <TableHead>
-          <TableRow>
-            <TableCell>Dessert (100g serving)</TableCell>
-            <TableCell align="right">Calories</TableCell>
-      
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {personaje.Ataques.map((Ataque) => (
-            <TableRow key={Ataque.nombreAtaque}>
-              <TableCell component="th" scope="row">
-                {Ataque.nombreAtaque}
-              </TableCell>
-              <TableCell  align="right">{ Ataque.Animacion.map((animaciondelataque, index) => (
-                <img  
-                  key={index}
-                  variant="top"
-                  src={process.env.PUBLIC_URL + animaciondelataque}
-                  alt="Error"
-                />
-              ))}</TableCell>
-        
-            </TableRow>
-          ))}
-        </TableBody>
-      </Table>
-    </TableContainer>
-
-
-
-
-
-
-
-          <h1>{personaje.Nombre}</h1>
-
-          {personaje.Ataques.map((Ataque) => (
-            <li key={Ataque.nombreAtaque}>
-              {Ataque.nombreAtaque}
-              {Ataque.Animacion.map((animaciondelataque, index) => (
-                <img
-                  key={index}
-                  variant="top"
-                  src={process.env.PUBLIC_URL + animaciondelataque}
-                  alt="Error"
-                />
-              ))}
-            </li>
-          ))}
-            </div>
-          );
-        })}
-      </div>
-    );
       </div>
     );
   }
-} 
+}
 
 export default withRouter(JuegosDetalles);

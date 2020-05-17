@@ -2,7 +2,7 @@
   {
     "Nombre": "ARIZONA",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/Ponys/ARIZONA.png",
+    "Foto": "https://vignette.wikia.nocookie.net/stampede/images/0/0f/Tfh_arizona.png/revision/latest?cb=20180513172943&path-prefix=es",
     "Ataques": [
       {
         "nombreAtaque": "Light",
