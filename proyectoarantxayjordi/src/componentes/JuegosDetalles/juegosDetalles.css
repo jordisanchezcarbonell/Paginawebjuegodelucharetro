@@ -3,32 +3,50 @@
 
 }
 .DivGeneral{
-    background-color: honeydew!important;
+    background-color: white!important;
     color:black;
 }
 .nombreAtaques{
 background-color: rgba(128, 128, 128, 0.438);
 
 }
-.NombrePers{
+.TextoTitulo{
     text-align: left!important;
     min-width: 100%!important;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 4vw;
+    margin-top: 3vw;
+ 
+}
+.rowGlobal{
+text-align: center;
+position: relative;
+
+
+}
+.fotoLogoPonys{
+    margin-left: -10vw;
+
+    margin-top: 2.5vw;
 }
 .fondo1{
   
-   background-color: honeydew;
+   background-color: white;
    height: 10vw;
+   text-align: center;
+   
 
 }
 
 
-.prug{
+.imagenTitulo{
 height: 10vw;
     background-position: right right;
     background-size: 100% 200%!important;
     display: block;
     background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
     background-repeat: no-repeat;
+
 
 }
 .TablaGeneral{

@@ -13,34 +13,29 @@ import data from "../JSON/Personajes.json";
 
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 export class PaginaPrincipal extends Component {
+  
   render() {
+    
     return (
       <div className=" fondo">
         <Router>
 
 
           <div>
-            <ReactBootstrap.Navbar
-              bg="light"
-              expand="lg"
-              className="NavbarBoostrap"
-            >
-
-
-              <ReactBootstrap.Navbar.Brand
-                className="NavBarTitulo"
-                href="/PaginaPrincipal"
-              >
-                Retro Games
+            <ReactBootstrap.Navbar   bg="light" expand="lg"  className="NavbarBoostrap px-0 py-0 navGlobal" >
+              <ReactBootstrap.Navbar.Brand className="NavBarTitulo"   href="/PaginaPrincipal"    >
+              <img src="../../imagenes/Nav/logo2.png" alt="" className="fotoNav" height="110vw">
+                
+                </img>
               </ReactBootstrap.Navbar.Brand>
 
 
-              <ReactBootstrap.Navbar.Brand href="/PaginaJuegos">
+              <ReactBootstrap.Navbar.Brand href="/PaginaJuegos"   className="textonaV w-100">
                 Juegos
               </ReactBootstrap.Navbar.Brand>
               <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
               <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
-                <ReactBootstrap.Nav className="mr-auto">
+                <ReactBootstrap.Nav className="ml-auto textonaV">
 
 
                   <ReactBootstrap.NavDropdown

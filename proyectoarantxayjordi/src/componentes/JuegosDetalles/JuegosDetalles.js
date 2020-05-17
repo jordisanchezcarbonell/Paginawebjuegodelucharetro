@@ -33,6 +33,7 @@ class JuegosDetalles extends React.Component {
 
   render() {
     let comp;
+    const detalles = this.props.location.state.objecto;
 
 
     return (
@@ -41,25 +42,25 @@ class JuegosDetalles extends React.Component {
           Launch demo modal
         </Button> */}
 
+        <div >
+          <Row >
+            <Col md="3" className="fondo1">
+           
+              <img src="../../imagenes/ponys/logo.png" alt="" className="fotoLogoPonys" height="110vw">
+                
+                </img>
+            </Col>
+            <Col md="4" className="fondo1">
+              <h1 className="TextoTitulo">Them`s fightin Herds </h1>
 
-        {/* <button onClick={this.props.history.goBack}>Back</button> */}
-<div >
-        <Row >
-        <Col md="3" className="fondo1">
-        <h1 className="NombrePers">Foto</h1>
+            </Col>
 
-        </Col>
-        <Col md="5" className="fondo1">
-        <h1 className="NombrePers">Them`s fightin Herds </h1>
+            <Col md="5" className="imagenTitulo">
 
-        </Col>
 
-        <Col md="4" className="prug">
-     
+            </Col>
 
-        </Col>
-
-          {/* {juegos.map((juego, index) => {
+            {/* {juegos.map((juego, index) => {
             return (
               <div key={juego.Nombre} className="prueba">
 
@@ -70,30 +71,32 @@ class JuegosDetalles extends React.Component {
               
             );
           })} */}
-        </Row>
+          </Row>
 
-        <Row>
+          <Row>
 
-          <h6 className="NombrePers">Descripcion </h6>
+            <h6 className="NombrePers">Descripcion </h6>
 
-        </Row>
+          </Row>
         </div>
-        <div className="row">
+        <div className="row rowGlobal">
           {ponys.map((personaje, index) => {
             return (
               <div key={personaje.Nombre} className="Personajes">
 
-                <Container>
-                  <Row>
+                <Container className="w-100">
+                  <h1>{personaje.Nombre}</h1>
+                  <Row className="w-100" >
+
                     <Col md="8">
 
                       <TableContainer component={Paper} className="TablaGeneral" >
-                      
+
                         <Table   >
-                     
+
                           <TableHead >
                             <TableRow >
-                              <TableCell  align="center" >Movimiento</TableCell>
+                              <TableCell align="center" >Movimiento</TableCell>
                               <TableCell align="center">Comando</TableCell>
 
                             </TableRow>
