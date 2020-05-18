@@ -27,6 +27,29 @@ class JuegosDetalles extends React.Component {
     super(props);
   }
   streetfighter(detalles, elementoporpasarparametro) {
+    /**
+     * .imagenTitulo{
+height: 10vw;
+    background-position: right right;
+    background-size: 100% 200%!important;
+    display: block;
+    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
+    background-repeat: no-repeat;
+
+
+}
+     */
+    const style = {
+      backgroundPosition: "right right",
+      backgroundSize: "cover",
+
+      display: "block",
+      backgroundImage:
+        "linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(" +
+        detalles.Rooter +
+        ")",
+      backgroundRepeat: "no-repeat",
+    };
     return (
       <div className="DivGeneral">
         {/* <Button variant="primary" onClick={this.handleShow}>
@@ -47,7 +70,7 @@ class JuegosDetalles extends React.Component {
               <h1 className="TextoTitulo">{detalles.Nombre} </h1>
             </Col>
 
-            <Col md="5" className="imagenTitulo"></Col>
+            <Col md="5" style={style}></Col>
 
             {/* {juegos.map((juego, index) => {
             return (

@@ -2,71 +2,85 @@
   {
     "Nombre": "Street Fighter III: 3rd Strike",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Street_Fighter_3rd.jpg"
+    "Foto": "imagenes/Juegos/Street_Fighter_3rd.jpg",
+    "Rooter": "imagenes/imagenesRoster/street-fighter-iii-3rd-strike.jpg"
   },
 
   {
     "Nombre": "Marvel vs Capcom",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/marvel_vs_capcom.jpg"
+    "Foto": "imagenes/Juegos/marvel_vs_capcom.jpg",
+    "Rooter": "imagenes/imagenesRoster/marvel-vs-capcom.png"
   },
   {
     "Nombre": "Them's fightin herds",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
     "Foto": "imagenes/Juegos/logoAPNG-1.png",
-    "render": "ponys"
+    "Rooter": "imagenes/imagenesRoster/pnys.png"
   },
   {
     "Nombre": "Killer Instinct",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/killerinstinc.png"
+    "Foto": "imagenes/Juegos/killerinstinc.png",
+    "Rooter": "imagenes/imagenesRoster/killer_instinct-2513398.jpg"
   },
 
   {
     "Nombre": "Skullgirls",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Skullgirls.png"
+    "Foto": "imagenes/Juegos/Skullgirls.png",
+    "Rooter": "imagenes/imagenesRoster/skull.jpg"
   },
   {
     "Nombre": "UnderNightIn-Birth",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/UnderNightIn-Birth.png"
+    "Foto": "imagenes/Juegos/UnderNightIn-Birth.png",
+    "Rooter": "imagenes/imagenesRoster/pjs.png"
   },
 
   {
     "Nombre": "Dragon Ball Fighter Z",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/DragonBallFighterZ.png"
+    "Foto": "imagenes/Juegos/DragonBallFighterZ.png",
+
+    "Rooter": "imagenes/imagenesRoster/dragonball.jpg"
   },
   {
     "Nombre": "Tekken 7",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Tekken7.png"
+    "Foto": "imagenes/Juegos/Tekken7.png",
+    "Rooter": "imagenes/imagenesRoster/tekken.jpg"
   },
   {
     "Nombre": "Super Smash Bros. Ultimate",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/SuperSmashBros.png"
+    "Foto": "imagenes/Juegos/SuperSmashBros.png",
+    "Rooter": "imagenes/imagenesRoster/super_smash.jpg"
   },
   {
     "Nombre": "Soulcalibur VI",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Soulcalibur.png"
+    "Foto": "imagenes/Juegos/Soulcalibur.png",
+    "Rooter": "imagenes/imagenesRoster/soulcaliburport.jpg"
   },
   {
     "Nombre": "Street Fighter V Champion Edition",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/StreetFighterV.png"
+    "Foto": "imagenes/Juegos/StreetFighterV.png",
+    "Rooter": "imagenes/imagenesRoster/street-fighter-v.jpg"
   },
 
   {
     "Nombre": "Granblue Fantasy Versus",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Granblue_Fantasy_Versus_logo.png"
+    "Foto": "imagenes/Juegos/Granblue_Fantasy_Versus_logo.png",
+    "Rooter": "imagenes/imagenesRoster/granblue.png"
   },
   {
     "Nombre": "Mortal Kombat 11",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Mortal_Kombat_11_cover_art.png"
+    "Foto": "imagenes/Juegos/Mortal_Kombat_11_cover_art.png",
+
+    "Rooter": "imagenes/imagenesRoster/mortalcombat.jpg"
   }
 ]
