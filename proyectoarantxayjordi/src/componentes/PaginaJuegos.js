@@ -25,6 +25,7 @@ export class PaginaJuegos extends Component {
                     to={{
                       pathname: "/juegosDetalles",
                       state: {
+                        prueba:juego,
                         visible: juego.Nombre,
                       },
                     }}

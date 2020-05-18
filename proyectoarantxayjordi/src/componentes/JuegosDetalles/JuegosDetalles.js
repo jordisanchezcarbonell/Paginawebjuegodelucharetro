@@ -1,64 +1,53 @@
 import React, { useState } from "react";
-import { makeStyles } from '@material-ui/core/styles';
-import Table from '@material-ui/core/Table';
-import TableBody from '@material-ui/core/TableBody';
-import TableCell from '@material-ui/core/TableCell';
-import TableContainer from '@material-ui/core/TableContainer';
-import TableHead from '@material-ui/core/TableHead';
-import TableRow from '@material-ui/core/TableRow';
-import Paper from '@material-ui/core/Paper';
+import { makeStyles } from "@material-ui/core/styles";
+import Table from "@material-ui/core/Table";
+import TableBody from "@material-ui/core/TableBody";
+import TableCell from "@material-ui/core/TableCell";
+import TableContainer from "@material-ui/core/TableContainer";
+import TableHead from "@material-ui/core/TableHead";
+import TableRow from "@material-ui/core/TableRow";
+import Paper from "@material-ui/core/Paper";
 import { StyleSheet, Text, View } from "react";
-import { Container, Row, Col } from 'reactstrap';
+import { Container, Row, Col } from "reactstrap";
 
-import './juegosDetalles.css';
-
-
-
+import "./juegosDetalles.css";
+import killerinstinct from "../../JSON/KillerInstinct.json";
+import Skullgirls from "../../JSON/SkullGirls.json";
+import Juegos from "../../JSON/juegos.json";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import ponys from "../../JSON/ponys.json";
 import juegos from "../../JSON/juegos.json";
-
+import data from "../../JSON/Personajes.json";
+import MARVEL from "../../JSON/Marvel.json";
 import { BrowserRouter, Route, Link } from "react-router-dom";
-
-
-
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
     super(props);
-
   }
-
-
-  render() {
-    let comp;
-    const detalles = this.props.location.state.objecto;
-
-
+  streetfighter(detalles, elementoporpasarparametro) {
     return (
       <div className="DivGeneral">
         {/* <Button variant="primary" onClick={this.handleShow}>
           Launch demo modal
         </Button> */}
 
-        <div >
-          <Row >
+        <div>
+          <Row>
             <Col md="3" className="fondo1">
-           
-              <img src="../../imagenes/ponys/logo.png" alt="" className="fotoLogoPonys" height="110vw">
-                
-                </img>
+              <img
+                src={process.env.PUBLIC_URL + detalles.Foto}
+                alt=""
+                className="fotoLogoPonys"
+                height="110vw"
+              ></img>
             </Col>
             <Col md="4" className="fondo1">
-              <h1 className="TextoTitulo">Them`s fightin Herds </h1>
-
+              <h1 className="TextoTitulo">{detalles.Nombre} </h1>
             </Col>
 
-            <Col md="5" className="imagenTitulo">
-
-
-            </Col>
+            <Col md="5" className="imagenTitulo"></Col>
 
             {/* {juegos.map((juego, index) => {
             return (
@@ -74,59 +63,62 @@ class JuegosDetalles extends React.Component {
           </Row>
 
           <Row>
-
             <h6 className="NombrePers">Descripcion </h6>
-
           </Row>
         </div>
         <div className="row rowGlobal">
-          {ponys.map((personaje, index) => {
+          {elementoporpasarparametro.map((personaje, index) => {
             return (
               <div key={personaje.Nombre} className="Personajes">
-
                 <Container className="w-100">
                   <h1>{personaje.Nombre}</h1>
-                  <Row className="w-100" >
-
+                  <Row className="w-100">
                     <Col md="8">
-
-                      <TableContainer component={Paper} className="TablaGeneral" >
-
-                        <Table   >
-
-                          <TableHead >
-                            <TableRow >
-                              <TableCell align="center" >Movimiento</TableCell>
+                      <TableContainer
+                        component={Paper}
+                        className="TablaGeneral"
+                      >
+                        <Table>
+                          <TableHead>
+                            <TableRow>
+                              <TableCell align="center">Movimiento</TableCell>
                               <TableCell align="center">Comando</TableCell>
-
                             </TableRow>
                           </TableHead>
                           <TableBody>
                             {personaje.Ataques.map((Ataque) => (
-                              <TableRow key={Ataque.nombreAtaque} >
-                                <TableCell className=" py-2 nombreAtaques" component="th" scope="row">
+                              <TableRow key={Ataque.nombreAtaque}>
+                                <TableCell
+                                  className=" py-2 nombreAtaques"
+                                  component="th"
+                                  scope="row"
+                                >
                                   {Ataque.nombreAtaque}
                                 </TableCell>
-                                <TableCell className=" py-2" align="right">{Ataque.Animacion.map((animaciondelataque, index) => (
-                                  <img
-                                    className="imgAtaque"
-                                    key={index}
-                                    variant="top"
-                                    src={process.env.PUBLIC_URL + animaciondelataque}
-                                    alt="Error"
-                                  />
-                                ))}</TableCell>
-
+                                {/*
+                                  <TableCell className=" py-2" align="right">
+                                    {Ataque.Animacion.map(
+                                      (animaciondelataque, index) => (
+                                        <img
+                                          className="imgAtaque"
+                                          key={index}
+                                          variant="top"
+                                          src={
+                                            process.env.PUBLIC_URL +
+                                            animaciondelataque
+                                          }
+                                          alt="Error"
+                                        />
+                                      )
+                                    )}
+                                  </TableCell>
+                                        */}
                               </TableRow>
                             ))}
                           </TableBody>
                         </Table>
                       </TableContainer>
-
-
-
                     </Col>
-
 
                     <Col md="4">
                       <img
@@ -135,23 +127,36 @@ class JuegosDetalles extends React.Component {
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         alt="Error"
                       />
-
-
                     </Col>
                   </Row>
-
-
                 </Container>
-
-
-
               </div>
             );
           })}
         </div>
-
       </div>
     );
+  }
+
+  render() {
+    let comp;
+    const detalles = this.props.location.state.prueba;
+    console.log(detalles);
+    let prueba = Juegos;
+    console.log(prueba[0].Nombre);
+    let mostrarvalor = this.props.location.state.visible;
+    if (detalles.Nombre === prueba[0].Nombre) {
+      return this.streetfighter(detalles, data);
+    } else if (detalles.Nombre === prueba[2].Nombre) {
+      return this.streetfighter(detalles, ponys);
+    } else if (detalles.Nombre === prueba[3].Nombre) {
+      return this.streetfighter(detalles, killerinstinct);
+    } else if (detalles.Nombre === prueba[4].Nombre) {
+      return this.streetfighter(detalles, Skullgirls);
+    } else {
+      return this.streetfighter(detalles, MARVEL);
+    }
+    debugger;
   }
 }
 

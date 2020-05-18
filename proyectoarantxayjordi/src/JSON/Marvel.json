@@ -24,16 +24,13 @@
     "Foto": "imagenes/Principales/ken.jpg",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
       }
     ]
   }
