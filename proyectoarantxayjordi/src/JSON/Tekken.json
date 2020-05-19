@@ -1,0 +1,4308 @@
+[
+  {
+    "Nombre": "Leroy",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/PersonajesTekken7/Leroy-smith.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Light",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Medium",
+        "Animacion": ["imagenes/imagenesataques/Medium.png"]
+      },
+      {
+        "nombreAtaque": "Heavy",
+        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
+      },
+      {
+        "nombreAtaque": "Magic",
+        "Animacion": ["imagenes/imagenesataques/Magic.png"]
+      },
+      {
+        "nombreAtaque": "Launcher",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_right.png",
+          "imagenes/imagenesataques/Heavy.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Right",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Left",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Foward",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Backwards",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Escape",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Pushblock",
+        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
+      },
+      {
+        "nombreAtaque": "Cross Counter",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Attack_2.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Recovery",
+        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
+      },
+      {
+        "nombreAtaque": "Dodge",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roll",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_left.png",
+          "imagenes/imagenesataques/Down.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ELBOW DROP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "MAGIC DASH",
+        "Animacion": [
+          "imagenes/imagenesataques/HCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "COUNTER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – TRAMPLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – REBOUND",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akuma",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/PersonajesTekken7/akuma.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Light",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Medium",
+        "Animacion": ["imagenes/imagenesataques/Medium.png"]
+      },
+      {
+        "nombreAtaque": "Heavy",
+        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
+      },
+      {
+        "nombreAtaque": "Magic",
+        "Animacion": ["imagenes/imagenesataques/Magic.png"]
+      },
+      {
+        "nombreAtaque": "Launcher",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_right.png",
+          "imagenes/imagenesataques/Heavy.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Right",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Left",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Foward",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Backwards",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Escape",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Pushblock",
+        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
+      },
+      {
+        "nombreAtaque": "Cross Counter",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Attack_2.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Recovery",
+        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
+      },
+      {
+        "nombreAtaque": "Dodge",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roll",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_left.png",
+          "imagenes/imagenesataques/Down.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ELBOW DROP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "MAGIC DASH",
+        "Animacion": [
+          "imagenes/imagenesataques/HCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "COUNTER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – TRAMPLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – REBOUND",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Geese Howard",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Geese_Howard.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "SLIDE",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "ICICLE MISSILE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, LOW",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, MID",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, HIGH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "INSTANT SNOWBALL",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "SNOWBALL TOSS",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "WIND",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Steve",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Steve_Fox.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "SLIDE",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "ICICLE MISSILE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, LOW",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, MID",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, HIGH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "INSTANT SNOWBALL",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "SNOWBALL TOSS",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "WIND",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Paul",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Paul_Phoenix.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "DOOM CLAW",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SMITE",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHADOW SPARK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "CHAPTER TRAP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "STUDY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC SPARK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC TRAP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – SHADOW BLAST",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – HI, FRED!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Jin_Kazama.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "BACK RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleLeft.png"]
+      },
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "CARTWHEEL HOLD",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ZIPPY TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "KISS!",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GIFT, RANDOM",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "GIFT, FLOWER POT",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GIFT, EDIBLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "KISS!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – SMOTHER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png",
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Law",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Marshall_Law.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "SHEEP HERDING",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BARK!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GROWLY PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "PILOT PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BIG MOMMA",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RALLY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG MOVEMENT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DISMISS DOG",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  1 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  2 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  3 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – STAMPEDE!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Devil Jin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Devil_Jin.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "SHEEP HERDING",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BARK!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GROWLY PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "PILOT PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BIG MOMMA",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RALLY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG MOVEMENT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DISMISS DOG",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  1 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  2 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  3 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – STAMPEDE!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ganryu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Ganryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kazuya",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Kazuya_Mishima.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kazumi",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/kazumi.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "King",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/King_II.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zafina",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Zafina.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Dragunov",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Sergei_Dragunov.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hwoarang",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Hwoarang.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lee",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Lee.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Claudio",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/claudio.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Alisa",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Alisa_Bosconovitch.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Julia",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Julia.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fahkumram",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Fahkumram.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Master Raven",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/PersonajesTekken7/Master_Raven.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Light",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Medium",
+        "Animacion": ["imagenes/imagenesataques/Medium.png"]
+      },
+      {
+        "nombreAtaque": "Heavy",
+        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
+      },
+      {
+        "nombreAtaque": "Magic",
+        "Animacion": ["imagenes/imagenesataques/Magic.png"]
+      },
+      {
+        "nombreAtaque": "Launcher",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_right.png",
+          "imagenes/imagenesataques/Heavy.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Right",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Left",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Foward",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Backwards",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Escape",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Pushblock",
+        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
+      },
+      {
+        "nombreAtaque": "Cross Counter",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Attack_2.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Recovery",
+        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
+      },
+      {
+        "nombreAtaque": "Dodge",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roll",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_left.png",
+          "imagenes/imagenesataques/Down.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ELBOW DROP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "MAGIC DASH",
+        "Animacion": [
+          "imagenes/imagenesataques/HCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "COUNTER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – TRAMPLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – REBOUND",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Marduk",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Marduk.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "SLIDE",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "ICICLE MISSILE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, LOW",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, MID",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, HIGH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "INSTANT SNOWBALL",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "SNOWBALL TOSS",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "WIND",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jack-7",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Jack-7.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "SLIDE",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "ICICLE MISSILE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, LOW",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, MID",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHATTER, HIGH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "INSTANT SNOWBALL",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "SNOWBALL TOSS",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "WIND",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Xiaoyu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Ling_Xiaoyu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "DOOM CLAW",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SMITE",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SHADOW SPARK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "CHAPTER TRAP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "STUDY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC SPARK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC TRAP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – SHADOW BLAST",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – HI, FRED!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Bryan",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Bryan_fury.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "BACK RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleLeft.png"]
+      },
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "CARTWHEEL HOLD",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ZIPPY TELEPORT",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "KISS!",
+        "Animacion": [
+          "imagenes/imagenesataques/DPF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GIFT, RANDOM",
+        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
+      },
+      {
+        "nombreAtaque": "GIFT, FLOWER POT",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GIFT, EDIBLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "KISS!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – SMOTHER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png",
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Bob",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Bob.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "SHEEP HERDING",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BARK!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GROWLY PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "PILOT PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BIG MOMMA",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RALLY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG MOVEMENT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DISMISS DOG",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  1 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  2 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  3 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – STAMPEDE!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Negan",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Negan.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "SHEEP HERDING",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BARK!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_A.png"
+        ]
+      },
+      {
+        "nombreAtaque": "GROWLY PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "PILOT PUP",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BIG MOMMA",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RALLY",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG MOVEMENT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DISMISS DOG",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  1 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  2 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "DOG ATTACKS  3 attack",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – STAMPEDE!",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shaheen",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Shaheen.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Anna",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/anna_williams.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lucky Chloe",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Lucky_Chloe.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Heihachi",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Heihachi_Mishima.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Josie",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Josie.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nina",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Nina_Williams.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Katarina",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Katarina.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kuma",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Kuma.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lili",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Emilie_De_Rochefort.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Panda",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/panda.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Feng",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Fen_Wei.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Noctis",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Noctis.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Eliza",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Eliza_Render.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Miguel",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Miguel_Caballero.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Armor King",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/armor_king.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lei",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Lei_Wulong.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Leo",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Leo_Kliesen.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eddy",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/eddy_Gordo.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Asuka",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Asuma_Kazama.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lars",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Lars.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gigas",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/gigas.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yoshimitsu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesTekken7/Yoshimitsu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "AIR DASH",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "VOLCANIC ASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_A.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC BASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_B.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "VOLCANIC CRASH",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FLIGHT",
+        "Animacion": [
+          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/imagenesataques/AIROK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER ATTACK",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Directions_UpRight.png",
+          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "FIRECRACKER FLIP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DownLeft.png",
+          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  }
+]
