@@ -20,6 +20,8 @@ import ponys from "../../JSON/ponys.json";
 import juegos from "../../JSON/juegos.json";
 import data from "../../JSON/Personajes.json";
 import MARVEL from "../../JSON/Marvel.json";
+import Dragonball from "../../JSON/DragonBall.json";
+
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
 class JuegosDetalles extends React.Component {
@@ -176,6 +178,8 @@ height: 10vw;
       return this.streetfighter(detalles, killerinstinct);
     } else if (detalles.Nombre === prueba[4].Nombre) {
       return this.streetfighter(detalles, Skullgirls);
+    } else if (detalles.Nombre === prueba[6].Nombre) {
+      return this.streetfighter(detalles, Dragonball);
     } else {
       return this.streetfighter(detalles, MARVEL);
     }

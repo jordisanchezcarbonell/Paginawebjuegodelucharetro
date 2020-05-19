@@ -1,8 +1,8 @@
 [
   {
-    "Nombre": "Sentinel",
+    "Nombre": "Bardock",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Sentinel.jpg",
+    "Foto": "imagenes/PersonajesBD/bardock.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -19,9 +19,9 @@
     ]
   },
   {
-    "Nombre": "Storm",
+    "Nombre": "Kid Buu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Storm.jpg",
+    "Foto": "imagenes/PersonajesBD/kid_buu.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -35,9 +35,9 @@
     ]
   },
   {
-    "Nombre": "Cable",
+    "Nombre": "GT Goku",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Cable.jpg",
+    "Foto": "imagenes/PersonajesBD/goku-gt.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -54,9 +54,9 @@
     ]
   },
   {
-    "Nombre": "Magneto",
+    "Nombre": "Adult Gohan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Magneto.jpg",
+    "Foto": "imagenes/PersonajesBD/gohan_adulto.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -70,9 +70,9 @@
     ]
   },
   {
-    "Nombre": "Cyclops",
+    "Nombre": "Cell",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Cyclops.jpg",
+    "Foto": "imagenes/PersonajesBD/celula.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -89,9 +89,9 @@
     ]
   },
   {
-    "Nombre": "Iron Man",
+    "Nombre": "Teen Gohan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Iron-Man.jpg",
+    "Foto": "imagenes/PersonajesBD/gohan_joven.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -105,9 +105,9 @@
     ]
   },
   {
-    "Nombre": "War Machine",
+    "Nombre": "Gogeta",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/War_machine.jpg",
+    "Foto": "imagenes/PersonajesBD/gogeta.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -124,9 +124,9 @@
     ]
   },
   {
-    "Nombre": "Doctor Doom",
+    "Nombre": "Videl",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
+    "Foto": "imagenes/PersonajesBD/Videl.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -140,9 +140,9 @@
     ]
   },
   {
-    "Nombre": "Strider",
+    "Nombre": "Android 21",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
+    "Foto": "imagenes/PersonajesBD/androide_21.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -159,9 +159,9 @@
     ]
   },
   {
-    "Nombre": "Spiral",
+    "Nombre": "Vegeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Spiral.jpg",
+    "Foto": "imagenes/PersonajesBD/vegeta.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -175,9 +175,9 @@
     ]
   },
   {
-    "Nombre": "Dhalsim",
+    "Nombre": "Gotenks",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Dhalsim.jpg",
+    "Foto": "imagenes/PersonajesBD/gotenks.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -194,9 +194,9 @@
     ]
   },
   {
-    "Nombre": "Blackheart",
+    "Nombre": "Goku Black",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Blackheart.jpg",
+    "Foto": "imagenes/PersonajesBD/goku_black.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -210,9 +210,9 @@
     ]
   },
   {
-    "Nombre": "Psylocke",
+    "Nombre": "Vegito",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Psylocke.jpg",
+    "Foto": "imagenes/PersonajesBD/vegetto.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -226,9 +226,9 @@
     ]
   },
   {
-    "Nombre": "Captain Commando",
+    "Nombre": "Base Vegeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
+    "Foto": "imagenes/PersonajesBD/vegeta_base.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -242,9 +242,9 @@
     ]
   },
   {
-    "Nombre": "Tron Bonne",
+    "Nombre": "Goku",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
+    "Foto": "imagenes/PersonajesBD/goku.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -258,9 +258,9 @@
     ]
   },
   {
-    "Nombre": "Ruby Heart",
+    "Nombre": "Android 16",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
+    "Foto": "imagenes/PersonajesBD/Numero_16.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -274,9 +274,9 @@
     ]
   },
   {
-    "Nombre": "Omega Red",
+    "Nombre": "Trunks",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Omega_red.jpg",
+    "Foto": "imagenes/PersonajesBD/trunks.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -290,9 +290,9 @@
     ]
   },
   {
-    "Nombre": "Colossus",
+    "Nombre": "Piccolo",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Colossus.jpg",
+    "Foto": "imagenes/PersonajesBD/piccolo.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -306,9 +306,9 @@
     ]
   },
   {
-    "Nombre": "Juggernaut",
+    "Nombre": "Fused Zamasu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Juggernaut.jpg",
+    "Foto": "imagenes/PersonajesBD/zamas.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -322,9 +322,9 @@
     ]
   },
   {
-    "Nombre": "Rogue",
+    "Nombre": "Blue Goku",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Rogue.jpg",
+    "Foto": "imagenes/PersonajesBD/goku_ssb.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -338,9 +338,9 @@
     ]
   },
   {
-    "Nombre": "Cammy",
+    "Nombre": "Kefla",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Cammy.jpg",
+    "Foto": "imagenes/PersonajesBD/Kefla.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -354,9 +354,9 @@
     ]
   },
   {
-    "Nombre": "Mega Man",
+    "Nombre": "Super Broly",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Mega_man.jpg",
+    "Foto": "imagenes/PersonajesBD/broly.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -370,9 +370,9 @@
     ]
   },
   {
-    "Nombre": "Guile",
+    "Nombre": "Tien",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Guile.jpg",
+    "Foto": "imagenes/PersonajesBD/tenshinhan.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -386,9 +386,9 @@
     ]
   },
   {
-    "Nombre": "Anakaris",
+    "Nombre": "Hit",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Anakaris.png",
+    "Foto": "imagenes/PersonajesBD/hit.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -402,9 +402,9 @@
     ]
   },
   {
-    "Nombre": "Silver Samurai",
+    "Nombre": "Base Goku",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Silver_samurai.jpg",
+    "Foto": "imagenes/PersonajesBD/goku_base.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -418,9 +418,9 @@
     ]
   },
   {
-    "Nombre": "Marrow",
+    "Nombre": "Yamcha",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Marrow.jpg",
+    "Foto": "imagenes/PersonajesBD/yamcha.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -434,9 +434,9 @@
     ]
   },
   {
-    "Nombre": "Gambit",
+    "Nombre": "Janemba",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Gambit.jpg",
+    "Foto": "imagenes/PersonajesBD/janemba.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -450,9 +450,9 @@
     ]
   },
   {
-    "Nombre": "Iceman",
+    "Nombre": "Frieza",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Iceman.jpg",
+    "Foto": "imagenes/PersonajesBD/freezer.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -466,9 +466,9 @@
     ]
   },
   {
-    "Nombre": "Spiderman",
+    "Nombre": "Cooler",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Spiderman.jpg",
+    "Foto": "imagenes/PersonajesBD/cooler.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -482,9 +482,9 @@
     ]
   },
   {
-    "Nombre": "Wolverine - Bone",
+    "Nombre": "Broly",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Wolverine.jpg",
+    "Foto": "imagenes/PersonajesBD/broly.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -498,9 +498,9 @@
     ]
   },
   {
-    "Nombre": "Wolverine - Claw",
+    "Nombre": "Jiren",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Wolverine.jpg",
+    "Foto": "imagenes/PersonajesBD/Jiren.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -514,9 +514,9 @@
     ]
   },
   {
-    "Nombre": "Venom",
+    "Nombre": "Android 18",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Venom.jpg",
+    "Foto": "imagenes/PersonajesBD/androide_18.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -530,9 +530,9 @@
     ]
   },
   {
-    "Nombre": "B.B. Hood",
+    "Nombre": "Beerus",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Bb_hood.jpg",
+    "Foto": "imagenes/PersonajesBD/beerus.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -546,9 +546,9 @@
     ]
   },
   {
-    "Nombre": "Sakura",
+    "Nombre": "Majin Buu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Sakura.jpg",
+    "Foto": "imagenes/PersonajesBD/majin_buu.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -562,9 +562,9 @@
     ]
   },
   {
-    "Nombre": "Sonson",
+    "Nombre": "Captain Ginyu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Sonson.jpg",
+    "Foto": "imagenes/PersonajesBD/ginyu.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -578,9 +578,9 @@
     ]
   },
   {
-    "Nombre": "Akuma",
+    "Nombre": "Blue Vegeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Akuma.jpg",
+    "Foto": "imagenes/PersonajesBD/vegetta_SSB.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -594,9 +594,9 @@
     ]
   },
   {
-    "Nombre": "Ken",
+    "Nombre": "Android 17",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Ken.jpg",
+    "Foto": "imagenes/PersonajesBD/androide_17.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -610,9 +610,9 @@
     ]
   },
   {
-    "Nombre": "Ryu",
+    "Nombre": "Krillin",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Ryu.jpg",
+    "Foto": "imagenes/PersonajesBD/krilin.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -626,9 +626,9 @@
     ]
   },
   {
-    "Nombre": "Charlie",
+    "Nombre": "Nappa",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Charlie.jpg",
+    "Foto": "imagenes/PersonajesBD/nappa.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -642,265 +642,9 @@
     ]
   },
   {
-    "Nombre": "M.Bison",
+    "Nombre": "Goku Ultra Instinct",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/M.Bison.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Captain America",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Captitan_America.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Hulk",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Hulk.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Jin",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Jin.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Jill",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Jill.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Felicia",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Felicia.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Morrigan",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Morrigan.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Zangief",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Zangief.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Amingo",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Amingo.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Chun-Li",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Chun-li.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Hayato",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Hayato.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Sabretooth",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Sabretooth.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Shuma-Gorath",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Shuma-Gorath.png",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Thanos",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Thanos.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Dan",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Dan.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Kobun",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Kobun.jpg",
-    "Ataques": [
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Roll",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Roll.jpg",
+    "Foto": "imagenes/PersonajesBD/Goku_UltraInstinct.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",

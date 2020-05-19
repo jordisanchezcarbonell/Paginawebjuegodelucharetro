@@ -2,7 +2,7 @@
   {
     "Nombre": "Eliza",
     "Descripcion": "Eliza .",
-    "Foto": "imagenes/Skullgirls/eliza.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Eliza.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -21,7 +21,7 @@
   {
     "Nombre": "Peacock",
     "Descripcion": "Peacock",
-    "Foto": "imagenes/Skullgirls/peacock.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Peacock.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -40,7 +40,7 @@
   {
     "Nombre": "Fukua",
     "Descripcion": "Fukua",
-    "Foto": "imagenes/Skullgirls/fukua.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Fukua.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -59,7 +59,7 @@
   {
     "Nombre": "Cerebella",
     "Descripcion": "Cerebella",
-    "Foto": "imagenes/Skullgirls/cerebella.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Cerebella.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -78,7 +78,7 @@
   {
     "Nombre": "Ms. Fortune",
     "Descripcion": "Ms. Fortune",
-    "Foto": "imagenes/Skullgirls/ms_fortune.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Ms._Fortune.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -97,7 +97,7 @@
   {
     "Nombre": "Beowulf",
     "Descripcion": "Beowulf",
-    "Foto": "imagenes/Skullgirls/beowulf.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Beowulf.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -117,7 +117,7 @@
   {
     "Nombre": "Filia",
     "Descripcion": "Filia .",
-    "Foto": "imagenes/Skullgirls/filia.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Filia.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -136,7 +136,7 @@
   {
     "Nombre": "Valentine",
     "Descripcion": "Valentine",
-    "Foto": "imagenes/Skullgirls/valentine.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Valentine.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -155,7 +155,7 @@
   {
     "Nombre": "Double",
     "Descripcion": "Double",
-    "Foto": "imagenes/Skullgirls/double.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Double.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -174,7 +174,7 @@
   {
     "Nombre": "Robo-Fortune",
     "Descripcion": "Robo-Fortune",
-    "Foto": "imagenes/Skullgirls/robo-fortune.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Robo-Fortune.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -193,7 +193,7 @@
   {
     "Nombre": "Big Band",
     "Descripcion": "Big Band",
-    "Foto": "imagenes/Skullgirls/bigband.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Big_Band.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -212,7 +212,7 @@
   {
     "Nombre": "Parasoul",
     "Descripcion": "Parasoul",
-    "Foto": "imagenes/Skullgirls/parasoul.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Parasoul.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -231,7 +231,7 @@
   {
     "Nombre": "Squigly",
     "Descripcion": "Squigly",
-    "Foto": "imagenes/Skullgirls/squigly.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Squigly.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -250,7 +250,7 @@
   {
     "Nombre": "Painwheel",
     "Descripcion": "Painwheel",
-    "Foto": "imagenes/Skullgirls/painwheel.png",
+    "Foto": "imagenes/PersonajesSkullGirls/Painwheel.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
