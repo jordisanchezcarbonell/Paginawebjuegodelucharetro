@@ -1,0 +1,1950 @@
+{
+    "Nombre": "Ice Climbers",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/chaos.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Bowser",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Seth.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Pit / Dark Pit",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/nanase.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Villager",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/akatsuki.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Duck Hunt",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Carmine.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Wii Fit Trainer",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Yuzuriha.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Ridley",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Mika.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Incineroar",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/linne.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Robin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/enkidu.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Mii Gunner",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Merkava.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Piranha Plant",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/chaos.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Isabelle",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Seth.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Bayonetta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/nanase.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Mii Swordfighter",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/akatsuki.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Mii Brawler",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Carmine.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Corrin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Yuzuriha.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Jigglypuff",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Mika.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "King Dedede",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/linne.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Kirby",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/enkidu.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Donkey Kong",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/nanase.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "King K. Rool",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/akatsuki.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Ganondorf",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Carmine.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Dr. Mario",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Yuzuriha.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Bowser Jr.",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/Mika.jpg",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+},
+{
+    "Nombre": "Little Mac",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesUnderNight/linne.png",
+    "Ataques": [
+        {
+            "nombreAtaque": "AIR DASH",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DoubleRight.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC ASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_A.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC BASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_B.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "VOLCANIC CRASH",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/Button_C.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FLIGHT",
+            "Animacion": [
+                "imagenes/imagenesataques/Button_D.png",
+                "imagenes/imagenesataques/AIROK.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER ATTACK",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_Down.png",
+                "imagenes/imagenesataques/Directions_DownRight.png",
+                "imagenes/imagenesataques/Directions_Right.png",
+                "imagenes/imagenesataques/Directions_UpRight.png",
+                "imagenes/imagenesataques/Directions_Up.png",
+                "imagenes/imagenesataques/Button_D.png"
+            ]
+        },
+        {
+            "nombreAtaque": "FIRECRACKER FLIP",
+            "Animacion": [
+                "imagenes/imagenesataques/Directions_DownLeft.png",
+                "imagenes/imagenesataques/Directions_Left.png",
+                "imagenes/imagenesataques/Directions_UpLeft.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 1 – MEN SHAO TI",
+            "Animacion": [
+                "imagenes/imagenesataques/QCF.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        },
+        {
+            "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+            "Animacion": [
+                "imagenes/imagenesataques/QCB.png",
+                "imagenes/imagenesataques/DoubleAtk.png"
+            ]
+        }
+    ]
+}
