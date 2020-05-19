@@ -655,7 +655,7 @@
         ]
       },
       {
-        "nombreAtaque": "KISS!",
+        "nombreAtaque": "KISS5!",
         "Animacion": [
           "imagenes/imagenesataques/Directions_Left.png",
           "imagenes/imagenesataques/Button_D.png"
@@ -2319,7 +2319,7 @@
         ]
       },
       {
-        "nombreAtaque": "KISS!",
+        "nombreAtaque": "KISS2!",
         "Animacion": [
           "imagenes/imagenesataques/DPF.png",
           "imagenes/imagenesataques/Atk.png"
@@ -2344,7 +2344,7 @@
         ]
       },
       {
-        "nombreAtaque": "KISS!",
+        "nombreAtaque": "KISS3!",
         "Animacion": [
           "imagenes/imagenesataques/Directions_Left.png",
           "imagenes/imagenesataques/Button_D.png"

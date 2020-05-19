@@ -1,0 +1,271 @@
+[
+  {
+    "Nombre": "Ferry",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/PersonajesGranBlue/Ferry.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Katalina",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/katalina.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Metera",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/metera.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Lancelot",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/lancelot.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Gran",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Gran.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Zooey",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Zooey.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Djeeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Djeeta.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Beelzebubn",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Beelzebub.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Percival",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Percival.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Charlotta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Charlotta.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Zeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Zeta.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Lowain",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Lowain.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Narmaya",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/narmaya.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Soriz",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Soriz.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Ladiva",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/ladiva.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Vaseraga",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesGranBlue/Vaseraga.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  }
+]
