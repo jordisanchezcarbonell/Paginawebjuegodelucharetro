@@ -1,6 +1,6 @@
 [
   {
-    "Nombre": "ARANTAAAAA",
+    "Nombre": "Sentinel",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/Principales/ryu.jpg",
     "Ataques": [
@@ -19,7 +19,886 @@
     ]
   },
   {
-    "Nombre": "JORDIII",
+    "Nombre": "Storm",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cable",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Magneto",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cyclops",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Iron Man",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "War Machine",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Doctor Doom",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Strider",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Spiral",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Dhalsim",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/Principales/ryu.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Blackheart",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Psylocke",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Captain Commando",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tron Bonne",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ruby Heart",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Omega Red",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Colossus",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Juggernaut",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Rogue",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cammy",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mega Man",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Guile",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Anakaris",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Silver Samurai",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Marrow",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gambit",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Iceman",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Spiderman",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Wolverine - Bone",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Wolverine - Claw",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Venom",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "B.B. Hood",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sakura",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sonson",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akuma",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ken",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ryu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Charlie",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "M.Bison",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Captain America",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hulk",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jill",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Felicia",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Morrigan",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zangief",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Amingo",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Chun-Li",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hayato",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sabretooth",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shuma-Gorath",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Thanos",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Dan",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kobun",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/Principales/ken.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Roll",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/Principales/ken.jpg",
     "Ataques": [
