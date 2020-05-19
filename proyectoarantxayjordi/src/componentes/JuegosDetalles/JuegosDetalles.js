@@ -24,6 +24,8 @@ import Dragonball from "../../JSON/DragonBall.json";
 import UnderNight from "../../JSON/UnderNight.json";
 import TEKKEN from "../../JSON/Tekken.json";
 import SSBU from "../../JSON/SSBU.json";
+import SoulCalibur from "../../JSON/SoulCalibur.json";
+import Granblue from "../../JSON/GranBlue.json";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -189,6 +191,10 @@ height: 10vw;
       return this.streetfighter(detalles, TEKKEN);
     } else if (detalles.Nombre === prueba[8].Nombre) {
       return this.streetfighter(detalles, SSBU);
+    } else if (detalles.Nombre === prueba[9].Nombre) {
+      return this.streetfighter(detalles, SoulCalibur);
+    } else if (detalles.Nombre === prueba[11].Nombre) {
+      return this.streetfighter(detalles, Granblue);
     } else {
       return this.streetfighter(detalles, MARVEL);
     }

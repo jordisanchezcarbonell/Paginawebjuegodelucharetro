@@ -1,0 +1,381 @@
+[
+  {
+    "Nombre": "Ivy",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/PersonajesSoulCalibur/Ivy.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Nightmare",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Nightmare.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "Jordi",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+  {
+    "Nombre": "Geralt",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Geralt.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      },
+      {
+        "nombreAtaque": "ALBERT",
+        "Animacion": "SANCHEZ"
+      },
+      {
+        "nombreAtaque": "THEBEST",
+        "Animacion": "YOU"
+      }
+    ]
+  },
+
+  {
+    "Nombre": "2B",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/2B.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Groh",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Groh.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Seong Mi-na",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Seong_Mi-na.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Azwel",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Azwel.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Cassandra",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Cassandra.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Sophitia",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/sopjhitia.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Yoshimitsu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Yoshimitsu.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Siegfried",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Siegfried.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Haohmaru",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/haohmaru.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Hilde",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/hilde.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Amy",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Amy.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Voldo",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Voldo.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kilik",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Kilik.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Zasalamel",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Zasalamel.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Raphael",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Raphael.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Cervantes",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Cervantes.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Tira",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Tira.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Maxi",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Maxi.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Xianghua",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Xianghua.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Mitsurugi",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Mitsurugi.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Taki",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Taki.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Talim",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Talim.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Astaroth",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesSoulCalibur/Astaroth.jpg",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  }
+]
