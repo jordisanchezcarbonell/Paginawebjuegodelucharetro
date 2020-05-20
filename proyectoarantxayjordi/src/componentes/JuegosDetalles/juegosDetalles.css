@@ -1,12 +1,13 @@
-.imgAtaque{
-    height:  1.6vw!important;
+.imgAtaque {
+    height: 1.6vw !important;
 
 }
-.DivGeneral{
-    background-color: white!important;
-    color:black;
 
-    
+.DivGeneral {
+    background-color: white !important;
+    color: black;
+
+
 }
 .pro{
     background-color: cadetblue;
@@ -28,18 +29,20 @@ border: 8px solid cadetblue;
     
 
 }
-.TextoTitulo{
-    text-align: left!important;
-    min-width: 100%!important;
+
+.TextoTitulo {
+    text-align: left !important;
+    min-width: 100% !important;
     font-family: 'Roboto Slab', serif;
     margin-left: 4vw;
     margin-top: 3vw;
- 
+
 }
-.rowGlobal{
-text-align: center;
-position: relative;
-background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+
+.rowGlobal {
+    text-align: center;
+    position: relative;
+    background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -52,19 +55,20 @@ background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/backgr
 
 
 
-.contenedor{
+.contenedor {
     position: relative;
     display: inline-block;
     text-align: center;
 }
- 
-.fotoNombre{
+
+.fotoNombre {
 
     margin-top: -50px;
     margin-bottom: -10px;
 
 }
-.centrado{
+
+.centrado {
     font-size: 40px;
     font-weight: bold;
     position: absolute;
@@ -72,42 +76,45 @@ background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/backgr
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.ContainerSeparacion{
 
-    text-align:center;
+.ContainerSeparacion {
 
- background-color: rgba(255, 255, 255, 0.466);
+    text-align: center;
+
+    background-color: rgba(255, 255, 255, 0.466);
 
 }
-.prueba{
-width: 80%;
-height: 80%;
-text-align:center;
-position: relative;
+
+.prueba {
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    position: relative;
 }
 
 
-.fotoLogoPonys{
+.fotoLogoPonys {
     margin-left: -8vw;
 
     margin-top: 2.5vw;
 }
-.fondo1{
-  
-   background-color: white;
-   height: 10vw;
-   text-align: center;
-   
+
+.fondo1 {
+
+    background-color: white;
+    height: 10vw;
+    text-align: center;
+
 
 }
 
 
-.imagenTitulo{
-height: 10vw;
+.imagenTitulo {
+    height: 10vw;
     background-position: right right;
-    background-size: 100% 200%!important;
+    background-size: 100% 200% !important;
     display: block;
-    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
     background-repeat: no-repeat;
 
 
