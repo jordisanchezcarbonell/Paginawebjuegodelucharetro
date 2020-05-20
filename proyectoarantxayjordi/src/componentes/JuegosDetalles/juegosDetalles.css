@@ -10,23 +10,22 @@
 }
 .pro{
     background-color: cadetblue;
-    border-left: 10vw white !important;
+    border: 8px solid white;
 
 }
 
 
 
 tr{
-    border: 5px white solid!important;
+    outline: 2px white solid!important;
 
 }
 
 .nombreAtaques{
 
 background-color: rgba(128, 128, 128, 0.438);
-
-border-collapse: separate !important;
-
+border: 8px solid cadetblue;
+    
 
 }
 .TextoTitulo{
