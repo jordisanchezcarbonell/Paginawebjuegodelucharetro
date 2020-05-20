@@ -8,8 +8,25 @@
 
     
 }
+.pro{
+    background-color: cadetblue;
+    border-left: 10vw white !important;
+
+}
+
+
+
+tr{
+    border: 5px white solid!important;
+
+}
+
 .nombreAtaques{
+
 background-color: rgba(128, 128, 128, 0.438);
+
+border-collapse: separate !important;
+
 
 }
 .TextoTitulo{
@@ -96,14 +113,8 @@ height: 10vw;
 
 
 }
+
 .TablaGeneral{
     border-radius: 0;
 }
-.MuiTableCell-head{
 
-    border: 1px black solid
-
-}
-.MuiTableCell-body  {
-    border: 1px black solid
-} 

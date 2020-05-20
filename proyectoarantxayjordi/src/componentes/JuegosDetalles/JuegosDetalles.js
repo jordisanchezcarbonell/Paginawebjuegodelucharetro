@@ -104,10 +104,6 @@ height: 10vw;
                 <Container className="w-100 ContainerSeparacion ">
               
               
-              
-            
-                  
-                    
                     
                 
                         <div class="contenedor">
@@ -124,7 +120,17 @@ height: 10vw;
                         component={Paper}
                         className="TablaGeneral"
                       >
+
+
+<TableRow>
+                          <TableCell align="center">Movimiento</TableCell>
+                          </TableRow>
                         <Table>
+
+                       
+                          
+
+                      
                           <TableHead>
                             <TableRow>
                               <TableCell align="center">Movimiento</TableCell>
@@ -133,10 +139,18 @@ height: 10vw;
                           </TableHead>
                           <TableBody>
                             {personaje.Ataques.map((Ataque) => (
-                              <TableRow key={Ataque.nombreAtaque}>
+                              <TableRow key={Ataque.nombreAtaque} class="mx-5">
                                 <TableCell
-                                  className=" py-2 nombreAtaques"
-                                  component="th"
+                                  className=" py-2 pro "
+                                  component="tr"
+                                  scope="row"
+                                >
+                                  {Ataque.nombreAtaque}
+                                </TableCell>
+
+                                  <TableCell
+                                  className=" py-2  nombreAtaques "
+                                  component="tr"
                                   scope="row"
                                 >
                                   {Ataque.nombreAtaque}
