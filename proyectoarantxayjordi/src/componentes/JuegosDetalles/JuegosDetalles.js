@@ -102,8 +102,21 @@ height: 10vw;
             return (
               <div key={personaje.Nombre} className="Personajes w-100">
                 <Container className="w-100 ContainerSeparacion ">
+<<<<<<< HEAD
                   <div class="contenedor">
                     <img src={require("./descarga1.png")} class="fotoNombre" />
+=======
+              
+              
+                    
+                
+                        <div class="contenedor">
+                        <img src={require('./descarga1.png')} class="fotoNombre" />
+ 
+  <div class="centrado">{personaje.Nombre}</div>
+</div>
+
+>>>>>>> master
 
                     <div class="centrado">{personaje.Nombre}</div>
                   </div>
@@ -115,7 +128,17 @@ height: 10vw;
                         component={Paper}
                         className="TablaGeneral"
                       >
+
+
+<TableRow>
+                          <TableCell align="center">Movimiento</TableCell>
+                          </TableRow>
                         <Table>
+
+                       
+                          
+
+                      
                           <TableHead>
                             <TableRow>
                               <TableCell align="center">Movimiento</TableCell>
@@ -124,10 +147,18 @@ height: 10vw;
                           </TableHead>
                           <TableBody>
                             {personaje.Ataques.map((Ataque) => (
-                              <TableRow key={Ataque.nombreAtaque}>
+                              <TableRow key={Ataque.nombreAtaque} class="mx-5">
                                 <TableCell
-                                  className=" py-2 nombreAtaques"
-                                  component="th"
+                                  className=" py-2 pro "
+                                  component="tr"
+                                  scope="row"
+                                >
+                                  {Ataque.nombreAtaque}
+                                </TableCell>
+
+                                  <TableCell
+                                  className=" py-2  nombreAtaques "
+                                  component="tr"
                                   scope="row"
                                 >
                                   {Ataque.nombreAtaque}

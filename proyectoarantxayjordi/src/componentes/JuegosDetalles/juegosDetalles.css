@@ -9,9 +9,31 @@
 
 
 }
+<<<<<<< HEAD
 
 .nombreAtaques {
     background-color: rgba(128, 128, 128, 0.438);
+=======
+.pro{
+    background-color: cadetblue;
+    border-left: 10vw white !important;
+
+}
+
+
+
+tr{
+    border: 5px white solid!important;
+
+}
+
+.nombreAtaques{
+
+background-color: rgba(128, 128, 128, 0.438);
+>>>>>>> master
+
+border-collapse: separate !important;
+
 
 }
 
@@ -105,6 +127,7 @@
 
 }
 
+<<<<<<< HEAD
 .TablaGeneral {
     border-radius: 0;
 }
@@ -130,3 +153,9 @@
     border-right-color: transparent !important;
 
 }
+=======
+.TablaGeneral{
+    border-radius: 0;
+}
+
+>>>>>>> master
