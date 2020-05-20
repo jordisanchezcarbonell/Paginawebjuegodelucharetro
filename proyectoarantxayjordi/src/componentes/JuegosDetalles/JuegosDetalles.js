@@ -34,6 +34,14 @@ class JuegosDetalles extends React.Component {
   constructor(props, context) {
     super(props);
   }
+  state = {
+    show: false,
+  };
+  showModal = (e) => {
+    this.setState({
+      show: true,
+    });
+  };
   streetfighter(detalles, elementoporpasarparametro) {
     /**
      * .imagenTitulo{
@@ -60,9 +68,11 @@ height: 10vw;
     };
     return (
       <div className="DivGeneral">
-        {/* <Button variant="primary" onClick={this.handleShow}>
+        <Button variant="primary" onClick={this.handleShow}>
           Launch demo modal
-        </Button> */}
+        </Button>
+
+        <Modal show={this.state.show} />
 
         <div>
           <Row>
