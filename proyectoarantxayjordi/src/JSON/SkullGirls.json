@@ -5,16 +5,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Eliza.png",
     "Ataques": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "JJJJ",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -24,16 +91,102 @@
     "Foto": "imagenes/PersonajesSkullGirls/Peacock.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "George's Day Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Boxcar George",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "George at the Air Show",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The Hole Idea",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hi Hi Birdie",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/HK.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+
+          "imagenes/ataquesSkullgitls/8.png"
+        ]
+      },
+      {
+        "nombreAtaque": "BANG!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow of Impending Doom",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Pop Goes the Weasel",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Who's On Next?",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Argus Agony",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lonesome Lenny",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Goodfellas",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPLK.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -43,16 +196,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Fukua.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -62,16 +282,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Cerebella.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -81,16 +368,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Ms._Fortune.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -100,16 +454,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Beowulf.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -120,16 +541,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Filia.png",
     "Ataques": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "JJJJ",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -139,16 +627,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Valentine.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -158,16 +713,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Double.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -177,16 +799,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Robo-Fortune.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -196,16 +885,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Big_Band.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -215,16 +971,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Parasoul.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -234,16 +1057,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Squigly.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   },
@@ -253,16 +1143,83 @@
     "Foto": "imagenes/PersonajesSkullGirls/Painwheel.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Spike",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ringlet Psych",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Updo",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hairball",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Born With It",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      }
+    ],
+    "TeamMoves": [
+      {
+        "nombreAtaque": "Bounce, No Volume",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lash Out",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      }
+    ],
+    "Blockbusters": [
+      {
+        "nombreAtaque": "Gregor Samson",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fenrir Drive",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
       }
     ]
   }

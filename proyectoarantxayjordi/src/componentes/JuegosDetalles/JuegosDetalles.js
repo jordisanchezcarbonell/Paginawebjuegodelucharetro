@@ -26,7 +26,7 @@ import TEKKEN from "../../JSON/Tekken.json";
 import SSBU from "../../JSON/SSBU.json";
 import SoulCalibur from "../../JSON/SoulCalibur.json";
 import Granblue from "../../JSON/GranBlue.json";
-import { ReactComponent as Logo } from './nombre.png';
+import { ReactComponent as Logo } from "./nombre.png";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -102,24 +102,15 @@ height: 10vw;
             return (
               <div key={personaje.Nombre} className="Personajes w-100">
                 <Container className="w-100 ContainerSeparacion ">
-              
-              
-              
-            
-                  
-                    
-                    
-                
-                        <div class="contenedor">
-                        <img src={require('./descarga1.png')} class="fotoNombre" />
- 
-  <div class="centrado">{personaje.Nombre}</div>
-</div>
+                  <div class="contenedor">
+                    <img src={require("./descarga1.png")} class="fotoNombre" />
 
-
+                    <div class="centrado">{personaje.Nombre}</div>
+                  </div>
 
                   <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
+                      <h1>Specials</h1>
                       <TableContainer
                         component={Paper}
                         className="TablaGeneral"
@@ -141,7 +132,7 @@ height: 10vw;
                                 >
                                   {Ataque.nombreAtaque}
                                 </TableCell>
-                                {/*
+                                {
                                   <TableCell className=" py-2" align="right">
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
@@ -158,25 +149,120 @@ height: 10vw;
                                       )
                                     )}
                                   </TableCell>
-                                        */}
+                                }
+                              </TableRow>
+                            ))}
+                          </TableBody>
+                        </Table>
+                      </TableContainer>
+
+                      <h1>Team Moves</h1>
+                      <TableContainer
+                        component={Paper}
+                        className="TablaGeneral"
+                      >
+                        <Table>
+                          <TableHead>
+                            <TableRow>
+                              <TableCell align="center">Movimiento</TableCell>
+                              <TableCell align="center">Comando</TableCell>
+                            </TableRow>
+                          </TableHead>
+                          <TableBody>
+                            {personaje.TeamMoves.map((Ataque) => (
+                              <TableRow key={Ataque.nombreAtaque}>
+                                <TableCell
+                                  className=" py-2 nombreAtaques"
+                                  component="th"
+                                  scope="row"
+                                >
+                                  {Ataque.nombreAtaque}
+                                </TableCell>
+                                {
+                                  <TableCell className=" py-2" align="right">
+                                    {Ataque.Animacion.map(
+                                      (animaciondelataque, index) => (
+                                        <img
+                                          className="imgAtaque"
+                                          key={index}
+                                          variant="top"
+                                          src={
+                                            process.env.PUBLIC_URL +
+                                            animaciondelataque
+                                          }
+                                          alt="Error"
+                                        />
+                                      )
+                                    )}
+                                  </TableCell>
+                                }
+                              </TableRow>
+                            ))}
+                          </TableBody>
+                        </Table>
+                      </TableContainer>
+
+                      <h1>Blockbusters</h1>
+
+                      <TableContainer
+                        component={Paper}
+                        className="TablaGeneral"
+                      >
+                        <Table>
+                          <TableHead>
+                            <TableRow>
+                              <TableCell
+                                className="margenesdetablas"
+                                align="center"
+                              >
+                                Movimiento
+                              </TableCell>
+                              <TableCell align="center">Comando</TableCell>
+                            </TableRow>
+                          </TableHead>
+                          <TableBody>
+                            {personaje.Blockbusters.map((Ataque) => (
+                              <TableRow key={Ataque.nombreAtaque}>
+                                <TableCell
+                                  className=" py-2 nombreAtaques margenesdetablas"
+                                  component="th"
+                                  scope="row"
+                                >
+                                  {Ataque.nombreAtaque}
+                                </TableCell>
+                                {
+                                  <TableCell className=" py-2" align="right">
+                                    {Ataque.Animacion.map(
+                                      (animaciondelataque, index) => (
+                                        <img
+                                          className="imgAtaque"
+                                          key={index}
+                                          variant="top"
+                                          src={
+                                            process.env.PUBLIC_URL +
+                                            animaciondelataque
+                                          }
+                                          alt="Error"
+                                        />
+                                      )
+                                    )}
+                                  </TableCell>
+                                }
                               </TableRow>
                             ))}
                           </TableBody>
                         </Table>
                       </TableContainer>
                     </Col>
-
                     <Col md="4">
                       <img
+                        className="imagenpaddin"
                         key={index}
                         variant="top"
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         alt="Error"
                       />
                     </Col>
-
-
-                    
                   </Row>
                 </Container>
               </div>
