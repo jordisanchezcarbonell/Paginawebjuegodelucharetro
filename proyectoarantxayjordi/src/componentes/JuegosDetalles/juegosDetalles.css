@@ -9,11 +9,6 @@
 
 
 }
-<<<<<<< HEAD
-
-.nombreAtaques {
-    background-color: rgba(128, 128, 128, 0.438);
-=======
 .pro{
     background-color: cadetblue;
     border-left: 10vw white !important;
@@ -30,7 +25,6 @@ tr{
 .nombreAtaques{
 
 background-color: rgba(128, 128, 128, 0.438);
->>>>>>> master
 
 border-collapse: separate !important;
 
@@ -127,35 +121,7 @@ border-collapse: separate !important;
 
 }
 
-<<<<<<< HEAD
-.TablaGeneral {
-    border-radius: 0;
-}
-
-.MuiTableCell-head {
-
-    border: 1px black solid
-}
-
-.MuiTableCell-body {
-    border: 1px black solid
-}
-
-
-.imagenpaddin {
-    padding-top: 26vh;
-}
-
-.margenesdetablas {
-
-    border: 10px black !important;
-    border-right: 5px solid red;
-    border-right-color: transparent !important;
-
-}
-=======
 .TablaGeneral{
     border-radius: 0;
 }
 
->>>>>>> master

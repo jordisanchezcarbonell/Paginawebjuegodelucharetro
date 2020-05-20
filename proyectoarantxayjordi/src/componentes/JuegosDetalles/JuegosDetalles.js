@@ -102,21 +102,8 @@ height: 10vw;
             return (
               <div key={personaje.Nombre} className="Personajes w-100">
                 <Container className="w-100 ContainerSeparacion ">
-<<<<<<< HEAD
                   <div class="contenedor">
                     <img src={require("./descarga1.png")} class="fotoNombre" />
-=======
-              
-              
-                    
-                
-                        <div class="contenedor">
-                        <img src={require('./descarga1.png')} class="fotoNombre" />
- 
-  <div class="centrado">{personaje.Nombre}</div>
-</div>
-
->>>>>>> master
 
                     <div class="centrado">{personaje.Nombre}</div>
                   </div>
@@ -128,17 +115,8 @@ height: 10vw;
                         component={Paper}
                         className="TablaGeneral"
                       >
-
-
-<TableRow>
-                          <TableCell align="center">Movimiento</TableCell>
-                          </TableRow>
+                        <TableRow></TableRow>
                         <Table>
-
-                       
-                          
-
-                      
                           <TableHead>
                             <TableRow>
                               <TableCell align="center">Movimiento</TableCell>
@@ -156,15 +134,11 @@ height: 10vw;
                                   {Ataque.nombreAtaque}
                                 </TableCell>
 
-                                  <TableCell
-                                  className=" py-2  nombreAtaques "
-                                  component="tr"
-                                  scope="row"
-                                >
-                                  {Ataque.nombreAtaque}
-                                </TableCell>
                                 {
-                                  <TableCell className=" py-2" align="right">
+                                  <TableCell
+                                    className="  nombreAtaques py-2"
+                                    align="right"
+                                  >
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
                                         <img

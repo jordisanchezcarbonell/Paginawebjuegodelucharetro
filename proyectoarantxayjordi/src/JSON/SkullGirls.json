@@ -196,40 +196,50 @@
     "Foto": "imagenes/PersonajesSkullGirls/Fukua.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
+        "nombreAtaque": "Love Dart (Air OK)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/P.png"
         ]
       },
       {
-        "nombreAtaque": "Ringlet Psych",
+        "nombreAtaque": "Platonic Drillationship",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Updo",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Forever A Clone",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Born With It",
+        "nombreAtaque": "Tender Embrace ",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
-          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Inevitable Snuggle",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Breakdown",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LK.png",
           "imagenes/ataquesSkullgitls/MK.png",
-          "imagenes/ataquesSkullgitls/MK.png"
+
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+
+          "imagenes/ataquesSkullgitls/MP.png"
         ]
       }
     ],
@@ -254,24 +264,31 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Blown Kiss (Lv. 1) (Air OK)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The Drill Of My Dreams (Lv. 1)  (Air OK)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
         "nombreAtaque": "Fenrir Drive",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Head Over Heels (Lv. 5)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
-          "imagenes/ataquesSkullgitls/PP.png"
+          "imagenes/ataquesSkullgitls/360.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
         ]
       }
     ]
@@ -282,53 +299,91 @@
     "Foto": "imagenes/PersonajesSkullGirls/Cerebella.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
+        "nombreAtaque": "Diamond Drop",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/P.png"
+          "imagenes/ataquesSkullgitls/LPLK.png"
         ]
       },
       {
-        "nombreAtaque": "Ringlet Psych",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Updo",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Merry Go-Rilla",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Excellebella",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grab Bag (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lock n’ Load",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tumbling Run",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/6.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Born With It",
+        "nombreAtaque": "Run Stop",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
-          "imagenes/ataquesSkullgitls/6.png",
-          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/Xx.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devil Horns",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cere-Copter",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Medici Muscle",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/LK.png",
           "imagenes/ataquesSkullgitls/MK.png"
         ]
       }
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Go get 'em!",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "Hammer Toss",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -340,23 +395,23 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Diamond Dynamo [Level 1]",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
-          "imagenes/ataquesSkullgitls/KK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fenrir Drive",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Ultimate Showstopper [Level 1]",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/360.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Diamonds are Forever [Level 3]",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       }
@@ -368,53 +423,66 @@
     "Foto": "imagenes/PersonajesSkullGirls/Ms._Fortune.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ringlet Psych",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Updo",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Cat Strike/Cat Spike (Air OK) ",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
-          "imagenes/ataquesSkullgitls/K.png"
+          "imagenes/ataquesSkullgitls/P.png"
         ]
       },
       {
-        "nombreAtaque": "Born With It",
+        "nombreAtaque": "Cat Call",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
+          "imagenes/ataquesSkullgitls/QCBG.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Zoom!",
+        "Animacion": [
           "imagenes/ataquesSkullgitls/6.png",
-          "imagenes/ataquesSkullgitls/MK.png",
-          "imagenes/ataquesSkullgitls/MK.png"
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "OMNOMNOM",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Feline Allergies!",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/HP.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Nyaaawn",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+
+          "imagenes/ataquesSkullgitls/LP.png"
         ]
       }
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Name Unknown",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "Name Unknown",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -426,23 +494,23 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Cat Scratch Fever (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Feral Edge (Lv. 1) in Air",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Fifth of Dismember (Lv. 3) (Air OK)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/PP.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fenrir Drive",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       }
@@ -454,82 +522,105 @@
     "Foto": "imagenes/PersonajesSkullGirls/Beowulf.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
+        "nombreAtaque": "Hurting Hurl",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/P.png"
         ]
       },
       {
-        "nombreAtaque": "Ringlet Psych",
+        "nombreAtaque": "Wulf Blitzer",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Updo",
+        "nombreAtaque": "Wulf Shoot",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/LPLK .png"
         ]
       },
       {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Diving Wulfdog",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Born With It",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
           "imagenes/ataquesSkullgitls/6.png",
-          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Da Grendel Killa",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Aroo Ready?",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/MP.png",
+
+          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/LK.png",
           "imagenes/ataquesSkullgitls/MK.png"
         ]
       }
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Hot Tag",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "Striker Kick (With The Hurting)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
-
+          "imagenes/ataquesSkullgitls/HPHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Into the Trash (grappling)",
+        "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       }
     ],
+
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Gigantic Arm",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Airwulf",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Three Wulf Moonsault",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Wulfamania",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
-          "imagenes/ataquesSkullgitls/PP.png"
+          "imagenes/ataquesSkullgitls/360.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
         ]
       }
     ]
@@ -627,53 +718,54 @@
     "Foto": "imagenes/PersonajesSkullGirls/Valentine.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
+        "nombreAtaque": "Dead Cross(air OK)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/P.png"
         ]
       },
       {
-        "nombreAtaque": "Ringlet Psych",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Updo",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Vial Hazard",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/P.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Savage Bypass",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Born With It",
+        "nombreAtaque": "Mortuary Drop",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
-          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LPLK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chocoglycemia",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
           "imagenes/ataquesSkullgitls/MK.png",
-          "imagenes/ataquesSkullgitls/MK.png"
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/Mp.png",
+          "imagenes/ataquesSkullgitls/hK.png"
         ]
       }
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Cloak and Sever",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "AED Shockwave ",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -685,24 +777,40 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Checkmate Incision (Lv. 1)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "EKG Flatliner (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Acquisitive Prescription (Lv. 2)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/RDP.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dead on Arrival (Lv. 3)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Acquisitive Prescription (Lv. 2)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
-          "imagenes/ataquesSkullgitls/PP.png"
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/MPMK.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/HPHK .png"
         ]
       }
     ]
@@ -713,53 +821,62 @@
     "Foto": "imagenes/PersonajesSkullGirls/Double.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
+        "nombreAtaque": "Luger Replica",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/P.png"
         ]
       },
       {
-        "nombreAtaque": "Ringlet Psych",
+        "nombreAtaque": "Hornet Bomber",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/DP.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Updo",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Flesh Step ",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Born With It",
+        "nombreAtaque": "Item Crash(In air) ",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
-          "imagenes/ataquesSkullgitls/6.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cilia Slide",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/4.png",
+          "imagenes/ataquesSkullgitls/LKHK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "False Intentions",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/LK.png",
           "imagenes/ataquesSkullgitls/MK.png",
-          "imagenes/ataquesSkullgitls/MK.png"
+          "imagenes/ataquesSkullgitls/HK.png",
+          "imagenes/ataquesSkullgitls/HP.png",
+          "imagenes/ataquesSkullgitls/MP.png"
         ]
       }
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Second Impact",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "Chimeram",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -771,24 +888,40 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Bandwagon Rushdown (Lv. 1)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/PP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Beast of Gehenna (Lv. 1)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/kk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Catellite Lives (Lv. 2)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF .png",
           "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Nightmare Legion (Lv. 3)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Megalith Array (Lv. 5) (Air OK)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
-          "imagenes/ataquesSkullgitls/PP.png"
+          "imagenes/ataquesSkullgitls/2.png",
+          "imagenes/ataquesSkullgitls/2.png",
+
+          "imagenes/ataquesSkullgitls/KK.png"
         ]
       }
     ]
@@ -798,44 +931,67 @@
     "Descripcion": "Robo-Fortune",
     "Foto": "imagenes/PersonajesSkullGirls/Robo-Fortune.png",
     "Ataques": [
-      {
-        "nombreAtaque": "Ringlet Spike",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ringlet Psych",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Updo",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hairball",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Born With It",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
-          "imagenes/ataquesSkullgitls/6.png",
-          "imagenes/ataquesSkullgitls/MK.png",
-          "imagenes/ataquesSkullgitls/MK.png"
-        ]
-      }
-    ],
+                 {
+                   "nombreAtaque": "Theonite Beam (Air OK)",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCF.png",
+                     "imagenes/ataquesSkullgitls/P.png"
+                   ]
+                 },
+                 {
+                   "nombreAtaque": "Control Headrone",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCB.png",
+                     "imagenes/ataquesSkullgitls/K.png"
+                   ]
+                 },
+                 {
+                   "nombreAtaque": "Headrone RAM",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCB.png",
+                     "imagenes/ataquesSkullgitls/LK.png"
+                   ]
+                 },
+                 {
+                   "nombreAtaque": "Headrone Impact",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCB.png",
+                     "imagenes/ataquesSkullgitls/MK.png"
+                   ]
+                 },
+                 {
+                   "nombreAtaque": "Danger! Head Swap Action!",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCF.png",
+                     "imagenes/ataquesSkullgitls/LK.png"
+                   ]
+                 },
+                 {
+                   "nombreAtaque": "Danger! Flailing Arm Hazard!",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCF.png",
+                     "imagenes/ataquesSkullgitls/MK.png"
+                   ]
+                 },
+                 
+                 {
+                   "nombreAtaque": "Danger! Rotating Component Hazard!",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/QCF.png",
+                     "imagenes/ataquesSkullgitls/HK.png"
+                   ]
+                 },
+                 {
+                   "nombreAtaque": "Really Talks!",
+                   "Animacion": [
+                     "imagenes/ataquesSkullgitls/HP.png",
+                     "imagenes/ataquesSkullgitls/LK.png",
+                     "imagenes/ataquesSkullgitls/4.png",
+                     "imagenes/ataquesSkullgitls/LP.png",
+                     "imagenes/ataquesSkullgitls/LP.png"
+                   ]
+                 }
+               ],
     "TeamMoves": [
       {
         "nombreAtaque": "Bounce, No Volume",
@@ -857,23 +1013,23 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Catastrophe Cannon",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Magnet Trap",
         "Animacion": [
           "imagenes/ataquesSkullgitls/DP.png",
-          "imagenes/ataquesSkullgitls/PP.png"
+          "imagenes/ataquesSkullgitls/KK.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Systemic Circuit Breaker",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB .png",
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       }
