@@ -5,53 +5,55 @@
     "Foto": "imagenes/PersonajesSkullGirls/Eliza.png",
     "Ataques": [
       {
-        "nombreAtaque": "Ringlet Spike",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/P.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ringlet Psych",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/K.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Updo",
+        "nombreAtaque": "Upper Khat",
         "Animacion": [
           "imagenes/ataquesSkullgitls/DP.png",
           "imagenes/ataquesSkullgitls/P.png"
         ]
       },
       {
-        "nombreAtaque": "Hairball",
+        "nombreAtaque": "Osiris Spiral",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/K.png"
         ]
       },
       {
-        "nombreAtaque": "Born With It",
+        "nombreAtaque": "Throne of Isis",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/LPMP.png",
-          "imagenes/ataquesSkullgitls/6.png",
-          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/QCB.png",
+          "imagenes/ataquesSkullgitls/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dive of Horus",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Scarlet Ladies",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/MK.png",
+          "imagenes/ataquesSkullgitls/LP.png",
+          "imagenes/ataquesSkullgitls/2.png",
+
+          "imagenes/ataquesSkullgitls/LK.png",
+          "imagenes/ataquesSkullgitls/MP.png"
         ]
       }
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Chauffeur Service",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "Exile from Aaru",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -63,21 +65,21 @@
     ],
     "Blockbusters": [
       {
-        "nombreAtaque": "Gregor Samson",
+        "nombreAtaque": "Lady of Slaughter (Lv.1)",
         "Animacion": [
-          "imagenes/ataquesSkullgitls/QCB.png",
-          "imagenes/ataquesSkullgitls/KK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fenrir Drive",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/DP.png",
+          "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive",
+        "nombreAtaque": "Nekhbet Breaker (Lv.1) (In air)",
+        "Animacion": [
+          "imagenes/ataquesSkullgitls/QCF.png",
+          "imagenes/ataquesSkullgitls/KK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Khepri Sun",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
@@ -245,14 +247,14 @@
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
+        "nombreAtaque": "Bounce, No Volume2",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Lash Out",
+        "nombreAtaque": "Lash Out2",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -475,14 +477,14 @@
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Name Unknown",
+        "nombreAtaque": "Name Unknown 2",
         "Animacion": [
           "imagenes/ataquesSkullgitls/MPMK.png",
           "imagenes/ataquesSkullgitls/HPHK.png"
         ]
       },
       {
-        "nombreAtaque": "Name Unknown",
+        "nombreAtaque": "Name Unknown 3",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -805,7 +807,7 @@
         ]
       },
       {
-        "nombreAtaque": "Acquisitive Prescription (Lv. 2)",
+        "nombreAtaque": "Forbidden Procedure: Rebirth Ex Machina (Lv. 5)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/MPMK.png",
@@ -994,21 +996,12 @@
     ],
     "TeamMoves": [
       {
-        "nombreAtaque": "Bounce, No Volume",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/MPMK.png",
-          "imagenes/ataquesSkullgitls/HPHK.png"
-        ]
+        "nombreAtaque": "No tiene",
+        "Animacion": []
       },
       {
-        "nombreAtaque": "Lash Out",
-        "Animacion": [
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/MPMK.png",
-
-          "imagenes/ataquesSkullgitls/QCF.png",
-          "imagenes/ataquesSkullgitls/HPHK.png"
-        ]
+        "nombreAtaque": "No tienex2",
+        "Animacion": []
       }
     ],
     "Blockbusters": [

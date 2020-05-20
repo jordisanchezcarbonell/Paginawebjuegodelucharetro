@@ -34,13 +34,25 @@ class JuegosDetalles extends React.Component {
   constructor(props, context) {
     super(props);
   }
+
   state = {
     show: false,
+    elmento: "",
+    imagen: "",
   };
-  showModal = (e) => {
+
+  showModal = (e, imagenes) => {
     this.setState({
       show: true,
+      elmento: e,
+      imagen: imagenes,
     });
+
+    console.log(this.state.elemento);
+  };
+
+  handleCloseModal = (e) => {
+    this.setState({ show: false });
   };
   streetfighter(detalles, elementoporpasarparametro) {
     /**
@@ -66,14 +78,32 @@ height: 10vw;
         ")",
       backgroundRepeat: "no-repeat",
     };
+
     return (
       <div className="DivGeneral">
-        <Button variant="primary" onClick={this.handleShow}>
+        {/*}
+        <Button variant="primary" >
           Launch demo modal
         </Button>
-
-        <Modal show={this.state.show} />
-
+    */}
+        <Modal show={this.state.show}>
+          <Modal.Header>
+            <Modal.Title>{this.state.elmento} </Modal.Title>
+          </Modal.Header>
+          <Modal.Body>
+            <img
+              className="imgAtaque"
+              variant="top"
+              src={process.env.PUBLIC_URL + this.state.imagen}
+              alt="Error"
+            />
+          </Modal.Body>
+          <Modal.Footer>
+            <Button variant="secondary" onClick={this.handleCloseModal}>
+              Close
+            </Button>
+          </Modal.Footer>
+        </Modal>
         <div>
           <Row>
             <Col md="3" className="fondo1">
@@ -108,33 +138,46 @@ height: 10vw;
           </Row>
         </div>
         <div className="row rowGlobal ">
-          {elementoporpasarparametro.map((personaje, index) => {
+          {elementoporpasarparametro.map((personaje, i) => {
             return (
-              <div key={personaje.Nombre} className="Personajes w-100">
+              <div className="Personajes w-100">
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
-                    <img src={require("./descarga1.png")} className="fotoNombre" />
+                    <img
+                      src={require("./descarga1.png")}
+                      className="fotoNombre"
+                    />
 
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
 
                   <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
-                    <div className="contenedor mb-3 mt-5">
-                    <img src={require("./nombre.png")} className="fotoNombre" />
+                      <div className="contenedor mb-3 mt-5">
+                        <img
+                          src={require("./nombre.png")}
+                          className="fotoNombre"
+                        />
 
-                    <div className="CentradoTituloAtaque w-100">Specials</div>
-                  </div>
+                        <div className="CentradoTituloAtaque w-100">
+                          Specials
+                        </div>
+                      </div>
                       <TableContainer
                         component={Paper}
                         className="TablaGeneral  mb-3"
                       >
-                        <Table>
-                         
+                        <Table key={i}>
                           <TableBody>
-                            {personaje.Ataques.map((Ataque) => (
-                              <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                            {personaje.Ataques.map((Ataque, index) => (
+                              <TableRow key={index} className="mx-5">
                                 <TableCell
+                                  onClick={() =>
+                                    this.showModal(
+                                      Ataque.nombreAtaque,
+                                      Ataque.Animacion[0]
+                                    )
+                                  }
                                   className=" py-2 pro "
                                   component="th"
                                   scope="row"
@@ -144,7 +187,7 @@ height: 10vw;
 
                                 {
                                   <TableCell
-                                  component="th"
+                                    component="th"
                                     className="  nombreAtaques py-2"
                                     align="right"
                                   >
@@ -170,45 +213,53 @@ height: 10vw;
                         </Table>
                       </TableContainer>
 
-
-
-
                       <div className="contenedor  mb-4 mt-5">
-                    <img src={require("./nombre.png")} className="fotoNombre" />
+                        <img
+                          src={require("./nombre.png")}
+                          className="fotoNombre"
+                        />
 
-                    <div className="CentradoTituloAtaque w-100 ">Team Movies</div>
-                  </div>
+                        <div className="CentradoTituloAtaque w-100 ">
+                          Team Movies
+                        </div>
+                      </div>
                       <TableContainer
                         component={Paper}
                         className="TablaGeneral  "
                       >
                         <Table>
-                         
                           <TableBody>
-                            {personaje.TeamMoves.map((Ataque) => (
-                              <TableRow key={Ataque.nombreAtaque}>
+                            {personaje.TeamMoves.map((Ataque, index) => (
+                              <TableRow key={index}>
                                 <TableCell
                                   className=" py-2 pro"
                                   component="th"
                                   scope="row"
+                                  onClick={() =>
+                                    this.showModal(Ataque.nombreAtaque)
+                                  }
                                 >
                                   {Ataque.nombreAtaque}
                                 </TableCell>
                                 {
-                                  <TableCell className=" py-2 nombreAtaques"    component="th" align="right">
-
+                                  <TableCell
+                                    className=" py-2 nombreAtaques"
+                                    component="th"
+                                    align="right"
+                                  >
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
-                                        <img
-                                          className="imgAtaque"
-                                          key={index}
-                                          variant="top"
-                                          src={
-                                            process.env.PUBLIC_URL +
-                                            animaciondelataque
-                                          }
-                                          alt="Error"
-                                        />
+                                        <span key={index}>
+                                          <img
+                                            className="imgAtaque"
+                                            variant="top"
+                                            src={
+                                              process.env.PUBLIC_URL +
+                                              animaciondelataque
+                                            }
+                                            alt="Error"
+                                          />
+                                        </span>
                                       )
                                     )}
                                   </TableCell>
@@ -220,28 +271,40 @@ height: 10vw;
                       </TableContainer>
 
                       <div className="contenedor mb-4 mt-5">
-                    <img src={require("./nombre.png")} className="fotoNombre " />
+                        <img
+                          src={require("./nombre.png")}
+                          className="fotoNombre "
+                        />
 
-                    <div className="CentradoTituloAtaque w-100 ">Blockbusters</div>
-                  </div>
+                        <div className="CentradoTituloAtaque w-100 ">
+                          Blockbusters
+                        </div>
+                      </div>
 
                       <TableContainer
                         component={Paper}
                         className="TablaGeneral  "
                       >
                         <Table>
-                         
                           <TableBody>
                             {personaje.Blockbusters.map((Ataque) => (
-                              <TableRow key={Ataque.nombreAtaque}>
+                              <TableRow key={Ataque}>
                                 <TableCell
+                                  onClick={() =>
+                                    this.showModal(Ataque.nombreAtaque)
+                                  }
                                   className=" py-2 pro margenesdetablas"
-                                  component="th"                                  scope="row"
+                                  component="th"
+                                  scope="row"
                                 >
                                   {Ataque.nombreAtaque}
                                 </TableCell>
                                 {
-                                  <TableCell className=" py-2 nombreAtaques"    component="th" align="right">
+                                  <TableCell
+                                    className=" py-2 nombreAtaques"
+                                    component="th"
+                                    align="right"
+                                  >
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
                                         <img
