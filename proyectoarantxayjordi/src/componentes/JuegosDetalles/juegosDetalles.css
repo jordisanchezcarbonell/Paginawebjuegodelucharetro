@@ -33,6 +33,29 @@ background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/backgr
 
 
 }
+
+
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+ 
+.fotoNombre{
+
+    margin-top: -50px;
+    margin-bottom: -10px;
+
+}
+.centrado{
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 .ContainerSeparacion{
 
     text-align:center;

@@ -102,16 +102,23 @@ height: 10vw;
             return (
               <div key={personaje.Nombre} className="Personajes w-100">
                 <Container className="w-100 ContainerSeparacion ">
-                <img src={require('./nombre.png')} />
-                        <h1>{personaje.Nombre}</h1>
+              
+              
+              
+            
+                  
                     
                     
                 
-                  
+                        <div class="contenedor">
+                        <img src={require('./descarga1.png')} class="fotoNombre" />
+ 
+  <div class="centrado">{personaje.Nombre}</div>
+</div>
 
 
 
-                  <Row className="prueba  py-3  mx-auto">
+                  <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
                       <TableContainer
                         component={Paper}
