@@ -26,6 +26,7 @@ import TEKKEN from "../../JSON/Tekken.json";
 import SSBU from "../../JSON/SSBU.json";
 import SoulCalibur from "../../JSON/SoulCalibur.json";
 import Granblue from "../../JSON/GranBlue.json";
+import { ReactComponent as Logo } from './nombre.png';
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -96,13 +97,21 @@ height: 10vw;
             <h6 className="NombrePers">Descripcion </h6>
           </Row>
         </div>
-        <div className="row rowGlobal">
+        <div className="row rowGlobal ">
           {elementoporpasarparametro.map((personaje, index) => {
             return (
-              <div key={personaje.Nombre} className="Personajes">
-                <Container className="w-100">
-                  <h1>{personaje.Nombre}</h1>
-                  <Row className="w-100">
+              <div key={personaje.Nombre} className="Personajes w-100">
+                <Container className="w-100 ContainerSeparacion ">
+                <img src={require('./nombre.png')} />
+                        <h1>{personaje.Nombre}</h1>
+                    
+                    
+                
+                  
+
+
+
+                  <Row className="prueba  py-3  mx-auto">
                     <Col md="8">
                       <TableContainer
                         component={Paper}
@@ -158,6 +167,9 @@ height: 10vw;
                         alt="Error"
                       />
                     </Col>
+
+
+                    
                   </Row>
                 </Container>
               </div>

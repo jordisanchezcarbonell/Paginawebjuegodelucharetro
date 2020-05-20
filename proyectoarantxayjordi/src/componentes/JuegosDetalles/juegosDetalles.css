@@ -5,6 +5,8 @@
 .DivGeneral{
     background-color: white!important;
     color:black;
+
+    
 }
 .nombreAtaques{
 background-color: rgba(128, 128, 128, 0.438);
@@ -21,9 +23,31 @@ background-color: rgba(128, 128, 128, 0.438);
 .rowGlobal{
 text-align: center;
 position: relative;
+background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
 
 
 }
+.ContainerSeparacion{
+
+    text-align:center;
+
+ background-color: rgba(255, 255, 255, 0.466);
+
+}
+.prueba{
+width: 80%;
+height: 80%;
+text-align:center;
+position: relative;
+}
+
+
 .fotoLogoPonys{
     margin-left: -8vw;
 
