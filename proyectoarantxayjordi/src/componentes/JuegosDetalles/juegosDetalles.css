@@ -10,9 +10,13 @@
 
 }
 .pro{
-    background-color: cadetblue;
+    background-color: rgba(72, 191, 196, 0.247);
+color:white!important;
 
 
+-webkit-box-shadow: inset 0 0 0 2px black;
+-moz-box-shadow: inset 0 0 0 2px black;
+box-shadow: inset 0 0 0 2px black;
 
 
 }
@@ -22,22 +26,26 @@ background-color: rgba(128, 128, 128, 0.438);
 
 */
 .MuiTableBody-root{
-    border-bottom:7px white solid!important;
+    border-bottom:6px white solid!important;
 
 }
 
 th{
-    border: 7px solid white;
+    border: 6px solid rgb(255, 255, 255);
 margin-bottom: 40px!important;
+
 }
 
+.TablaGeneral{
+    background-color: rgba(0, 0, 0, 0.692)!important;
+}
 .nombreAtaques{
 
 
 
-    -webkit-box-shadow: inset 0 0 0 2px cadetblue;
-    -moz-box-shadow: inset 0 0 0 2px cadetblue;
-    box-shadow: inset 0 0 0 2px cadetblue;
+    -webkit-box-shadow: inset 0 0 0 3px cadetblue;
+    -moz-box-shadow: inset 0 0 0 3px cadetblue;
+    box-shadow: inset 0 0 0 3px cadetblue;
     
 
 }
@@ -68,30 +76,38 @@ margin-bottom: 40px!important;
     display: inline-block;
     text-align: center;
 }
-
-.fotoNombre {
+.fotoNombre{
+    
+    margin-top: -50px;
+    margin-bottom: -10px;
+}
+.fotoNombrePers {
 
     margin-top: -50px;
     margin-bottom: -10px;
+    height: 13vw;
 
 }
 
 .CentradoTituloAtaque{
 color:white;
     font-size: 30px;
-    font-weight: bold;
     position: absolute;
     top: 10%;
     left: 50%;
     transform: translate(-50%, -70%);
+    font-family: 'PT Serif', serif;
+
 
 }
 
 .centrado {
+    src: url("SelznickNormal: NaNotf") ;
+    font-family: 'PT Serif', serif;
     font-size: 40px;
     font-weight: bold;
     position: absolute;
-    top: 40%;
+    top: 44%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -142,9 +158,7 @@ color:white;
 
 }
 
-.TablaGeneral{
-    border-radius: 0;
-}
+
 
 .imagenpaddin{ 
 padding-top: 11vw;

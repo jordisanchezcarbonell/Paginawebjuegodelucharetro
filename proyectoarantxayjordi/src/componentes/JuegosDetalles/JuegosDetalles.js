@@ -113,7 +113,7 @@ height: 10vw;
               <div key={personaje.Nombre} className="Personajes w-100">
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
-                    <img src={require("./descarga1.png")} className="fotoNombre" />
+                    <img src={require("./descarga1.png")} className="fotoNombrePers" />
 
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
