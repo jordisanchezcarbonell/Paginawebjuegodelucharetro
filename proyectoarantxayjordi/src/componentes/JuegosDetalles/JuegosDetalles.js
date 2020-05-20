@@ -138,9 +138,9 @@ height: 10vw;
           </Row>
         </div>
         <div className="row rowGlobal ">
-          {elementoporpasarparametro.map((personaje, i) => {
+          {elementoporpasarparametro.map((personaje) => {
             return (
-              <div className="Personajes w-100">
+              <div className="Personajes w-100" key={personaje.Nombre}>
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
                     <img
@@ -167,10 +167,13 @@ height: 10vw;
                         component={Paper}
                         className="TablaGeneral  mb-3"
                       >
-                        <Table key={i}>
+                        <Table>
                           <TableBody>
                             {personaje.Ataques.map((Ataque, index) => (
-                              <TableRow key={index} className="mx-5">
+                              <TableRow
+                                key={Ataque.nombreAtaque}
+                                className="mx-5"
+                              >
                                 <TableCell
                                   onClick={() =>
                                     this.showModal(
@@ -230,7 +233,7 @@ height: 10vw;
                         <Table>
                           <TableBody>
                             {personaje.TeamMoves.map((Ataque, index) => (
-                              <TableRow key={index}>
+                              <TableRow key={Ataque.nombreAtaque}>
                                 <TableCell
                                   className=" py-2 pro"
                                   component="th"
@@ -287,8 +290,8 @@ height: 10vw;
                       >
                         <Table>
                           <TableBody>
-                            {personaje.Blockbusters.map((Ataque) => (
-                              <TableRow key={Ataque}>
+                            {personaje.Blockbusters.map((Ataque, index) => (
+                              <TableRow key={Ataque.nombreAtaque}>
                                 <TableCell
                                   onClick={() =>
                                     this.showModal(Ataque.nombreAtaque)
@@ -330,7 +333,6 @@ height: 10vw;
                     <Col md="4">
                       <img
                         className="imagenpaddin"
-                        key={index}
                         variant="top"
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         alt="Error"

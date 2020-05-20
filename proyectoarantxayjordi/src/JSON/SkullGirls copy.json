@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "Nombre": "Eliza",
     "Descripcion": "Eliza .",
     "Foto": "imagenes/PersonajesSkullGirls/Eliza.png",
@@ -12,6 +13,7 @@
         ]
       },
       {
+        "id": 15,
 
         "nombreAtaque": "Osiris Spiral",
         "Animacion": [
@@ -20,6 +22,7 @@
         ]
       },
       {
+        "id": 16,
 
         "nombreAtaque": "Throne of Isis",
         "Animacion": [
@@ -28,6 +31,7 @@
         ]
       },
       {
+        "id": 17,
 
         "nombreAtaque": "Dive of Horus",
         "Animacion": [
@@ -36,6 +40,7 @@
         ]
       },
       {
+        "id": 18,
 
         "nombreAtaque": "Scarlet Ladies",
         "Animacion": [
@@ -50,6 +55,7 @@
     ],
     "TeamMoves": [
       {
+        "id": 19,
 
         "nombreAtaque": "Chauffeur Service",
         "Animacion": [
@@ -58,6 +64,7 @@
         ]
       },
       {
+        "id": 20,
 
         "nombreAtaque": "Exile from Aaru",
         "Animacion": [
@@ -71,6 +78,7 @@
     ],
     "Blockbusters": [
       {
+        "id": 21,
 
         "nombreAtaque": "Lady of Slaughter (Lv.1)",
         "Animacion": [
@@ -79,6 +87,7 @@
         ]
       },
       {
+        "id": 22,
 
         "nombreAtaque": "Nekhbet Breaker (Lv.1) (In air)",
         "Animacion": [
@@ -87,6 +96,7 @@
         ]
       },
       {
+        "id": 23,
 
         "nombreAtaque": "Khepri Sun",
         "Animacion": [
@@ -97,12 +107,14 @@
     ]
   },
   {
+    "id": 1,
 
     "Nombre": "Peacock",
     "Descripcion": "Peacock",
     "Foto": "imagenes/PersonajesSkullGirls/Peacock.png",
     "Ataques": [
       {
+        "id": 24,
 
         "nombreAtaque": "George's Day Out",
         "Animacion": [
@@ -111,6 +123,7 @@
         ]
       },
       {
+        "id": 25,
 
         "nombreAtaque": "Boxcar George",
         "Animacion": [
@@ -119,6 +132,7 @@
         ]
       },
       {
+        "id": 26,
 
         "nombreAtaque": "George at the Air Show",
         "Animacion": [
@@ -127,6 +141,7 @@
         ]
       },
       {
+        "id": 27,
 
         "nombreAtaque": "The Hole Idea",
         "Animacion": [
@@ -135,6 +150,7 @@
         ]
       },
       {
+        "id": 28,
 
         "nombreAtaque": "Hi Hi Birdie",
         "Animacion": [
@@ -147,6 +163,7 @@
         ]
       },
       {
+        "id": 29,
 
         "nombreAtaque": "BANG!",
         "Animacion": [
@@ -157,8 +174,6 @@
         ]
       },
       {
-        
-
         "nombreAtaque": "Shadow of Impending Doom",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
@@ -168,6 +183,7 @@
     ],
     "TeamMoves": [
       {
+        "id": 30,
 
         "nombreAtaque": "Pop Goes the Weasel",
         "Animacion": [
@@ -176,6 +192,7 @@
         ]
       },
       {
+        "id": 31,
 
         "nombreAtaque": "Who's On Next?",
         "Animacion": [
@@ -189,6 +206,7 @@
     ],
     "Blockbusters": [
       {
+        "id": 32,
 
         "nombreAtaque": "Argus Agony",
         "Animacion": [
@@ -197,6 +215,7 @@
         ]
       },
       {
+        "id": 33,
 
         "nombreAtaque": "Lonesome Lenny",
         "Animacion": [
@@ -205,6 +224,8 @@
         ]
       },
       {
+        "id": 34,
+
         "nombreAtaque": "Goodfellas",
         "Animacion": [
           "imagenes/ataquesSkullgitls/LPLK.png",
@@ -215,6 +236,7 @@
     ]
   },
   {
+    "id": 2,
 
     "Nombre": "Fukua",
     "Descripcion": "Fukua",
@@ -228,7 +250,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Platonic Drillationship",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
@@ -243,7 +264,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Tender Embrace ",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
@@ -251,7 +271,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Inevitable Snuggle",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
@@ -259,7 +278,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Breakdown",
         "Animacion": [
           "imagenes/ataquesSkullgitls/LK.png",
@@ -281,7 +299,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Lash Out2",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
@@ -294,7 +311,6 @@
     ],
     "Blockbusters": [
       {
-
         "nombreAtaque": "Blown Kiss (Lv. 1) (Air OK)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
@@ -302,7 +318,6 @@
         ]
       },
       {
-
         "nombreAtaque": "The Drill Of My Dreams (Lv. 1)  (Air OK)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
@@ -310,7 +325,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Fenrir Drive",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
@@ -318,7 +332,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Head Over Heels (Lv. 5)",
         "Animacion": [
           "imagenes/ataquesSkullgitls/360.png",
@@ -328,13 +341,13 @@
     ]
   },
   {
+    "id": 3,
 
     "Nombre": "Cerebella",
     "Descripcion": "Cerebella",
     "Foto": "imagenes/PersonajesSkullGirls/Cerebella.png",
     "Ataques": [
       {
-
         "nombreAtaque": "Diamond Drop",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCF.png",
@@ -342,7 +355,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Merry Go-Rilla",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
@@ -350,7 +362,6 @@
         ]
       },
       {
-
         "nombreAtaque": "Excellebella",
         "Animacion": [
           "imagenes/ataquesSkullgitls/DP.png",
@@ -456,6 +467,7 @@
     ]
   },
   {
+    "id": 4,
 
     "Nombre": "Ms. Fortune",
     "Descripcion": "Ms. Fortune",
@@ -477,7 +489,6 @@
         ]
       },
       {
-        "id": 56,
         "nombreAtaque": "Zoom!",
         "Animacion": [
           "imagenes/ataquesSkullgitls/6.png",
@@ -741,14 +752,14 @@
         ]
       },
       {
-        "nombreAtaque": "Fenrir Drive2",
+        "nombreAtaque": "Fenrir Drive",
         "Animacion": [
           "imagenes/ataquesSkullgitls/DP.png",
           "imagenes/ataquesSkullgitls/PP.png"
         ]
       },
       {
-        "nombreAtaque": "Fenrir DriveFenrir Drive",
+        "nombreAtaque": "Fenrir Drive",
         "Animacion": [
           "imagenes/ataquesSkullgitls/QCB.png",
           "imagenes/ataquesSkullgitls/PP.png"
