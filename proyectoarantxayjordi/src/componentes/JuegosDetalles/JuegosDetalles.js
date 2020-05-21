@@ -74,7 +74,7 @@ height: 10vw;
 
       display: "block",
       backgroundImage:
-        "linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(" +
+        "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
         detalles.Rooter +
         ")",
       backgroundRepeat: "no-repeat",
@@ -117,7 +117,7 @@ height: 10vw;
                 height="110vw"
               ></img>
             </Col>
-            <Col md="4" className="fondo1">
+            <Col md="4" className="fondo2">
               <h1 className="TextoTitulo">{detalles.Nombre} </h1>
             </Col>
 

@@ -4,8 +4,17 @@
 }
 
 .DivGeneral {
-    background-color: white !important;
     color: black;
+    text-align: center;
+    position: relative;
+    background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+
 
 
 }
@@ -56,22 +65,17 @@ margin-bottom: 40px!important;
     font-family: 'Roboto Slab', serif;
     margin-left: 4vw;
     margin-top: 3vw;
-
+color: white;
 }
 
 .rowGlobal {
-    text-align: center;
-    position: relative;
-    background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+ 
 
 
 }
+
 .txtDescripcion{
-    color:white;
+    color:rgb(255, 255, 255);
     font-family: "myFont";
 font-size: 2vw;
 position: absolute;
@@ -172,10 +176,12 @@ color:#f5e56f;
 
     margin-top: 2.5vw;
 }
-
+.fondo2{
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+}
 .fondo1 {
 
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0);
     height: 10vw;
     text-align: center;
 
