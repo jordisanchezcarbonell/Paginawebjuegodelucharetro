@@ -90,24 +90,28 @@ margin-bottom: 40px!important;
 }
 
 .CentradoTituloAtaque{
-color:white;
+color:#f5e56f;
     font-size: 30px;
     position: absolute;
     top: 10%;
     left: 50%;
     transform: translate(-50%, -70%);
     font-family: 'PT Serif', serif;
-
-
+    font-family: "myFont";
+    text-shadow: 1px 1px 2px #ae3707, 0 0 1em #ae3707, 0 0 0.4em #ae3707;
 }
-
+@font-face {
+    font-family: "myFont";
+    src: url("SelznickRemixNF.otf");
+  }
+  /*   */
 .centrado {
-    src: url("SelznickNormal: NaNotf") ;
-    font-family: 'PT Serif', serif;
-    font-size: 40px;
+    
+    font-family: 'PT Serif', serif;  
+      font-size: 40px;
     font-weight: bold;
     position: absolute;
-    top: 44%;
+    top: 42%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
