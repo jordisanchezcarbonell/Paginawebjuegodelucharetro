@@ -100,11 +100,6 @@ color:#f5e56f;
     font-family: "myFont";
     text-shadow: 1px 1px 2px #ae3707, 0 0 1em #ae3707, 0 0 0.4em #ae3707;
 }
-@font-face {
-    font-family: "myFont";
-    src: url("SelznickRemixNF.otf");
-  }
-  /*   */
 .centrado {
     
     font-family: 'PT Serif', serif;  
@@ -115,7 +110,10 @@ color:#f5e56f;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-
+@font-face {
+    font-family: "myFont";
+    src: url("SelznickRemixNF.otf");
+}
 .ContainerSeparacion {
 
     text-align: center;
