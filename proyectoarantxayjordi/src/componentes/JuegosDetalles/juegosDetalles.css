@@ -70,6 +70,40 @@ margin-bottom: 40px!important;
 
 
 }
+.txtDescripcion{
+    color:white;
+    font-family: "myFont";
+font-size: 2vw;
+position: absolute;
+top: 32%;
+left: 89.4%;
+transform: translate(-50%, -50%);
+
+}
+.NombreDesc{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+
+}
+
+
+.imgDescripcion{
+    margin-bottom: -10px;
+
+
+}
+.Descripcion{
+
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    text-align: center;
+
+    background-color: rgba(255, 255, 255, 0.466);
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
 
 .contenedor {
     position: relative;

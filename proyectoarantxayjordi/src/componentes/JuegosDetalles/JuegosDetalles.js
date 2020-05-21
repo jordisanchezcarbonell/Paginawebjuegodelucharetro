@@ -82,11 +82,7 @@ height: 10vw;
 
     return (
       <div className="DivGeneral">
-        {/*}
-        <Button variant="primary" >
-          Launch demo modal
-        </Button>
-    */}
+   
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -140,14 +136,26 @@ height: 10vw;
           })} */}
           </Row>
 
-          <Row>
-            <h6 className="NombrePers">{detalles.Descripcion} </h6>
-          </Row>
         </div>
         <div className="row rowGlobal ">
+          
+        <Container className="w-100 ContainerSeparacion mt-4 ">
+          <div className=" contenedor ">
+            <h1 className="txtDescripcion">Descripcion</h1>
+            <img
+                      src={require("./header.png")}
+                      className="imgDescripcion"
+                    />
+
+          </div>
+            <h6 className="NombreDesc">{detalles.Descripcion} </h6>
+       
+          </Container>
           {elementoporpasarparametro.map((personaje) => {
             return (
               <div className="Personajes w-100" key={personaje.Nombre}>
+
+
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
                     <img
@@ -157,7 +165,7 @@ height: 10vw;
 
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
-                  <h6 className="NombrePers">{detalles.Descripcion} </h6>
+             
 
                   <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
