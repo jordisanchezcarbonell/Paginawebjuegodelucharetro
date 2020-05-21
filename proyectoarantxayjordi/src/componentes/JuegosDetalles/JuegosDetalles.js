@@ -27,6 +27,7 @@ import SSBU from "../../JSON/SSBU.json";
 import SoulCalibur from "../../JSON/SoulCalibur.json";
 import Granblue from "../../JSON/GranBlue.json";
 import { ReactComponent as Logo } from "./nombre.png";
+import ReactPlayer from "react-player";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -97,6 +98,12 @@ height: 10vw;
               src={process.env.PUBLIC_URL + this.state.imagen}
               alt="Error"
             />
+            <ReactPlayer
+              //Modificacion del tamaño del video.
+              width="100px"
+              height="100px"
+              url="https://www.youtube.com/watch?v=3IHJokjMpf0"
+            />
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={this.handleCloseModal}>
@@ -134,7 +141,7 @@ height: 10vw;
           </Row>
 
           <Row>
-            <h6 className="NombrePers">Descripcion </h6>
+            <h6 className="NombrePers">{detalles.Descripcion} </h6>
           </Row>
         </div>
         <div className="row rowGlobal ">
@@ -150,6 +157,7 @@ height: 10vw;
 
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
+                  <h6 className="NombrePers">{detalles.Descripcion} </h6>
 
                   <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
