@@ -3,8 +3,8 @@
     "Nombre": "Fulgore",
     "Descripcion": "Fulgore .",
     "Foto": "imagenes/KITODO/fulgore-foto.png",
-    "Fondo":"imagenes/KITODO/fulgore-fondo.png",
-    "Runa":"imagenes/KITODO/fulgore-runa.png",
+    "Fondo": "imagenes/KITODO/fulgore-fondo.jpg",
+    "Runa": "imagenes/KITODO/fulgore-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Blade Dash",
@@ -100,8 +100,8 @@
     "Nombre": "Aria",
     "Descripcion": "Aria",
     "Foto": "imagenes/KITODO/aria-foto.png",
-    "Fondo":"imagenes/KITODO/aria-fondo.png",
-    "Runa":"imagenes/KITODO/aria-runa.png",
+    "Fondo": "imagenes/KITODO/aria-fondo.jpg",
+    "Runa": "imagenes/KITODO/aria-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Shotgun Blitz",
@@ -183,8 +183,8 @@
     "Nombre": "Rash",
     "Descripcion": "Rash",
     "Foto": "imagenes/KITODO/rash-foto.png",
-    "Fondo":"imagenes/KITODO/rash-fondo.png",
-    "Runa":"imagenes/KITODO/rash-runa.png",
+    "Fondo": "imagenes/KITODO/rash-fondo.jpg",
+    "Runa": "imagenes/KITODO/rash-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Wicked Tongue any direction (air OK)",
@@ -268,8 +268,8 @@
     "Nombre": "Omen",
     "Descripcion": "Omen",
     "Foto": "imagenes/KITODO/omen-foto.png",
-    "Fondo":"imagenes/KITODO/omen-fondo.png",
-    "Runa":"imagenes/KITODO/omen-runa.png",
+    "Fondo": "imagenes/KITODO/omen-fondo.jpg",
+    "Runa": "imagenes/KITODO/omen-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Furious Swipes",
@@ -354,8 +354,8 @@
     "Nombre": "Jago",
     "Descripcion": "Jago",
     "Foto": "imagenes/KITODO/jago-foto.png",
-    "Fondo":"imagenes/KITODO/jago-fondo.png",
-    "Runa":"imagenes/KITODO/jago-runa.png",
+    "Fondo": "imagenes/KITODO/jago-fondo.jpg",
+    "Runa": "imagenes/KITODO/jago-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Neck Cutter",
@@ -444,8 +444,8 @@
     "Nombre": "Maya",
     "Descripcion": "Maya",
     "Foto": "imagenes/KITODO/maya-foto.png",
-    "Fondo":"imagenes/KITODO/maya-fondo.png",
-    "Runa":"imagenes/KITODO/maya-runa.png",
+    "Fondo": "imagenes/KITODO/maya-fondo.jpg",
+    "Runa": "imagenes/KITODO/maya-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Axe Kick",
@@ -638,9 +638,9 @@
     "Nombre": "Hisako",
     "Descripcion": "Hisako",
     "Foto": "imagenes/KITODO/hisako-foto.png",
-    "Fondo":"imagenes/KITODO/hisako-fondo.png",
-    "Runa":"imagenes/KITODO/hisako-runa.png",  
-      "Ataques": [
+    "Fondo": "imagenes/KITODO/hisako-fondo.jpg",
+    "Runa": "imagenes/KITODO/hisako-runa.png",
+    "Ataques": [
       {
         "nombreAtaque": "Descent",
         "Animacion": [
@@ -734,8 +734,8 @@
     "Nombre": "Glacius",
     "Descripcion": "Glacius",
     "Foto": "imagenes/KITODO/glacius-foto.png",
-    "Fondo":"imagenes/KITODO/glacius-fondo.png",
-    "Runa":"imagenes/KITODO/glacius-runa.png",
+    "Fondo": "imagenes/KITODO/glacius-fondo.jpg",
+    "Runa": "imagenes/KITODO/glacius-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Ice Lance",
@@ -830,8 +830,8 @@
     "Nombre": "Mira",
     "Descripcion": "Mira",
     "Foto": "imagenes/KITODO/mira-foto.png",
-    "Fondo":"imagenes/KITODO/mira-fondo.png",
-    "Runa":"imagenes/KITODO/mira-runa.png",
+    "Fondo": "imagenes/KITODO/mira-fondo.jpg",
+    "Runa": "imagenes/KITODO/mira-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Vicious Strikes",

@@ -20,6 +20,7 @@ import ReactPlayer from "react-player";
 import iconSet from "./selection.json";
 import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
+import Image from "./b-Aria.jpg"; // Import using relative path
 
 class KillerInstinc extends React.Component {
   constructor(props, context) {
@@ -60,14 +61,6 @@ class KillerInstinc extends React.Component {
         this.props.detalles.Rooter +
         ")",
       backgroundRepeat: "no-repeat",
-    };
-
-    const p = {
-  
-      backgroundSize: "cover",
-        
-            display: "block",  
-  
     };
 
     return (
@@ -128,8 +121,23 @@ class KillerInstinc extends React.Component {
         </div>
         <div className="row rowGlobal ">
           {this.props.Juego.map((personaje) => {
+            const fondopersonaje = {
+              backgroundImage: "url(" + personaje.Fondo + ")",
+              WebkitBackgroundSize: "cover",
+              MozBackgroundSize: "cover",
+              OBackgroundSize: "cover",
+              backgroundSize: "cover",
+              color: "black",
+              backgroundPosition: "center center",
+              backgroundAttachment: "fixed",
+              height: "38.5vw",
+            };
             return (
-              <div className="PersonajesKI w-100 mt-4" style={p} key={personaje.Nombre}>
+              <div
+                className="w-100 mt-4"
+                style={fondopersonaje}
+                key={personaje.Nombre}
+              >
                 <Container className="w-100 ">
                   <Row className=" w-100 stage">
                     <Col className="pra col-md-6">
