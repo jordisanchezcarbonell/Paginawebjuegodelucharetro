@@ -97,7 +97,7 @@
   {
     "Nombre": "Aria",
     "Descripcion": "Aria",
-    "Foto": "imagenes/KillerInstinct/aria.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/ARIA.png",
     "Ataques": [
       {
         "nombreAtaque": "Shotgun Blitz",
@@ -178,7 +178,7 @@
   {
     "Nombre": "Rash",
     "Descripcion": "Rash",
-    "Foto": "imagenes/KillerInstinct/rash.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Rash.png",
     "Ataques": [
       {
         "nombreAtaque": "Wicked Tongue any direction (air OK)",
@@ -261,7 +261,7 @@
   {
     "Nombre": "Omen",
     "Descripcion": "Omen",
-    "Foto": "imagenes/KillerInstinct/omen.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Omen.png",
     "Ataques": [
       {
         "nombreAtaque": "Furious Swipes",
@@ -345,7 +345,7 @@
   {
     "Nombre": "Jago",
     "Descripcion": "Jago",
-    "Foto": "imagenes/KillerInstinct/jago.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Jago.png",
     "Ataques": [
       {
         "nombreAtaque": "Neck Cutter",
@@ -433,7 +433,7 @@
   {
     "Nombre": "Maya",
     "Descripcion": "Maya",
-    "Foto": "imagenes/KillerInstinct/maya.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Maya.png",
     "Ataques": [
       {
         "nombreAtaque": "Axe Kick",
@@ -536,7 +536,7 @@
   {
     "Nombre": "Kilgore",
     "Descripcion": "Kilgore",
-    "Foto": "imagenes/KillerInstinct/kilgore.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Kilgore.png",
     "Ataques": [
       {
         "nombreAtaque": "Short Circuit",
@@ -625,7 +625,7 @@
   {
     "Nombre": "Hisako",
     "Descripcion": "Hisako",
-    "Foto": "imagenes/KillerInstinct/hisako.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Hisako.png",
     "Ataques": [
       {
         "nombreAtaque": "Descent",
@@ -719,7 +719,7 @@
   {
     "Nombre": "Glacius",
     "Descripcion": "Glacius",
-    "Foto": "imagenes/KillerInstinct/glacius.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Glacius.png",
     "Ataques": [
       {
         "nombreAtaque": "Ice Lance",
@@ -813,7 +813,7 @@
   {
     "Nombre": "Mira",
     "Descripcion": "Mira",
-    "Foto": "imagenes/KillerInstinct/mira.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Mira.png",
     "Ataques": [
       {
         "nombreAtaque": "Vicious Strikes",
