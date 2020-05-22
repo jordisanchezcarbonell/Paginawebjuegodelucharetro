@@ -28,6 +28,7 @@ import SoulCalibur from "../../JSON/SoulCalibur.json";
 import Granblue from "../../JSON/GranBlue.json";
 import { ReactComponent as Logo } from "./nombre.png";
 import ReactPlayer from "react-player";
+import KillerInstinct from "./KillerInstinc/KillerInstinc";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -82,7 +83,6 @@ height: 10vw;
 
     return (
       <div className="DivGeneral">
-   
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -135,27 +135,18 @@ height: 10vw;
             );
           })} */}
           </Row>
-
         </div>
         <div className="row rowGlobal ">
-          
-        <Container className="w-100 ContainerSeparacion mt-4 ">
-          <div className=" contenedor ">
-            <h1 className="txtDescripcion">Descripcion</h1>
-            <img
-                      src={require("./header.png")}
-                      className="imgDescripcion"
-                    />
-
-          </div>
+          <Container className="w-100 ContainerSeparacion mt-4 ">
+            <div className=" contenedor ">
+              <h1 className="txtDescripcion">Descripcion</h1>
+              <img src={require("./header.png")} className="imgDescripcion" />
+            </div>
             <h6 className="NombreDesc">{detalles.Descripcion} </h6>
-       
           </Container>
           {elementoporpasarparametro.map((personaje) => {
             return (
               <div className="Personajes w-100" key={personaje.Nombre}>
-
-
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
                     <img
@@ -165,7 +156,6 @@ height: 10vw;
 
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
-             
 
                   <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
@@ -376,7 +366,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[2].Nombre) {
       return this.streetfighter(detalles, ponys);
     } else if (detalles.Nombre === prueba[3].Nombre) {
-      return this.streetfighter(detalles, killerinstinct);
+      return <KillerInstinct detalles={detalles} Juego={killerinstinct} />;
     } else if (detalles.Nombre === prueba[4].Nombre) {
       return this.streetfighter(detalles, Skullgirls);
     } else if (detalles.Nombre === prueba[5].Nombre) {

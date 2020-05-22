@@ -1,0 +1,11 @@
+.TextoTitulokILLER {
+
+    font-family: 'PT Serif', serif;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aqua;
+}
