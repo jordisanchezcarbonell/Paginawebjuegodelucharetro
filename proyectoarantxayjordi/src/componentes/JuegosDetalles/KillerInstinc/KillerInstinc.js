@@ -54,7 +54,7 @@ class KillerInstinc extends React.Component {
       display: "block",
       backgroundImage:
         "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
-        detalles.Rooter +
+        this.props.detalles.Rooter +
         ")",
       backgroundRepeat: "no-repeat",
     };
