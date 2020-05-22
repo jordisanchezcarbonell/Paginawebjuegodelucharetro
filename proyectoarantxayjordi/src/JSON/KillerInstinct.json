@@ -38,7 +38,7 @@
         "Animacion": [
           "imagenes/AtaquesKIllerInstinct/down.png",
           "imagenes/AtaquesKIllerInstinct/downleft.png",
-          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
       },
@@ -50,9 +50,8 @@
           "imagenes/AtaquesKIllerInstinct/downleft.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Devastation Beam",
         "Animacion": [
@@ -64,9 +63,8 @@
           "imagenes/AtaquesKIllerInstinct/mp.png",
           "imagenes/AtaquesKIllerInstinct/hp.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -138,9 +136,8 @@
           "imagenes/AtaquesKIllerInstinct/downleft.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Dissonance",
         "Animacion": [
@@ -149,9 +146,8 @@
           "imagenes/AtaquesKIllerInstinct/right.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -208,9 +204,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/hp.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Battering Ram",
         "Animacion": [
@@ -237,9 +232,8 @@
           "imagenes/AtaquesKIllerInstinct/right.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -277,9 +271,8 @@
           "imagenes/AtaquesKIllerInstinct/right.png",
           "imagenes/AtaquesKIllerInstinct/hp.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Rashakuken",
         "Animacion": [
@@ -334,9 +327,8 @@
           "imagenes/AtaquesKIllerInstinct/lp.png",
           "imagenes/AtaquesKIllerInstinct/lk.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -399,9 +391,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Tiger Fury",
         "Animacion": [
@@ -410,9 +401,8 @@
           "imagenes/AtaquesKIllerInstinct/downright.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -504,9 +494,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/hp.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Tumble Kick",
         "Animacion": [
@@ -515,9 +504,8 @@
           "imagenes/AtaquesKIllerInstinct/right.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -595,9 +583,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Chain Gun Assault",
         "Animacion": [
@@ -606,9 +593,8 @@
           "imagenes/AtaquesKIllerInstinct/downright.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -691,9 +677,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Possession",
         "Animacion": [
@@ -702,9 +687,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -778,9 +762,8 @@
           "imagenes/AtaquesKIllerInstinct/right.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Hail",
         "Animacion": [
@@ -798,9 +781,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -869,9 +851,8 @@
           "imagenes/AtaquesKIllerInstinct/right.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
-      }
-    ],
-    "ShadowAttacks": [
+      },
+
       {
         "nombreAtaque": "Blood Seekers",
         "Animacion": [
@@ -889,9 +870,8 @@
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
-      }
-    ],
-    "Finishers": [
+      },
+
       {
         "nombreAtaque": "Ultra",
         "Animacion": [
@@ -915,6 +895,1651 @@
           "imagenes/AtaquesKIllerInstinct/into.png",
           "imagenes/AtaquesKIllerInstinct/lp.png",
           "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eyedol",
+    "Descripcion": "Eyedol",
+    "Foto": "imagenes/KITODO/eyedol-foto.png",
+    "Fondo": "imagenes/KITODO/eyedol-fondo.jpg",
+    "Runa": "imagenes/KITODO/eyedol-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Wake Up!",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Bash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Clobber",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Roar",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Crushing Destroyer ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Swing",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Shoulde",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gargos",
+    "Descripcion": "Gargos",
+    "Foto": "imagenes/KITODO/gargos-foto.png",
+    "Fondo": "imagenes/KITODO/gargos-fondo.jpg",
+    "Runa": "imagenes/KITODO/gargos-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Wake Up!",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Bash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Clobber",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Roar",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Reckoning (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Oblivion ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Summon Minion ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Minion Commands",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devil's Divide",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Devil's Divide + Minion When near a minion,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "EruptionIn In instinct  (air OK) ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Riptor",
+    "Descripcion": "Riptor",
+    "Foto": "imagenes/KITODO/riptor-foto.png",
+    "Fondo": "imagenes/KITODO/riptor-fondo.jpg",
+    "Runa": "imagenes/KITODO/riptor-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Flame Breath",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flame Mortar(hold)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Unique Run Normals While Running,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Predator Stance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shoulder Charge ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Talon Rake ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tail Flip (air ok)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kim Wu",
+    "Descripcion": "Kim Wu",
+    "Foto": "imagenes/KITODO/kim_wu-foto.png",
+    "Fondo": "imagenes/KITODO/kim_wu-fondo.jpg",
+    "Runa": "imagenes/KITODO/kim_wu-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dragon Grasp",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Counter",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dragon Cancel (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Firecracker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Dance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shadow Jago",
+    "Descripcion": "Shadow Jago",
+    "Foto": "imagenes/KITODO/shadow_jago-foto.png",
+    "Fondo": "imagenes/KITODO/shadow_jago-fondo.jpg",
+    "Runa": "imagenes/KITODO/shadow_jago-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dark Drift",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shendokuken  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dark Demise  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Fury",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Annihilation During instinct",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Eagle",
+    "Descripcion": "Eagle",
+    "Foto": "imagenes/KITODO/shadow_jago-foto.png",
+    "Fondo": "imagenes/KITODO/shadow_jago-fondo.jpg",
+    "Runa": "imagenes/KITODO/shadow_jago-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Arrow Attacks",
+        "Animacion": ["imagenes/AtaquesKIllerInstinct/hp.png"]
+      },
+      {
+        "nombreAtaque": "Bird Commands",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Scatter Shot",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rain Shot",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ankle Breaker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wingspan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tusk",
+    "Descripcion": "Tusk",
+    "Foto": "imagenes/KITODO/tusk-foto.png",
+    "Fondo": "imagenes/KITODO/tusk-fondo.jpg",
+    "Runa": "imagenes/KITODO/tusk-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Skull Splitter  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shendokuken  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Moosejaw Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Collateral Damage Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Destroyer Immortal Spirit",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Orchid",
+    "Descripcion": "Orchid",
+    "Foto": "imagenes/KITODO/orchid-foto.png",
+    "Fondo": "imagenes/KITODO/orchid-fondo.jpg",
+    "Runa": "imagenes/KITODO/orchid-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Whiplash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Grenade Toss",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Air Throw In air,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flick Flack",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ichi Ni San",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Blockade Runner",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Buster",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Arbiter",
+    "Descripcion": "Arbiter",
+    "Foto": "imagenes/KITODO/arbiter-foto.png",
+    "Fondo": "imagenes/KITODO/arbiter-fondo.jpg",
+    "Runa": "imagenes/KITODO/arbiter-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Fire Weapon Various ",
+        "Animacion": ["imagenes/AtaquesKIllerInstinct/hk.png"]
+      },
+      {
+        "nombreAtaque": "Throw Grenade ",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cloven Kick",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy's Demise",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Truth Seeker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Prophet's Bane",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy Shield",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sadira",
+    "Descripcion": "Sadira",
+    "Foto": "imagenes/KITODO/sadira-foto.png",
+    "Fondo": "imagenes/KITODO/sadira-fondo.jpg",
+    "Runa": "imagenes/KITODO/sadira-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Widow's Drop In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "SalticidaeIn  In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fang",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Blade Demon",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Recluse",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Widow's Bite In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Web Cling In air",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "UltimateUltra",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Spinal",
+    "Descripcion": "Spinal",
+    "Foto": "imagenes/KITODO/spinal-foto.png",
+    "Fondo": "imagenes/KITODO/spinal-fondo.jpg",
+    "Runa": "imagenes/KITODO/spinal-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Dive Kick In air,",
+        "Animacion": ["imagenes/AtaquesKIllerInstinct/mk.png"]
+      },
+      {
+        "nombreAtaque": "Power Devour HOLD",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shield Crush",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Searing Skull",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Boneshaker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Skeleport",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow Skull Summon",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cinder",
+    "Descripcion": "Cinder",
+    "Foto": "imagenes/KITODO/cinder-foto.png",
+    "Fondo": "imagenes/KITODO/cinder-fondo.jpg",
+    "Runa": "imagenes/KITODO/cinder-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Cross Fire In air,",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Trailblazer (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fireflash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Pyrobomb",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fission",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Inferno",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kan-Ra",
+    "Descripcion": "Kan-Ra",
+    "Foto": "imagenes/KITODO/kan_ra-foto.png",
+    "Fondo": "imagenes/KITODO/kan_ra-fondo.jpg",
+    "Runa": "imagenes/KITODO/kan_ra-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Sand Creation Normals Various",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sand Trap Normals",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sacrifice needs Sand Trap",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lk.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Spike",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Swarm (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Whirl",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Clutch",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sabrewulf",
+    "Descripcion": "Sabrewulf",
+    "Foto": "imagenes/KITODO/sabrewulf-foto.png",
+    "Fondo": "imagenes/KITODO/sabrewulf-fondo.jpg",
+    "Runa": "imagenes/KITODO/sabrewulf-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Overpower",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ragged Edge",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eclipse",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Run",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HamstringRun",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumping Slash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Running Uppercut",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shin Hisako",
+    "Descripcion": "Shin Hisako",
+    "Foto": "imagenes/KITODO/sabrewulf-foto.png",
+    "Fondo": "imagenes/KITODO/sabrewulf-fondo.jpg",
+    "Runa": "imagenes/KITODO/sabrewulf-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Spirit Orb (air OK)",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Katana Poke",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shin On Ryo Zan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shin Air On Ryo Zan",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spirit Slice",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Awakened Soul",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "TJ Combo",
+    "Descripcion": "TJ Combo",
+    "Foto": "imagenes/KITODO/tj_combo-foto.png",
+    "Fondo": "imagenes/KITODO/tj_combo-fondo.jpg",
+    "Runa": "imagenes/KITODO/tj_combo-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Tremor",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vortex/Cyclone",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/up.png",
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vortex/Cyclone",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoot Toss",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Powerline",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Back Step",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tumble",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying Knee",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/hk.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Thunder",
+    "Descripcion": "Thunder",
+    "Foto": "imagenes/KITODO/thunder-foto.png",
+    "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+    "Runa": "imagenes/KITODO/thunder-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Horn Breaker",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Call of Sky",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Call of the Earth",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ankle Slicer",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Triplax",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sammamish",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Aganos",
+    "Descripcion": "Aganos",
+    "Foto": "imagenes/KITODO/thunder-foto.png",
+    "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+    "Runa": "imagenes/KITODO/thunder-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "War Path",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "No Escape",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pulverize",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ruin",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Payload Assault",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Natural Disaster",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultimate",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png",
+          "imagenes/AtaquesKIllerInstinct/into.png",
+
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/lk.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "General RAAM",
+    "Descripcion": "General RAAM",
+    "Foto": "imagenes/KITODO/general_raam-foto.png",
+    "Fondo": "imagenes/KITODO/general_raam-fondo.jpg",
+    "Runa": "imagenes/KITODO/general_raam-runa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Deception",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/mk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kryll Shield",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/lp.png",
+          "imagenes/AtaquesKIllerInstinct/mp.png",
+          "imagenes/AtaquesKIllerInstinct/hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dominance",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kryll Rush",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Emergence",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Decimation",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ultra Combo",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
       }
     ]
