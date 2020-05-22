@@ -12,10 +12,13 @@ import { Container, Row, Col } from "reactstrap";
 import "./Juego.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
-
+// get our fontawesome imports
+import { faHome } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { ReactComponent as Logo } from "../nombre.png";
 import ReactPlayer from "react-player";
-
+import iconSet from "./selection.json";
+import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
 class KillerInstinc extends React.Component {
@@ -129,75 +132,171 @@ class KillerInstinc extends React.Component {
         
           {this.props.Juego.map((personaje) => {
             return (
-              <div className="PersonajesKI w-100 mt-4" key={personaje.Nombre}>
-            
+              <div className="Personajes w-100" key={personaje.Nombre}>
+                <Container className="w-100 ContainerSeparacion ">
+                  <div className="contenedor">
+                    <img
+                      src={require("../descarga1.png")}
+                      className="fotoNombre"
+                    />
+                    <div className="TextoTitulokILLER">{personaje.Nombre}</div>
+                  </div>
 
-    
+                  <TableContainer
+                    component={Paper}
+                    className="TablaGeneral  mb-3"
+                  >
+                    <Table>
+                      <TableBody>
+                        {personaje.Ataques.map((Ataque, index) => (
+                          <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                            <TableCell
+                              className=" py-2 pro "
+                              component="th"
+                              scope="row"
+                            >
+                              {Ataque.nombreAtaque}
+                            </TableCell>
 
-               <Container className="w-100 ">
-                 <Row className=" w-100 stage">
-                   <Col className="pra col-md-6" >              
-                    
+                            {
+                              <TableCell
+                                component="th"
+                                className="  nombreAtaques py-2"
+                                align="right"
+                              >
+                                {Ataque.Animacion.map(
+                                  (animaciondelataque, index) => (
+                                    <img
+                                      className="imgAtaque"
+                                      key={index}
+                                      variant="top"
+                                      src={
+                                        process.env.PUBLIC_URL +
+                                        animaciondelataque
+                                      }
+                                      alt="Error"
+                                    />
+                                  )
+                                )}
+                              </TableCell>
+                            }
+                          </TableRow>
+                        ))}
+                      </TableBody>
+                    </Table>
+                  </TableContainer>
 
-             
-                    <img src="https://msgpwebsites.azureedge.net/killerinstinctv2/wp-content/uploads/2016/12/emblem_aria-7.png"   className="rune"/>
-                
-              
-                    <img src="https://msgpwebsites.azureedge.net/killerinstinctv2/wp-content/uploads/2016/12/character_aria-7.png"  className="character"/>
-              
-                <a href="https://www.ultra-combo.com/characters/hisako/" alt="Character Name"></a> 
+                  <div className="contenedor  mb-4 mt-5">
+                    <img
+                      src={require("../nombre.png")}
+                      className="fotoNombre"
+                    />
 
-                </Col>
-                <Col className="col-md-6">
-
-
-                  <h1 className="NombreKI">{personaje.Nombre}</h1>
-
-                  <div className="content">
-                   
-                    <div className="youtube">
-                        <div>
-                        </div>
+                    <div className="CentradoTituloAtaque w-100 ">
+                      Team Movies
                     </div>
-                    <div className="nav">
-                        <a className="btn-ki large ghostpulse" href="https://www.ultra-combo.com/characters/arbiter/">
-                            <span>
-                                <span>Biography &amp; Videos</span>
-                            </span>
-                        </a>
+                  </div>
+                  <TableContainer component={Paper} className="TablaGeneral  ">
+                    <Table>
+                      <TableBody>
+                        {personaje.ShadowAttacks.map((Ataque, index) => (
+                          <TableRow key={Ataque.nombreAtaque}>
+                            <TableCell
+                              className=" py-2 pro"
+                              component="th"
+                              scope="row"
+                            >
+                              {Ataque.nombreAtaque}
+                            </TableCell>
+                            {
+                              <TableCell
+                                className=" py-2 nombreAtaques"
+                                component="th"
+                                align="right"
+                              >
+                                {Ataque.Animacion.map(
+                                  (animaciondelataque, index) => (
+                                    <span key={index}>
+                                      <img
+                                        className="imgAtaque"
+                                        variant="top"
+                                        src={
+                                          process.env.PUBLIC_URL +
+                                          animaciondelataque
+                                        }
+                                        alt="Error"
+                                      />
+                                    </span>
+                                  )
+                                )}
+                              </TableCell>
+                            }
+                          </TableRow>
+                        ))}
+                      </TableBody>
+                    </Table>
+                  </TableContainer>
+
+                  <div className="contenedor mb-4 mt-5">
+                    <img
+                      src={require("../nombre.png")}
+                      className="fotoNombre "
+                    />
+
+                    <div className="CentradoTituloAtaque w-100 ">
+                      Blockbusters
                     </div>
-                </div>
+                  </div>
 
-
-
-
-               
-                 
-                      <TableContainer
-                                           >
-                        <Table>
-                          <TableBody>
-                           <TableRow>
-                                <TableCell>
-                                
-                                 
-                                  </TableCell>
-                               
-                              </TableRow>
-                           
-                          </TableBody>
-                        </Table>
-                      </TableContainer>
-
-
-
-
-
-
-
-                </Col>
-                </Row>
-
+                  <TableContainer component={Paper} className="TablaGeneral  ">
+                    <Table>
+                      <TableBody>
+                        {personaje.Finishers.map((Ataque, index) => (
+                          <TableRow key={Ataque.nombreAtaque}>
+                            <TableCell
+                              className=" py-2 pro margenesdetablas"
+                              component="th"
+                              scope="row"
+                            >
+                              {Ataque.nombreAtaque}
+                            </TableCell>
+                            {
+                              <TableCell
+                                className=" py-2 nombreAtaques"
+                                component="th"
+                                align="right"
+                              >
+                                {Ataque.Animacion.map(
+                                  (animaciondelataque, index) => (
+                                    <img
+                                      className="imgAtaque"
+                                      key={index}
+                                      variant="top"
+                                      src={
+                                        process.env.PUBLIC_URL +
+                                        animaciondelataque
+                                      }
+                                      alt="Error"
+                                    />
+                                  )
+                                )}
+                              </TableCell>
+                            }
+                          </TableRow>
+                        ))}
+                      </TableBody>
+                    </Table>
+                  </TableContainer>
+                  <Row className="prueba pt-0 pb-3  mx-auto">
+                    <Col md="8">
+                      <div className="contenedor mb-3 mt-5">
+                        <img
+                          src={require("../nombre.png")}
+                          className="fotoNombre"
+                        />
+                      </div>
+                    </Col>
+                  </Row>
                 </Container>
 
               </div>
