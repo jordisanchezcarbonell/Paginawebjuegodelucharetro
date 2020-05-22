@@ -548,7 +548,9 @@
   {
     "Nombre": "Kilgore",
     "Descripcion": "Kilgore",
-    "Foto": "imagenes/PersonajesKillerInstinct/Kilgore.png",
+    "Foto": "imagenes/KITODO/kilgore-foto.png",
+    "Fondo":"imagenes/KITODO/fulgore-fondo.png",
+    "Runa":"imagenes/KITODO/fulgore-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Short Circuit",
@@ -830,7 +832,7 @@
     "Nombre": "Mira",
     "Descripcion": "Mira",
     "Foto": "imagenes/KITODO/mira-foto.png",
-    "Fondo":"imagenes/KITODO/mira-fondo.png",
+    "Fondo":"imagenes/KITODO/mira-fondo.jpg",
     "Runa":"imagenes/KITODO/mira-runa.png",
     "Ataques": [
       {
