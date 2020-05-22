@@ -138,7 +138,7 @@ class KillerInstinc extends React.Component {
                       />
 
                       <img
-                        src={process.env.PUBLIC_URL + this.props.detalles.Foto}
+                        src={process.env.PUBLIC_URL + personaje.Foto}
                         className="character"
                       />
 
