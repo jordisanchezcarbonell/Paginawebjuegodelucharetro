@@ -22,6 +22,7 @@ class KillerInstinc extends React.Component {
   constructor(props, context) {
     super(props);
     console.log(props);
+    console.log(this.props.detalles.Foto);
   }
 
   state = {
@@ -87,15 +88,16 @@ class KillerInstinc extends React.Component {
         <div>
           <Row>
             <Col md="3" className="fondo1">
+              <h6> {this.props.detalles[0]}</h6>
               <img
-                src={process.env.PUBLIC_URL + detalles.Foto}
+                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
                 className="fotoLogoPonys"
                 height="110vw"
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-              <h1 className="TextoTitulokILLER">{detalles.Nombre} </h1>
+              <h1 className="TextoTitulo">{this.props.detalles.Nombre}</h1>
             </Col>
 
             <Col md="5" style={style}></Col>
