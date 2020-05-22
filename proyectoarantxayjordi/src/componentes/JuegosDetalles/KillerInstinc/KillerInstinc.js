@@ -62,6 +62,16 @@ class KillerInstinc extends React.Component {
       backgroundRepeat: "no-repeat",
     };
 
+    const p={
+    left:" -2.60069vw"
+    };
+
+    const h={
+ 
+      left: "9.14782vw"
+
+    };
+
     return (
       <div className="DivGeneral">
         <Modal show={this.state.show}>
@@ -119,13 +129,7 @@ class KillerInstinc extends React.Component {
           </Row>
         </div>
         <div className="row rowGlobal ">
-          <Container className="w-100 ContainerSeparacion mt-4 ">
-            <div className=" contenedor ">
-              <h1 className="txtDescripcion">Descripcion</h1>
-              <img src={require("../header.png")} className="imgDescripcion" />
-            </div>
-            <h6 className="NombreDesc">{detalles.Descripcion} </h6>
-          </Container>
+        
           {this.props.Juego.map((personaje) => {
             return (
               <div className="Personajes w-100" key={personaje.Nombre}>
@@ -294,6 +298,7 @@ class KillerInstinc extends React.Component {
                     </Col>
                   </Row>
                 </Container>
+
               </div>
             );
           })}
