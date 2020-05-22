@@ -22,7 +22,11 @@
   top: 0;
 }
 
+.T{
 
+    background-color: rgba(0, 0, 0, 0.137)!important;
+
+}
 .rune {
   position: relative;
   height: 25.7vw;
@@ -39,6 +43,15 @@
   height: 38.5vw;
   width: auto;
   z-index: 2;
+
+}
+.character:hover,.rune{
+    transform:translate(-30px,0px);
+    -ms-transform:translate(-30px,0px);  
+    -moz-transform:translate(-30px,0px);  
+    -webkit-transform:translate(-30px,0px);
+    -o-transform:translate(-30px,0px);
+
 }
 
 @font-face {

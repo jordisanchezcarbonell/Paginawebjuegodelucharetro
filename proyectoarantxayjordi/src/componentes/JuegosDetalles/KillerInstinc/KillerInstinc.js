@@ -159,25 +159,11 @@ class KillerInstinc extends React.Component {
                     <Col className="col-md-6">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
 
-                      <div className="content">
-                        <div className="youtube">
-                          <div></div>
-                        </div>
-                        <div className="nav">
-                          <a
-                            className="btn-ki large ghostpulse"
-                            href="https://www.ultra-combo.com/characters/arbiter/"
-                          >
-                            <span>
-                              <span>Biography &amp; Videos</span>
-                            </span>
-                          </a>
-                        </div>
-                      </div>
+                    
 
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  mb-3"
+                        className="T mb-3"
                       >
                         <Table>
                           <TableBody>
@@ -222,123 +208,10 @@ class KillerInstinc extends React.Component {
                         </Table>
                       </TableContainer>
 
-                      <div className="contenedor  mb-4 mt-5">
-                        <img
-                          src={require("../nombre.png")}
-                          className="fotoNombre"
-                        />
+                      
 
-                        <div className="CentradoTituloAtaque w-100 ">
-                          Team Movies
-                        </div>
-                      </div>
-                      <TableContainer
-                        component={Paper}
-                        className="TablaGeneral  "
-                      >
-                        <Table>
-                          <TableBody>
-                            {personaje.ShadowAttacks.map((Ataque, index) => (
-                              <TableRow key={Ataque.nombreAtaque}>
-                                <TableCell
-                                  className=" py-2 pro"
-                                  component="th"
-                                  scope="row"
-                                >
-                                  {Ataque.nombreAtaque}
-                                </TableCell>
-                                {
-                                  <TableCell
-                                    className=" py-2 nombreAtaques"
-                                    component="th"
-                                    align="right"
-                                  >
-                                    {Ataque.Animacion.map(
-                                      (animaciondelataque, index) => (
-                                        <span key={index}>
-                                          <img
-                                            className="imgAtaque"
-                                            variant="top"
-                                            src={
-                                              process.env.PUBLIC_URL +
-                                              animaciondelataque
-                                            }
-                                            alt="Error"
-                                          />
-                                        </span>
-                                      )
-                                    )}
-                                  </TableCell>
-                                }
-                              </TableRow>
-                            ))}
-                          </TableBody>
-                        </Table>
-                      </TableContainer>
-
-                      <div className="contenedor mb-4 mt-5">
-                        <img
-                          src={require("../nombre.png")}
-                          className="fotoNombre "
-                        />
-
-                        <div className="CentradoTituloAtaque w-100 ">
-                          Blockbusters
-                        </div>
-                      </div>
-
-                      <TableContainer
-                        component={Paper}
-                        className="TablaGeneral  "
-                      >
-                        <Table>
-                          <TableBody>
-                            {personaje.Finishers.map((Ataque, index) => (
-                              <TableRow key={Ataque.nombreAtaque}>
-                                <TableCell
-                                  className=" py-2 pro margenesdetablas"
-                                  component="th"
-                                  scope="row"
-                                >
-                                  {Ataque.nombreAtaque}
-                                </TableCell>
-                                {
-                                  <TableCell
-                                    className=" py-2 nombreAtaques"
-                                    component="th"
-                                    align="right"
-                                  >
-                                    {Ataque.Animacion.map(
-                                      (animaciondelataque, index) => (
-                                        <img
-                                          className="imgAtaque"
-                                          key={index}
-                                          variant="top"
-                                          src={
-                                            process.env.PUBLIC_URL +
-                                            animaciondelataque
-                                          }
-                                          alt="Error"
-                                        />
-                                      )
-                                    )}
-                                  </TableCell>
-                                }
-                              </TableRow>
-                            ))}
-                          </TableBody>
-                        </Table>
-                      </TableContainer>
-                      <Row className="prueba pt-0 pb-3  mx-auto">
-                        <Col md="8">
-                          <div className="contenedor mb-3 mt-5">
-                            <img
-                              src={require("../nombre.png")}
-                              className="fotoNombre"
-                            />
-                          </div>
-                        </Col>
-                      </Row>
+                    
+                     
                     </Col>
                   </Row>
                 </Container>
