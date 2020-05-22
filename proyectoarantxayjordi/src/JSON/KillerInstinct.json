@@ -549,8 +549,8 @@
     "Nombre": "Kilgore",
     "Descripcion": "Kilgore",
     "Foto": "imagenes/KITODO/kilgore-foto.png",
-    "Fondo":"imagenes/KITODO/fulgore-fondo.png",
-    "Runa":"imagenes/KITODO/fulgore-runa.png",
+    "Fondo": "imagenes/KITODO/fulgore-fondo.jpg",
+    "Runa": "imagenes/KITODO/fulgore-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Short Circuit",
