@@ -2,7 +2,7 @@
   {
     "Nombre": "Fulgore",
     "Descripcion": "Fulgore .",
-    "Foto": "imagenes/KillerInstinct/fulgore.png",
+    "Foto": "imagenes/PersonajesKillerInstinct/Fulgore.png",
     "Ataques": [
       {
         "nombreAtaque": "Blade Dash",
