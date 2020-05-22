@@ -59,6 +59,16 @@ class KillerInstinc extends React.Component {
       backgroundRepeat: "no-repeat",
     };
 
+    const p={
+    left:" -2.60069vw"
+    };
+
+    const h={
+ 
+      left: "9.14782vw"
+
+    };
+
     return (
       <div className="DivGeneral">
         <Modal show={this.state.show}>
@@ -116,37 +126,80 @@ class KillerInstinc extends React.Component {
           </Row>
         </div>
         <div className="row rowGlobal ">
-          <Container className="w-100 ContainerSeparacion mt-4 ">
-            <div className=" contenedor ">
-              <h1 className="txtDescripcion">Descripcion</h1>
-              <img src={require("../header.png")} className="imgDescripcion" />
-            </div>
-            <h6 className="NombreDesc">{detalles.Descripcion} </h6>
-          </Container>
+        
           {this.props.Juego.map((personaje) => {
             return (
-              <div className="Personajes w-100" key={personaje.Nombre}>
-                <Container className="w-100 ContainerSeparacion ">
-                  <div className="contenedor">
-                    <img
-                      src={require("../descarga1.png")}
-                      className="fotoNombre"
-                    />
+              <div className="PersonajesKI w-100 mt-4" key={personaje.Nombre}>
+            
 
-                    <div className="TextoTitulokILLER">{personaje.Nombre}</div>
-                  </div>
+    
 
-                  <Row className="prueba pt-0 pb-3  mx-auto">
-                    <Col md="8">
-                      <div className="contenedor mb-3 mt-5">
-                        <img
-                          src={require("../nombre.png")}
-                          className="fotoNombre"
-                        />
-                      </div>
-                    </Col>
-                  </Row>
+               <Container className="w-100 ">
+                 <Row className=" w-100 stage">
+                   <Col className="pra col-md-6" >              
+                    
+
+             
+                    <img src="https://msgpwebsites.azureedge.net/killerinstinctv2/wp-content/uploads/2016/12/emblem_aria-7.png"   className="rune"/>
+                
+              
+                    <img src="https://msgpwebsites.azureedge.net/killerinstinctv2/wp-content/uploads/2016/12/character_aria-7.png"  className="character"/>
+              
+                <a href="https://www.ultra-combo.com/characters/hisako/" alt="Character Name"></a> 
+
+                </Col>
+                <Col className="col-md-6">
+
+
+                  <h1 className="NombreKI">{personaje.Nombre}</h1>
+
+                  <div className="content">
+                   
+                    <div className="youtube">
+                        <div>
+                        </div>
+                    </div>
+                    <div className="nav">
+                        <a className="btn-ki large ghostpulse" href="https://www.ultra-combo.com/characters/arbiter/">
+                            <span>
+                                <span>Biography &amp; Videos</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+
+
+
+
+               
+                 
+                      <TableContainer
+                                           >
+                        <Table>
+                          <TableBody>
+                           <TableRow>
+                                <TableCell>
+                                
+                                 
+                                  </TableCell>
+                               
+                              </TableRow>
+                           
+                          </TableBody>
+                        </Table>
+                      </TableContainer>
+
+
+
+
+
+
+
+                </Col>
+                </Row>
+
                 </Container>
+
               </div>
             );
           })}

@@ -1,0 +1,53 @@
+
+.stage{
+    
+
+}
+.PersonajesKI{
+
+    background-image: url("./b-Aria.jpg" )!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: black;
+    background-position: center center;
+
+background-attachment: fixed;
+    height:38.5vw;
+
+}
+.pra{
+    position: absolute; ; left: 0; top: 0;
+}
+ 
+
+.rune{
+    position:relative;
+    height:25.7vw;
+    width:auto;
+   bottom: 38.5vw;
+    left : -16vw!important;
+  }
+  /*  height:79.5vh;*/
+  .character
+  {
+    position:relative;
+   bottom: 25.7vw;
+right:18vw!important ;
+  height: 38.5vw;
+    width:auto;
+    z-index: 2;
+  }
+
+  @font-face {
+    font-family: "FontT";
+    src: url("American\ Captain.otf");
+}
+  .NombreKI{
+  font-family: "FontT";
+  color: white;
+  font-size: 4vw;
+  text-align: left;
+
+}
