@@ -548,7 +548,9 @@
   {
     "Nombre": "Kilgore",
     "Descripcion": "Kilgore",
-    "Foto": "imagenes/PersonajesKillerInstinct/Kilgore.png",
+    "Foto": "imagenes/KITODO/kilgore-foto.png",
+    "Fondo":"imagenes/KITODO/fulgore-fondo.png",
+    "Runa":"imagenes/KITODO/fulgore-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Short Circuit",
