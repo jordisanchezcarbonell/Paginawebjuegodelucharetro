@@ -63,12 +63,13 @@ class KillerInstinc extends React.Component {
     };
 
     const p = {
-      left: " -2.60069vw",
+  
+      backgroundSize: "cover",
+        
+            display: "block",  
+  
     };
 
-    const h = {
-      left: "9.14782vw",
-    };
     return (
       <div className="DivGeneral">
         <Modal show={this.state.show}>
@@ -128,12 +129,12 @@ class KillerInstinc extends React.Component {
         <div className="row rowGlobal ">
           {this.props.Juego.map((personaje) => {
             return (
-              <div className="PersonajesKI w-100 mt-4" key={personaje.Nombre}>
+              <div className="PersonajesKI w-100 mt-4" style={p} key={personaje.Nombre}>
                 <Container className="w-100 ">
                   <Row className=" w-100 stage">
                     <Col className="pra col-md-6">
                       <img
-                        src="https://msgpwebsites.azureedge.net/killerinstinctv2/wp-content/uploads/2016/12/emblem_aria-7.png"
+                        src={process.env.PUBLIC_URL + personaje.Runa}
                         className="rune"
                       />
 
