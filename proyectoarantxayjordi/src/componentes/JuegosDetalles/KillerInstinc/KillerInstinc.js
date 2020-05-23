@@ -103,12 +103,7 @@ class KillerInstinc extends React.Component {
             </Col>
             <Col md="4" className="fondo2">
 
-
-
-            <img
-                        src={logo}
-                        className="TextoTitulokI"
-                      />
+           <img src={logo}        className="TextoTitulokI"   />
             
             </Col>
 
@@ -127,7 +122,16 @@ class KillerInstinc extends React.Component {
           })} */}
           </Row>
         </div>
+
         <div className="row rowGlobal ">
+
+        <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
+        <Row >
+              <h1 className="TituloDescripcionKI mx-auto">Descripcion</h1>
+                <p className="mx-5 mt-3">{this.props.detalles.Descripcion}</p>
+
+                  </Row>
+                  </div>
           {this.props.Juego.map((personaje) => {
             const fondopersonaje = {
               backgroundImage: "url(" + personaje.Fondo + ")",
@@ -138,7 +142,7 @@ class KillerInstinc extends React.Component {
               color: "black",
               backgroundPosition: "center center",
               backgroundAttachment: "fixed",
-              height: "38.5vw",
+              height: "42vw",
             };
             return (
               <div
@@ -146,7 +150,10 @@ class KillerInstinc extends React.Component {
                 style={fondopersonaje}
                 key={personaje.Nombre}
               >
+              
                 <Container className="w-100 ">
+
+                  
                   <Row className=" w-100 stage">
                     <Col className="pra  w-100 col-md-6">
                       <img
@@ -164,7 +171,7 @@ class KillerInstinc extends React.Component {
                         alt="Character Name"
                       ></a>
                     </Col>
-                    <Col className="col-md-6">
+                    <Col className="col-md-6 mt-2">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
 
                     
