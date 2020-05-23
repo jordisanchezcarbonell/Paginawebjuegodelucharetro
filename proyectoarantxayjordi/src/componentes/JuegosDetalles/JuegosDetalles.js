@@ -366,6 +366,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[2].Nombre) {
       return this.streetfighter(detalles, ponys);
     } else if (detalles.Nombre === prueba[3].Nombre) {
+        
       return <KillerInstinct detalles={detalles} Juego={killerinstinct} />;
     } else if (detalles.Nombre === prueba[4].Nombre) {
       return this.streetfighter(detalles, Skullgirls);

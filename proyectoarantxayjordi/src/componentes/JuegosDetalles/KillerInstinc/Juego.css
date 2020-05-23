@@ -1,4 +1,5 @@
 .stage {}
+
 /*
 .PersonajesKI {
 
@@ -15,103 +16,115 @@
 
 }
 */
-.nombreAtaquesKI{
--webkit-box-shadow: inset 0 0 0 3px cadetblue;
--moz-box-shadow: inset 0 0 0 3px cadetblue;
-box-shadow: inset 0 0 0 3px cadetblue;
-width: 58%;
+.nombreAtaquesKI {
+  -webkit-box-shadow: inset 0 0 0 3px cadetblue;
+  -moz-box-shadow: inset 0 0 0 3px cadetblue;
+  box-shadow: inset 0 0 0 3px cadetblue;
+  width: 58%;
 
 }
 
 
-.fotoLogoKI{
-    margin-left: -3vw;
+.fotoLogoKI {
+  margin-left: -3vw;
 
-    margin-top: 1vw;
+  margin-top: 1vw;
 }
-.TextoTitulokI{
-    text-align: left !important;
-    min-width: 89% !important;
-    font-family: "FontT";
-    margin-left: 3vw;
-    margin-top: 1.7vw;
-    font-size: 1vw;
-color: white;
-}
-.TituloDescripcionKI{
-text-align: center;
-    font-family: "FontT";
 
+.TextoTitulokI {
+  text-align: left !important;
+  min-width: 89% !important;
+  font-family: "FontT";
+  margin-left: 3vw;
+  margin-top: 1.7vw;
+  font-size: 1vw;
+  color: white;
 }
-.FondoDescripcionKI{
-    background-image: url("./descripcion-background.jpg") !important;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: white;
-    background-position: center center;
-  
-    background-attachment: fixed;
-    height: 38.5vw;
- 
 
+.TituloDescripcionKI {
+  text-align: center;
+  font-family: "FontT";
 
 }
+
+.FondoDescripcionKI {
+  background-image: url("./descripcion-background.jpg") !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  background-position: center center;
+
+  background-attachment: fixed;
+  height: 38.5vw;
+
+
+
+}
+
 .btn-ki.large>span>span {
-    min-width: 32.59452vw;
-    margin: 11px !important;
-    margin-top: 15px!important;
-    background-image: url(./bkg-btn-ki-large.png);
-    font-size: 1.3vw;
-    line-height: 2vw;
-    background-repeat: repeat;
-    border: 1px solid #44d4d9;
+  min-width: 32.59452vw;
+  margin: 1px 3px !important;
+  margin-top: 15px !important;
+  background-image: url(./bkg-btn-ki-large.png);
+  line-height: 2vw;
+  padding: 5px;
+  background-repeat: repeat;
+  border: 1px solid #44d4d9;
 }
-.btn-ki.large.ghostpulse, .btn-ki.large.ghostpulse span {
-    outline: 0;
+
+.btn-ki.large.ghostpulse,
+.btn-ki.large.ghostpulse span {
+  outline: 0;
 }
+
 .btn-ki.large>span {
-    border: 2px solid #fff;
-    width: 100%;
-    font-family: "FontT";
-    text-align: center;
+
+  font-family: "FontT";
+  text-align: center;
+  padding: 1px 1px;
+  display: inline-block;
+  border: 2px solid #fff;
 }
 
 .btn-ki.large {
-    margin: 0;
-    padding: 0;
-    border: none;
-    color: #fff;
-    display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+  color: #fff;
+  display: block;
 }
+
 .pra {
   position: absolute;
   ;
   left: 0;
   top: 0;
 }
-.colorFondoAtaquesKI{
- 
-    background-color: rgba(72, 191, 196, 0.247);
-    color:white!important;
-    
-    
-    -webkit-box-shadow: inset 0 0 0 2px black;
-    -moz-box-shadow: inset 0 0 0 2px black;
-    box-shadow: inset 0 0 0 2px black;
+
+.colorFondoAtaquesKI {
+
+  background-color: rgba(72, 191, 196, 0.247);
+  color: white !important;
+
+
+  -webkit-box-shadow: inset 0 0 0 2px black;
+  -moz-box-shadow: inset 0 0 0 2px black;
+  box-shadow: inset 0 0 0 2px black;
 }
 
-.T{
+.T {
 
-    background-color: rgba(0, 0, 0, 0.137)!important;
+  background-color: rgba(0, 0, 0, 0.137) !important;
 
 }
+
 .rune {
   position: relative;
   height: 25.7vw;
   width: auto;
- 
+
   left: -12vw !important;
 }
 
@@ -125,12 +138,14 @@ text-align: center;
   z-index: 2;
 
 }
-.character:hover,.rune{
-    transform:translate(-30px,0px);
-    -ms-transform:translate(-30px,0px);  
-    -moz-transform:translate(-30px,0px);  
-    -webkit-transform:translate(-30px,0px);
-    -o-transform:translate(-30px,0px);
+
+.character:hover,
+.rune {
+  transform: translate(-30px, 0px);
+  -ms-transform: translate(-30px, 0px);
+  -moz-transform: translate(-30px, 0px);
+  -webkit-transform: translate(-30px, 0px);
+  -o-transform: translate(-30px, 0px);
 
 }
 
