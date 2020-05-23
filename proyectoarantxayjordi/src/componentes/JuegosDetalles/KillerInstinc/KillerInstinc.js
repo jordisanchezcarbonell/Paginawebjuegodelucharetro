@@ -140,7 +140,7 @@ class KillerInstinc extends React.Component {
               >
                 <Container className="w-100 ">
                   <Row className=" w-100 stage">
-                    <Col className="pra col-md-6">
+                    <Col className="pra  w-100 col-md-6">
                       <img
                         src={process.env.PUBLIC_URL + personaje.Runa}
                         className="rune"
@@ -172,8 +172,8 @@ class KillerInstinc extends React.Component {
                                 key={Ataque.nombreAtaque}
                                 className="mx-5"
                               >
-                                <TableCell
-                                  className=" py-2 pro "
+                                <TableCell 
+                                  className="  py-2 colorFondoAtaquesKI "
                                   component="th"
                                   scope="row"
                                 >
@@ -183,7 +183,7 @@ class KillerInstinc extends React.Component {
                                 {
                                   <TableCell
                                     component="th"
-                                    className="  nombreAtaques py-2"
+                                    className="  nombreAtaquesKI py-2"
                                     align="right"
                                   >
                                     {Ataque.Animacion.map(
@@ -210,9 +210,15 @@ class KillerInstinc extends React.Component {
 
                       
 
+                      <a class="btn-ki large ghostpulse" href="https://www.ultra-combo.com/characters/rash/">
+                            <span className="mt-5">
+                                <span className="mt-5">Biography &amp; Videos</span>
+                            </span>
+                        </a>
                     
                      
                     </Col>
+
                   </Row>
                 </Container>
               </div>

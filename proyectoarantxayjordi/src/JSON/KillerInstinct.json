@@ -1348,9 +1348,9 @@
   {
     "Nombre": "Eagle",
     "Descripcion": "Eagle",
-    "Foto": "imagenes/KITODO/shadow_jago-foto.png",
-    "Fondo": "imagenes/KITODO/shadow_jago-fondo.jpg",
-    "Runa": "imagenes/KITODO/shadow_jago-runa.png",
+    "Foto": "imagenes/KITODO/eagle-foto.png",
+    "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+    "Runa": "imagenes/KITODO/arbiter-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Arrow Attacks",
@@ -2102,9 +2102,9 @@
   {
     "Nombre": "Shin Hisako",
     "Descripcion": "Shin Hisako",
-    "Foto": "imagenes/KITODO/sabrewulf-foto.png",
-    "Fondo": "imagenes/KITODO/sabrewulf-fondo.jpg",
-    "Runa": "imagenes/KITODO/sabrewulf-runa.png",
+    "Foto": "imagenes/KITODO/Shin_Hisako-foto.png",
+    "Fondo": "imagenes/KITODO/hisako-fondo.jpg",
+    "Runa": "imagenes/KITODO/hisako-runa.png",
     "Ataques": [
       {
         "nombreAtaque": "Spirit Orb (air OK)",
@@ -2379,8 +2379,8 @@
   {
     "Nombre": "Aganos",
     "Descripcion": "Aganos",
-    "Foto": "imagenes/KITODO/thunder-foto.png",
-    "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+    "Foto": "imagenes/KITODO/aganos-foto.png",
+    "Fondo": "imagenes/KITODO/maya-fondo.jpg",
     "Runa": "imagenes/KITODO/thunder-runa.png",
     "Ataques": [
       {
@@ -2472,7 +2472,7 @@
     "Nombre": "General RAAM",
     "Descripcion": "General RAAM",
     "Foto": "imagenes/KITODO/general_raam-foto.png",
-    "Fondo": "imagenes/KITODO/general_raam-fondo.jpg",
+    "Fondo": "imagenes/KITODO/general_raam.fondo.jpg",
     "Runa": "imagenes/KITODO/general_raam-runa.png",
     "Ataques": [
       {
