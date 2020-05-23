@@ -215,7 +215,7 @@ class KillerInstinc extends React.Component {
 
                       
 
-                      <a class="btn-ki large ghostpulse " align="right" href="https://www.ultra-combo.com/characters/rash/">
+                      <a className="btn-ki large ghostpulse " align="right" href="https://www.ultra-combo.com/characters/rash/">
                             <span >
                                 <span >Biography &amp; Videos</span>
                             </span>
