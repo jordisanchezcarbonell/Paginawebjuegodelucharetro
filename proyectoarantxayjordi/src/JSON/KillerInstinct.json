@@ -926,14 +926,6 @@
           "imagenes/AtaquesKIllerInstinct/hp.png"
         ]
       },
-      {
-        "nombreAtaque": "Crushing Roar",
-        "Animacion": [
-          "imagenes/AtaquesKIllerInstinct/lp.png",
-          "imagenes/AtaquesKIllerInstinct/mp.png",
-          "imagenes/AtaquesKIllerInstinct/hp.png"
-        ]
-      },
 
       {
         "nombreAtaque": "Crushing Destroyer ",
@@ -980,7 +972,7 @@
     "Nombre": "Gargos",
     "Descripcion": "Gargos",
     "Foto": "imagenes/KITODO/gargos-foto.png",
-    "Fondo": "imagenes/KITODO/gargos-fondo.jpg",
+    "Fondo": "imagenes/KITODO/general_raam.fondo.jpg",
     "Runa": "imagenes/KITODO/gargos-runa.png",
     "Ataques": [
       {
@@ -1069,14 +1061,6 @@
           "imagenes/AtaquesKIllerInstinct/downleft.png",
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
-        ]
-      },
-      {
-        "nombreAtaque": "EruptionIn In instinct  (air OK) ",
-        "Animacion": [
-          "imagenes/AtaquesKIllerInstinct/lp.png",
-          "imagenes/AtaquesKIllerInstinct/mp.png",
-          "imagenes/AtaquesKIllerInstinct/hp.png"
         ]
       },
 
