@@ -65,7 +65,7 @@ class KillerInstinc extends React.Component {
     };
 
     return (
-      <div className="DivGeneral">
+      <div className="DivKillintinct">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -102,9 +102,7 @@ class KillerInstinc extends React.Component {
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-
-           <img src={logo}        className="TextoTitulokI"   />
-            
+              <img src={logo} className="TextoTitulokI" />
             </Col>
 
             <Col md="5" style={style}></Col>
@@ -124,14 +122,14 @@ class KillerInstinc extends React.Component {
         </div>
 
         <div className="row rowGlobal ">
-
-        <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
-        <Row >
-              <h1 className="TituloDescripcionKI mx-auto">Descripcion</h1>
-                <p className="mx-5 mt-3">{this.props.detalles.Descripcion}</p>
-
-                  </Row>
-                  </div>
+          <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
+            <Row>
+              <h1 className=" FondoDescripcionKI TituloDescripcionKI mx-auto">
+                Descripcion
+              </h1>
+              <p className="mx-5 mt-3">{this.props.detalles.Descripcion}</p>
+            </Row>
+          </div>
           {this.props.Juego.map((personaje) => {
             const fondopersonaje = {
               backgroundImage: "url(" + personaje.Fondo + ")",
@@ -150,10 +148,7 @@ class KillerInstinc extends React.Component {
                 style={fondopersonaje}
                 key={personaje.Nombre}
               >
-              
                 <Container className="w-100 ">
-
-                  
                   <Row className=" w-100 stage">
                     <Col className="pra  w-100 col-md-6">
                       <img
@@ -174,12 +169,7 @@ class KillerInstinc extends React.Component {
                     <Col className="col-md-6 mt-2">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
 
-                    
-
-                      <TableContainer
-                        component={Paper}
-                        className="T mb-3"
-                      >
+                      <TableContainer component={Paper} className="T mb-3">
                         <Table>
                           <TableBody>
                             {personaje.Ataques.map((Ataque, index) => (
@@ -187,7 +177,7 @@ class KillerInstinc extends React.Component {
                                 key={Ataque.nombreAtaque}
                                 className="mx-5"
                               >
-                                <TableCell 
+                                <TableCell
                                   className="  py-2 colorFondoAtaquesKI "
                                   component="th"
                                   scope="row"
@@ -223,17 +213,15 @@ class KillerInstinc extends React.Component {
                         </Table>
                       </TableContainer>
 
-                      
-
-                      <a class="btn-ki large ghostpulse" href="https://www.ultra-combo.com/characters/rash/">
-                            <span className="mt-5">
-                                <span className="mt-5">Biography &amp; Videos</span>
-                            </span>
-                        </a>
-                    
-                     
+                      <a
+                        class="btn-ki large ghostpulse"
+                        href="https://www.ultra-combo.com/characters/rash/"
+                      >
+                        <span className="mt-5">
+                          <span className="mt-5">Biography &amp; Videos</span>
+                        </span>
+                      </a>
                     </Col>
-
                   </Row>
                 </Container>
               </div>

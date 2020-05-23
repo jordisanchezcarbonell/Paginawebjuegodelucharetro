@@ -1,5 +1,21 @@
 .stage {}
 
+.DivKillintinct {
+  color: black;
+  text-align: center;
+  position: relative;
+  background: url(https://www.ultra-combo.com/wp-content/themes/killerinstinct/assets/img/global/bkg/bkg-01.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+
+
+
+}
+
 /*
 .PersonajesKI {
 
@@ -57,7 +73,7 @@
   background-position: center center;
 
   background-attachment: fixed;
-  height: 38.5vw;
+  height: 8.5vw;
 
 
 
