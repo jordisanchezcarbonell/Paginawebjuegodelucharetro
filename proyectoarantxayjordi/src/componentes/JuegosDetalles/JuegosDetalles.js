@@ -29,6 +29,7 @@ import Granblue from "../../JSON/GranBlue.json";
 import { ReactComponent as Logo } from "./nombre.png";
 import ReactPlayer from "react-player";
 import KillerInstinct from "./KillerInstinc/KillerInstinc";
+import MortalKombat from "./MortalKombat/MortalKombat";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -366,7 +367,6 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[2].Nombre) {
       return this.streetfighter(detalles, ponys);
     } else if (detalles.Nombre === prueba[3].Nombre) {
-        
       return <KillerInstinct detalles={detalles} Juego={killerinstinct} />;
     } else if (detalles.Nombre === prueba[4].Nombre) {
       return this.streetfighter(detalles, Skullgirls);
@@ -382,6 +382,8 @@ height: 10vw;
       return this.streetfighter(detalles, SoulCalibur);
     } else if (detalles.Nombre === prueba[11].Nombre) {
       return this.streetfighter(detalles, Granblue);
+    } else if (detalles.Nombre === prueba[12].Nombre) {
+      return <MortalKombat detalles={detalles} Juego={killerinstinct} />;
     } else {
       return this.streetfighter(detalles, MARVEL);
     }
