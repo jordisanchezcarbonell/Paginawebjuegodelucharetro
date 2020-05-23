@@ -19,6 +19,8 @@ import { ReactComponent as Logo } from "../nombre.png";
 import ReactPlayer from "react-player";
 import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
+
+
 //AVER SI FUNCIOONA
 class MortalKombat extends React.Component {
   constructor(props, context) {
@@ -92,7 +94,7 @@ class MortalKombat extends React.Component {
             <Col md="3" className="fondo1">
               <h6> {this.props.detalles[0]}</h6>
               <img
-                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
                 className="fotoLogoKI"
                 height="110vw"
@@ -102,27 +104,12 @@ class MortalKombat extends React.Component {
 
             <Col md="5" style={style}></Col>
 
-            {/* {juegos.map((juego, index) => {
-            return (
-              <div key={juego.Nombre} className="prueba">
-
-
-
-              </div>
-              
-              
-            );
-          })} */}
+            
           </Row>
         </div>
 
         <div className="row rowGlobalKI ">
-          <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
-            <Row>
-              <h1 className="TituloDescripcionKI mx-auto mt-3">Descripcion</h1>
-              <p className="mx-5 ">{this.props.detalles.Descripcion}</p>
-            </Row>
-          </div>
+        
           {this.props.Juego.map((personaje) => {
             const fondopersonaje = {
               backgroundImage: "url(" + personaje.Fondo + ")",
@@ -143,79 +130,13 @@ class MortalKombat extends React.Component {
               >
                 <Container className="w-100 ">
                   <Row className=" w-100 stage">
-                    <Col className="pra  w-100 col-md-6">
-                      <img
-                        src={process.env.PUBLIC_URL + personaje.Runa}
-                        className="rune"
-                      />
-
-                      <img
-                        src={process.env.PUBLIC_URL + personaje.Foto}
-                        className="character"
-                      />
-
-                      <a
-                        href="https://www.ultra-combo.com/characters/hisako/"
-                        alt="Character Name"
-                      ></a>
-                    </Col>
-                    <Col className="col-md-6 mt-2">
-                      <h1 className="NombreKI">{personaje.Nombre}</h1>
-
-                      <TableContainer component={Paper} className="T mb-3">
-                        <Table>
-                          <TableBody>
-                            {personaje.Ataques.map((Ataque, index) => (
-                              <TableRow
-                                key={Ataque.nombreAtaque}
-                                className="mx-5"
-                              >
-                                <TableCell
-                                  className="  py-2 colorFondoAtaquesKI "
-                                  component="th"
-                                  scope="row"
-                                >
-                                  {Ataque.nombreAtaque}
-                                </TableCell>
-
-                                {
-                                  <TableCell
-                                    component="th"
-                                    className="  nombreAtaquesKI py-2"
-                                    align="right"
-                                  >
-                                    {Ataque.Animacion.map(
-                                      (animaciondelataque, index) => (
-                                        <img
-                                          className="imgAtaque"
-                                          key={index}
-                                          variant="top"
-                                          src={
-                                            process.env.PUBLIC_URL +
-                                            animaciondelataque
-                                          }
-                                          alt="Error"
-                                        />
-                                      )
-                                    )}
-                                  </TableCell>
-                                }
-                              </TableRow>
-                            ))}
-                          </TableBody>
-                        </Table>
-                      </TableContainer>
-
-                      <a
-                        class="btn-ki large ghostpulse "
-                        align="right"
-                        href="https://www.ultra-combo.com/characters/rash/"
-                      >
-                        <span>
-                          <span>Biography &amp; Videos</span>
-                        </span>
-                      </a>
-                    </Col>
+                  <div class="characters nav nav-tabs" role="tablist">
+		<div class="unskew" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false" ><div class="skew"><div class="character"><p>Welcome</p><img src="img/dragon-white.png" /></div></div></div>
+		<div class="unskew" id="baraka-tab" data-toggle="tab" href="#baraka" role="tab" aria-controls="baraka" aria-selected="false"><div class="skew"><div class="character"><p>Baraka</p><img src={process.env.PUBLIC_URL+"/imagenes/PersonajesMortalKombat11/baraka.jpg"} /></div></div></div>
+    
+		<div class="unskew" id="baraka-tab" data-toggle="tab" href="#baraka" role="tab" aria-controls="baraka" aria-selected="false"><div class="skew"><div class="character"><p>Baraka</p><img src={process.env.PUBLIC_URL+"/imagenes/PersonajesMortalKombat11/baraka.jpg"} /></div></div></div>
+	</div>
+                   
                   </Row>
                 </Container>
               </div>
