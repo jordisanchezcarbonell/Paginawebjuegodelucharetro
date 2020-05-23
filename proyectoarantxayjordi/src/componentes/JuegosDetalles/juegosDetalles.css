@@ -62,9 +62,10 @@ margin-bottom: 40px!important;
 .TextoTitulo {
     text-align: left !important;
     min-width: 100% !important;
-    font-family: 'Roboto Slab', serif;
-    margin-left: 4vw;
-    margin-top: 3vw;
+    font-family: "myFont";  
+    font-size: 6vw;
+    margin-left: 6vw;
+    margin-top: 1.5vw;
 color: white;
 }
 
@@ -174,7 +175,7 @@ color:#f5e56f;
 .fotoLogoPonys {
     margin-left: -8vw;
 
-    margin-top: 2.5vw;
+    margin-top: 1.5vw;
 }
 .fondo2{
     background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );

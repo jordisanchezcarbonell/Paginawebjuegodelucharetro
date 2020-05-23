@@ -21,6 +21,7 @@ import iconSet from "./selection.json";
 import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import Image from "./b-Aria.jpg"; // Import using relative path
+import logo from "./logo-ki.png";
 
 class KillerInstinc extends React.Component {
   constructor(props, context) {
@@ -96,12 +97,19 @@ class KillerInstinc extends React.Component {
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
-                className="fotoLogoPonys"
+                className="fotoLogoKI"
                 height="110vw"
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-              <h1 className="TextoTitulo">{this.props.detalles.Nombre}</h1>
+
+
+
+            <img
+                        src={logo}
+                        className="TextoTitulokI"
+                      />
+            
             </Col>
 
             <Col md="5" style={style}></Col>

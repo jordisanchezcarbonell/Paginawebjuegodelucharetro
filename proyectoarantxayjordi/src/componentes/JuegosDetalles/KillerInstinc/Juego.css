@@ -24,6 +24,20 @@ width: 58%;
 }
 
 
+.fotoLogoKI{
+    margin-left: -3vw;
+
+    margin-top: 1vw;
+}
+.TextoTitulokI{
+    text-align: left !important;
+    min-width: 89% !important;
+    font-family: "FontT";
+    margin-left: 3vw;
+    margin-top: 1.7vw;
+    font-size: 1vw;
+color: white;
+}
 .btn-ki.large>span>span {
     min-width: 32.59452vw;
     margin: 11px !important;
