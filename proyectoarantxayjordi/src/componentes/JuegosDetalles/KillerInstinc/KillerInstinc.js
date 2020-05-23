@@ -65,7 +65,7 @@ class KillerInstinc extends React.Component {
     };
 
     return (
-      <div className="DivKillintinct">
+      <div className="DivKillintinct  ">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

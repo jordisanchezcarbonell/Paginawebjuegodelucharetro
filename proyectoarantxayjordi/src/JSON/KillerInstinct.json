@@ -1054,15 +1054,6 @@
           "imagenes/AtaquesKIllerInstinct/punch.png"
         ]
       },
-      {
-        "nombreAtaque": "Devil's Divide + Minion When near a minion,",
-        "Animacion": [
-          "imagenes/AtaquesKIllerInstinct/down.png",
-          "imagenes/AtaquesKIllerInstinct/downleft.png",
-          "imagenes/AtaquesKIllerInstinct/left.png",
-          "imagenes/AtaquesKIllerInstinct/punch.png"
-        ]
-      },
 
       {
         "nombreAtaque": "Ultra Combo",
