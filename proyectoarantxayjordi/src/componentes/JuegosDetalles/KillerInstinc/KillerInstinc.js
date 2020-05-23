@@ -22,7 +22,7 @@ import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import Image from "./b-Aria.jpg"; // Import using relative path
 import logo from "./logo-ki.png";
-
+//AVER SI FUNCIOONA
 class KillerInstinc extends React.Component {
   constructor(props, context) {
     super(props);
