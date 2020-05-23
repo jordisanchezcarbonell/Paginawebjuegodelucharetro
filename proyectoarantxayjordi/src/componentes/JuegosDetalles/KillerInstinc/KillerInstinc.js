@@ -65,7 +65,7 @@ class KillerInstinc extends React.Component {
     };
 
     return (
-      <div className="DivKillintinct w-100">
+      <div className="DivKillintinct w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -121,7 +121,7 @@ class KillerInstinc extends React.Component {
           </Row>
         </div>
 
-        <div className="row rowGlobal ">
+        <div className="row rowGlobalKI ">
 
         <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
         <Row >
