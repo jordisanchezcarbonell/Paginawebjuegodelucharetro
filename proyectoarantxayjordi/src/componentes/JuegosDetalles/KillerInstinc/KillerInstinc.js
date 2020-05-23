@@ -122,14 +122,12 @@ class KillerInstinc extends React.Component {
         </div>
 
         <div className="row rowGlobalKI ">
-
-        <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
-        <Row >
+          <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
+            <Row>
               <h1 className="TituloDescripcionKI mx-auto mt-3">Descripcion</h1>
-                <p className="mx-5 ">{this.props.detalles.Descripcion}</p>
-
-                  </Row>
-                  </div>
+              <p className="mx-5 ">{this.props.detalles.Descripcion}</p>
+            </Row>
+          </div>
           {this.props.Juego.map((personaje) => {
             const fondopersonaje = {
               backgroundImage: "url(" + personaje.Fondo + ")",
@@ -213,14 +211,15 @@ class KillerInstinc extends React.Component {
                         </Table>
                       </TableContainer>
 
-                      
-
-                      <a class="btn-ki large ghostpulse " align="right" href="https://www.ultra-combo.com/characters/rash/">
-                            <span >
-                                <span >Biography &amp; Videos</span>
-                            </span>
-                        </a>
-                                        
+                      <a
+                        className="btn-ki large ghostpulse "
+                        align="right"
+                        href="https://www.ultra-combo.com/characters/rash/"
+                      >
+                        <span>
+                          <span>Biography &amp; Videos</span>
+                        </span>
+                      </a>
                     </Col>
                   </Row>
                 </Container>

@@ -244,7 +244,7 @@
         ]
       },
       {
-        "nombreAtaque": "Ultra",
+        "nombreAtaque": "Ultra 2",
         "Animacion": [
           "imagenes/AtaquesKIllerInstinct/down.png",
           "imagenes/AtaquesKIllerInstinct/downleft.png",
@@ -769,15 +769,6 @@
           "imagenes/AtaquesKIllerInstinct/downleft.png",
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/punch.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Shatter",
-        "Animacion": [
-          "imagenes/AtaquesKIllerInstinct/down.png",
-          "imagenes/AtaquesKIllerInstinct/downleft.png",
-          "imagenes/AtaquesKIllerInstinct/left.png",
-          "imagenes/AtaquesKIllerInstinct/kick.png"
         ]
       },
 
@@ -2184,7 +2175,7 @@
         ]
       },
       {
-        "nombreAtaque": "Vortex/Cyclone",
+        "nombreAtaque": "Spin Fist",
         "Animacion": [
           "imagenes/AtaquesKIllerInstinct/left.png",
           "imagenes/AtaquesKIllerInstinct/right.png",

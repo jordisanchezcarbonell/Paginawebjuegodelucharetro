@@ -387,7 +387,6 @@ height: 10vw;
     } else {
       return this.streetfighter(detalles, MARVEL);
     }
-    debugger;
   }
 }
 
