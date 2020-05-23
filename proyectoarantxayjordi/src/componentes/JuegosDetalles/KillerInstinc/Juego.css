@@ -1,4 +1,4 @@
-.stage {}
+
 
 .DivKillintinct {
   color: black;
@@ -10,10 +10,13 @@
   -o-background-size: cover;
   background-size: cover;
 
+width: 100%!important;
 
 
 
-
+}
+.rowGlobalKI{
+    margin: 0;
 }
 
 /*
