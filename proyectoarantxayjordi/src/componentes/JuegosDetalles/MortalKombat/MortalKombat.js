@@ -179,25 +179,26 @@ class MortalKombat extends React.Component {
         </Modal>
         <div>
           <Row>
-            {/* <Col md="3" className="fondo1">
-     
-            </Col> */}
-            <Col md="7" className="fondo2">
+            <Col md="7" className="photo">
               <h6> {this.props.detalles[0]}</h6>
+              <img
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
+                alt=""
+                className="photo-container"
+                height="110vw"
+              ></img>
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
-                className="fotoLogoMK"
+                className="photo-banner"
                 height="110vw"
               ></img>
-
-              {/* <h1>  Elige a tu jugador</h1> */}
             </Col>
 
             <Col md="5" style={style}></Col>
           </Row>
         </div>
-
+        <h1 className="TituloElegirMK"> Elige a tu jugador</h1>
         <div className="row rowGlobalKI ">
           <div className="w-100 mt-4">
             <Container className="w-100 ">
@@ -205,7 +206,7 @@ class MortalKombat extends React.Component {
                 <div className="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
-                      <div key={index}>
+                      <>
                         <a
                           data-id="index"
                           className="character-thumb visible enabled  "
@@ -232,7 +233,7 @@ class MortalKombat extends React.Component {
 
                           <div></div>
                         </div>
-                      </div>
+                      </>
                     );
                   })}
                 </div>
