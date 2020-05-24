@@ -1,3 +1,19 @@
+.DivMortalkombat {
+    color: black;
+    text-align: center;
+    position: relative;
+    background: url(https://cdn-prod.mortalkombat.com/static/roster-bg.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+
+
+}
+
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700);
 
 @font-face {

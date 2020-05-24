@@ -95,7 +95,7 @@ class MortalKombat extends React.Component {
     };
 
     return (
-      <div className="DivKillintinct w-100 ml-0">
+      <div className="DivMortalkombat  w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
