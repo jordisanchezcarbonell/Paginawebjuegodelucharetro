@@ -1,5 +1,8 @@
+.pruebadelelemento {
+    text-align: center;
+}
+
 .DivMortalkombat {
-    color: black;
     text-align: center;
     position: relative;
     background: url(https://cdn-prod.mortalkombat.com/static/roster-bg.webp) no-repeat center center fixed;
@@ -112,7 +115,6 @@
     margin-top: 1vw;
 }
 
-
 /*FONDO AMARILLO */
 
 .character-thumb.active .img-wrapper {
@@ -144,7 +146,7 @@
 }
 
 .character-thumb .label {
-    color: #fff;
+    color: #fff !important;
     text-transform: uppercase;
     text-align: center;
     font-size: .65rem;
