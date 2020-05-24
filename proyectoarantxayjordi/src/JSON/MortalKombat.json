@@ -10,6 +10,17 @@
       { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
     ]
   },
+   {
+    "Nombre": "Joker",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Joker.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
   {
     "Nombre": "Liu Kang",
     "Descripcion": "PRUEBA",
@@ -20,5 +31,314 @@
 
       { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
     ]
+  },
+  {
+    "Nombre": "Cetrion",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Cetrion.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+    {
+    "Nombre": "Geras",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Geras.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jacqui Briggs",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Jacqui.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Spawn",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/spawn.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Erron Black",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Erron_black.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Cassie Cage",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Cassie.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jade",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Jade.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jonhy Cage",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Johnny_cage.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Scorpion",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Scorpion.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Terminathor",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Terminator.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Shang Tsung",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/shang_tsung.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Noob Saibot",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Noob_saibot.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+    {
+    "Nombre": "Skarlet",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Skarlet.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kabal",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Kabal.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Nighwolf",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Nightwolf.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+    {
+    "Nombre": "Sub-Zero",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Sub-Zero.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+   {
+    "Nombre": "Kung Lao",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Kung_Lao.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jax",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Jxan.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Baraka",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/baraka1.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Frost",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Frost.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Sindel",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Sindel.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kitana",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Kitana.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Raiden",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Raiden.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kollector",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Kollector.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kano",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Kano.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "D'Vorah",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/DVorah.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kotal Kahn",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Kotal.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Shao Kahn",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/PersonajesMortalKombat11/Shao_Kahn.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
   }
+  
 ]
