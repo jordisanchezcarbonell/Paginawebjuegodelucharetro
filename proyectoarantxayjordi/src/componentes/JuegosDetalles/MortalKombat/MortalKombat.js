@@ -12,6 +12,8 @@ import { Container, Row, Col } from "reactstrap";
 import "./Mortalkombat.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
+import Image from "react-bootstrap/Image";
+
 // get our fontawesome imports
 import { faHome } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -35,7 +37,7 @@ class Child extends React.Component {
   }
   render() {
     return (
-      <div style={{ width: "100%" }}>
+      <div style={{ width: "100%" }} key={this.props.elemento.Nombre}>
         <h1 className="label">{this.props.elemento.Nombre}</h1>
 
         <TableContainer component={Paper} className="T pruebadelelemento">
@@ -59,12 +61,11 @@ class Child extends React.Component {
                       align="right"
                     >
                       {Ataque.Animacion.map((animaciondelataque, index) => (
-                        <img
-                          className="imgAtaque"
+                        <Image
                           key={index}
-                          variant="top"
+                          className="imgAtaqueSSSS"
                           src={process.env.PUBLIC_URL + animaciondelataque}
-                          alt="Error"
+                          fluid
                         />
                       ))}
                     </TableCell>
@@ -204,24 +205,24 @@ class MortalKombat extends React.Component {
                 <div className="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
-                      <>
+                      <div key={index}>
                         <a
                           data-id="index"
-                          class="character-thumb visible enabled  "
+                          className="character-thumb visible enabled  "
                         >
                           <div>
-                            <div class="img-wrapper">
+                            <div className="img-wrapper">
                               <img
                                 onClick={() => this.showContent(index)}
                                 data-src={
                                   process.env.PUBLIC_URL + personaje.Foto
                                 }
                                 alt=""
-                                class="img-fluid lazy-loaded h-100"
+                                className="img-fluid lazy-loaded h-100"
                                 src={process.env.PUBLIC_URL + personaje.Foto2}
                               />
                             </div>
-                            <div class="label">{personaje.Nombre}</div>
+                            <div className="label">{personaje.Nombre}</div>
                           </div>
                         </a>
 
@@ -231,7 +232,7 @@ class MortalKombat extends React.Component {
 
                           <div></div>
                         </div>
-                      </>
+                      </div>
                     );
                   })}
                 </div>

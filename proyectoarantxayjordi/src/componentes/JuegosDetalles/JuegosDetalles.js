@@ -13,7 +13,7 @@ import { Container, Row, Col } from "reactstrap";
 import "./juegosDetalles.css";
 import killerinstinct from "../../JSON/KillerInstinct.json";
 import Skullgirls from "../../JSON/SkullGirls.json";
-import mortalkombat from "../../JSON/MortalKombat.json";
+import PJmortalkombat from "../../JSON/MortalKombat.json";
 
 import Juegos from "../../JSON/juegos.json";
 import { withRouter } from "react-router-dom";
@@ -385,7 +385,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[11].Nombre) {
       return this.streetfighter(detalles, Granblue);
     } else if (detalles.Nombre === prueba[12].Nombre) {
-      return <MortalKombat detalles={detalles} Juego={mortalkombat} />;
+      return <MortalKombat detalles={detalles} Juego={PJmortalkombat} />;
     } else {
       return this.streetfighter(detalles, MARVEL);
     }
