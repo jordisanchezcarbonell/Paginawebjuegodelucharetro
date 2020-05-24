@@ -47,6 +47,15 @@
     transition: all .2s ease
 }
 
+
+.fotoLogoMK{
+    
+    height: 17vw;
+    margin-top: -2vw;
+    margin-bottom: -2vw;
+    margin-left: -5vw;
+
+}
 /*FONDO AMARILLO */
 
 .character-thumb.active .img-wrapper {

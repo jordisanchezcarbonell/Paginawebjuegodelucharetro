@@ -122,16 +122,23 @@ class MortalKombat extends React.Component {
         </Modal>
         <div>
           <Row>
-            <Col md="3" className="fondo1">
-              <h6> {this.props.detalles[0]}</h6>
+            {/* <Col md="3" className="fondo1">
+     
+            </Col> */}
+            <Col md="7" className="fondo2">
+
+            <h6> {this.props.detalles[0]}</h6>
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
-                className="fotoLogoKI"
+                className="fotoLogoMK"
                 height="110vw"
               ></img>
+
+
+          {/* <h1>  Elige a tu jugador</h1> */}
+              
             </Col>
-            <Col md="4" className="fondo2"></Col>
 
             <Col md="5" style={style}></Col>
           </Row>
