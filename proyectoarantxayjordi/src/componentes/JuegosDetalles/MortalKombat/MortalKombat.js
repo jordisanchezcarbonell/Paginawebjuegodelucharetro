@@ -154,7 +154,7 @@ class MortalKombat extends React.Component {
                               data-src={process.env.PUBLIC_URL + personaje.Foto}
                               alt=""
                               class="img-fluid lazy-loaded h-100"
-                              src={process.env.PUBLIC_URL + personaje.Foto}
+                              src={process.env.PUBLIC_URL + personaje.Foto2}
                             />
                           </div>
                           <div class="label">{personaje.Nombre}</div>
