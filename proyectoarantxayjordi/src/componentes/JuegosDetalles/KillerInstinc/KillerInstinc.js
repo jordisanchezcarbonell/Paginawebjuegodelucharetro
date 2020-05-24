@@ -65,7 +65,7 @@ class KillerInstinc extends React.Component {
     };
 
     return (
-      <div className="DivKillintinct w-100 ml-0">
+      <div className="DivKillintinct">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -121,7 +121,7 @@ class KillerInstinc extends React.Component {
           </Row>
         </div>
 
-        <div className="row rowGlobalKI ">
+        <div className="row rowGlobal ">
           <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
             <Row>
               <h1 className="TituloDescripcionKI mx-auto mt-3">Descripcion</h1>
@@ -168,7 +168,7 @@ class KillerInstinc extends React.Component {
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
 
                       <TableContainer component={Paper} className="T mb-3">
-                        <Table>
+                        <Table size="small">
                           <TableBody>
                             {personaje.Ataques.map((Ataque, index) => (
                               <TableRow
@@ -179,6 +179,7 @@ class KillerInstinc extends React.Component {
                                   className="  py-2 colorFondoAtaquesKI "
                                   component="th"
                                   scope="row"
+                                  align="left"
                                 >
                                   {Ataque.nombreAtaque}
                                 </TableCell>
@@ -212,7 +213,7 @@ class KillerInstinc extends React.Component {
                       </TableContainer>
 
                       <a
-                        className="btn-ki large ghostpulse "
+                        class="btn-ki large ghostpulse "
                         align="right"
                         href="https://www.ultra-combo.com/characters/rash/"
                       >

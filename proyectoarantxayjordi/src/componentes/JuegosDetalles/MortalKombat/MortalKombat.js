@@ -9,7 +9,7 @@ import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
-import "./Juego.css";
+import "./Mortalkombat.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 // get our fontawesome imports
@@ -19,20 +19,50 @@ import { ReactComponent as Logo } from "../nombre.png";
 import ReactPlayer from "react-player";
 import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
-
-
+var listOfImages = [];
+function importAll(r) {
+  return r.keys().map(r);
+}
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+  console.log(props);
+}
 //AVER SI FUNCIOONA
+class Child extends React.Component {
+  render() {
+    return <div>I'm the child</div>;
+  }
+}
+
 class MortalKombat extends React.Component {
   constructor(props, context) {
     super(props);
     console.log(props);
     console.log(this.props.detalles.Foto);
+    this.state = {
+      isItemContentVisible: {},
+      numChildren: 0,
+    };
   }
+  renderContent() {
+    this.state.isItemContentVisible = false;
 
+    return <div>I'm the child</div>;
+  }
+  showContent(id) {
+    // merge new value with existing visibility status into new object
+    this.setState({
+      isItemContentVisible: {
+        ...this.state.isItemContentVisible,
+        [id]: true,
+      },
+    });
+  }
   state = {
     show: false,
     elmento: "",
     imagen: "",
+    isActive: false,
   };
 
   showModal = (e, imagenes) => {
@@ -50,6 +80,7 @@ class MortalKombat extends React.Component {
   };
 
   render() {
+    const { isActive } = this.state;
     const detalles = this.props;
     const style = {
       backgroundPosition: "right right",
@@ -103,49 +134,76 @@ class MortalKombat extends React.Component {
             <Col md="4" className="fondo2"></Col>
 
             <Col md="5" style={style}></Col>
-
-            
           </Row>
         </div>
 
         <div className="row rowGlobalKI ">
-        
-          {this.props.Juego.map((personaje) => {
-            const fondopersonaje = {
-              backgroundImage: "url(" + personaje.Fondo + ")",
-              WebkitBackgroundSize: "cover",
-              MozBackgroundSize: "cover",
-              OBackgroundSize: "cover",
-              backgroundSize: "cover",
-              color: "black",
-              backgroundPosition: "center center",
-              backgroundAttachment: "fixed",
-              height: "42vw",
-            };
-            return (
-              <div
-                className="w-100 mt-4"
-                style={fondopersonaje}
-                key={personaje.Nombre}
-              >
-                <Container className="w-100 ">
-                  <Row className=" w-100 stage">
-                  <div class="characters nav nav-tabs" role="tablist">
-		<div class="unskew" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false" ><div class="skew"><div class="character"><p>Welcome</p><img src="img/dragon-white.png" /></div></div></div>
-		<div class="unskew" id="baraka-tab" data-toggle="tab" href="#baraka" role="tab" aria-controls="baraka" aria-selected="false"><div class="skew"><div class="character"><p>Baraka</p><img src={process.env.PUBLIC_URL+"/imagenes/PersonajesMortalKombat11/baraka.jpg"} /></div></div></div>
-    
-		<div class="unskew" id="baraka-tab" data-toggle="tab" href="#baraka" role="tab" aria-controls="baraka" aria-selected="false"><div class="skew"><div class="character"><p>Baraka</p><img src={process.env.PUBLIC_URL+"/imagenes/PersonajesMortalKombat11/baraka.jpg"} /></div></div></div>
-	</div>
-                   
-                  </Row>
-                </Container>
-              </div>
-            );
-          })}
+          <div className="w-100 mt-4">
+            <Container className="w-100 ">
+              <Row className=" w-100 stage">
+                <div class="characterMk nav nav-tabs" role="tablist">
+                  <div
+                    class="unskew"
+                    id="home-tab"
+                    data-toggle="tab"
+                    href="#home"
+                    role="tab"
+                    aria-controls="home"
+                    aria-selected="false"
+                  >
+                    <div class="skew">
+                      <div class="characterMk">
+                        <p>Welcome</p>
+                        <img src="img/dragon-white.png" />
+                      </div>
+                    </div>
+                  </div>
+                  {this.props.Juego.map((personaje, index) => {
+                    return (
+                      <div
+                        key={personaje.Nombre}
+                        class="unskew"
+                        id="baraka-tab"
+                        data-toggle="tab"
+                        href="#baraka"
+                        role="tab"
+                        aria-controls="baraka"
+                        aria-selected="false"
+                      >
+                        <div class="unskew.active">
+                          <div class="characterMk">
+                            <p
+                              className="title"
+                              onClick={() => this.showContent(index)}
+                            >
+                              {personaje.Nombre}
+                            </p>
+                            <img
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                            ></img>
+                          </div>
+                        </div>
+                        <div>
+                          <div>
+                            
+                            {this.state.isItemContentVisible[index] &&
+                              this.renderContent()}
+                          
+
+                            <div></div>
+                          </div>
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </Row>
+            </Container>
+          </div>
         </div>
       </div>
     );
   }
 }
-
+debugger;
 export default withRouter(MortalKombat);
