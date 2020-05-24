@@ -5,11 +5,34 @@
     "Foto1": "imagenes/PersonajesMortalKombat11/Sonya-blade.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Sonya-blade.png",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+  "Ataques": [
+      {
+        "nombreAtaque": "Blade Dash",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy Bolt",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downright.png",
+          "imagenes/AtaquesKIllerInstinct/right.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eye Laser",
+        "Animacion": [
+          "imagenes/AtaquesKIllerInstinct/down.png",
+          "imagenes/AtaquesKIllerInstinct/downleft.png",
+          "imagenes/AtaquesKIllerInstinct/left.png",
+          "imagenes/AtaquesKIllerInstinct/punch.png"
+        ]
+      }
     ]
   },
   {

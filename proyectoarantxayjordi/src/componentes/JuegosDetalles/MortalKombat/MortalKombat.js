@@ -29,8 +29,53 @@ function Welcome(props) {
 }
 //AVER SI FUNCIOONA
 class Child extends React.Component {
+  constructor(props) {
+    super(props);
+    console.log(props);
+  }
   render() {
-    return <div>I'm the child</div>;
+    return (
+      <div style={{ width: "100%" }}>
+        <h1 className="label">{this.props.elemento.Nombre}</h1>
+
+        <TableContainer component={Paper} className="T pruebadelelemento">
+          <Table style={{ width: 400, margin: "auto" }}>
+            <TableBody>
+              {this.props.elemento.Ataques.map((Ataque, index) => (
+                <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                  <TableCell
+                    className="  py-2 colorFondoAtaquesKI "
+                    component="th"
+                    scope="row"
+                    align="left"
+                  >
+                    {Ataque.nombreAtaque}
+                  </TableCell>
+
+                  {
+                    <TableCell
+                      component="th"
+                      className="  nombreAtaquesKI py-2"
+                      align="right"
+                    >
+                      {Ataque.Animacion.map((animaciondelataque, index) => (
+                        <img
+                          className="imgAtaque"
+                          key={index}
+                          variant="top"
+                          src={process.env.PUBLIC_URL + animaciondelataque}
+                          alt="Error"
+                        />
+                      ))}
+                    </TableCell>
+                  }
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </TableContainer>
+      </div>
+    );
   }
 }
 
@@ -44,21 +89,32 @@ class MortalKombat extends React.Component {
       numChildren: 0,
     };
   }
-  renderContent() {
-    this.state.isItemContentVisible = false;
 
-    return <div>I'm the child</div>;
+  prueballamadadetodolosdatos() {}
+  renderContent(personaje) {
+    this.state.isItemContentVisible = false;
+    /*console.log(personaje);
+    return <div className="pruebadelelemento">prueba</div>;
+    */
+    // this.setState({ objetoPersonaje: personaje });
+    this.state.objetoPersonaje = personaje;
+    console.log(this.state.objetoPersonaje);
   }
   showContent(id) {
-    // merge new value with existing visibility status into new object
+    // merge new value with existing visibility status into new object´
+    console.log(id);
     this.setState({
       isItemContentVisible: {
         ...this.state.isItemContentVisible,
         [id]: true,
       },
     });
+    this.setState({ mostrarsegundoelemnto: true });
   }
   state = {
+    objetoPersonaje: "",
+    mostrarsegundoelemnto: false,
+    isItemContentVisible: false,
     show: false,
     elmento: "",
     imagen: "",
@@ -126,8 +182,7 @@ class MortalKombat extends React.Component {
      
             </Col> */}
             <Col md="7" className="fondo2">
-
-            <h6> {this.props.detalles[0]}</h6>
+              <h6> {this.props.detalles[0]}</h6>
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
@@ -135,9 +190,7 @@ class MortalKombat extends React.Component {
                 height="110vw"
               ></img>
 
-
-          {/* <h1>  Elige a tu jugador</h1> */}
-              
+              {/* <h1>  Elige a tu jugador</h1> */}
             </Col>
 
             <Col md="5" style={style}></Col>
@@ -151,36 +204,42 @@ class MortalKombat extends React.Component {
                 <div className="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
-                      <a
-                        data-id="index"
-                        class="character-thumb visible enabled  "
-                      >
-                        <div>
-                          <div class="img-wrapper">
-                            <img
-                              data-src={process.env.PUBLIC_URL + personaje.Foto}
-                              alt=""
-                              class="img-fluid lazy-loaded h-100"
-                              src={process.env.PUBLIC_URL + personaje.Foto2}
-                            />
+                      <>
+                        <a
+                          data-id="index"
+                          class="character-thumb visible enabled  "
+                        >
+                          <div>
+                            <div class="img-wrapper">
+                              <img
+                                onClick={() => this.showContent(index)}
+                                data-src={
+                                  process.env.PUBLIC_URL + personaje.Foto
+                                }
+                                alt=""
+                                class="img-fluid lazy-loaded h-100"
+                                src={process.env.PUBLIC_URL + personaje.Foto2}
+                              />
+                            </div>
+                            <div class="label">{personaje.Nombre}</div>
                           </div>
-                          <div class="label">{personaje.Nombre}</div>
-                        </div>
-                      </a>
+                        </a>
 
-                      /*  
-                        <div>
+                        <div className="m-">
                           {this.state.isItemContentVisible[index] &&
-                            this.renderContent()}
+                            this.renderContent(personaje)}
 
                           <div></div>
                         </div>
-                            */
+                      </>
                     );
                   })}
                 </div>
               </Row>
             </Container>
+            {this.state.mostrarsegundoelemnto && (
+              <Child elemento={this.state.objetoPersonaje} />
+            )}
           </div>
         </div>
       </div>
