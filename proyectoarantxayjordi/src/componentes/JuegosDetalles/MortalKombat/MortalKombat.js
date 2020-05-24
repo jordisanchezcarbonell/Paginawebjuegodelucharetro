@@ -141,59 +141,34 @@ class MortalKombat extends React.Component {
           <div className="w-100 mt-4">
             <Container className="w-100 ">
               <Row className=" w-100 stage">
-                <div class="characterMk nav nav-tabs" role="tablist">
-                  <div
-                    class="unskew"
-                    id="home-tab"
-                    data-toggle="tab"
-                    href="#home"
-                    role="tab"
-                    aria-controls="home"
-                    aria-selected="false"
-                  >
-                    <div class="skew">
-                      <div class="characterMk">
-                        <p>Welcome</p>
-                        <img src="img/dragon-white.png" />
-                      </div>
-                    </div>
-                  </div>
+                <div className="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
-                      <div
-                        key={personaje.Nombre}
-                        class="unskew"
-                        id="baraka-tab"
-                        data-toggle="tab"
-                        href="#baraka"
-                        role="tab"
-                        aria-controls="baraka"
-                        aria-selected="false"
+                      <a
+                        data-id="index"
+                        class="character-thumb visible enabled  "
                       >
-                        <div class="unskew.active">
-                          <div class="characterMk">
-                            <p
-                              className="title"
-                              onClick={() => this.showContent(index)}
-                            >
-                              {personaje.Nombre}
-                            </p>
-                            <img
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                            ></img>
-                          </div>
-                        </div>
                         <div>
-                          <div>
-                            
-                            {this.state.isItemContentVisible[index] &&
-                              this.renderContent()}
-                          
-
-                            <div></div>
+                          <div class="img-wrapper">
+                            <img
+                              data-src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt=""
+                              class="img-fluid lazy-loaded h-100"
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                            />
                           </div>
+                          <div class="label">{personaje.Nombre}</div>
                         </div>
-                      </div>
+                      </a>
+
+                      /*  
+                        <div>
+                          {this.state.isItemContentVisible[index] &&
+                            this.renderContent()}
+
+                          <div></div>
+                        </div>
+                            */
                     );
                   })}
                 </div>
@@ -205,5 +180,5 @@ class MortalKombat extends React.Component {
     );
   }
 }
-debugger;
+
 export default withRouter(MortalKombat);
