@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: "mkserif";
-    src: url(/fonts/serif.woff2) format("woff2"), url(/fonts/serif.woff) format("woff");
+    src: url(Kombat11-Regular.ttf);
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -63,15 +63,56 @@
     transition: all .2s ease
 }
 
+.photo {
 
-.fotoLogoMK{
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+    height: 10vw;
+  }
+  /* Contenedor de la imagen */
+  .photo-container {
     
-    height: 14vw;
-    margin-top: -2vw;
+    filter: blur(180px);
+    transition: all .0s ease;
+   
+    margin-top: 1vw;
+    margin-bottom: 3vw;
+    margin-left: -8vw;
+    height: 7vw;
+    
+  }
+  /* Banner de la imagen */
+  .photo .photo-banner {
+      
+    left: 50%;
+    transition: all 0s ease;
+    position: absolute;
+    transform: translateX(-50%);
+  }
+  .photo-banner{
+    height: 14.8vw;
+    margin-top: -2.7vw;
     margin-bottom: -2vw;
-    margin-left: -5vw;
+    margin-left: -4vw;
+  }
+  /* Cuando se haga hover sobre el contenedor */
+  .photo:hover > .photo-container {
+    filter: blur(0);
+  }
+  .photo:hover > .photo-banner {
+    opacity: 0;
+  }
 
+
+.TituloElegirMK{
+
+    font-family: "mkserif",Times New Roman,serif;
+    color: #f2861d;
+    font-size: 3.5vw;
+    line-height: 1.5;
+    margin-top: 1vw;
 }
+
+
 /*FONDO AMARILLO */
 
 .character-thumb.active .img-wrapper {
