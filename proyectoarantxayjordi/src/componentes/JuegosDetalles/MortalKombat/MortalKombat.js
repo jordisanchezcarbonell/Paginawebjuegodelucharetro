@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
@@ -29,11 +29,16 @@ function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
   console.log(props);
 }
+const scrollToRef = (ref) => window.scrollTo(0, ref.current.offsetTop);
+
 //AVER SI FUNCIOONA
 class Child extends React.Component {
   constructor(props) {
     super(props);
     console.log(props);
+  }
+  componentDidMount() {
+    window.scrollTo(30000, 100);
   }
   render() {
     return (
@@ -208,7 +213,10 @@ class MortalKombat extends React.Component {
       numChildren: 0,
     };
   }
-
+  myDivToFocus = React.createRef();
+  componentDidUpdate() {
+    window.scrollTo(30000, 100);
+  }
   prueballamadadetodolosdatos() {}
   renderContent(personaje) {
     this.state.isItemContentVisible = false;
@@ -321,8 +329,10 @@ class MortalKombat extends React.Component {
           <div className="w-100 mt-4">
             <Container className="w-100 ">
               <Row className=" w-100 stage">
-                <div className="characterMk nav nav-tabs  " role="tablist">
+                <div className="characterMk nav   " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
+                    const ref = React.createRef();
+
                     return (
                       <a
                         key={index}
