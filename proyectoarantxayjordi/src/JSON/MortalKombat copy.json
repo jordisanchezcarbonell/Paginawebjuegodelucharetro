@@ -55,14 +55,14 @@
           "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/cicle.png"
         ]
       },
       {
         "nombreAtaque": "Decisive Victory ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cicle.png",
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
@@ -209,7 +209,7 @@
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/cicle.png"
         ]
       },
       {
@@ -354,14 +354,165 @@
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/cicle.png"
         ]
       },
       {
         "nombreAtaque": "Chinese Warrior ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cicle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/up.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Fireball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Low Fireball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dragon Fire E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Burn Out (Close) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "One Inch Death Strike ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cetrion",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Cetrion.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Cetrion.png",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Total Distruction",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Twin Lotus ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A Quick End",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Orders ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon's Breath",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "This Will Hurt",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cicle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chinese Warrior ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cicle.png",
 
           "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/up.png",
@@ -453,154 +604,354 @@
     ]
   },
   {
-    "Nombre": "Cetrion",
+    "Nombre": "Geras",
     "Descripcion": "PRUEBA",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Cetrion.png",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Geras.png",
 
-    "Foto2": "imagenes/PersonajesCortadosMk11/Cetrion.png",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Total Distruction",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Twin Lotus ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A Quick End",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dark Orders ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dragon's Breath",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "This Will Hurt",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Chinese Warrior ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Geras.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
 
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jacqui Briggs",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Jacqui.png",
 
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Fireball ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Low Fireball ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Jacqui.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
 
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Spawn",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Spawn.png",
 
-      {
-        "nombreAtaque": "Dragon Fire E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Burn Out (Close) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Spawn.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Erron Black",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Erron_black.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
+    "Foto2": "imagenes/PersonajesCortadosMk11/Erron_black.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
 
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Cassie Cage",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Cassie.png",
 
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
+    "Foto2": "imagenes/PersonajesCortadosMk11/Cassie.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
 
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "One Inch Death Strike ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jade",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Jade.png",
 
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
+    "Foto2": "imagenes/PersonajesCortadosMk11/Jade.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jonhy Cage",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Johnny_cage.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Johnny_cage.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Scorpion",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Scorpion.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Scorpion.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Terminathor",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Terminator.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Terminator.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Shang Tsung",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/shang_tsung.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/shang_tsung.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Noob Saibot",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Noob_saibot.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Noob_saibot.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Skarlet",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Skarlet.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Skarlet.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kabal",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kabal.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kabal.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Nighwolf",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Nightwolf.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Nightwolf.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Sub-Zero",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Sub-Zero.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Sub-Zero.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kung Lao",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kung_Lao.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kung_Lao.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Jax",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Jxan.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Jxan.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Baraka",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/baraka1.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/baraka1.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Frost",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Frost.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Frost.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Sindel",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Sindel.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Sindel.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kitana",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kitana.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kitana.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Raiden",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Raiden.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Raiden.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kollector",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kollector.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kollector.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kano",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kano.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kano.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "D'Vorah",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/DVorah.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/DVorah.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Kotal Kahn",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kotal.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kotal.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    ]
+  },
+  {
+    "Nombre": "Shao Kahn",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Shao_Kahn.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Shao_Kahn.png",
+    "Ataques": [
+      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
+      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+
+      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
     ]
   }
 ]

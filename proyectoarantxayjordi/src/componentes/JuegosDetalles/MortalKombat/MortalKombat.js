@@ -43,7 +43,69 @@ class Child extends React.Component {
         <TableContainer component={Paper} className="T pruebadelelemento">
           <Table style={{ width: 400, margin: "auto" }}>
             <TableBody>
-              {this.props.elemento.Ataques.map((Ataque, index) => (
+              {this.props.elemento.KomboAttacks.map((Ataque, index) => (
+                <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                  <TableCell
+                    className="  py-2 colorFondoAtaquesKI "
+                    component="th"
+                    scope="row"
+                    align="left"
+                  >
+                    {Ataque.nombreAtaque}
+                  </TableCell>
+
+                  {
+                    <TableCell
+                      component="th"
+                      className="  nombreAtaquesKI py-2"
+                      align="right"
+                    >
+                      {Ataque.Animacion.map((animaciondelataque, index) => (
+                        <Image
+                          key={index}
+                          className="imgAtaqueSSSS"
+                          src={process.env.PUBLIC_URL + animaciondelataque}
+                          fluid
+                        />
+                      ))}
+                    </TableCell>
+                  }
+                </TableRow>
+              ))}
+            </TableBody>
+            <TableBody>
+              {this.props.elemento.KomboAttacks.map((Ataque, index) => (
+                <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                  <TableCell
+                    className="  py-2 colorFondoAtaquesKI "
+                    component="th"
+                    scope="row"
+                    align="left"
+                  >
+                    {Ataque.nombreAtaque}
+                  </TableCell>
+
+                  {
+                    <TableCell
+                      component="th"
+                      className="  nombreAtaquesKI py-2"
+                      align="right"
+                    >
+                      {Ataque.Animacion.map((animaciondelataque, index) => (
+                        <Image
+                          key={index}
+                          className="imgAtaqueSSSS"
+                          src={process.env.PUBLIC_URL + animaciondelataque}
+                          fluid
+                        />
+                      ))}
+                    </TableCell>
+                  }
+                </TableRow>
+              ))}
+            </TableBody>
+            <TableBody>
+              {this.props.elemento.Finishers.map((Ataque, index) => (
                 <TableRow key={Ataque.nombreAtaque} className="mx-5">
                   <TableCell
                     className="  py-2 colorFondoAtaquesKI "
@@ -206,34 +268,30 @@ class MortalKombat extends React.Component {
                 <div className="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
-                      <>
-                        <a
-                          data-id="index"
-                          className="character-thumb visible enabled  "
-                        >
-                          <div>
-                            <div className="img-wrapper">
-                              <img
-                                onClick={() => this.showContent(index)}
-                                data-src={
-                                  process.env.PUBLIC_URL + personaje.Foto
-                                }
-                                alt=""
-                                className="img-fluid lazy-loaded h-100"
-                                src={process.env.PUBLIC_URL + personaje.Foto2}
-                              />
-                            </div>
-                            <div className="label">{personaje.Nombre}</div>
+                      <a
+                        key={index}
+                        data-id="index"
+                        className="character-thumb visible enabled  "
+                      >
+                        <div>
+                          <div className="img-wrapper">
+                            <img
+                              onClick={() => this.showContent(index)}
+                              data-src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt=""
+                              className="img-fluid lazy-loaded h-100"
+                              src={process.env.PUBLIC_URL + personaje.Foto2}
+                            />
                           </div>
-                        </a>
-
+                          <div className="label">{personaje.Nombre}</div>
+                        </div>
                         <div className="m-">
                           {this.state.isItemContentVisible[index] &&
                             this.renderContent(personaje)}
 
                           <div></div>
                         </div>
-                      </>
+                      </a>
                     );
                   })}
                 </div>
