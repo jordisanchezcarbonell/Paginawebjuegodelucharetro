@@ -177,7 +177,7 @@ height: 10vw;
                         className="TablaGeneral  mb-3"
                       >
                         <Table>
-                          <TableBody>
+                          <TableBody className="bodySKULL">
                             {personaje.Ataques.map((Ataque, index) => (
                               <TableRow
                                 key={Ataque.nombreAtaque}
@@ -221,7 +221,7 @@ height: 10vw;
                                 }
                               </TableRow>
                             ))}
-                          </TableBody>
+                          </TableBody >
                         </Table>
                       </TableContainer>
 
@@ -240,7 +240,7 @@ height: 10vw;
                         className="TablaGeneral  "
                       >
                         <Table>
-                          <TableBody>
+                          <TableBody className="bodySKULL">
                             {personaje.TeamMoves.map((Ataque, index) => (
                               <TableRow key={Ataque.nombreAtaque}>
                                 <TableCell
@@ -298,7 +298,7 @@ height: 10vw;
                         className="TablaGeneral  "
                       >
                         <Table>
-                          <TableBody>
+                          <TableBody className="bodySKULL">
                             {personaje.Blockbusters.map((Ataque, index) => (
                               <TableRow key={Ataque.nombreAtaque}>
                                 <TableCell

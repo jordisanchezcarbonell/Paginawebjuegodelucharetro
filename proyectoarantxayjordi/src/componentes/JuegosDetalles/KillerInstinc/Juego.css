@@ -13,7 +13,10 @@
 
 
 }
+.bodyKI{
+  border-bottom:6px white solid!important;
 
+}
 .rowGlobalKI {
   margin: 0;
 }

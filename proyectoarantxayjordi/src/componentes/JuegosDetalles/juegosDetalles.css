@@ -34,7 +34,8 @@ box-shadow: inset 0 0 0 2px black;
 background-color: rgba(128, 128, 128, 0.438);
 
 */
-.MuiTableBody-root{
+
+.bodySKULL{
     border-bottom:6px white solid!important;
 
 }
@@ -69,11 +70,7 @@ margin-bottom: 40px!important;
 color: white;
 }
 
-.rowGlobal {
- 
 
-
-}
 
 .txtDescripcion{
     color:rgb(255, 255, 255);

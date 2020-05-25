@@ -38,16 +38,34 @@ class Child extends React.Component {
   render() {
     return (
       <div style={{ width: "100%" }} key={this.props.elemento.Nombre}>
-        <h1 className="label">{this.props.elemento.Nombre}</h1>
 
-        <TableContainer component={Paper} className="T pruebadelelemento">
-          <Table style={{ width: 400, margin: "auto" }}>
+<div class="horiz-rule  mt-1">
+              <div class="bar">
+              </div>
+              <img src="https://cdn-prod.mortalkombat.com/aftermath/global/vectors/horizontal-rule-node.svg" alt="" class="node" />
+
+            </div>
+
+
+            <div class="title-block enter"><h3>
+            {this.props.elemento.Nombre}
+        </h3> 
+        <div class="rule "></div></div>
+        <Container className="w-100">       
+<Row className="w-100">
+ <Col className="col-md-4 w-100">
+        <TableContainer component={Paper} className="fondoTablaMK pruebadelelemento mt-5">
+        <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
+
+          <Table  >
+                
+
+
             <TableBody>
               {this.props.elemento.KomboAttacks.map((Ataque, index) => (
-                <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                <TableRow key={Ataque.nombreAtaque} className="mx-5 pruebaaa">
                   <TableCell
-                    className="  py-2 colorFondoAtaquesKI "
-                    component="th"
+                    className="  py-2 colorFondoAtaquesMK "
                     scope="row"
                     align="left"
                   >
@@ -56,14 +74,13 @@ class Child extends React.Component {
 
                   {
                     <TableCell
-                      component="th"
-                      className="  nombreAtaquesKI py-2"
+                      className="  nombreAtaquesMK py-2"
                       align="right"
                     >
                       {Ataque.Animacion.map((animaciondelataque, index) => (
                         <Image
                           key={index}
-                          className="imgAtaqueSSSS"
+                          className="imgAtaqueMK"
                           src={process.env.PUBLIC_URL + animaciondelataque}
                           fluid
                         />
@@ -73,12 +90,20 @@ class Child extends React.Component {
                 </TableRow>
               ))}
             </TableBody>
+            </Table>
+            </TableContainer>
+
+</Col>
+<Col className="col-md-4">
+        <TableContainer component={Paper} className="fondoTablaMK  pruebadelelemento mt-5">
+        <h3 className="TituloAtaquesMK">Special Moves</h3> 
+
+          <Table>
             <TableBody>
               {this.props.elemento.KomboAttacks.map((Ataque, index) => (
                 <TableRow key={Ataque.nombreAtaque} className="mx-5">
                   <TableCell
-                    className="  py-2 colorFondoAtaquesKI "
-                    component="th"
+                    className="  py-2 colorFondoAtaquesMK "
                     scope="row"
                     align="left"
                   >
@@ -87,14 +112,13 @@ class Child extends React.Component {
 
                   {
                     <TableCell
-                      component="th"
-                      className="  nombreAtaquesKI py-2"
+                      className="  nombreAtaquesMK py-2"
                       align="right"
                     >
                       {Ataque.Animacion.map((animaciondelataque, index) => (
                         <Image
                           key={index}
-                          className="imgAtaqueSSSS"
+                          className="imgAtaqueMK"
                           src={process.env.PUBLIC_URL + animaciondelataque}
                           fluid
                         />
@@ -104,12 +128,21 @@ class Child extends React.Component {
                 </TableRow>
               ))}
             </TableBody>
+            </Table>
+            </TableContainer>
+            </Col>
+            <Col className="col-md-4">
+            <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
+            <h3 className="TituloAtaquesMK">Finishers</h3>
+
+              <Table>
+
             <TableBody>
               {this.props.elemento.Finishers.map((Ataque, index) => (
                 <TableRow key={Ataque.nombreAtaque} className="mx-5">
                   <TableCell
-                    className="  py-2 colorFondoAtaquesKI "
-                    component="th"
+                    className="  py-2 colorFondoAtaquesMK "
+                   
                     scope="row"
                     align="left"
                   >
@@ -118,14 +151,13 @@ class Child extends React.Component {
 
                   {
                     <TableCell
-                      component="th"
-                      className="  nombreAtaquesKI py-2"
+                      className="  nombreAtaquesMK py-2"
                       align="right"
                     >
                       {Ataque.Animacion.map((animaciondelataque, index) => (
                         <Image
                           key={index}
-                          className="imgAtaqueSSSS"
+                          className="imgAtaqueMK"
                           src={process.env.PUBLIC_URL + animaciondelataque}
                           fluid
                         />
@@ -137,6 +169,9 @@ class Child extends React.Component {
             </TableBody>
           </Table>
         </TableContainer>
+        </Col>
+        </Row>
+        </Container>
       </div>
     );
   }
@@ -153,7 +188,7 @@ class MortalKombat extends React.Component {
     };
   }
 
-  prueballamadadetodolosdatos() {}
+  prueballamadadetodolosdatos() { }
   renderContent(personaje) {
     this.state.isItemContentVisible = false;
     /*console.log(personaje);
@@ -283,6 +318,8 @@ class MortalKombat extends React.Component {
                               src={process.env.PUBLIC_URL + personaje.Foto2}
                             />
                           </div>
+
+
                           <div className="label">{personaje.Nombre}</div>
                         </div>
                         <div className="m-">
@@ -296,7 +333,10 @@ class MortalKombat extends React.Component {
                   })}
                 </div>
               </Row>
+
             </Container>
+            
+
             {this.state.mostrarsegundoelemnto && (
               <Child elemento={this.state.objetoPersonaje} />
             )}
