@@ -13,6 +13,7 @@ import "./Mortalkombat.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
+import { Link, animateScroll as scroll } from "react-scroll";
 
 // get our fontawesome imports
 import { faHome } from "@fortawesome/free-solid-svg-icons";
@@ -20,7 +21,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { ReactComponent as Logo } from "../nombre.png";
 import ReactPlayer from "react-player";
 import IcomoonReact, { iconList } from "icomoon-react";
-import { BrowserRouter, Route, Link } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 var listOfImages = [];
 function importAll(r) {
   return r.keys().map(r);
@@ -30,6 +31,7 @@ function Welcome(props) {
   console.log(props);
 }
 const scrollToRef = (ref) => window.scrollTo(0, ref.current.offsetTop);
+const messagesEndRef = React.createRef();
 
 //AVER SI FUNCIOONA
 class Child extends React.Component {
@@ -38,15 +40,11 @@ class Child extends React.Component {
     console.log(props);
     this.myRef = React.createRef(); // Create a ref object
   }
-  componentDidMount() {
-    this.myRef.current.scrollTo(0, 0);
-    
-  }
 
   render() {
     return (
       <div
-        ref={this.myRef}
+        id="section1"
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
       >
@@ -220,10 +218,13 @@ class MortalKombat extends React.Component {
       numChildren: 0,
     };
   }
-  myDivToFocus = React.createRef();
-  componentDidUpdate() {
-    window.scrollTo(30000, 100);
-  }
+  onClickDown = () => {
+    scroll.scrollToBottom();
+  };
+  scrollToTop = () => {
+    scroll.scrollToBottom();
+  };
+
   prueballamadadetodolosdatos() {}
   renderContent(personaje) {
     this.state.isItemContentVisible = false;
@@ -244,6 +245,7 @@ class MortalKombat extends React.Component {
       },
     });
     this.setState({ mostrarsegundoelemnto: true });
+    this.onClickDown();
   }
   state = {
     objetoPersonaje: "",
@@ -338,8 +340,6 @@ class MortalKombat extends React.Component {
               <Row className=" w-100 stage">
                 <div className="characterMk nav   " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
-                    const ref = React.createRef();
-
                     return (
                       <a
                         key={index}
@@ -349,7 +349,11 @@ class MortalKombat extends React.Component {
                         <div>
                           <div className="img-wrapper">
                             <img
-                              onClick={() => this.showContent(index)}
+                              href="#una-id"
+                              onClick={
+                                (() => this.showContent(index))
+                              
+                              }
                               data-src={process.env.PUBLIC_URL + personaje.Foto}
                               alt=""
                               className="img-fluid lazy-loaded h-100 "
@@ -376,6 +380,7 @@ class MortalKombat extends React.Component {
               <Child elemento={this.state.objetoPersonaje} />
             )}
           </div>
+
         </div>
       </div>
     );
