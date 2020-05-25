@@ -1,6 +1,6 @@
 .pruebadelelemento {
     text-align: center;
-    border: none!important;
+    border: none !important;
 }
 
 .DivMortalkombat {
@@ -17,42 +17,56 @@
 
 
 }
-.imgAtaqueMK{
-    height: 1.5vw!important;
-    }
-    .nombreAtaquesMK{
-        width: 54%;
-        border: none;
-        margin-right:0!important;
-        padding-right: 0!important;
-    }
-    
-    .colorFondoAtaquesMK{
-    margin-left:0!important;
-    padding-left: 0!important;
-        color: white !important;
-    
-        font-size: 13px!important;
-        font-weight: 100!important;
-
-      border: none;
-      
-    }
-    .fondoTablaMK{
-
-        background-color: rgba(0, 0, 0, 0) !important;
 
 
-    }
-.TituloAtaquesMK{
+.claseeprueba {
+    text-align: center;
+
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+
+.imgAtaqueMK {
+    height: 1.5vw !important;
+}
+
+.nombreAtaquesMK {
+    width: 54%;
+    border: none;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}
+
+.colorFondoAtaquesMK {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    color: white !important;
+
+    font-size: 13px !important;
+    font-weight: 100 !important;
+
+    border: none;
+
+}
+
+.fondoTablaMK {
+
+    background-color: rgba(0, 0, 0, 0) !important;
+
+
+}
+
+.TituloAtaquesMK {
     color: #de9a00;
     font-weight: 100;
     width: 100%;
 }
 
-.pruebaaa{
-    border-bottom: none!important;
-    }
+.pruebaaa {
+    border-bottom: none !important;
+}
+
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700);
 
 @font-face {
@@ -101,55 +115,62 @@
     border-width: 0 0 10px 10px;
     transition: all .2s ease
 }
-.container{
-    margin:0!important;
+
+.container {
+    margin: auto !important;
 }
 
 .photo {
 
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
     height: 10vw;
-  }
-  /* Contenedor de la imagen */
-  .photo-container {
-    
+}
+
+/* Contenedor de la imagen */
+.photo-container {
+
     filter: blur(180px);
     transition: all .0s ease;
-   
+
     margin-top: 1vw;
     margin-bottom: 3vw;
     margin-left: -8vw;
     height: 7vw;
-    
-  }
-  /* Banner de la imagen */
-  .photo .photo-banner {
-      
+
+}
+
+/* Banner de la imagen */
+.photo .photo-banner {
+
     left: 50%;
     transition: all 0s ease;
     position: absolute;
     transform: translateX(-50%);
-  }
-  .photo-banner{
+}
+
+.photo-banner {
     height: 14.8vw;
     margin-top: -2.7vw;
     margin-bottom: -2vw;
     margin-left: -4vw;
-  }
-  /* Cuando se haga hover sobre el contenedor */
-  .photo:hover > .photo-container {
-    filter: blur(0);
-  }
-  .photo:hover > .photo-banner {
-    opacity: 0;
-  }
-
-tr{
-    border: none!important;
 }
-.TituloElegirMK{
 
-    font-family: "mkserif",Times New Roman,serif;
+/* Cuando se haga hover sobre el contenedor */
+.photo:hover>.photo-container {
+    filter: blur(0);
+}
+
+.photo:hover>.photo-banner {
+    opacity: 0;
+}
+
+tr {
+    border: none !important;
+}
+
+.TituloElegirMK {
+
+    font-family: "mkserif", Times New Roman, serif;
     color: #f2861d;
     font-size: 3.5vw;
     line-height: 1.5;
@@ -258,17 +279,25 @@ tr{
     height: 24px;
     z-index: 1;
 }
-.horiz-rule img.node{
-    height:29px;
+
+.horiz-rule img.node {
+    height: 29px;
 }
 
-.horiz-rule img.node{width:auto;height:22px;position:absolute;top:6%;left:48.5%;}
+.horiz-rule img.node {
+    width: auto;
+    height: 22px;
+    position: absolute;
+    top: 6%;
+    left: 48.5%;
+}
+
 .horiz-rule .bar {
     position: absolute;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
     width: 100%;
     height: 4px;
     background-color: #5a4c30;
@@ -276,7 +305,7 @@ tr{
 
 
 .title-block .rule {
-    background: linear-gradient(90deg,#1c1c1c,#fff 25%,#fff 75%,#1c1c1c);
+    background: linear-gradient(90deg, #1c1c1c, #fff 25%, #fff 75%, #1c1c1c);
     position: absolute;
     left: 0;
     bottom: 0;
@@ -288,5 +317,5 @@ tr{
 .title-block {
     position: relative;
     padding: 20px 0;
-    background: linear-gradient(90deg,#150302,#540808 25%,#540808 75%,#150302);
+    background: linear-gradient(90deg, #150302, #540808 25%, #540808 75%, #150302);
 }

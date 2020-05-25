@@ -4541,5 +4541,425 @@
         ]
       }
     ]
+  },
+  {
+    "Nombre": "Robocop",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Robocop.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Robotocp.png",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Warlord  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Merging Realms  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Die By My Hands  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bow To Me  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fear Me  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Konquer All     ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Merciless Spear ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "(Air) Wrath Hammer E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Up Wrath Hammer E   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Back Blown Out (Close) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kahn-Sequences (Close)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Essence Thief   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sheeva",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Sheeva.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Sheeva.png",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Warlord  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Merging Realms  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Die By My Hands  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bow To Me  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fear Me  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Konquer All     ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Merciless Spear ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "(Air) Wrath Hammer E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Up Wrath Hammer E   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Back Blown Out (Close) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kahn-Sequences (Close)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Essence Thief   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fujin",
+    "Descripcion": "PRUEBA",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Fujin.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Fujin.png",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Warlord  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Merging Realms  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Die By My Hands  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bow To Me  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fear Me  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Konquer All     ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Merciless Spear ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "(Air) Wrath Hammer E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Up Wrath Hammer E   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Back Blown Out (Close) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kahn-Sequences (Close)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Essence Thief   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
   }
 ]

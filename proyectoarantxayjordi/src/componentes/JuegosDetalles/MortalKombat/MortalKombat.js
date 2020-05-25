@@ -38,145 +38,160 @@ class Child extends React.Component {
   render() {
     return (
       <div style={{ width: "100%" }} key={this.props.elemento.Nombre}>
+        <div class="horiz-rule  mt-1">
+          <div class="bar"></div>
+          <img
+            src="https://cdn-prod.mortalkombat.com/aftermath/global/vectors/horizontal-rule-node.svg"
+            alt=""
+            class="node"
+          />
+        </div>
 
-<div class="horiz-rule  mt-1">
-              <div class="bar">
-              </div>
-              <img src="https://cdn-prod.mortalkombat.com/aftermath/global/vectors/horizontal-rule-node.svg" alt="" class="node" />
+        <div class="title-block enter">
+          <h3>{this.props.elemento.Nombre}</h3>
+          <div class="rule "></div>
+        </div>
+        <Container className="">
+          <Row className="w-100  px-0 mx-0">
+            <Col className="col-md-4 w-100">
+              <TableContainer
+                component={Paper}
+                className="fondoTablaMK pruebadelelemento mt-5"
+              >
+                <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
 
-            </div>
+                <Table>
+                  <TableBody>
+                    {this.props.elemento.KomboAttacks.map((Ataque, index) => (
+                      <TableRow
+                        key={Ataque.nombreAtaque}
+                        className="mx-5 pruebaaa"
+                      >
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesMK "
+                          scope="row"
+                          component="tr"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
 
+                        {
+                          <TableCell
+                            className="  nombreAtaquesMK py-2"
+                            component="tr"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueMK"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </Col>
+            <Col className="col-md-4 ">
+              <TableContainer
+                component={Paper}
+                className="fondoTablaMK  pruebadelelemento mt-5"
+              >
+                <h3 className="TituloAtaquesMK">Special Moves</h3>
 
-            <div class="title-block enter"><h3>
-            {this.props.elemento.Nombre}
-        </h3> 
-        <div class="rule "></div></div>
-        <Container className="w-100 px-0 ">       
-<Row className="w-100  px-0 mx-0">
- <Col className="col-md-4 w-100">
-        <TableContainer component={Paper} className="fondoTablaMK pruebadelelemento mt-5">
-        <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
+                <Table>
+                  <TableBody>
+                    {this.props.elemento.KomboAttacks.map((Ataque, index) => (
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesMK "
+                          scope="row"
+                          component="tr"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
 
-          <Table  >
-                
-
-
-            <TableBody>
-              {this.props.elemento.KomboAttacks.map((Ataque, index) => (
-                <TableRow key={Ataque.nombreAtaque} className="mx-5 pruebaaa">
-                  <TableCell
-                    className="  py-2 colorFondoAtaquesMK "
-                    scope="row"
-                    component="tr"
-                    align="left"
-                  >
-                    {Ataque.nombreAtaque}
-                  </TableCell>
-
-                  {
-                    <TableCell
-                      className="  nombreAtaquesMK py-2"
-                      component="tr"
-                      align="right"
-                    >
-                      {Ataque.Animacion.map((animaciondelataque, index) => (
-                        <Image
-                          key={index}
-                          
-                          className="imgAtaqueMK"
-                          src={process.env.PUBLIC_URL + animaciondelataque}
-                          fluid
-                        />
-                      ))}
-                    </TableCell>
-                  }
-                </TableRow>
-              ))}
-            </TableBody>
-            </Table>
-            </TableContainer>
-
-</Col>
-<Col className="col-md-4 mx-1">
-        <TableContainer component={Paper} className="fondoTablaMK  pruebadelelemento mt-5">
-        <h3 className="TituloAtaquesMK">Special Moves</h3> 
-
-          <Table>
-            <TableBody>
-              {this.props.elemento.KomboAttacks.map((Ataque, index) => (
-                <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                  <TableCell
-                    className="  py-2 colorFondoAtaquesMK "
-                    scope="row"
-                    component="tr"
-                    align="left"
-                  >
-                    {Ataque.nombreAtaque}
-                  </TableCell>
-
-                  {
-                    <TableCell
-                      className="  nombreAtaquesMK py-2"
-                      align="right"
-                      component="tr"
-                    >
-                      {Ataque.Animacion.map((animaciondelataque, index) => (
-                        <Image
-                          key={index}
-                          className="imgAtaqueMK"
-                          src={process.env.PUBLIC_URL + animaciondelataque}
-                          fluid
-                        />
-                      ))}
-                    </TableCell>
-                  }
-                </TableRow>
-              ))}
-            </TableBody>
-            </Table>
-            </TableContainer>
+                        {
+                          <TableCell
+                            className="  nombreAtaquesMK py-2"
+                            align="right"
+                            component="tr"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueMK"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
             </Col>
             <Col className="col-md-4">
-            <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
-            <h3 className="TituloAtaquesMK">Finishers</h3>
+              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
+                <h3 className="TituloAtaquesMK">Finishers</h3>
 
-              <Table>
+                <Table>
+                  <TableBody>
+                    {this.props.elemento.Finishers.map((Ataque, index) => (
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesMK "
+                          component="tr"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
 
-            <TableBody>
-              {this.props.elemento.Finishers.map((Ataque, index) => (
-                <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                  <TableCell
-                    className="  py-2 colorFondoAtaquesMK "
-                    component="tr"
-                    scope="row"
-                    align="left"
-                  >
-                    {Ataque.nombreAtaque}
-                  </TableCell>
-
-                  {
-                    <TableCell
-                       component="tr"
-                      className="  nombreAtaquesMK py-2"
-                      align="right"
-                    >
-                      {Ataque.Animacion.map((animaciondelataque, index) => (
-                        <Image
-                          key={index}
-                          className="imgAtaqueMK"
-                          src={process.env.PUBLIC_URL + animaciondelataque}
-                          fluid
-                        />
-                      ))}
-                    </TableCell>
-                  }
-                </TableRow>
-              ))}
-            </TableBody>
-          </Table>
-        </TableContainer>
-        </Col>
-        </Row>
+                        {
+                          <TableCell
+                            component="tr"
+                            className="  nombreAtaquesMK py-2"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueMK"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </Col>
+          </Row>
         </Container>
       </div>
     );
@@ -194,7 +209,7 @@ class MortalKombat extends React.Component {
     };
   }
 
-  prueballamadadetodolosdatos() { }
+  prueballamadadetodolosdatos() {}
   renderContent(personaje) {
     this.state.isItemContentVisible = false;
     /*console.log(personaje);
@@ -302,17 +317,17 @@ class MortalKombat extends React.Component {
           </Row>
         </div>
         <h1 className="TituloElegirMK"> Elige a tu jugador</h1>
-        <div className="row rowGlobalKI ">
+        <div className="row rowGlobalKI  ">
           <div className="w-100 mt-4">
             <Container className="w-100 ">
               <Row className=" w-100 stage">
-                <div className="characterMk nav nav-tabs" role="tablist">
+                <div className="characterMk nav nav-tabs  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <a
                         key={index}
                         data-id="index"
-                        className="character-thumb visible enabled  "
+                        className="character-thumb visible enabled  claseeprueba "
                       >
                         <div>
                           <div className="img-wrapper">
@@ -320,11 +335,10 @@ class MortalKombat extends React.Component {
                               onClick={() => this.showContent(index)}
                               data-src={process.env.PUBLIC_URL + personaje.Foto}
                               alt=""
-                              className="img-fluid lazy-loaded h-100"
+                              className="img-fluid lazy-loaded h-100 "
                               src={process.env.PUBLIC_URL + personaje.Foto2}
                             />
                           </div>
-
 
                           <div className="label">{personaje.Nombre}</div>
                         </div>
@@ -339,9 +353,7 @@ class MortalKombat extends React.Component {
                   })}
                 </div>
               </Row>
-
             </Container>
-            
 
             {this.state.mostrarsegundoelemnto && (
               <Child elemento={this.state.objetoPersonaje} />
