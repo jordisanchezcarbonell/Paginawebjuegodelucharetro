@@ -51,8 +51,8 @@ class Child extends React.Component {
             {this.props.elemento.Nombre}
         </h3> 
         <div class="rule "></div></div>
-        <Container className="w-100">       
-<Row className="w-100">
+        <Container className="w-100 px-0 ">       
+<Row className="w-100  px-0 mx-0">
  <Col className="col-md-4 w-100">
         <TableContainer component={Paper} className="fondoTablaMK pruebadelelemento mt-5">
         <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
@@ -67,6 +67,7 @@ class Child extends React.Component {
                   <TableCell
                     className="  py-2 colorFondoAtaquesMK "
                     scope="row"
+                    component="tr"
                     align="left"
                   >
                     {Ataque.nombreAtaque}
@@ -75,11 +76,13 @@ class Child extends React.Component {
                   {
                     <TableCell
                       className="  nombreAtaquesMK py-2"
+                      component="tr"
                       align="right"
                     >
                       {Ataque.Animacion.map((animaciondelataque, index) => (
                         <Image
                           key={index}
+                          
                           className="imgAtaqueMK"
                           src={process.env.PUBLIC_URL + animaciondelataque}
                           fluid
@@ -94,7 +97,7 @@ class Child extends React.Component {
             </TableContainer>
 
 </Col>
-<Col className="col-md-4">
+<Col className="col-md-4 mx-1">
         <TableContainer component={Paper} className="fondoTablaMK  pruebadelelemento mt-5">
         <h3 className="TituloAtaquesMK">Special Moves</h3> 
 
@@ -105,6 +108,7 @@ class Child extends React.Component {
                   <TableCell
                     className="  py-2 colorFondoAtaquesMK "
                     scope="row"
+                    component="tr"
                     align="left"
                   >
                     {Ataque.nombreAtaque}
@@ -114,6 +118,7 @@ class Child extends React.Component {
                     <TableCell
                       className="  nombreAtaquesMK py-2"
                       align="right"
+                      component="tr"
                     >
                       {Ataque.Animacion.map((animaciondelataque, index) => (
                         <Image
@@ -142,7 +147,7 @@ class Child extends React.Component {
                 <TableRow key={Ataque.nombreAtaque} className="mx-5">
                   <TableCell
                     className="  py-2 colorFondoAtaquesMK "
-                   
+                    component="tr"
                     scope="row"
                     align="left"
                   >
@@ -151,6 +156,7 @@ class Child extends React.Component {
 
                   {
                     <TableCell
+                       component="tr"
                       className="  nombreAtaquesMK py-2"
                       align="right"
                     >

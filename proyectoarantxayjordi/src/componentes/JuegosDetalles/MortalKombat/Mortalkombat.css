@@ -101,6 +101,9 @@
     border-width: 0 0 10px 10px;
     transition: all .2s ease
 }
+.container{
+    margin:0!important;
+}
 
 .photo {
 
@@ -141,7 +144,9 @@
     opacity: 0;
   }
 
-
+tr{
+    border: none!important;
+}
 .TituloElegirMK{
 
     font-family: "mkserif",Times New Roman,serif;
