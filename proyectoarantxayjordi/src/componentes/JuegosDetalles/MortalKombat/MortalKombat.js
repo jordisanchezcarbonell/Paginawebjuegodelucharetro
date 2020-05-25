@@ -42,6 +42,10 @@ class Child extends React.Component {
   }
 
   render() {
+    const styleTable = {
+      overflowX: undefined,
+      overflowY: undefined,
+    };
     return (
       <div
         id="section1"
@@ -70,8 +74,12 @@ class Child extends React.Component {
               >
                 <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
 
-                <Table>
-                  <TableBody>
+                <Table
+                  stickyHeader
+                  aria-label="sticky table"
+                  className="nomostrarscroll"
+                >
+                  <TableBody className="nomostrarscroll">
                     {this.props.elemento.KomboAttacks.map((Ataque, index) => (
                       <TableRow
                         key={Ataque.nombreAtaque}
@@ -119,7 +127,7 @@ class Child extends React.Component {
               >
                 <h3 className="TituloAtaquesMK">Special Moves</h3>
 
-                <Table>
+                <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.KomboAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
@@ -162,7 +170,7 @@ class Child extends React.Component {
               <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
                 <h3 className="TituloAtaquesMK">Finishers</h3>
 
-                <Table>
+                <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.Finishers.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
@@ -350,10 +358,7 @@ class MortalKombat extends React.Component {
                           <div className="img-wrapper">
                             <img
                               href="#una-id"
-                              onClick={
-                                (() => this.showContent(index))
-                              
-                              }
+                              onClick={() => this.showContent(index)}
                               data-src={process.env.PUBLIC_URL + personaje.Foto}
                               alt=""
                               className="img-fluid lazy-loaded h-100 "
@@ -380,7 +385,6 @@ class MortalKombat extends React.Component {
               <Child elemento={this.state.objetoPersonaje} />
             )}
           </div>
-
         </div>
       </div>
     );

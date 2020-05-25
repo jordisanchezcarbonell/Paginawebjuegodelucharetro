@@ -18,6 +18,10 @@
 
 }
 
+.MuiTable-root {
+    width: 100% !important;
+    display: table !important;
+}
 
 .claseeprueba {
     text-align: center;
@@ -119,6 +123,10 @@
 
 .container {
     margin: auto !important;
+}
+
+.nomostrarscroll {
+    overflow: hidden;
 }
 
 .photo {
