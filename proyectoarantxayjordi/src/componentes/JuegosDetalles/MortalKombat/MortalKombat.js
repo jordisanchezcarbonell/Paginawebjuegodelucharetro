@@ -36,13 +36,20 @@ class Child extends React.Component {
   constructor(props) {
     super(props);
     console.log(props);
+    this.myRef = React.createRef(); // Create a ref object
   }
   componentDidMount() {
-    window.scrollTo(30000, 100);
+    this.myRef.current.scrollTo(0, 0);
+    
   }
+
   render() {
     return (
-      <div style={{ width: "100%" }} key={this.props.elemento.Nombre}>
+      <div
+        ref={this.myRef}
+        style={{ width: "100%" }}
+        key={this.props.elemento.Nombre}
+      >
         <div class="horiz-rule  mt-1">
           <div class="bar"></div>
           <img
