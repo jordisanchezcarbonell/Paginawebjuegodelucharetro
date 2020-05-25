@@ -1,5 +1,6 @@
 .pruebadelelemento {
     text-align: center;
+    border: none!important;
 }
 
 .DivMortalkombat {
@@ -16,7 +17,42 @@
 
 
 }
+.imgAtaqueMK{
+    height: 1.5vw!important;
+    }
+    .nombreAtaquesMK{
+        width: 54%;
+        border: none;
+        margin-right:0!important;
+        padding-right: 0!important;
+    }
+    
+    .colorFondoAtaquesMK{
+    margin-left:0!important;
+    padding-left: 0!important;
+        color: white !important;
+    
+        font-size: 13px!important;
+        font-weight: 100!important;
 
+      border: none;
+      
+    }
+    .fondoTablaMK{
+
+        background-color: rgba(0, 0, 0, 0) !important;
+
+
+    }
+.TituloAtaquesMK{
+    color: #de9a00;
+    font-weight: 100;
+    width: 100%;
+}
+
+.pruebaaa{
+    border-bottom: none!important;
+    }
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700);
 
 @font-face {
@@ -208,4 +244,44 @@
     .character-thumb.locked .img-wrapper>svg {
         width: 75px
     }
+}
+
+.horiz-rule {
+    display: block;
+    margin: -12px 0;
+    position: relative;
+    height: 24px;
+    z-index: 1;
+}
+.horiz-rule img.node{
+    height:29px;
+}
+
+.horiz-rule img.node{width:auto;height:22px;position:absolute;top:6%;left:48.5%;}
+.horiz-rule .bar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    width: 100%;
+    height: 4px;
+    background-color: #5a4c30;
+}
+
+
+.title-block .rule {
+    background: linear-gradient(90deg,#1c1c1c,#fff 25%,#fff 75%,#1c1c1c);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7px;
+    z-index: 1;
+}
+
+.title-block {
+    position: relative;
+    padding: 20px 0;
+    background: linear-gradient(90deg,#150302,#540808 25%,#540808 75%,#150302);
 }

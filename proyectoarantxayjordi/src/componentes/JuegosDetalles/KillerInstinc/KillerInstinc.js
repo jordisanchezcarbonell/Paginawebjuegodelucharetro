@@ -169,7 +169,7 @@ class KillerInstinc extends React.Component {
 
                       <TableContainer component={Paper} className="T mb-3">
                         <Table size="small">
-                          <TableBody>
+                          <TableBody className="bodyKI">
                             {personaje.Ataques.map((Ataque, index) => (
                               <TableRow
                                 key={Ataque.nombreAtaque}
