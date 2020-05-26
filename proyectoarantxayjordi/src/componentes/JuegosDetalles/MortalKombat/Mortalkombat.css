@@ -126,6 +126,7 @@
 }
 
 .nomostrarscroll {
+    /*No mostrar*/
     overflow: hidden;
 }
 
