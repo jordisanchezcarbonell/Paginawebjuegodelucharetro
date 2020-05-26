@@ -32,6 +32,7 @@ import { ReactComponent as Logo } from "./nombre.png";
 import ReactPlayer from "react-player";
 import KillerInstinct from "./KillerInstinc/KillerInstinc";
 import MortalKombat from "./MortalKombat/MortalKombat";
+import GbFantasy from "./GrandBLUE/GranBlue";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -221,7 +222,7 @@ height: 10vw;
                                 }
                               </TableRow>
                             ))}
-                          </TableBody >
+                          </TableBody>
                         </Table>
                       </TableContainer>
 
@@ -383,7 +384,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[9].Nombre) {
       return this.streetfighter(detalles, SoulCalibur);
     } else if (detalles.Nombre === prueba[11].Nombre) {
-      return this.streetfighter(detalles, Granblue);
+      return <GbFantasy detalles={detalles} Juego={Granblue} />;
     } else if (detalles.Nombre === prueba[12].Nombre) {
       return <MortalKombat detalles={detalles} Juego={PJmortalkombat} />;
     } else {

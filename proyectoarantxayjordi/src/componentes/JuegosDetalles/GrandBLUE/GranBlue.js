@@ -34,7 +34,7 @@ class Child extends React.Component {
   }
 }
 
-class MortalKombat extends React.Component {
+class GranBlue extends React.Component {
   constructor(props, context) {
     super(props);
     console.log(props);
@@ -205,5 +205,4 @@ class MortalKombat extends React.Component {
     );
   }
 }
-debugger;
-export default withRouter(MortalKombat);
+export default withRouter(GranBlue);
