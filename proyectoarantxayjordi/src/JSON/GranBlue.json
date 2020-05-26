@@ -3,13 +3,10 @@
     "Nombre": "Ferry",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/GRANDBLUETODO/ferry.jpg",
-        "UniqueAction": [
+    "UniqueAction": [
       {
         "nombreAtaque": "Ein Ball",
-        "Animacion": [
-          "imagenes/AtaquegranBlue/U.png"
-        ]
-
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
       },
       {
         "nombreAtaque": "Ghost Swing",
@@ -47,7 +44,7 @@
         "nombreAtaque": "Geegee, Get 'Em!",
         "Animacion": [
           "imagenes/AtaquegranBlue/Down.png",
-            "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
 
           "imagenes/AtaquegranBlue/L.png"
         ]
@@ -59,8 +56,6 @@
         "Animacion": [
           "imagenes/AtaquegranBlue/right.png",
           "imagenes/AtaquegranBlue/right.png",
-
-        
 
           "imagenes/AtaquegranBlue/H.png"
         ]
@@ -75,23 +70,1117 @@
           "imagenes/AtaquegranBlue/H.png"
         ]
       }
-
     ],
-       "SuperSkyboundArt": [
+    "SuperSkyboundArt": [
       {
         "nombreAtaque": "Aetheryte Requiescat ",
         "Animacion": [
           "imagenes/AtaquegranBlue/right.png",
           "imagenes/AtaquegranBlue/right.png",
 
-        
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Katalina",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/katalina.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Light Wall",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Frozen Blade",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Emerald Sword",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Enchanted Lands",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Blades of Frost ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Aetheryte Requiescat ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
 
           "imagenes/AtaquegranBlue/U.png"
         ]
       }
-
     ]
-   
-    
+  },
+  {
+    "Nombre": "Metera",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/metera.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Zephyr",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Starry Sky (High)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Starry Sky (Low)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Great Fall",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Aetherial Seal",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Dense Caress",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Rapid Pulverize",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Lancelot",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/lancelot.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Wirbelwind",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Wogenstrom",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blade Impulse",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/leftonly.png",
+          "imagenes/AtaquegranBlue/leftonly.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Southern Cross",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Turbulenz",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Weiss Flugel",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Schöner Winterhügel",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gran",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/gran.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Power Raise",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Reginleiv",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Sword",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Overdrive Surge",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Tempest Blade",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Catastrophe",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zooey",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/zooey.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Convergence",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Summon Dragon (Immortal Thrust)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Summon Dragon (Heavy Breath)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/M.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Summon Dragon (Sweeping Beam)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spinning Slash",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Aerial Spinning Slash",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Thunder",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Thunder (Midair)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Gamma Ray",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Armageddon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Djeeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/djeeta.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Overdrive Surge",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Reginleiv",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Reginleiv: Recidive",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/M.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rising Sword",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vorpal Blade",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Eternal Ascendancy",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Skyfall",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Beelzebubn",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/beelzebub.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Shadowstep",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Black Flies",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Langelaan Field",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Chaoscalibur",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Karma",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unisonic",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Black Spear",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Anthem",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/left.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Chaos Legion",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Percival",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/percival.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "X-Seele",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Anzünden",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Platzen",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lord's Strike",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Träumerei",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Lohenwolf",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Feuerotte Krone",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Charlotta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/charlotta.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "König Schild",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Holy Ladder(Hold)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/Up.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shining Onslaught",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/diagonalizq.png",
+          "imagenes/AtaquegranBlue/Solorigt.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Sword of Lumiel",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Noble Strategy",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Brilliant Moon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Noble Execution",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Zeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/zeta.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Signo Drive",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Infinite Wonders",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spear of Arvess",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Solorigt.png",
+          "imagenes/AtaquegranBlue/Solorigt.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Spear of Arvess (Rise)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spear of Arvess (Fall)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rhapsody",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Resolute Strike",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Sirius Roar",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lowain",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/lowain.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Don't Mind If I Do",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Sammy & Tommy",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Come at Me, Bro!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Awesome Sauce",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Magnificent Tool of Destruction",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Human! Pyramid! Attack!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Try This on for Size!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Narmaya",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/narmaya.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Butterfly Effect",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Dawnfly: Setsuna",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dawnfly: Absolute Horizon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dawnfly: Transient",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Freeflutter: Kyokasuigetsu",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Freeflutter: Mugenkagura",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Freeflutter: Crescent Moon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Freeflutter: Crescent Moon (Midair)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "One Hundred Cloudscapes",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Butterfly Effect: Ame-no-Uzume",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Soriz",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/soriz.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Muscle Fury",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Impact Knuckles",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roundhouse Fang",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Punch the Stars",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/Down.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rock Smash",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Leaping Tiger, Charging Dragon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Macho Ultimatum",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Way of the Fundoshi Fist( during  Macho Ultimatum)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ladiva",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/ladiva.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Love Grapple",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Jewel Resort Screwdriver",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leg Drop of Adoration",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Headbutt of Love",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Elegant Lariat",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Devoted Body Slam",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Maximum Love Bomb (Strike)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Maximum Love Bomb (Strike)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "The Shape of Love",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Vaseraga",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/GRANDBLUETODO/vaseraga.jpg",
+    "UniqueAction": [
+      {
+        "nombreAtaque": "Soul Forge",
+        "Animacion": ["imagenes/AtaquegranBlue/U.png"]
+      }
+    ],
+    "Skill": [
+      {
+        "nombreAtaque": "Instinction",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Left.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leg Drop of Adoration",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/Solorigt.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Savage Rampage",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/down.png",
+          "imagenes/AtaquegranBlue/down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      }
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Bloody Moon",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
+      }
+    ],
+    "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Aftermath",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/360.png",
+          "imagenes/AtaquegranBlue/360.png",
+
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
+    ]
   }
 ]
