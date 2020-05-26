@@ -102,6 +102,20 @@
 
 }
 
+.TituloJuego {
+
+    color: white;
+    font-weight: 100;
+    font-size: 2.5vw;
+    border-radius: 0px;
+    font-family: 'Marcellus', serif;
+
+    text-align: left !important;
+    font-family: "myFont";
+    margin-left: 6vw;
+    margin-top: 3vw;
+}
+
 .colorFondoAtaquesGB {
     background-color: #81abcb;
     border: 1px white solid !important;
