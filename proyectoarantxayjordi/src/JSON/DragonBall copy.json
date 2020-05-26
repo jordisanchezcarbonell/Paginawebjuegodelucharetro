@@ -1,0 +1,765 @@
+[
+  {
+    "Nombre": "Bardock",
+    "Descripcion": "LA MEJOOOOR",
+    
+    "Foto": "imagenes/DBZTODO/bardock.png",
+       "NormalAttacks": [
+                          {
+                            "nombreAtaque": "A body blow.",
+                            "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+                          },
+                          {
+                            "nombreAtaque": "A double axe handle",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/L.png",
+                              "imagenes/AtaquegranBlue/L.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "An uppercut",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/L.png",
+                              "imagenes/AtaquegranBlue/L.png",
+                              "imagenes/AtaquegranBlue/L.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "A side kick.",
+                            "Animacion": ["imagenes/AtaquegranBlue/M.png"]
+                          },
+                          {
+                            "nombreAtaque": "A cross.",
+                            "Animacion": ["imagenes/AtaquegranBlue/H.png"]
+                          },
+                          {
+                            "nombreAtaque": "Shoots one ki blast forward.",
+                            "Animacion": ["imagenes/AtaquegranBlue/S.png"]
+                          },
+                          {
+                            "nombreAtaque": "A low kick.",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/Down.png",
+                              "imagenes/AtaquegranBlue/L.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "A low sweep kick.",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/Down.png",
+                              "imagenes/AtaquegranBlue/M.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "Upward double axe",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/Down.png",
+                              "imagenes/AtaquegranBlue/H.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "An overhand. (in air)",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/L.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque":"A double axe",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/M.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "Ki blast",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/S.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "Hopping double axe",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/Right.png",
+                              "imagenes/AtaquegranBlue/M.png"
+                            ]
+                          },
+                          {
+                            "nombreAtaque": "Upward kick",
+                            "Animacion": [
+                              "imagenes/AtaquegranBlue/Down.png",
+                              "imagenes/AtaquegranBlue/H.png"
+                            ]
+                          }
+                        ],
+    "SpecialMoves": [
+                      {
+                        "nombreAtaque": "Rebellion Spear (air OK)",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/236.png",
+
+                          "imagenes/AtaquegranBlue/L.png"
+                        ]
+                      },
+                      {
+                        "nombreAtaque": "Rebellion Spear (air OK)",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/236.png",
+
+                          "imagenes/AtaquegranBlue/M.png"
+                        ]
+                      },
+
+                      {
+                        "nombreAtaque": "Rebellion Spear (air OK)",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/236.png",
+
+                          "imagenes/AtaquegranBlue/H.png"
+                        ]
+                      },
+                      {
+                        "nombreAtaque": "Raging Meteor(air OK)",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/214.png",
+
+                          "imagenes/AtaquegranBlue/L.png"
+                        ]
+                      },
+                      {
+                        "nombreAtaque": "Raging Meteor(air OK)",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/214.png",
+
+                          "imagenes/AtaquegranBlue/M.png"
+                        ]
+                      },
+                      {
+                        "nombreAtaque": "Raging Meteor (air OK)",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/214.png",
+
+                          "imagenes/AtaquegranBlue/H.png"
+                        ]
+                      },
+                      {
+                        "nombreAtaque": "Tyrant Lancer",
+                        "Animacion": [
+                          "imagenes/AtaquegranBlue/236.png",
+
+                          "imagenes/AtaquegranBlue/S.png"
+                        ]
+                      }
+                    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Riot Javelin  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/236.png",
+          "imagenes/AtaquegranBlue/L.png",
+
+          "imagenes/AtaquegranBlue/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Riot Javelin  (air OK)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/236.png",
+          "imagenes/AtaquegranBlue/H.png",
+
+          "imagenes/AtaquegranBlue/S.png"
+        ]
+      }
+    ],
+     "MeteorAttack": [
+      {
+        "nombreAtaque": "Revenge Assault   (air OK)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/214.png",
+          "imagenes/AtaquegranBlue/L.png",
+
+          "imagenes/AtaquegranBlue/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Revenge Assault (air OK)",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/214.png",
+          "imagenes/AtaquegranBlue/H.png",
+
+          "imagenes/AtaquegranBlue/S.png"
+        ]
+      }
+    ]
+  },
+ 
+
+  {
+    "Nombre": "Teen Gohan",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/gohan.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gogeta",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/DBZTODO/gogeta.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Videl",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/Videl.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 21",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/DBZTODO/android-21.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Vegeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/vegeta.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gotenks",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/DBZTODO/gotenks.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "Hadoyken",
+        "Animacion": "Esto es un hadoyken"
+      },
+      {
+        "nombreAtaque": "Shoruken",
+        "Animacion": "Esto es un shoriyken"
+      },
+      {
+        "nombreAtaque": "FRIKIIIIII",
+        "Animacion": "PROBNA"
+      }
+    ]
+  },
+  {
+    "Nombre": "Goku Black",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/goku-black.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Vegito",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/vegetto.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Base Vegeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/base-vegeta.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Goku",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/goku.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 16",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/android-16.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Trunks",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/trunks.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Piccolo",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/piccolo.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fused Zamasu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/zamas.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Blue Goku",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/goku-ssb.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kefla",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/Kefla.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Super Broly",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/super-broly.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tien",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/tien.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hit",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/hit.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Base Goku",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/base-goku.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yamcha",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/yamcha.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Janemba",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/janemba.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Frieza",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/frieza.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cooler",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/cooler.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Broly",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/broly.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jiren",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/Jiren.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 18",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/android-18.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Beerus",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/beerus.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Majin Buu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/majin-buu.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Captain Ginyu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/ginyu.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Blue Vegeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/vegeta-ssb.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 17",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/android-17.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Krillin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/krillin.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nappa",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/nappa.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Goku Ultra Instinct",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
+    "Ataques": [
+      {
+        "nombreAtaque": "FREE T-SHIRT!",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png",
+          "imagenes/imagenesataques/Button_C.png"
+        ]
+      }
+    ]
+  }
+]

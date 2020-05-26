@@ -67,7 +67,7 @@ class Child extends React.Component {
                   className="nomostrarscroll"
                 >
                   <TableBody className="nomostrarscroll">
-                    {this.props.elemento.UniqueAction.map((Ataque, index) => (
+                    {this.props.elemento.NormalAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
@@ -108,7 +108,7 @@ class Child extends React.Component {
 
                 <Table>
                   <TableBody>
-                    {this.props.elemento.Skill.map((Ataque, index) => (
+                    {this.props.elemento.SpecialMoves.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
@@ -151,7 +151,7 @@ class Child extends React.Component {
 
                 <Table className="nomostrarscroll">
                   <TableBody>
-                    {this.props.elemento.SkyboundArt.map((Ataque, index) => (
+                    {this.props.elemento.SuperAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
@@ -193,7 +193,7 @@ class Child extends React.Component {
 
                 <Table className="nomostrarscroll">
                   <TableBody>
-                    {this.props.elemento.SuperSkyboundArt.map(
+                    {this.props.elemento.MeteorAttack.map(
                       (Ataque, index) => (
                         <TableRow key={Ataque.nombreAtaque} className="mx-5">
                           <TableCell

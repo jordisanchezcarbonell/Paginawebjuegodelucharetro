@@ -49,7 +49,7 @@ class Child extends React.Component {
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
       >
-        <div class="products">
+        <div className="products">
           <h3>{this.props.elemento.Nombre}</h3>
         </div>
         <Container className="">
@@ -389,20 +389,21 @@ class GranBlue extends React.Component {
                   className="mx-auto mb-3"
                 ></img>
 
-                <div class=" nav nav-tabs" role="tablist">
+                <div className=" nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     if (index <= 3) {
                       return (
                         <div
                           key={personaje.Nombre}
-                          class="unskew characterGB"
+                          className="unskew characterGB"
                           data-toggle="tab"
                           role="tab"
                           aria-selected="false"
                         >
-                          <div class="unskew.active">
+                          <div className="unskew.active">
                             <Image
                               href="#una-id"
+                              className="centrarImagen"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               fluid
@@ -421,17 +422,18 @@ class GranBlue extends React.Component {
                       );
                     } else {
                       return (
-                        <div>
+                        <div key={index}>
                           <div
-                            key={personaje.Nombre}
-                            class="unskew characterGB"
+                            key={index}
+                            className="unskew characterGB"
                             data-toggle="tab"
                             role="tab"
                             aria-selected="false"
                           >
-                            <div class="unskew.active">
+                            <div className="unskew.active verticalcenter">
                               <Image
                                 href="#una-id"
+                                className="centrarImagen"
                                 onClick={() => this.showContent(index)}
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 fluid
