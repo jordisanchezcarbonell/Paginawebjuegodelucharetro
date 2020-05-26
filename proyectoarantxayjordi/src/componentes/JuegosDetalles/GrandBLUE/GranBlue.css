@@ -88,15 +88,22 @@
     background-color: gray;
     color:white;
     font-weight: 100;
-    font-size: 3vw;
+    font-size: 2.5vw;
     border-radius: 0px;
+    font-family: 'Marcellus', serif;
+    padding-bottom: 0.5vw!important;
+    padding-top: 0.2vw!important;
+
 }
 .colorFondoAtaquesGB{
     background-color: #81abcb;
     border: 1px white solid!important;
+    font-weight: 600!important;
+    font-family: 'Marcellus', serif!important;
 }
 .nombreAtaquesGB{
-    background-color: white;
+    font-family: 'Tenor Sans', sans-serif; 
+       background-color: white;
     border-bottom: 1px black solid!important;
 
 color:black!important;
