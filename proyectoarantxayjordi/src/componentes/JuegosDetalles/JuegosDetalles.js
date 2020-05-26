@@ -33,6 +33,7 @@ import ReactPlayer from "react-player";
 import KillerInstinct from "./KillerInstinc/KillerInstinc";
 import MortalKombat from "./MortalKombat/MortalKombat";
 import GbFantasy from "./GrandBLUE/GranBlue";
+import DB from "./DragonBall/Dragonball";
 
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
@@ -376,7 +377,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[5].Nombre) {
       return this.streetfighter(detalles, UnderNight);
     } else if (detalles.Nombre === prueba[6].Nombre) {
-      return this.streetfighter(detalles, Dragonball);
+      return <DB detalles={detalles} Juego={Dragonball} />;
     } else if (detalles.Nombre === prueba[7].Nombre) {
       return this.streetfighter(detalles, TEKKEN);
     } else if (detalles.Nombre === prueba[8].Nombre) {
