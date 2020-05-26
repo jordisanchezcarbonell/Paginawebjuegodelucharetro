@@ -1,4 +1,4 @@
-.products{
+.products {
     width: 90%;
     max-width: 1000px;
     margin: 5% auto 0 auto;
@@ -11,10 +11,24 @@
     box-sizing: border-box;
     text-align: center;
     text-transform: uppercase;
-    text-shadow: rgba(0,0,0,.3) 1px 1px 3px, rgba(0,0,0,.3) -1px 1px 3px, rgba(0,0,0,.3) 1px -1px 3px, rgba(0,0,0,.3) -1px -1px 3px;
+    text-shadow: rgba(0, 0, 0, .3) 1px 1px 3px, rgba(0, 0, 0, .3) -1px 1px 3px, rgba(0, 0, 0, .3) 1px -1px 3px, rgba(0, 0, 0, .3) -1px -1px 3px;
 }
 
+.DivGranBlue {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(http://www.granbluefantasyvs.com/characters/images/charabg.png), linear-gradient(#6e859c, #c0ccd8);
+
+}
 
 @keyframes wave {
     0% {
@@ -48,7 +62,7 @@
 /*.characterMks::-webkit-scrollbar { display: none; }*/
 
 .unskew {
-    height: 200px!important;
+    height: 200px !important;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
@@ -91,7 +105,7 @@
     width: 100%;
     text-align: center;
     cursor: pointer;
-    border-bottom: none!important;
+    border-bottom: none !important;
 }
 
 .characterMk img {
