@@ -81,7 +81,6 @@
     backface-visibility: hidden;
     overflow: hidden;
     width: 120px;
-    min-width: 120px;
     border-left: 1px solid rgba(255, 255, 255, 0.0);
     -webkit-box-shadow: -7px 0px 10px rgba(0, 0, 0, 0.5);
     box-shadow: -7px 0px 10px rgba(0, 0, 0, 0.5);
@@ -136,12 +135,10 @@
     width: 170px;
     min-width: 170px;
     color: #000;
-    height: auto;
 
 }
 
 .characterGB {
-    width: 100%;
     text-align: center;
     cursor: pointer;
     border-bottom: none !important;
