@@ -83,7 +83,28 @@
     -o-transition: all 0.25s ease;
     transition: all 0.25s ease;
 }
+.TituloAtaquesGB{
 
+    background-color: gray;
+    color:white;
+    font-weight: 100;
+    font-size: 3vw;
+    border-radius: 0px;
+}
+.colorFondoAtaquesGB{
+    background-color: #81abcb;
+    border: 1px white solid!important;
+}
+.nombreAtaquesGB{
+    background-color: white;
+    border-bottom: 1px black solid!important;
+
+color:black!important;
+
+}
+.fondoTablaGB{
+    border-radius: 100!important;
+}
 .unskew:hover {
     width: 170px;
     min-width: 170px;

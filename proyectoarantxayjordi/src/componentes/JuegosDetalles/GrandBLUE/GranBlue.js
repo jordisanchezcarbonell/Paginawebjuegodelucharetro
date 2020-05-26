@@ -54,12 +54,12 @@ class Child extends React.Component {
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
-            <Col className="col-md-4 w-100">
+            <Col className="col-md-6 w-100 mb-5">
               <TableContainer
                 component={Paper}
-                className="fondoTablaMK pruebadelelemento mt-5"
+                className="fondoTablaGB  mt-5"
               >
-                <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
+                <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
 
                 <Table
                   stickyHeader
@@ -73,7 +73,7 @@ class Child extends React.Component {
                         className="mx-5 pruebaaa"
                       >
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK "
+                          className="  py-2 colorFondoAtaquesGB "
                           scope="row"
                           component="tr"
                           align="left"
@@ -83,7 +83,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesMK py-2"
+                            className="  nombreAtaquesGB py-2"
                             component="tr"
                             align="right"
                           >
@@ -104,22 +104,20 @@ class Child extends React.Component {
                       </TableRow>
                     ))}
                   </TableBody>
-                </Table>
-              </TableContainer>
-            </Col>
-            <Col className="col-md-4 ">
-              <TableContainer
-                component={Paper}
-                className="fondoTablaMK  pruebadelelemento mt-5"
-              >
-                <h3 className="TituloAtaquesMK">Special Moves</h3>
+   
+            </Table>
+            </TableContainer>
+            <TableContainer className=" fondoTablaGB  mt-3">
+            <h3 className="TituloAtaquesGB my-0 w-100">Special Moves</h3>
 
-                <Table className="nomostrarscroll">
+              <Table>
+
                   <TableBody>
+
                     {this.props.elemento.Skill.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK "
+                          className="  py-2 colorFondoAtaquesGB "
                           scope="row"
                           component="tr"
                           align="left"
@@ -129,7 +127,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesMK py-2"
+                            className="  nombreAtaquesGB py-2"
                             align="right"
                             component="tr"
                           >
@@ -153,16 +151,16 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-4">
-              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
-                <h3 className="TituloAtaquesMK">Sky bound Art</h3>
+            <Col className="col-md-6">
+              <TableContainer className=" fondoTablaGB  mt-5 ">
+                <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.SkyboundArt.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK "
+                          className="  py-2 colorFondoAtaquesGB "
                           component="tr"
                           scope="row"
                           align="left"
@@ -173,14 +171,14 @@ class Child extends React.Component {
                         {
                           <TableCell
                             component="tr"
-                            className="  nombreAtaquesMK py-2"
+                            className="  nombreAtaquesGB py-2"
                             align="right"
                           >
                             {Ataque.Animacion.map(
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueMK"
+                                  className="imgAtaqueGB"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -195,10 +193,9 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-            </Col>
-            <Col className="col-md-4">
-              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
-                <h3 className="TituloAtaquesMK">Super Sky boundArt</h3>
+        
+              <TableContainer className=" fondoTablaGB  mt-3 ">
+                <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
@@ -206,7 +203,7 @@ class Child extends React.Component {
                       (Ataque, index) => (
                         <TableRow key={Ataque.nombreAtaque} className="mx-5">
                           <TableCell
-                            className="  py-2 colorFondoAtaquesMK "
+                            className="  py-2 colorFondoAtaquesGB "
                             component="tr"
                             scope="row"
                             align="left"
@@ -217,7 +214,7 @@ class Child extends React.Component {
                           {
                             <TableCell
                               component="tr"
-                              className="  nombreAtaquesMK py-2"
+                              className="  nombreAtaquesGB py-2"
                               align="right"
                             >
                               {Ataque.Animacion.map(
