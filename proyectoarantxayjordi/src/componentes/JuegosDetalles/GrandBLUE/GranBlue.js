@@ -15,7 +15,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { Link, animateScroll as scroll } from "react-scroll";
 
-// get our fontawesome imports
+// get our fontawesome importsP
 import { faHome } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { ReactComponent as Logo } from "../nombre.png";
@@ -372,8 +372,10 @@ class GranBlue extends React.Component {
                 height="110vw"
               ></img>
             </Col>
-            <Col md="4" className="fondo2"></Col>
 
+            <Col md="4" className="fondo2">
+              <h1 className="TituloJuego">{this.props.detalles.Nombre} </h1>
+            </Col>
             <Col md="5" style={style}></Col>
           </Row>
         </div>
@@ -389,32 +391,65 @@ class GranBlue extends React.Component {
 
                 <div class=" nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
-                    return (
-                      <div
-                        key={personaje.Nombre}
-                        class="unskew characterGB"
-                        data-toggle="tab"
-                        role="tab"
-                        aria-selected="false"
-                      >
-                        <div class="unskew.active">
+                    if (index <= 3) {
+                      return (
+                        <div
+                          key={personaje.Nombre}
+                          class="unskew characterGB"
+                          data-toggle="tab"
+                          role="tab"
+                          aria-selected="false"
+                        >
+                          <div class="unskew.active">
                             <Image
                               href="#una-id"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               fluid
                             ></Image>
-                        </div>
-                        <div>
-                          <div>
-                            {this.state.isItemContentVisible[index] &&
-                              this.renderContent(personaje)}
+                          </div>
 
-                            <div></div>
+                          <div>
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
+
+                              <div></div>
+                            </div>
                           </div>
                         </div>
-                      </div>
-                    );
+                      );
+                    } else {
+                      return (
+                        <div>
+                          <div
+                            key={personaje.Nombre}
+                            class="unskew characterGB"
+                            data-toggle="tab"
+                            role="tab"
+                            aria-selected="false"
+                          >
+                            <div class="unskew.active">
+                              <Image
+                                href="#una-id"
+                                onClick={() => this.showContent(index)}
+                                src={process.env.PUBLIC_URL + personaje.Foto}
+                                fluid
+                              ></Image>
+                            </div>
+                          </div>
+
+                          <div>
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
+
+                              <div></div>
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    }
                   })}
                 </div>
               </Row>
