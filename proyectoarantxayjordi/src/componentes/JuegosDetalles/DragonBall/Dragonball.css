@@ -1,6 +1,17 @@
 
 
+@font-face {
+    font-family: "LetraBD";
+    src: url(LeviReBrushed.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+.LetraTituloBD{
+font-size: 5vw;
+    font-family: "LetraBD";
 
+}
 
 .TituloAtaquesGB {
 
@@ -36,28 +47,48 @@
 }
 
 
+.TextoTituloDB{
+    color:white;
+    margin-top: 3vw;
+    margin-left: -3vw!important;
 
-.FotoBD{
-    width:100px!important;
-    min-width:100px!important;
-    height:80px!important;
- 
-    border-radius:6px;
+}
+.FotoBD2{
+    width:90px!important;
+    min-width:90px!important;
+    height:90px!important;
+    border-radius:25px 0 !important; 
 
- 
     margin:4px;
 
-  
+    transform: skewX(-15deg);
+    cursor:pointer;
+}
+.FotoBD{
+    width:90px!important;
+    min-width:90px!important;
+    height:90px!important;
+    border-radius:0 25px !important; 
+
+    margin:4px;
+    transform: skewX(15deg);
+
+
     cursor:pointer;
 
+}
+
+
+.fotoLogoBD{
+    margin-left: -3vw!important;
 }
 
 
 
 
   
-  .item:hover{
-    transform: scale(1.1);
+  .DIVFOTO:hover{
+    transform: scale(1.1)!important;
   }
   
  

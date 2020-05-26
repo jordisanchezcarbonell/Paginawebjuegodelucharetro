@@ -366,57 +366,45 @@ class Dragonball extends React.Component {
             <Col md="3" className="fondo1">
               <h6> {this.props.detalles[0]}</h6>
               <img
-                src={process.env.PUBLIC_URL + this.props.detalles.Logo}
+                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
-                className="fotoLogoKI"
+                className="fotoLogoBD"
                 height="110vw"
               ></img>
             </Col>
-            <Col md="4" className="fondo2"></Col>
+            <Col md="4" className="fondo2">
+              <h1 className="TextoTituloDB">{this.props.detalles.Nombre} </h1>
+            </Col>
 
             <Col md="5" style={style}></Col>
           </Row>
         </div>
 
-        <div className="row degadadoprueba rowGlobalKI ">
+        <div className="row">
           <div className="w-100 mt-4">
             <Container className="w-100 ">
+              <h3 className="LetraTituloBD">Character Select</h3>
               <Row className=" w-100 stage">
-                <img
+                {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
-                ></img>
+                ></img> */}
 
-                <div class="characterMk nav nav-tabs" role="tablist">
+                <div class="nav nav-tabs col-md-6  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
+                    if (index <= 19) {
                     return (
                       <div
-                        key={personaje.Nombre}
-                        class=""
-                        data-toggle="tab"
-                        role="tab"
-                        aria-selected="false"
+                      className="CentrodoBD " align="center" 
                       >
-
-                 
-                          <div class="item "
-                          >
+                          <div   className="DIVFOTO w-100"     >
                             <img
                               className="FotoBD"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                             ></img>
                        
-
-                          {/* 
-                          <div class="characterMk">
-                            <img
-                              href="#una-id"
-                              onClick={() => this.showContent(index)}
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                            ></img>
-                          </div> */}
-                        </div>
+                       </div>
                         <div>
                           <div>
                             {this.state.isItemContentVisible[index] &&
@@ -427,8 +415,61 @@ class Dragonball extends React.Component {
                         </div>
                       </div>
                     );
-                  })}
+  }})}
                 </div>
+
+
+
+
+
+                <div class="nav nav-tabs col-md-6 " role="tablist">
+                  {this.props.Juego.map((personaje, index) => {
+                    if (index > 19) {
+                    return (
+                      <div className="CentrodoBD " align="center"                    
+                      >
+                          <div className="DIVFOTO w-100" align="center" >
+                            <img
+                              className="FotoBD2 "
+                              onClick={() => this.showContent(index)}
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                            ></img>
+                       
+                       </div>
+                        <div>
+                          <div>
+                            {this.state.isItemContentVisible[index] &&
+                              this.renderContent(personaje)}
+
+                            <div></div>
+                          </div>
+                        </div>
+                      </div>
+                    );
+  }})}
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (
