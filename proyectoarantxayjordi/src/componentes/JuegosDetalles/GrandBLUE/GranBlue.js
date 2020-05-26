@@ -253,7 +253,7 @@ class GranBlue extends React.Component {
           <div className="w-100 mt-4">
             <Container className="w-100 ">
               <Row className=" w-100 stage">
-              <img  src={process.env.PUBLIC_URL + detalles.Logo2}></img>
+              <img  src={process.env.PUBLIC_URL + this.props.detalles.Logo2} className="mx-auto mb-3"></img>
 
                 <div class="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
