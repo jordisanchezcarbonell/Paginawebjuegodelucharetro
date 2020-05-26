@@ -387,24 +387,23 @@ class GranBlue extends React.Component {
                   className="mx-auto mb-3"
                 ></img>
 
-                <div class="characterMk nav nav-tabs" role="tablist">
+                <div class=" nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
                         key={personaje.Nombre}
-                        class="unskew MARGENSTEST"
+                        class="unskew characterGB"
                         data-toggle="tab"
                         role="tab"
                         aria-selected="false"
                       >
                         <div class="unskew.active">
-                          <div class="characterMk">
-                            <img
+                            <Image
                               href="#una-id"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
-                            ></img>
-                          </div>
+                              fluid
+                            ></Image>
                         </div>
                         <div>
                           <div>
