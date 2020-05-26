@@ -8,6 +8,25 @@ body {
     font-weight: 100;
 }
 
+.DivGranBlue {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(http://www.granbluefantasyvs.com/characters/images/charabg.png), linear-gradient(#6e859c, #c0ccd8);
+
+}
+
+
+
+
 .container {
     width: 100%;
     max-width: 1900px;
@@ -103,7 +122,7 @@ body {
 }
 
 .unskew {
-    height: 200px!important;
+    height: 200px !important;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
@@ -146,7 +165,7 @@ body {
     width: 100%;
     text-align: center;
     cursor: pointer;
-    border-bottom: none!important;
+    border-bottom: none !important;
 }
 
 .characterMk img {

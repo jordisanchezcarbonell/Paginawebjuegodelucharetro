@@ -207,7 +207,7 @@ class GranBlue extends React.Component {
     };
 
     return (
-      <div className="DivKillintinct w-100 ml-0">
+      <div className="DivGranBlue degrafado w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -249,11 +249,14 @@ class GranBlue extends React.Component {
           </Row>
         </div>
 
-        <div className="row rowGlobalKI ">
+        <div className="row degadadoprueba rowGlobalKI ">
           <div className="w-100 mt-4">
             <Container className="w-100 ">
               <Row className=" w-100 stage">
-              <img  src={process.env.PUBLIC_URL + this.props.detalles.Logo2} className="mx-auto mb-3"></img>
+                <img
+                  src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
+                  className="mx-auto mb-3"
+                ></img>
 
                 <div class="characterMk nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
@@ -261,8 +264,8 @@ class GranBlue extends React.Component {
                       <div
                         key={personaje.Nombre}
                         class="unskew"
-                        data-toggle="tab"                 
-                        role="tab"                
+                        data-toggle="tab"
+                        role="tab"
                         aria-selected="false"
                       >
                         <div class="unskew.active">
