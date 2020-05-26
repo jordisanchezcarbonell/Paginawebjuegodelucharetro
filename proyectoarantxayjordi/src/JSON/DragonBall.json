@@ -2,7 +2,7 @@
   {
     "Nombre": "Bardock",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesBD/bardock.png",
+    "Foto": "imagenes/DBZTODO/bardock.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -21,7 +21,7 @@
   {
     "Nombre": "Kid Buu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/kid_buu.jpg",
+    "Foto": "imagenes/DBZTODO/kid-buu.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -37,7 +37,7 @@
   {
     "Nombre": "GT Goku",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesBD/goku-gt.jpg",
+    "Foto": "imagenes/DBZTODO/kid-goku.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -56,7 +56,7 @@
   {
     "Nombre": "Adult Gohan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/gohan_adulto.jpg",
+    "Foto": "imagenes/DBZTODO/gohan-adult.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -72,7 +72,7 @@
   {
     "Nombre": "Cell",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesBD/celula.jpg",
+    "Foto": "imagenes/DBZTODO/cell.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -91,7 +91,7 @@
   {
     "Nombre": "Teen Gohan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/gohan_joven.jpg",
+    "Foto": "imagenes/DBZTODO/gohan.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -107,7 +107,7 @@
   {
     "Nombre": "Gogeta",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesBD/gogeta.jpg",
+    "Foto": "imagenes/DBZTODO/gogeta.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -126,7 +126,7 @@
   {
     "Nombre": "Videl",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/Videl.png",
+    "Foto": "imagenes/DBZTODO/Videl.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -142,7 +142,7 @@
   {
     "Nombre": "Android 21",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesBD/androide_21.png",
+    "Foto": "imagenes/DBZTODO/android-21.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -161,7 +161,7 @@
   {
     "Nombre": "Vegeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/vegeta.jpg",
+    "Foto": "imagenes/DBZTODO/vegeta.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -177,7 +177,7 @@
   {
     "Nombre": "Gotenks",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesBD/gotenks.jpg",
+    "Foto": "imagenes/DBZTODO/gotenks.png",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -196,7 +196,7 @@
   {
     "Nombre": "Goku Black",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/goku_black.jpg",
+    "Foto": "imagenes/DBZTODO/goku-black.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -212,7 +212,7 @@
   {
     "Nombre": "Vegito",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/vegetto.jpg",
+    "Foto": "imagenes/DBZTODO/vegetto.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -228,7 +228,7 @@
   {
     "Nombre": "Base Vegeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/vegeta_base.jpg",
+    "Foto": "imagenes/DBZTODO/base-vegeta.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -244,7 +244,7 @@
   {
     "Nombre": "Goku",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/goku.jpg",
+    "Foto": "imagenes/DBZTODO/goku.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -260,7 +260,7 @@
   {
     "Nombre": "Android 16",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/Numero_16.png",
+    "Foto": "imagenes/DBZTODO/android-16.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -276,7 +276,7 @@
   {
     "Nombre": "Trunks",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/trunks.jpg",
+    "Foto": "imagenes/DBZTODO/trunks.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -292,7 +292,7 @@
   {
     "Nombre": "Piccolo",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/piccolo.jpg",
+    "Foto": "imagenes/DBZTODO/piccolo.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -308,7 +308,7 @@
   {
     "Nombre": "Fused Zamasu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/zamas.png",
+    "Foto": "imagenes/DBZTODO/zamas.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -324,7 +324,7 @@
   {
     "Nombre": "Blue Goku",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/goku_ssb.png",
+    "Foto": "imagenes/DBZTODO/goku-ssb.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -340,7 +340,7 @@
   {
     "Nombre": "Kefla",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/Kefla.png",
+    "Foto": "imagenes/DBZTODO/Kefla.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -356,7 +356,7 @@
   {
     "Nombre": "Super Broly",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/broly.png",
+    "Foto": "imagenes/DBZTODO/super-broly.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -372,7 +372,7 @@
   {
     "Nombre": "Tien",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/tenshinhan.jpg",
+    "Foto": "imagenes/DBZTODO/tien.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -388,7 +388,7 @@
   {
     "Nombre": "Hit",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/hit.jpg",
+    "Foto": "imagenes/DBZTODO/hit.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -404,7 +404,7 @@
   {
     "Nombre": "Base Goku",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/goku_base.jpg",
+    "Foto": "imagenes/DBZTODO/base-goku.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -420,7 +420,7 @@
   {
     "Nombre": "Yamcha",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/yamcha.png",
+    "Foto": "imagenes/DBZTODO/yamcha.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -436,7 +436,7 @@
   {
     "Nombre": "Janemba",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/janemba.png",
+    "Foto": "imagenes/DBZTODO/janemba.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -452,7 +452,7 @@
   {
     "Nombre": "Frieza",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/freezer.png",
+    "Foto": "imagenes/DBZTODO/frieza.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -468,7 +468,7 @@
   {
     "Nombre": "Cooler",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/cooler.jpg",
+    "Foto": "imagenes/DBZTODO/cooler.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -484,7 +484,7 @@
   {
     "Nombre": "Broly",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/broly.jpg",
+    "Foto": "imagenes/DBZTODO/broly.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -500,7 +500,7 @@
   {
     "Nombre": "Jiren",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/Jiren.png",
+    "Foto": "imagenes/DBZTODO/Jiren.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -516,7 +516,7 @@
   {
     "Nombre": "Android 18",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/androide_18.jpg",
+    "Foto": "imagenes/DBZTODO/android-18.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -532,7 +532,7 @@
   {
     "Nombre": "Beerus",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/beerus.png",
+    "Foto": "imagenes/DBZTODO/beerus.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -548,7 +548,7 @@
   {
     "Nombre": "Majin Buu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/majin_buu.jpg",
+    "Foto": "imagenes/DBZTODO/majin-buu.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -564,7 +564,7 @@
   {
     "Nombre": "Captain Ginyu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/ginyu.jpg",
+    "Foto": "imagenes/DBZTODO/ginyu.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -580,7 +580,7 @@
   {
     "Nombre": "Blue Vegeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/vegetta_SSB.jpg",
+    "Foto": "imagenes/DBZTODO/vegeta-ssb.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -596,7 +596,7 @@
   {
     "Nombre": "Android 17",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/androide_17.jpg",
+    "Foto": "imagenes/DBZTODO/android-17.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -612,7 +612,7 @@
   {
     "Nombre": "Krillin",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/krilin.jpg",
+    "Foto": "imagenes/DBZTODO/krillin.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -628,7 +628,7 @@
   {
     "Nombre": "Nappa",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/nappa.jpg",
+    "Foto": "imagenes/DBZTODO/nappa.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -644,7 +644,7 @@
   {
     "Nombre": "Goku Ultra Instinct",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesBD/Goku_UltraInstinct.png",
+    "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",

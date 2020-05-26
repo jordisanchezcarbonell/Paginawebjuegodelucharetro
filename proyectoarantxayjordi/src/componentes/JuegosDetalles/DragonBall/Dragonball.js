@@ -392,19 +392,30 @@ class Dragonball extends React.Component {
                     return (
                       <div
                         key={personaje.Nombre}
-                        class="unskew MARGENSTEST"
+                        class=""
                         data-toggle="tab"
                         role="tab"
                         aria-selected="false"
                       >
-                        <div class="unskew.active">
+
+                 
+                          <div class="item "
+                          >
+                            <img
+                              className="FotoBD"
+                              onClick={() => this.showContent(index)}
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                            ></img>
+                       
+
+                          {/* 
                           <div class="characterMk">
                             <img
                               href="#una-id"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                             ></img>
-                          </div>
+                          </div> */}
                         </div>
                         <div>
                           <div>
