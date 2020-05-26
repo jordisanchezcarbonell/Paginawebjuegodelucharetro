@@ -9,7 +9,7 @@ import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
-import "./Mortalkombat.css";
+import "./GranBlue.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
@@ -49,18 +49,11 @@ class Child extends React.Component {
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
       >
-        <div class="horiz-rule  mt-1">
-          <div class="bar"></div>
-          <img
-            src="https://cdn-prod.mortalkombat.com/aftermath/global/vectors/horizontal-rule-node.svg"
-            alt=""
-            class="node"
-          />
-        </div>
+     
 
-        <div class="title-block enter">
+        <div class="products">
           <h3>{this.props.elemento.Nombre}</h3>
-          <div class="rule "></div>
+        
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
