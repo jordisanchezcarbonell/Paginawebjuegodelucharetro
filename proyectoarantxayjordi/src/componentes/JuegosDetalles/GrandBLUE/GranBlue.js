@@ -141,18 +141,17 @@ class GranBlue extends React.Component {
           <div className="w-100 mt-4">
             <Container className="w-100 ">
               <Row className=" w-100 stage">
+              <img  src={process.env.PUBLIC_URL + detalles.Logo2}></img>
+
                 <div class="characterMk nav nav-tabs" role="tablist">
-            
+
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
                         key={personaje.Nombre}
                         class="unskew"
-                        id="baraka-tab"
-                        data-toggle="tab"
-                        href="#baraka"
-                        role="tab"
-                        aria-controls="baraka"
+                        data-toggle="tab"                 
+                        role="tab"                
                         aria-selected="false"
                       >
                         <div class="unskew.active">
