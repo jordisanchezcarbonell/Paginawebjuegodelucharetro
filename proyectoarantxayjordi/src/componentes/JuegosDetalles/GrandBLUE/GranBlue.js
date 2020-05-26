@@ -57,7 +57,7 @@ class Child extends React.Component {
             <Col className="col-md-6 w-100 mb-5">
               <TableContainer
                 component={Paper}
-                className="fondoTablaGB  mt-5"
+                className="fondoTablaGB  eliminarradius mt-5"
               >
                 <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
 
@@ -68,10 +68,7 @@ class Child extends React.Component {
                 >
                   <TableBody className="nomostrarscroll">
                     {this.props.elemento.UniqueAction.map((Ataque, index) => (
-                      <TableRow
-                        key={Ataque.nombreAtaque}
-                        className="mx-5 pruebaaa"
-                      >
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
                           scope="row"
@@ -91,7 +88,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueMK"
+                                  className="imgAtaqueGB"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -104,16 +101,13 @@ class Child extends React.Component {
                       </TableRow>
                     ))}
                   </TableBody>
-   
-            </Table>
-            </TableContainer>
-            <TableContainer className=" fondoTablaGB  mt-3">
-            <h3 className="TituloAtaquesGB my-0 w-100">Special Moves</h3>
+                </Table>
+              </TableContainer>
+              <TableContainer className=" fondoTablaGB  mt-3">
+                <h3 className="TituloAtaquesGB my-0 w-100">Special Moves</h3>
 
-              <Table>
-
+                <Table>
                   <TableBody>
-
                     {this.props.elemento.Skill.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
@@ -135,7 +129,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueMK"
+                                  className="imgAtaqueGB"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -193,7 +187,7 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-        
+
               <TableContainer className=" fondoTablaGB  mt-3 ">
                 <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
 
@@ -221,7 +215,7 @@ class Child extends React.Component {
                                 (animaciondelataque, index) => (
                                   <Image
                                     key={index}
-                                    className="imgAtaqueMK"
+                                    className="imgAtaqueGB"
                                     src={
                                       process.env.PUBLIC_URL +
                                       animaciondelataque
@@ -398,7 +392,7 @@ class GranBlue extends React.Component {
                     return (
                       <div
                         key={personaje.Nombre}
-                        class="unskew"
+                        class="unskew MARGENSTEST"
                         data-toggle="tab"
                         role="tab"
                         aria-selected="false"
