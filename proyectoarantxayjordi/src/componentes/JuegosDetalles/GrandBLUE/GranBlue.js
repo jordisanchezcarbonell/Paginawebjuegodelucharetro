@@ -49,11 +49,8 @@ class Child extends React.Component {
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
       >
-     
-
         <div class="products">
           <h3>{this.props.elemento.Nombre}</h3>
-        
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
@@ -70,7 +67,7 @@ class Child extends React.Component {
                   className="nomostrarscroll"
                 >
                   <TableBody className="nomostrarscroll">
-                    {this.props.elemento.Ataques.map((Ataque, index) => (
+                    {this.props.elemento.UniqueAction.map((Ataque, index) => (
                       <TableRow
                         key={Ataque.nombreAtaque}
                         className="mx-5 pruebaaa"
@@ -89,10 +86,158 @@ class Child extends React.Component {
                             className="  nombreAtaquesMK py-2"
                             component="tr"
                             align="right"
-                          ></TableCell>
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueMK"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
                         }
                       </TableRow>
                     ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </Col>
+            <Col className="col-md-4 ">
+              <TableContainer
+                component={Paper}
+                className="fondoTablaMK  pruebadelelemento mt-5"
+              >
+                <h3 className="TituloAtaquesMK">Special Moves</h3>
+
+                <Table className="nomostrarscroll">
+                  <TableBody>
+                    {this.props.elemento.Skill.map((Ataque, index) => (
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesMK "
+                          scope="row"
+                          component="tr"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            className="  nombreAtaquesMK py-2"
+                            align="right"
+                            component="tr"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueMK"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </Col>
+            <Col className="col-md-4">
+              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
+                <h3 className="TituloAtaquesMK">Sky bound Art</h3>
+
+                <Table className="nomostrarscroll">
+                  <TableBody>
+                    {this.props.elemento.SkyboundArt.map((Ataque, index) => (
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesMK "
+                          component="tr"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            component="tr"
+                            className="  nombreAtaquesMK py-2"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueMK"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </Col>
+            <Col className="col-md-4">
+              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
+                <h3 className="TituloAtaquesMK">Super Sky boundArt</h3>
+
+                <Table className="nomostrarscroll">
+                  <TableBody>
+                    {this.props.elemento.SuperSkyboundArt.map(
+                      (Ataque, index) => (
+                        <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                          <TableCell
+                            className="  py-2 colorFondoAtaquesMK "
+                            component="tr"
+                            scope="row"
+                            align="left"
+                          >
+                            {Ataque.nombreAtaque}
+                          </TableCell>
+
+                          {
+                            <TableCell
+                              component="tr"
+                              className="  nombreAtaquesMK py-2"
+                              align="right"
+                            >
+                              {Ataque.Animacion.map(
+                                (animaciondelataque, index) => (
+                                  <Image
+                                    key={index}
+                                    className="imgAtaqueMK"
+                                    src={
+                                      process.env.PUBLIC_URL +
+                                      animaciondelataque
+                                    }
+                                    fluid
+                                  />
+                                )
+                              )}
+                            </TableCell>
+                          }
+                        </TableRow>
+                      )
+                    )}
                   </TableBody>
                 </Table>
               </TableContainer>

@@ -3,269 +3,95 @@
     "Nombre": "Ferry",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/GRANDBLUETODO/ferry.jpg",
-    "Ataques": [
+        "UniqueAction": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Ein Ball",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Ghost Swing",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Up.png",
+          "imagenes/AtaquegranBlue/U.png"
+        ]
       }
-    ]
-  },
-  {
-    "Nombre": "Katalina",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/katalina.jpg",
-    "Ataques": [
+    ],
+    "Skill": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Gespenst",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Beppo, Sic 'Em! ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Z.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Trombe",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+          "imagenes/AtaquegranBlue/L.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Geegee, Get 'Em!",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/Down.png",
+            "imagenes/AtaquegranBlue/Down.png",
+
+          "imagenes/AtaquegranBlue/L.png"
+        ]
       }
-    ]
-  },
-  {
-    "Nombre": "Metera",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/metera.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    ],
+    "SkyboundArt": [
+      {
+        "nombreAtaque": "Vergiften ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Hinrichten",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/left.png",
+
+          "imagenes/AtaquegranBlue/left.png",
+
+          "imagenes/AtaquegranBlue/H.png"
+        ]
       }
-    ]
-  },
 
-  {
-    "Nombre": "Lancelot",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/lancelot.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    ],
+       "SuperSkyboundArt": [
+      {
+        "nombreAtaque": "Aetheryte Requiescat ",
+        "Animacion": [
+          "imagenes/AtaquegranBlue/right.png",
+          "imagenes/AtaquegranBlue/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Gran",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/gran.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+        
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Zooey",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/zooey.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+          "imagenes/AtaquegranBlue/U.png"
+        ]
+      }
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
     ]
-  },
-  {
-    "Nombre": "Djeeta",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/djeeta.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Beelzebubn",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/beelzebub.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Percival",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/percival.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Charlotta",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/charlotta.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Zeta",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/zeta.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Lowain",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/lowain.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Narmaya",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/narmaya.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Soriz",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/soriz.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Ladiva",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/ladiva.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
-  },
-  {
-    "Nombre": "Vaseraga",
-    "Descripcion": "PRUEBA",
-    "Foto": "imagenes/GRANDBLUETODO/vaseraga.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
-    ]
+   
+    
   }
 ]
