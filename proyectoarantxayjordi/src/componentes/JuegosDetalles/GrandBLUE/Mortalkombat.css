@@ -62,55 +62,7 @@ body {
     background: rgba(255, 255, 255, 0.2);
 }
 
-.donate {
-    color: #de9a00;
-    border: 1px solid #de9a00;
-    display: block;
-    border-radius: 15px;
-    padding: 1px 10px 3px 10px;
-    opacity: 0.8;
-    text-decoration: none;
-    position: relative;
-}
 
-.donate:hover {
-    color: #de9a00;
-    opacity: 1;
-    text-decoration: none;
-}
-
-.donate:active,
-.donate:focus {
-    outline: none;
-}
-
-.donate:after,
-.donate:before {
-    content: "";
-    cursor: pointer;
-    display: block;
-    width: 200px;
-    height: 200px;
-    border: 10px solid #de9a00;
-    border-radius: 200px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    z-index: 4;
-    transform: translate(-50%, -50%) scale(0);
-    opacity: 0;
-    transition: all 0.25s ease;
-}
-
-.donate:hover:after,
-.donate:hover:before {
-    animation: wave 0.5s ease;
-    animation-iteration-count: 1;
-}
-
-.donate:hover:before {
-    animation-delay: 0.25s;
-}
 
 @keyframes wave {
     0% {
@@ -151,6 +103,7 @@ body {
 }
 
 .unskew {
+    height: 200px!important;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
@@ -175,8 +128,8 @@ body {
 .unskew:hover {
     width: 170px;
     min-width: 170px;
+    height: auto;
     /*background: #303030;*/
-    background: #de9a00;
 
 }
 
@@ -184,14 +137,16 @@ body {
 .unskew.active:hover {
     width: 170px;
     min-width: 170px;
-    background: #de9a00;
     color: #000;
+    height: auto;
+
 }
 
 .characterMk {
     width: 100%;
     text-align: center;
     cursor: pointer;
+    border-bottom: none!important;
 }
 
 .characterMk img {
@@ -219,12 +174,7 @@ body {
     margin-bottom: 15px;
 }
 
-.title {
-    background: #de9a00;
-    padding: 15px 0 0 0;
-    margin-bottom: 15px;
-    color: #202020;
-}
+
 
 .title h2 {
     color: #202020;

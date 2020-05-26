@@ -142,22 +142,7 @@ class GranBlue extends React.Component {
             <Container className="w-100 ">
               <Row className=" w-100 stage">
                 <div class="characterMk nav nav-tabs" role="tablist">
-                  <div
-                    class="unskew"
-                    id="home-tab"
-                    data-toggle="tab"
-                    href="#home"
-                    role="tab"
-                    aria-controls="home"
-                    aria-selected="false"
-                  >
-                    <div class="skew">
-                      <div class="characterMk">
-                        <p>Welcome</p>
-                        <img src="img/dragon-white.png" />
-                      </div>
-                    </div>
-                  </div>
+            
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
@@ -172,12 +157,8 @@ class GranBlue extends React.Component {
                       >
                         <div class="unskew.active">
                           <div class="characterMk">
-                            <p
-                              className="title"
-                              onClick={() => this.showContent(index)}
-                            >
-                              {personaje.Nombre}
-                            </p>
+                          
+                         
                             <img
                               src={process.env.PUBLIC_URL + personaje.Foto}
                             ></img>

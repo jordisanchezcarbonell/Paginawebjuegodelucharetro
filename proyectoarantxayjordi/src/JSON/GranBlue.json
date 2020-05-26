@@ -2,7 +2,7 @@
   {
     "Nombre": "Ferry",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/PersonajesGranBlue/Ferry.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/ferry.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -37,7 +37,7 @@
   {
     "Nombre": "Katalina",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/katalina.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/katalina.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -100,7 +100,7 @@
   {
     "Nombre": "Metera",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/metera.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/metera.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -128,7 +128,7 @@
   {
     "Nombre": "Lancelot",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/lancelot.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/lancelot.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -139,7 +139,7 @@
   {
     "Nombre": "Gran",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Gran.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/gran.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -150,7 +150,7 @@
   {
     "Nombre": "Zooey",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Zooey.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/zooey.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -161,7 +161,7 @@
   {
     "Nombre": "Djeeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Djeeta.png",
+    "Foto": "imagenes/GRANDBLUETODO/djeeta.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -172,7 +172,7 @@
   {
     "Nombre": "Beelzebubn",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Beelzebub.png",
+    "Foto": "imagenes/GRANDBLUETODO/beelzebub.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -183,7 +183,7 @@
   {
     "Nombre": "Percival",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Percival.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/percival.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -194,7 +194,7 @@
   {
     "Nombre": "Charlotta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Charlotta.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/charlotta.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -205,7 +205,7 @@
   {
     "Nombre": "Zeta",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Zeta.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/zeta.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -216,7 +216,7 @@
   {
     "Nombre": "Lowain",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Lowain.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/lowain.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -227,7 +227,7 @@
   {
     "Nombre": "Narmaya",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/narmaya.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/narmaya.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -238,7 +238,7 @@
   {
     "Nombre": "Soriz",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Soriz.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/soriz.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -249,7 +249,7 @@
   {
     "Nombre": "Ladiva",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/ladiva.jpg",
+    "Foto": "imagenes/GRANDBLUETODO/ladiva.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -260,7 +260,7 @@
   {
     "Nombre": "Vaseraga",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesGranBlue/Vaseraga.png",
+    "Foto": "imagenes/GRANDBLUETODO/vaseraga.jpg",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
