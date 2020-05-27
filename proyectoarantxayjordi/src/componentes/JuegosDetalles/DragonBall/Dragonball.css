@@ -60,7 +60,13 @@
 
 
 
-
+.bolaDeDrac{
+    height:3vw ;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 
 
@@ -68,11 +74,11 @@
     margin-left: 0 !important;
     padding-left: 0 !important;
     color: white !important;
-    font-size: 0.9vw !important;
+    font-size: 1vw !important;
     font-weight: 100 !important;
     font-family: 'Permanent Marker', cursive!important;
     border: none;
-
+    width: 70%;
 
 }
 

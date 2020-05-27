@@ -12,7 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-
+import BolaDeDrac from "./bolaDragon.png"
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -36,6 +36,11 @@ class Child extends React.Component {
           </img> */}
 
         <div className="fondoproba enter">
+        <div className="pro ">
+
+          <img  className="bolaDeDrac"src={BolaDeDrac}></img>
+        </div>
+
           <h3 className="TextoPersonajeTituloBD">
             {this.props.elemento.Nombre}
           </h3>
