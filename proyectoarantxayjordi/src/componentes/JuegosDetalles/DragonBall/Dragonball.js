@@ -37,7 +37,7 @@ class Child extends React.Component {
 
         <div className="fondoproba enter">
           <div className="pro ">
-            <img className="bolaDeDrac" src={BolaDeDrac}></img>
+            <img className="bolaDeDrac" src={BolaDeDrac} alt="Logo"></img>
           </div>
 
           <h3 className="TextoPersonajeTituloBD">
@@ -153,7 +153,7 @@ class Child extends React.Component {
                   <hr className="pruebalinea" />
                 </h3>
 
-                <Table className="nomostrarscroll">
+                <Table className="nomostrarscrollBD">
                   <TableBody>
                     {this.props.elemento.SuperAttacks.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
