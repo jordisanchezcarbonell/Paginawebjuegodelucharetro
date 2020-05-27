@@ -12,6 +12,10 @@
 
 }
 
+.fondo {
+    color: white;
+    min-height: 750px !important;
+}
 
 .tablaborderabajo {
     border-bottom: 0px !important;
@@ -50,7 +54,7 @@
 
     position: relative;
     padding: 20px 0;
-    background: linear-gradient(  90deg, #1c3c85, #496cad 50%, #496cad 50%, #1c3c85  );
+    background: linear-gradient(90deg, #1c3c85, #496cad 50%, #496cad 50%, #1c3c85);
 
 
     -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
@@ -76,8 +80,8 @@
     color: black !important;
     font-size: 1.5vw !important;
     font-weight: 900 !important;
-    font-family: 'Oswald', sans-serif!important; 
-    
+    font-family: 'Oswald', sans-serif !important;
+
     border: none;
     width: 70%;
 
@@ -137,7 +141,7 @@
 }
 
 .TextoPersonajeTituloBD {
- margin-left: -2vw;
+    margin-left: -2vw;
 
     color: white;
     text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);

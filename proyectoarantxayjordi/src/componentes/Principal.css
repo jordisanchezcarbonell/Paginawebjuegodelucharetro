@@ -1,20 +1,20 @@
-.fondo{
-    background-color: #282c34;   
-    
-    
-    color:white;
-    min-height: 750px!important;
-}
-.fotoNav{
+.fondo {
 
-    margin-left:-1vw ;
-    margin-bottom: -1vw;
-    margin-top: -0.8vw;
 
+  color: white;
+  min-height: 750px !important;
 }
 
-.textonaV{
-font-family: 'VT323', monospace;  
+.fotoNav {
+
+  margin-left: -1vw;
+  margin-bottom: -1vw;
+  margin-top: -0.8vw;
+
+}
+
+.textonaV {
+  font-family: 'VT323', monospace;
   text-align: right;
-  font-size: 25px!important;
+  font-size: 25px !important;
 }
