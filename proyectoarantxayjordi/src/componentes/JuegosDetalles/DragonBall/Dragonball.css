@@ -12,7 +12,6 @@
 
 }
 
-.LetraAtakes {}
 
 .tablaborderabajo {
     border-bottom: 0px !important;
@@ -160,7 +159,8 @@
 }
 
 .PruebadefondoAtaques {
-    background: linear-gradient(70deg, black, white);
+    /*background: linear-gradient(70deg, black, white);*/
+    background-color: rgba(0, 0, 0, 0.2);
 
 }
 
