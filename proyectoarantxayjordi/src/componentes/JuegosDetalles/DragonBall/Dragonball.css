@@ -17,7 +17,7 @@
     border-bottom: 0px !important;
 }
 
-
+/*
 
 .fondoproba .rule {
     background: linear-gradient(90deg, #1c1c1c, #fff 25%, #fff 75%, #1c1c1c);
@@ -28,7 +28,7 @@
     height: 7px;
     z-index: 1;
 }
-
+*/
 .fondoproba {
 
 
@@ -50,7 +50,7 @@
 
     position: relative;
     padding: 20px 0;
-    background: linear-gradient(#1c3c85, #2352a9);
+    background: linear-gradient(  90deg, #1c3c85, #496cad 50%, #496cad 50%, #1c3c85  );
 
 
     -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
@@ -64,7 +64,7 @@
     height: 3vw;
     position: absolute;
     top: 0%;
-    left: 50%;
+    left: 48.5%;
     transform: translate(-50%, -50%);
 }
 
@@ -73,10 +73,11 @@
 .colorFondoAtaquesBD {
     margin-left: 0 !important;
     padding-left: 0 !important;
-    color: white !important;
-    font-size: 1vw !important;
-    font-weight: 100 !important;
-    font-family: 'Permanent Marker', cursive !important;
+    color: black !important;
+    font-size: 1.5vw !important;
+    font-weight: 900 !important;
+    font-family: 'Oswald', sans-serif!important; 
+    
     border: none;
     width: 70%;
 
@@ -94,7 +95,7 @@
 
 
 .TituloAtaquesBD {
-    color: black;
+    color: white;
     font-weight: 100;
     width: 100%;
     font-family: "LetraBD";
@@ -136,7 +137,7 @@
 }
 
 .TextoPersonajeTituloBD {
-
+ margin-left: -2vw;
 
     color: white;
     text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
@@ -253,7 +254,9 @@
 
 
 
-
 .DIVFOTO:hover {
-    transform: scale(1.1) !important;
+
+
+    transform: scale(1.15) !important;
+
 }
