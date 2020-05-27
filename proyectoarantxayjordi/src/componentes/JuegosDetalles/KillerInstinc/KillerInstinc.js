@@ -1,26 +1,18 @@
-import React, { useState } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+/* eslint-disable jsx-a11y/anchor-has-content */
+import React from "react";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
-import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
 import "./Juego.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
-// get our fontawesome imports
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ReactComponent as Logo } from "../nombre.png";
+
 import ReactPlayer from "react-player";
-import iconSet from "./selection.json";
-import IcomoonReact, { iconList } from "icomoon-react";
-import { BrowserRouter, Route, Link } from "react-router-dom";
-import Image from "./b-Aria.jpg"; // Import using relative path
+
 import logo from "./logo-ki.png";
 //AVER SI FUNCIOONA
 class KillerInstinc extends React.Component {
@@ -51,7 +43,6 @@ class KillerInstinc extends React.Component {
   };
 
   render() {
-    const detalles = this.props;
     const style = {
       backgroundPosition: "right right",
       backgroundSize: "cover",
@@ -102,7 +93,7 @@ class KillerInstinc extends React.Component {
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-              <img src={logo} className="TextoTitulokI" />
+              <img src={logo} className="TextoTitulokI" alt="imagen del logo" />
             </Col>
 
             <Col md="5" style={style}></Col>
@@ -152,16 +143,19 @@ class KillerInstinc extends React.Component {
                       <img
                         src={process.env.PUBLIC_URL + personaje.Runa}
                         className="rune"
+                        alt="imagen del logo"
                       />
 
                       <img
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         className="character"
+                        alt="imagen del logo"
                       />
 
                       <a
                         href="https://www.ultra-combo.com/characters/hisako/"
                         alt="Character Name"
+                        aria-hidden="true"
                       ></a>
                     </Col>
                     <Col className="col-md-6 mt-2">

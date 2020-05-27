@@ -150,6 +150,10 @@
 
 }
 
+.tablaborderabajoMK {
+    border-bottom: 0px !important;
+}
+
 /* Banner de la imagen */
 .photo .photo-banner {
 

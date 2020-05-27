@@ -1,69 +1,48 @@
-import React, { useState, useRef } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+/* eslint-disable jsx-a11y/anchor-is-valid */
+import React from "react";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
-import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
 import "./Mortalkombat.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
-import { Link, animateScroll as scroll } from "react-scroll";
+import { animateScroll as scroll } from "react-scroll";
 
 // get our fontawesome imports
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ReactComponent as Logo } from "../nombre.png";
+
 import ReactPlayer from "react-player";
-import IcomoonReact, { iconList } from "icomoon-react";
-import { BrowserRouter, Route } from "react-router-dom";
-var listOfImages = [];
-function importAll(r) {
-  return r.keys().map(r);
-}
-function Welcome(props) {
-  return <h1>Hello, {props.name}</h1>;
-  console.log(props);
-}
-const scrollToRef = (ref) => window.scrollTo(0, ref.current.offsetTop);
-const messagesEndRef = React.createRef();
 
 //AVER SI FUNCIOONA
 class Child extends React.Component {
   constructor(props) {
     super(props);
-    console.log(props);
     this.myRef = React.createRef(); // Create a ref object
   }
 
   render() {
-    const styleTable = {
-      overflowX: undefined,
-      overflowY: undefined,
-    };
     return (
       <div
         id="section1"
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
       >
-        <div class="horiz-rule  mt-1">
-          <div class="bar"></div>
+        <div className="horiz-rule  mt-1">
+          <div className="bar"></div>
           <img
             src="https://cdn-prod.mortalkombat.com/aftermath/global/vectors/horizontal-rule-node.svg"
             alt=""
-            class="node"
+            className="node"
           />
         </div>
 
-        <div class="title-block enter">
+        <div className="title-block enter">
           <h3>{this.props.elemento.Nombre}</h3>
-          <div class="rule "></div>
+          <div className="rule "></div>
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
@@ -86,9 +65,9 @@ class Child extends React.Component {
                         className="mx-5 pruebaaa"
                       >
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK "
+                          className="  py-2 colorFondoAtaquesMK tablaborderabajoMK"
                           scope="row"
-                          component="tr"
+                          component="td"
                           align="left"
                         >
                           {Ataque.nombreAtaque}
@@ -96,8 +75,8 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesMK py-2"
-                            component="tr"
+                            className="  nombreAtaquesMK py-2 tablaborderabajoMK"
+                            component="td"
                             align="right"
                           >
                             {Ataque.Animacion.map(
@@ -132,9 +111,9 @@ class Child extends React.Component {
                     {this.props.elemento.KomboAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK "
+                          className="  py-2 colorFondoAtaquesMK  tablaborderabajoMK"
                           scope="row"
-                          component="tr"
+                          component="td"
                           align="left"
                         >
                           {Ataque.nombreAtaque}
@@ -142,9 +121,9 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesMK py-2"
+                            className="  nombreAtaquesMK py-2 tablaborderabajoMK"
                             align="right"
-                            component="tr"
+                            component="td"
                           >
                             {Ataque.Animacion.map(
                               (animaciondelataque, index) => (
@@ -175,8 +154,8 @@ class Child extends React.Component {
                     {this.props.elemento.Finishers.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK "
-                          component="tr"
+                          className="  py-2 colorFondoAtaquesMK tablaborderabajoMK"
+                          component="td"
                           scope="row"
                           align="left"
                         >
@@ -185,8 +164,8 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            component="tr"
-                            className="  nombreAtaquesMK py-2"
+                            component="td"
+                            className="  nombreAtaquesMK py-2 tablaborderabajoMK"
                             align="right"
                           >
                             {Ataque.Animacion.map(
@@ -219,8 +198,7 @@ class Child extends React.Component {
 class MortalKombat extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(props);
-    console.log(this.props.detalles.Foto);
+
     this.state = {
       isItemContentVisible: {},
       numChildren: 0,
@@ -235,17 +213,16 @@ class MortalKombat extends React.Component {
 
   prueballamadadetodolosdatos() {}
   renderContent(personaje) {
-    this.state.isItemContentVisible = false;
+    const newLocal = this.state;
+    newLocal.isItemContentVisible = false;
     /*console.log(personaje);
     return <div className="pruebadelelemento">prueba</div>;
     */
     // this.setState({ objetoPersonaje: personaje });
-    this.state.objetoPersonaje = personaje;
-    console.log(this.state.objetoPersonaje);
+    newLocal.objetoPersonaje = personaje;
   }
   showContent(id) {
     // merge new value with existing visibility status into new object´
-    console.log(id);
     this.setState({
       isItemContentVisible: {
         ...this.state.isItemContentVisible,
@@ -271,8 +248,6 @@ class MortalKombat extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
-
-    console.log(this.state.elemento);
   };
 
   handleCloseModal = (e) => {
@@ -280,8 +255,6 @@ class MortalKombat extends React.Component {
   };
 
   render() {
-    const { isActive } = this.state;
-    const detalles = this.props;
     const style = {
       backgroundPosition: "right right",
       backgroundSize: "cover",

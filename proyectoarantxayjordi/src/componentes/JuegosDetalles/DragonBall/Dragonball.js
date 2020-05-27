@@ -1,71 +1,42 @@
-import React, { useState, useRef } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+/* eslint-disable array-callback-return */
+import React from "react";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
-import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
 import "./Dragonball.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
-import { Link, animateScroll as scroll } from "react-scroll";
-import fondoFotoNombre from "./fondoTextoBD.png";
+import { animateScroll as scroll } from "react-scroll";
 
 // get our fontawesome imports
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ReactComponent as Logo } from "../nombre.png";
+
 import ReactPlayer from "react-player";
-import IcomoonReact, { iconList } from "icomoon-react";
-import { BrowserRouter, Route } from "react-router-dom";
-var listOfImages = [];
-function importAll(r) {
-  return r.keys().map(r);
-}
-function Welcome(props) {
-  return <h1>Hello, {props.name}</h1>;
-  console.log(props);
-}
+
 //AVER SI FUNCIOONA
 class Child extends React.Component {
   constructor(props) {
     super(props);
-    console.log(props);
+
     this.myRef = React.createRef(); // Create a ref object
   }
 
   render() {
-    const styleTable = {
-      overflowX: undefined,
-      overflowY: undefined,
-    };
     return (
-      <div
-    
-        style={{ width: "100%" }}
-        key={this.props.elemento.Nombre}
-      >
-      
+      <div style={{ width: "100%" }} key={this.props.elemento.Nombre}>
         {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
           </img> */}
 
+        <div className="fondoproba enter">
+          <h3 className="TextoPersonajeTituloBD">
+            {this.props.elemento.Nombre}
+          </h3>
 
-<div class="fondoproba enter">
-
-
-<h3 className="TextoPersonajeTituloBD">{this.props.elemento.Nombre}
-
-</h3>  
-
-
-        <div class="rule "></div>
-      
-      
+          <div className="rule "></div>
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0 ">
@@ -74,8 +45,9 @@ class Child extends React.Component {
                 component={Paper}
                 className="fondoTablaBD  eliminarradius mt-5 "
               >
-                <h3 className="TituloAtaquesBD my-0">Unique Action
-                <hr className="pruebalinea"/>
+                <h3 className="TituloAtaquesBD my-0">
+                  Unique Action
+                  <hr className="pruebalinea" />
                 </h3>
 
                 <Table
@@ -87,9 +59,9 @@ class Child extends React.Component {
                     {this.props.elemento.NormalAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD "
+                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
                           scope="row"
-                          component="tr"
+                          component="td"
                           align="left"
                         >
                           {Ataque.nombreAtaque}
@@ -97,8 +69,8 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesBD py-2"
-                            component="tr"
+                            className="  nombreAtaquesBD py-2 tablaborderabajo"
+                            component="td"
                             align="right"
                           >
                             {Ataque.Animacion.map(
@@ -120,23 +92,22 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-          
             </Col>
-            <Col className="col-md-6">
-            <TableContainer className=" fondoTablaBD  mt-5">
-                <h3 className="TituloAtaquesBD my-0 w-100">Special Moves
-                
-                
-                <hr className="pruebalinea"/></h3>
+            <Col className="col-md-6 ">
+              <TableContainer className=" fondoTablaBD  mt-5">
+                <h3 className="TituloAtaquesBD my-0 w-100">
+                  Special Moves
+                  <hr className="pruebalinea" />
+                </h3>
 
                 <Table>
                   <TableBody>
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                      <TableRow key={index} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD "
+                          className="  py-2 colorFondoAtaquesBD tablaborderabajo"
                           scope="row"
-                          component="tr"
+                          component="td"
                           align="left"
                         >
                           {Ataque.nombreAtaque}
@@ -144,57 +115,9 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesBD py-2"
+                            className="  nombreAtaquesBD py-2 tablaborderabajo"
                             align="right"
-                            component="tr"
-                          >
-                            {Ataque.Animacion.map(
-                              (animaciondelataque, index) => (
-                                <Image
-                                  key={index}
-                                  className="imgAtaqueBD"
-                                  src={
-                                    process.env.PUBLIC_URL + animaciondelataque
-                                  }
-                                  fluid
-                                />
-                              )
-                            )}
-                          </TableCell>
-                        }
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </TableContainer>
-
-
-
-
-
-              <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">Sky bound Art
-                
-                <hr className="pruebalinea"/></h3>
-
-                <Table className="nomostrarscroll">
-                  <TableBody>
-                    {this.props.elemento.SuperAttacks.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                        <TableCell
-                          className="  py-2 colorFondoAtaquesBD "
-                          component="tr"
-                          scope="row"
-                          align="left"
-                        >
-                          {Ataque.nombreAtaque}
-                        </TableCell>
-
-                        {
-                          <TableCell
-                            component="tr"
-                            className="  nombreAtaquesBD py-2"
-                            align="right"
+                            component="td"
                           >
                             {Ataque.Animacion.map(
                               (animaciondelataque, index) => (
@@ -217,49 +140,91 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">Super Sky boundArt
-                <hr className="pruebalinea"/>
-                
+                <h3 className="TituloAtaquesBD my-0">
+                  Sky bound Art
+                  <hr className="pruebalinea" />
                 </h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
-                    {this.props.elemento.MeteorAttack.map(
-                      (Ataque, index) => (
-                        <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                          <TableCell
-                            className="  py-2 colorFondoAtaquesBD "
-                            component="tr"
-                            scope="row"
-                            align="left"
-                          >
-                            {Ataque.nombreAtaque}
-                          </TableCell>
+                    {this.props.elemento.SuperAttacks.map((Ataque, index) => (
+                      <TableRow key={index} className="mx-5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          component="td"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
 
-                          {
-                            <TableCell
-                              component="tr"
-                              className="  nombreAtaquesBD py-2"
-                              align="right"
-                            >
-                              {Ataque.Animacion.map(
-                                (animaciondelataque, index) => (
-                                  <Image
-                                    key={index}
-                                    className="imgAtaqueBD"
-                                    src={
-                                      process.env.PUBLIC_URL +
-                                      animaciondelataque
-                                    }
-                                    fluid
-                                  />
-                                )
-                              )}
-                            </TableCell>
-                          }
-                        </TableRow>
-                      )
-                    )}
+                        {
+                          <TableCell
+                            component="td"
+                            className="  nombreAtaquesBD py-2 tablaborderabajo"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueBD"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+
+              <TableContainer className=" fondoTablaBD  mt-3 ">
+                <h3 className="TituloAtaquesBD my-0">
+                  Super Sky boundArt
+                  <hr className="pruebalinea" />
+                </h3>
+
+                <Table className="nomostrarscroll">
+                  <TableBody>
+                    {this.props.elemento.MeteorAttack.map((Ataque, index) => (
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          component="td"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            component="td"
+                            className="  nombreAtaquesBD py-2 tablaborderabajo"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueBD"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
                   </TableBody>
                 </Table>
               </TableContainer>
@@ -274,15 +239,14 @@ class Child extends React.Component {
 class Dragonball extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(props);
-    console.log(this.props.detalles.Foto);
     this.state = {
       isItemContentVisible: {},
       numChildren: 0,
     };
   }
   renderContent() {
-    this.state.isItemContentVisible = false;
+    const newLocal = this.state;
+    newLocal.isItemContentVisible = false;
 
     return <div>I'm the child</div>;
   }
@@ -301,14 +265,15 @@ class Dragonball extends React.Component {
     imagen: "",
     isActive: false,
   };
+  // eslint-disable-next-line no-dupe-class-members
   renderContent(personaje) {
-    this.state.isItemContentVisible = false;
-    /*console.log(personaje);
+    const newLocal_1 = this.state;
+    newLocal_1.isItemContentVisible = false;
+    /*
     return <div className="pruebadelelemento">prueba</div>;
     */
     // this.setState({ objetoPersonaje: personaje });
-    this.state.objetoPersonaje = personaje;
-    console.log(this.state.objetoPersonaje);
+    newLocal_1.objetoPersonaje = personaje;
   }
   onClickDown = () => {
     scroll.scrollToBottom();
@@ -316,9 +281,9 @@ class Dragonball extends React.Component {
   scrollToTop = () => {
     scroll.scrollToBottom();
   };
+  // eslint-disable-next-line no-dupe-class-members
   showContent(id) {
     // merge new value with existing visibility status into new object´
-    console.log(id);
     this.setState({
       isItemContentVisible: {
         ...this.state.isItemContentVisible,
@@ -343,8 +308,6 @@ class Dragonball extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
-
-    console.log(this.state.elemento);
   };
 
   handleCloseModal = (e) => {
@@ -352,8 +315,6 @@ class Dragonball extends React.Component {
   };
 
   render() {
-    const { isActive } = this.state;
-    const detalles = this.props;
     const style = {
       backgroundPosition: "right right",
       backgroundSize: "cover",
@@ -421,86 +382,73 @@ class Dragonball extends React.Component {
                   className="mx-auto mb-3"
                 ></img> */}
 
-                <div class="nav nav-tabs col-md-6  borderBotBD " role="tablist">
+                <div
+                  className="nav nav-tabs col-md-6  borderBotBD "
+                  role="tablist"
+                >
                   {this.props.Juego.map((personaje, index) => {
                     if (index <= 19) {
-                    return (
-                      <div
-                      className="CentrodoBD " align="center" 
-                      >
-                          <div   className="DIVFOTO w-100"     >
+                      return (
+                        <div
+                          className="CentrodoBD "
+                          align="center"
+                          key={personaje.Nombre}
+                        >
+                          <div className="DIVFOTO w-100">
                             <img
                               className="FotoBD"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt="imagen personaje"
                             ></img>
-                       
-                       </div>
-                        <div>
+                          </div>
                           <div>
-                            {this.state.isItemContentVisible[index] &&
-                              this.renderContent(personaje)}
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
 
-                            <div></div>
+                              <div></div>
+                            </div>
                           </div>
                         </div>
-                      </div>
-                    );
-  }})}
+                      );
+                    }
+                  })}
                 </div>
 
-
-
-
-
-                <div class="nav nav-tabs col-md-6  borderBotBD" role="tablist">
+                <div
+                  className="nav nav-tabs col-md-6  borderBotBD"
+                  role="tablist"
+                >
                   {this.props.Juego.map((personaje, index) => {
                     if (index > 19) {
-                    return (
-                      <div className="CentrodoBD " align="center"                    
-                      >
-                          <div className="DIVFOTO w-100" align="center" >
+                      return (
+                        <div
+                          key={personaje.Nombre}
+                          className="CentrodoBD "
+                          align="center"
+                        >
+                          <div className="DIVFOTO w-100" align="center">
                             <img
                               className="FotoBD2 "
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt="imagen logo2"
                             ></img>
-                       
-                       </div>
-                        <div>
+                          </div>
                           <div>
-                            {this.state.isItemContentVisible[index] &&
-                              this.renderContent(personaje)}
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
 
-                            <div></div>
+                              <div></div>
+                            </div>
                           </div>
                         </div>
-                      </div>
-                    );
-  }})}
+                      );
+                    }
+                  })}
                 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (

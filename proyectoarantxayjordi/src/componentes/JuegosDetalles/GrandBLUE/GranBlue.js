@@ -1,35 +1,20 @@
-import React, { useState, useRef } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+/* eslint-disable no-dupe-class-members */
+import React from "react";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
-import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
 import "./GranBlue.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
-import { Link, animateScroll as scroll } from "react-scroll";
+import { animateScroll as scroll } from "react-scroll";
 
-// get our fontawesome importsP
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ReactComponent as Logo } from "../nombre.png";
 import ReactPlayer from "react-player";
-import IcomoonReact, { iconList } from "icomoon-react";
-import { BrowserRouter, Route } from "react-router-dom";
-var listOfImages = [];
-function importAll(r) {
-  return r.keys().map(r);
-}
-function Welcome(props) {
-  return <h1>Hello, {props.name}</h1>;
-  console.log(props);
-}
+
 //AVER SI FUNCIOONA
 class Child extends React.Component {
   constructor(props) {
@@ -39,10 +24,6 @@ class Child extends React.Component {
   }
 
   render() {
-    const styleTable = {
-      overflowX: undefined,
-      overflowY: undefined,
-    };
     return (
       <div
         id="section1"
@@ -72,7 +53,7 @@ class Child extends React.Component {
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
                           scope="row"
-                          component="tr"
+                          component="td"
                           align="left"
                         >
                           {Ataque.nombreAtaque}
@@ -81,7 +62,7 @@ class Child extends React.Component {
                         {
                           <TableCell
                             className="  nombreAtaquesGB py-2"
-                            component="tr"
+                            component="td"
                             align="right"
                           >
                             {Ataque.Animacion.map(
@@ -113,7 +94,7 @@ class Child extends React.Component {
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
                           scope="row"
-                          component="tr"
+                          component="td"
                           align="left"
                         >
                           {Ataque.nombreAtaque}
@@ -123,7 +104,7 @@ class Child extends React.Component {
                           <TableCell
                             className="  nombreAtaquesGB py-2"
                             align="right"
-                            component="tr"
+                            component="td"
                           >
                             {Ataque.Animacion.map(
                               (animaciondelataque, index) => (
@@ -155,7 +136,7 @@ class Child extends React.Component {
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
-                          component="tr"
+                          component="td"
                           scope="row"
                           align="left"
                         >
@@ -164,7 +145,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            component="tr"
+                            component="td"
                             className="  nombreAtaquesGB py-2"
                             align="right"
                           >
@@ -198,7 +179,7 @@ class Child extends React.Component {
                         <TableRow key={Ataque.nombreAtaque} className="mx-5">
                           <TableCell
                             className="  py-2 colorFondoAtaquesGB "
-                            component="tr"
+                            component="td"
                             scope="row"
                             align="left"
                           >
@@ -207,7 +188,7 @@ class Child extends React.Component {
 
                           {
                             <TableCell
-                              component="tr"
+                              component="td"
                               className="  nombreAtaquesGB py-2"
                               align="right"
                             >
@@ -243,15 +224,15 @@ class Child extends React.Component {
 class GranBlue extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(props);
-    console.log(this.props.detalles.Foto);
+
     this.state = {
       isItemContentVisible: {},
       numChildren: 0,
     };
   }
   renderContent() {
-    this.state.isItemContentVisible = false;
+    const newLocal = this.state;
+    newLocal.isItemContentVisible = false;
 
     return <div>I'm the child</div>;
   }
@@ -271,13 +252,10 @@ class GranBlue extends React.Component {
     isActive: false,
   };
   renderContent(personaje) {
-    this.state.isItemContentVisible = false;
-    /*console.log(personaje);
-    return <div className="pruebadelelemento">prueba</div>;
-    */
-    // this.setState({ objetoPersonaje: personaje });
-    this.state.objetoPersonaje = personaje;
-    console.log(this.state.objetoPersonaje);
+    const newLocal_1 = this.state;
+    newLocal_1.isItemContentVisible = false;
+
+    newLocal_1.objetoPersonaje = personaje;
   }
   onClickDown = () => {
     scroll.scrollToBottom();
@@ -287,7 +265,6 @@ class GranBlue extends React.Component {
   };
   showContent(id) {
     // merge new value with existing visibility status into new object´
-    console.log(id);
     this.setState({
       isItemContentVisible: {
         ...this.state.isItemContentVisible,
@@ -312,8 +289,6 @@ class GranBlue extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
-
-    console.log(this.state.elemento);
   };
 
   handleCloseModal = (e) => {
@@ -321,8 +296,6 @@ class GranBlue extends React.Component {
   };
 
   render() {
-    const { isActive } = this.state;
-    const detalles = this.props;
     const style = {
       backgroundPosition: "right right",
       backgroundSize: "cover",
@@ -387,6 +360,7 @@ class GranBlue extends React.Component {
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
+                  alt="imagen logo"
                 ></img>
 
                 <div className=" nav nav-tabs" role="tablist">

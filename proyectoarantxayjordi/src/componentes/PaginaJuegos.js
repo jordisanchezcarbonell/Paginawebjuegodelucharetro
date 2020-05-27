@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import data from "../JSON/juegos.json";
 import "./Juegos.css";
 
-import { BrowserRouter, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export class PaginaJuegos extends Component {
   click(e) {

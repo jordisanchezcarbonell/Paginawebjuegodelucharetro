@@ -1,13 +1,10 @@
-import React, { useState } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+import React from "react";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
-import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
 
 import "./juegosDetalles.css";
@@ -19,7 +16,6 @@ import Juegos from "../../JSON/juegos.json";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import ponys from "../../JSON/ponys.json";
-import juegos from "../../JSON/juegos.json";
 import data from "../../JSON/Personajes.json";
 import MARVEL from "../../JSON/Marvel.json";
 import Dragonball from "../../JSON/DragonBall.json";
@@ -28,14 +24,11 @@ import TEKKEN from "../../JSON/Tekken.json";
 import SSBU from "../../JSON/SSBU.json";
 import SoulCalibur from "../../JSON/SoulCalibur.json";
 import Granblue from "../../JSON/GranBlue.json";
-import { ReactComponent as Logo } from "./nombre.png";
 import ReactPlayer from "react-player";
 import KillerInstinct from "./KillerInstinc/KillerInstinc";
 import MortalKombat from "./MortalKombat/MortalKombat";
 import GbFantasy from "./GrandBLUE/GranBlue";
 import DB from "./DragonBall/Dragonball";
-
-import { BrowserRouter, Route, Link } from "react-router-dom";
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
@@ -54,8 +47,6 @@ class JuegosDetalles extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
-
-    console.log(this.state.elemento);
   };
 
   handleCloseModal = (e) => {
@@ -145,7 +136,11 @@ height: 10vw;
           <Container className="w-100 ContainerSeparacion mt-4 ">
             <div className=" contenedor ">
               <h1 className="txtDescripcion">Descripcion</h1>
-              <img src={require("./header.png")} className="imgDescripcion" />
+              <img
+                src={require("./header.png")}
+                className="imgDescripcion"
+                alt="Descripcion Juego"
+              />
             </div>
             <h6 className="NombreDesc">{detalles.Descripcion} </h6>
           </Container>
@@ -157,6 +152,7 @@ height: 10vw;
                     <img
                       src={require("./descarga1.png")}
                       className="fotoNombre"
+                      alt="Descripcion Juego"
                     />
 
                     <div className="centrado">{personaje.Nombre}</div>
@@ -168,6 +164,7 @@ height: 10vw;
                         <img
                           src={require("./nombre.png")}
                           className="fotoNombre"
+                          alt="Descripcion Juego"
                         />
 
                         <div className="CentradoTituloAtaque w-100">
@@ -231,6 +228,7 @@ height: 10vw;
                         <img
                           src={require("./nombre.png")}
                           className="fotoNombre"
+                          alt="Descripcion Juego"
                         />
 
                         <div className="CentradoTituloAtaque w-100 ">
@@ -288,6 +286,7 @@ height: 10vw;
                         <img
                           src={require("./nombre.png")}
                           className="fotoNombre "
+                          alt="Descripcion Juego"
                         />
 
                         <div className="CentradoTituloAtaque w-100 ">
@@ -360,12 +359,8 @@ height: 10vw;
   }
 
   render() {
-    let comp;
     const detalles = this.props.location.state.prueba;
-    console.log(detalles);
     let prueba = Juegos;
-    console.log(prueba[0].Nombre);
-    let mostrarvalor = this.props.location.state.visible;
     if (detalles.Nombre === prueba[0].Nombre) {
       return this.streetfighter(detalles, data);
     } else if (detalles.Nombre === prueba[2].Nombre) {

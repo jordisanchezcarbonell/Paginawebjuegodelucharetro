@@ -1,5 +1,3 @@
-
-
 @font-face {
     font-family: "LetraBD";
     src: url(LeviReBrushed.ttf);
@@ -7,11 +5,17 @@
     font-style: normal;
     font-display: swap
 }
-.LetraTituloBD{
-font-size: 5vw;
+
+.LetraTituloBD {
+    font-size: 5vw;
     font-family: "LetraBD";
 
 }
+
+.tablaborderabajo {
+    border-bottom: 0px !important;
+}
+
 
 
 .fondoproba .rule {
@@ -28,7 +32,7 @@ font-size: 5vw;
 
 
     width: 100%;
-    max-width:100%;
+    max-width: 100%;
     margin: 4% auto 0 auto;
     padding: 30px 1%;
     color: #fff;
@@ -45,12 +49,12 @@ font-size: 5vw;
 
     position: relative;
     padding: 20px 0;
-    background: linear-gradient(#1c3c85,#2352a9);
+    background: linear-gradient(#1c3c85, #2352a9);
 
-    
-    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
-box-shadow: 12px 15px 100px 25px rgba(0,0,0,0.75);
+
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 12px 15px 100px 25px rgba(0, 0, 0, 0.75);
 }
 
 
@@ -59,7 +63,7 @@ box-shadow: 12px 15px 100px 25px rgba(0,0,0,0.75);
 
 
 
-.colorFondoAtaquesBD{
+.colorFondoAtaquesBD {
     margin-left: 0 !important;
     padding-left: 0 !important;
     color: white !important;
@@ -70,15 +74,19 @@ box-shadow: 12px 15px 100px 25px rgba(0,0,0,0.75);
 
 
 }
-.fondoTablaBD{
+
+.fondoTablaBD {
 
     background-color: rgba(0, 0, 0, 0) !important;
+    /*QUITAR FONDO SHADOW*/
+    box-shadow: none !important;
+
 
 }
 
 
 
-.TituloAtaquesBD{
+.TituloAtaquesBD {
     color: black;
     font-weight: 100;
     width: 100%;
@@ -86,11 +94,13 @@ box-shadow: 12px 15px 100px 25px rgba(0,0,0,0.75);
     font-size: 3vw;
 
 }
-.borderBotBD{
+
+.borderBotBD {
     border-bottom: none !important;
 
 }
-.pruebalinea{
+
+.pruebalinea {
     height: 1px;
     background-color: black;
     width: 80%;
@@ -100,14 +110,15 @@ box-shadow: 12px 15px 100px 25px rgba(0,0,0,0.75);
 }
 
 
-.nombreAtaquesBD{
+.nombreAtaquesBD {
     width: 54%;
     border: none;
     margin-right: 0 !important;
     padding-right: 0 !important;
 
 }
-.FotoFondoBD{
+
+.FotoFondoBD {
     position: relative;
     display: inline-block;
     text-align: center;
@@ -116,18 +127,21 @@ box-shadow: 12px 15px 100px 25px rgba(0,0,0,0.75);
 
 
 }
-.TextoPersonajeTituloBD{
 
-    
-color:white;
-text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
+.TextoPersonajeTituloBD {
+
+
+    color: white;
+    text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
 
 }
-.imgAtaqueBD{
+
+.imgAtaqueBD {
     height: 2.2vw !important;
 
 }
-.DivBDFONDO{
+
+.DivBDFONDO {
     color: black;
     text-align: center;
     position: relative;
@@ -137,10 +151,11 @@ text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
     background-size: cover;
 
     width: 100% !important;
-    
+
     background-repeat: repeat-x;
     background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);
 }
+
 .TituloAtaquesGB {
 
     background-color: gray;
@@ -175,48 +190,48 @@ text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
 }
 
 
-.TextoTituloDB{
-    color:white;
+.TextoTituloDB {
+    color: white;
     margin-top: 3vw;
-    margin-left: -3vw!important;
+    margin-left: -3vw !important;
 
 }
-.FotoBD2{
-    width:90px!important;
-    min-width:90px!important;
-    height:90px!important;
-    border-radius:25px 0 !important; 
 
-    margin:4px;
+.FotoBD2 {
+    width: 90px !important;
+    min-width: 90px !important;
+    height: 90px !important;
+    border-radius: 25px 0 !important;
+
+    margin: 4px;
 
     transform: skewX(-15deg);
-    cursor:pointer;
+    cursor: pointer;
 }
-.FotoBD{
-    width:90px!important;
-    min-width:90px!important;
-    height:90px!important;
-    border-radius:0 25px !important; 
 
-    margin:4px;
+.FotoBD {
+    width: 90px !important;
+    min-width: 90px !important;
+    height: 90px !important;
+    border-radius: 0 25px !important;
+
+    margin: 4px;
     transform: skewX(15deg);
 
 
-    cursor:pointer;
+    cursor: pointer;
 
 }
 
 
-.fotoLogoBD{
-    margin-left: -3vw!important;
+.fotoLogoBD {
+    margin-left: -3vw !important;
 }
 
 
 
 
-  
-  .DIVFOTO:hover{
-    transform: scale(1.1)!important;
-  }
-  
- 
+
+.DIVFOTO:hover {
+    transform: scale(1.1) !important;
+}

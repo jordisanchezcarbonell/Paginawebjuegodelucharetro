@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-constructor */
 import React from "react";
 import data from "../../JSON/Personajes.json";
 import MARVEL from "../../JSON/Marvel.json";
@@ -5,7 +6,7 @@ import ponys from "../../JSON/ponys.json";
 import killerinstinct from "../../JSON/KillerInstinct.json";
 import Skullgirls from "../../JSON/SkullGirls.json";
 import Juegos from "../../JSON/juegos.json";
-import { BrowserRouter, Route, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 class PersonajesGlobales extends React.Component {
   constructor(props) {

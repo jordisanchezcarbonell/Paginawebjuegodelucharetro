@@ -1,43 +1,47 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from "react";
 import * as ReactBootstrap from "react-bootstrap";
 import { PaginaPlataformas } from "./PaginaPlataformas";
 import { PaginaJuegos } from "./PaginaJuegos";
-import JuegosDetalles from "./JuegosDetalles/JuegosDetalles"
+import JuegosDetalles from "./JuegosDetalles/JuegosDetalles";
 import Personaje from "./PersonajeDetalles/Personaje";
 import Todo from "./PersonajesGlobales/PersonajesGlobales";
 import "./Principal.css";
 import "./Personajes.css";
 
-
-import data from "../JSON/Personajes.json";
-
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 export class PaginaPrincipal extends Component {
-  
   render() {
-    
     return (
       <div className=" fondo">
         <Router>
-
-
           <div>
-            <ReactBootstrap.Navbar   bg="light" expand="lg"  className="NavbarBoostrap px-0 py-0 navGlobal" >
-              <ReactBootstrap.Navbar.Brand className="NavBarTitulo"   href="/PaginaPrincipal"    >
-              <img src="../../imagenes/Nav/logo2.png" alt="" className="fotoNav" height="110vw">
-                
-                </img>
+            <ReactBootstrap.Navbar
+              bg="light"
+              expand="lg"
+              className="NavbarBoostrap px-0 py-0 navGlobal"
+            >
+              <ReactBootstrap.Navbar.Brand
+                className="NavBarTitulo"
+                href="/PaginaPrincipal"
+              >
+                <img
+                  src="../../imagenes/Nav/logo2.png"
+                  alt=""
+                  className="fotoNav"
+                  height="110vw"
+                ></img>
               </ReactBootstrap.Navbar.Brand>
 
-
-              <ReactBootstrap.Navbar.Brand href="/PaginaJuegos"   className="textonaV w-100">
+              <ReactBootstrap.Navbar.Brand
+                href="/PaginaJuegos"
+                className="textonaV w-100"
+              >
                 Juegos
               </ReactBootstrap.Navbar.Brand>
               <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
               <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
                 <ReactBootstrap.Nav className="ml-auto textonaV">
-
-
                   <ReactBootstrap.NavDropdown
                     title="Plataformas"
                     id="basic-nav-dropdown"
@@ -57,7 +61,6 @@ export class PaginaPrincipal extends Component {
                     </ReactBootstrap.NavDropdown.Item>
                   </ReactBootstrap.NavDropdown>
                 </ReactBootstrap.Nav>
-
               </ReactBootstrap.Navbar.Collapse>
             </ReactBootstrap.Navbar>
 
@@ -69,7 +72,7 @@ export class PaginaPrincipal extends Component {
               </Route>
               <Route path="/PaginaPersonajes" component={Todo}></Route>
 
-              <Route path="/PaginaJuegos" >
+              <Route path="/PaginaJuegos">
                 <PaginaJuegos />
               </Route>
               <Route path="/Detalles" component={Personaje} />

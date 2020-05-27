@@ -1,17 +1,7 @@
-import React , {Component} from 'react';
-import * as ReactBootstrap from 'react-bootstrap';
+import React, { Component } from "react";
 
-export class PaginaPlataformas extends Component{
-
-
-    render(){
-
-        return (
-
-            <h1>Vengo de la pagina Plataformas</h1>
-        )}
-    
-    
-    
-    
-    }
+export class PaginaPlataformas extends Component {
+  render() {
+    return <h1>Vengo de la pagina Plataformas</h1>;
+  }
+}
