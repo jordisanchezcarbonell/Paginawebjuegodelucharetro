@@ -29,6 +29,7 @@ import KillerInstinct from "./KillerInstinc/KillerInstinc";
 import MortalKombat from "./MortalKombat/MortalKombat";
 import GbFantasy from "./GrandBLUE/GranBlue";
 import DB from "./DragonBall/Dragonball";
+import UnderNightJuego from "./DragonBall/Dragonball";
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
@@ -370,7 +371,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[4].Nombre) {
       return this.streetfighter(detalles, Skullgirls);
     } else if (detalles.Nombre === prueba[5].Nombre) {
-      return this.streetfighter(detalles, UnderNight);
+      return <UnderNightJuego detalles={detalles} Juego={UnderNight} />;
     } else if (detalles.Nombre === prueba[6].Nombre) {
       return <DB detalles={detalles} Juego={Dragonball} />;
     } else if (detalles.Nombre === prueba[7].Nombre) {

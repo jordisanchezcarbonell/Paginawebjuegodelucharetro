@@ -1,0 +1,13 @@
+.DivBDFONDOUN {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+}
