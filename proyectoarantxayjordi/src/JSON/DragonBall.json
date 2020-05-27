@@ -981,5 +981,5864 @@
         ]
       }
     ]
+  },
+  {
+    "Nombre": "Teen Gohan",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/gohan.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A gut punch",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Upward kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Airborne heel kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A body blow.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A jumping side kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Short range kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A baseball slide.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jump KI",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumps forward ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Horizontal kick (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Swings his fist in a diagonal arc.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Overhead   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A 45 degree high kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spins and fires a ki blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Super Dragon Flight ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "5-Hit Combo ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying Kick (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rolling Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Motionless Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Father-Son Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Gogeta",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/DBZTODO/gogeta.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Does two quick jabs.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Punch that knocks the opponent in the air.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " On hit or block",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does an upward kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Jump opponent",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Kamehameha ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Low kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dropkick with very long range.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Uppercut that launches the opponent",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumps and fires a Galick Gun downward.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Diagonal kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Punch at a downward angle.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Three quick kicks (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Kick that causes a wallbounce.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Kamehameha  (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": " Diagonal kick (in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a Galick Gun downward (in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Performs a dashing knee strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "2nd Input ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/follow.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "3rd Input(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/follow.png",
+          "imagenes/ImagenesAtaqueDB/follow.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Vortex",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Multiplex Afterimage (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Punisher Drive",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "God Punishe",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stardust Fall (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Big Bang Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Meteor Explosion (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Videl",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/Videl.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Upward punch",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Upward punch other hand.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Downward kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Lunch Opponent",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Videl calls Great Saiyaman,  ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Pokes the ground with one foot. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A crouching sidekick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Calls in Great Saiyaman,  KI",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping axe kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An airborne side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An axe kick.  (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Calls in Great Saiyaman (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A midair high kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Calls in Great Saiyaman",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Justice Combination  (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Frankensteiner",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying Kick (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Moonsault Kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Eagle",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Rainbow Storm ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Defender of Love & Justice, Great Saiyaman!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Justice Rush ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Justice Revenge (when down) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Android 21",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/DBZTODO/android-21.png",
+
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A downward hand swipe.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An upward open palm strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " An upward roundhouse kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A tail swipe.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A lunging knifehand chop.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shinkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stabs her tail into the ground",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A longer-ranged underground tail poke.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jump KI",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping rotating split kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An aerial jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Spins and swings her tail forward (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A rotating split kick.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Upward arc",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hor d'Oeuvre Stab (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Connoisseur Cut  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Consecutive Energy Blast (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "  Explosive Energy Blast ((air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Homing Energy Blast (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Aerial Connoisseur Cut  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Total Detonation Ball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Photon Wave",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Sweet Tooth",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Excellent Full Course",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Vegeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/vegeta.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick jab forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An elbow strike..",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "  Launching them into the air. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A front kick ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A jab kick that launches the opponen",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low-hitting quick kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Swipes one hand across the floor.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": " Downward elbow strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A quick knee jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An airborne side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A downward elbow strike.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward aimed thrust kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Super Dash Kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crushing Knee Kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Interceptor Kick (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Consecutive Energy Blast (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Big Bang Attack",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Final Flash ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Gotenks",
+    "Descripcion": "LA MEJOOOOR",
+    "Foto": "imagenes/DBZTODO/gotenks.png",
+
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A forward jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " A charging headbutt. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A shoulder tackle.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A wind-up punch ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A low dropkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A leaping overhead.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Three quick punches. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Overhead   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A high kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Miracle Super Punch ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Great Special Rolling Kick  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Galactic Donuts",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vengeful Shout (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Super Ghost Kamikaze Attack ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Charging Ultra Volleyball",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Goku Black",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/goku-black.png",
+
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Jab",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Advancing sidekick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Upward slice  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A Punch",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Spins forward",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Energy blade ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Upward knifehand jab ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A legsweep.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Backflip kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A knifehand chop.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A backflip kick.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward back kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Instant Transmission ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "God Slicer ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fierce God Kick  (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Black Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Binding Black Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "God Slicer Dance (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Holy Light Grenade (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "The Work of a God ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Vegito",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/vegetto.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick flurry of kicks.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slams the opponents ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An straightforward punch",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A jumping reverse roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A jumping downward punch ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping divekick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy sword.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping downward roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An upward angled side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Downward roundhouse kick.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Energy sword.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A jumping knee attack.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Atomic Buster  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spiral Heel Shot ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Split Finger Shot (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Barrier ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Spirit Excalibur ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Omega Finishing Blow (in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Final Kamehameha ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Base Vegeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/base-vegeta.png",
+
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A forward jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A low gut punch.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "  Uppercut followed ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An upward knifehand chop.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A thrusting kick that moves Vegeta a bit forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shinkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward hand sweep..",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jump KI",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leaps and does a double axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A knee jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An knifehand swipe.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double axe handle.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward kick. (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ki blast in an upwards arc.(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Deadly Knee Drop (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy Cutter (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I have no use for Saiyans that can't move (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Galick Gun ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Galaxy Breaker",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Goku",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/goku.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A short jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A gut punch",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Roundhouse kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Upward elbow",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Sidekick ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A crouching sidekick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A leaping uppercut ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ki blast diagonally",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hops and does a double-axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A jumping sidekick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An airborne double-axe handle punch. (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": " Flurry Kick  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Flash Fist ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha  (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Super Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Warp Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Meteor Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 16",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/android-16.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A standing jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A shoulder charge.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward double axe handle.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A forward shoulder charge.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A crouching sweeping double axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping shoulder tackle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Hops and does a side kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An airborne side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Does a midair shoulder charge   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Does a falling dropkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spins and fires a ki blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Flying Powerbomb (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dynamite Driver ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gliding Powerbomb  (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hell Heat",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hell Heat",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Hell Flash ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Hell Flash Maximum Output",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Last Resort ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Trunks",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/trunks.png",
+
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Hitting shin kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A forward reaching kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Opponent flying with a jumping upward side kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A reverse roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A side heel kick with his leading foot.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Launches the opponent away.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A short-range sliding kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumps back and fires a ki  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An jumping roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Downward punch (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A midair sidekick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Downward angled  kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Moves back in the air while firing (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Midair high kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Falls quickly to the ground.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Ultimate High Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rapid punches",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jet Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Machine Gun Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate Back Attack",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/216.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Masenko ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Potential Unleashed ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Potential Unleashed",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Bros. Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Piccolo",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/piccolo.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Leading hand",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Elbow jab forward.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Upward hook  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Knifehand ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": " Kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Piccolo will extend his arm forwards ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Short range kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Essentially a slowe.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Arm 45 degree angle",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Knee strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jab (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Kick 2 hit(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Roundhouse kick   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Arm downwards at a 45 degree angle",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "upwards knee ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Demon Shocker ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Demon Elbow (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Demon Slicer (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Homing Energy Blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Special Beam Cannon ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hellzone Grenade (",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Light Grenade ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Fused Zamasu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/zamas.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Energy blade-infused ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Downward energy blade-infused ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Lifts the opponent ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A charging energy blade stab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A reverse flying roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shin kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An angled energy blade slash.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A jumping axe kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward energy blade stab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An axe kick.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An advancing axe kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Wall of Light",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eternal Justice",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Divine Order",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Heaven's Flash",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Divine Wrath ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blades of Judgement (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Lightning of Absolution (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Blue Goku",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/goku-ssb.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A straight jab forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Low and knocks the opponent up.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Overhead axe-kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A backhand swing punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A lunging side kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A downward jab while crouching.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A crouching side kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Jumps forward ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab straight forward. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A midair side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double-axe handle swing.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A midair upward kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Super God Shock Flash  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Divine Void Strike ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon Flash Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Instant Transmission (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Extreme Speed Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "x10 Kaioken Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kefla",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/Kefla.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Throws a punch forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Unleashes a quick flurry of kicks.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Performs a charging dropkick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Quick punches in successio",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Throws a side kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Throws a ki blast forward",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Short range kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a sweepkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Jumping and does a double-axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a midair punch. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Throws two midair kicks..(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Throws a double-axe handle punch.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A jumping knee attack.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Double Hammer ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Super Cannonball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ain't nobody that can stop me!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Time to test this power out! (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Gigantic Breaker  (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/D.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Ultra Cannonball",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gigantic Ray ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gigantic Ray (in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Gigantic Burst ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Super Broly",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/super-broly.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Performs a jab at a downward angle",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Generates an energy",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Elbow strike, ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An advancing side kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Launch opponent",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Throws a quick uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An alternating series of stomps with each foot.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a green beam forward with a large amount of startup.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leaps and performs a double axe-handle punch.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Performs a midair jab with longer reach than most others. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Turns and performs a midair kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Overhead   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires a green energy(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Grabs the opponent (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Headbutt  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Raging Quake ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eraser Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gigantic Fury",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eraser Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Gigantic Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gigantic Impact (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Meteor Shower(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Gigantic Roa",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tien",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/tien.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick finger jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A double knifehand strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A barrage of knifehand strikes",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A elbow strike",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shin kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A spinning sweepkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A hopping downward palm thrust. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Two downward knifehand strikes.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward palm thrust.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Overhead   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Volleyball Fist ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "2nd Input",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/follow.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "3rd Input",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/follow.png",
+          "imagenes/ImagenesAtaqueDB/follow.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Aerial Version",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crane Strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dodon Ray",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Telekinesis ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Tri-Beam (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Neo Tri-Beam",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hit",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/hit.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick pressure point jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Teleports forward and does an uppercut.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Teleports towards the opponent",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Teleports forward .",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": " Non-leading fist.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Time Skip  ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A downward punch. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stomps the ground with one foot.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A jumping axe kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A side kick.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward punch(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Overhead   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": " Time Skip (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Spins and does an upward kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Icy Glare ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vital Point Attack  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Deadly Intent",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mark of an Assassin ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tides of Time ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Time Release",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Realized Power",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Blow ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "I keep improving",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Base Goku",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/base-goku.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A  straight punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A knee strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Goku will stand his ground, ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A hook punch..",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Simple crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A foot forward.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Will flick his hands upwards",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Second blast ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A legs outstretched ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png",
+          "imagenes/ImagenesAtaqueDB/S.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A double axe handle punch.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A standard jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double axe handle.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A upward kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Back Throw ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Heavy Elbow ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha  Kick (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Everyone, lend me your energy!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spirit Bomb after gathering energy ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Kaioken",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kaioken Finisher",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kaioken Kamehameha",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Super Spirit Bomb",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yamcha",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/yamcha.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Backhanded jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Swipe forward ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Series of kicks forward ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Step forward and throw out a backhanded swing",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Backflip before rushing forward",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": " jab at an upward angle ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Spinning sweep kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Claw swipe downwards ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Claw swipe downwards. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Hook kick..(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Kicking both   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Drop to the ground in a dive kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Wolf Fang Fist: Gale Claws  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wolf Fang Fist ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Reverse Wolf Fang Fist ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Neo Wolf Fang Fist  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Spirit Ball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Ultimate Wolf Fang Fist ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Janemba",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/janemba.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A downward punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Slams his tail on the ground.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Appears behind the opponent  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A  downward slash with his sword",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A legsweep.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An upward slash with his sword that launches the opponent",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jump KI",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A leaping downward sword slash ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A midair reverse roundhouse kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A downward slash with his sword. (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A horizontal smash ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Mystical Arm ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Demonic Blade",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying Kick (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shadow Kick(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hell Gate (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dimensional Hole (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Phantom Shift (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dimensional Hole (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Rakshasa's Claw",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Savage Skewer",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Needle Light Shower ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Frieza",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/frieza.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A short-ranged body blow.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A upward kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a small invisible ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A high elbow strike.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Lifts up multiple rocks ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low-hitting shin kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A low sweepkick .",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unleashes an explosive ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Jumps forward  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Strikes twice(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Flips forward (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Similar to aerial (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoots a ki blast at a downward angle.(in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Death Saucer ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Slash",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "You might not survive this time",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Warp Smash ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Death Ball",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Nova Strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Cooler",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/cooler.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A 12-6 elbow.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Upward kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " An overhand. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Downward axe handle",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A low tail swing.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A jumping double axe handle. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Straightforward jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A tail swing.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double axe handle. (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A high kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Crushing Stomp  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Genocidal Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Chaser  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Breaker  (in OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Flash",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Shaker",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Death Crasher ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Drop (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Atomic Supernova",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Atomic Supernova (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Broly",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/broly.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A straightforward jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent, ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A stomach-first lunge",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An overhead punch with armor. ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A one-handed handstand kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A jumping downward hand swipe. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ah airborne jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward punch..(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A hand swipe.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A falling stomp.(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Gigantic Claw (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gigantic Claw ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lariat Express ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eraser Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Powered Shell",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Eraser Cannon",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Gigantic Meteor (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jiren",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/Jiren.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A short jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A reverse roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a red ki blast  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Grabs the opponent",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Takes a step forward ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward-angled straight punch. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An advancing double kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A half crescent kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoots a short-ranged",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping double-axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An elbow drop followed by a downward punch.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An downward double-axe handle.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Downward with both feet.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a ki blast downward (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Shock Tornado ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Infinity Rush",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Charge ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Counter Impact",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Colossal Slash (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Colossal Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Blazing Magnetron",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 18",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/android-18.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick shin kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An open palm strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A lunging knee strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A running hook punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires a ki blast forward. ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Pokes the ground with her foot.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a sweepkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "KI Blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping double axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A midair split kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double axe handle.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A double-legged flip kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Support Attack ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Back Grapple ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Destructo-Disc",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Barrier  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Energy Wave",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Accel Dance ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Beerus",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/beerus.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A finger flick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A forward clap.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slides between ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A headbutt..",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Fires a kiai forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shin kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slides across",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A backward handstand backflip kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sneezes up a Sphere of Destruction.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping downward roundhouse kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward backhanded jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A high kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A downward roundhouse kick.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A dragon kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "God of Destruction's Rampage(air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sphere of Destruction (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spheres of Destruction (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "God of Destruction's Wrath",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Beerus Ball",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "God of Destruction's Judgement",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Majin Buu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/majin-buu.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick jab with his leading hand.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A shinkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent and punches them up into the air.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rears his body back and does a headbutt.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A front kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching downward jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Swipes at the opponents feet with his antenna.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An standing uppercut attack ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a ki blast ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumps and does a downward clap.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward clap.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Overhead   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An outstretched punch at an upward angle",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Cartwheel",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dive Bomb ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying Kick (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sweeping Breath (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fat Throw ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Now Buu really...hate you!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Turn into candy!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Captain Ginyu",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/ginyu.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A knifehand swipe.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Two punches right after each other.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dashes forward .",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Spins forward and then does a high kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A crouching sweepkick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An upward knifehand ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Jumps forward ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Two quick punches.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A downward, knifehand swipe.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "An upward heel kick that launches the opponent..(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Strong Jersey  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Together We Are...the Ginyu Force! (air OK)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Powerful Energy Wave ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Body Change  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Together we are... the Ginyu Force!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Blue Vegeta",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/vegeta-ssb.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Does a jab with his leading fist.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Another jab with his other fist.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " A downward swing with his leading fist, bouncing them into the air.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Moves forward while thrusting out one leg.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Throws a ki blast forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Extends one leg forward on the ground.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sweeps the ground with a hand chop.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throws a blue ki blast at an upward angle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hops forward and does a double ax-handle punch. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An upward knee jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Extends one leg forward.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Does an downward double ax handle punch.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Throws a ki blast at a downward angle.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Jabs one leg at an upward angle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throws a ki blast at a slight upward angle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Super Dash Kick  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "On a scale of one to ten, I'll give you a three !  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Big Bang Attack",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Niagara Pummel ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Galick Gun ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Final Flash ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Android 17",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/android-17.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A quick jab with his leading hand.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A lunging knee strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " A jumping double axe handle swing.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A charging elbow.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shin kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A long low kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponent",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A jumping double axe handle. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A reverse roundhouse kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double axe handle.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward kick that launches the opponent.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sliding Sweep  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Accel Driver ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Finishing Driver",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Endgame ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Barrier Explosion  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Super Electric Strike (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Krillin",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/krillin.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A short-ranged jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A reverse roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " A jumping high kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A body blow.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A straightforward punch at an upward angle.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A downward angled jab. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A leaning kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A standing upward punch that launches the opponent.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ki blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hops and does a double axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A standard midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Performs two midair kicks.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A downward double axe handle.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Stops in midair and fires two ki blasts. (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A midair high kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a ki blast downward at the ground.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Senzu Bean ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Afterimage ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Solar Flare",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stone Throw",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Destructo-Disc",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Scattering Energy Wave",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nappa",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/nappa.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A downward punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An upward front kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " A knifehand swipe. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A leading foot stomp.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A charging overhand punch",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A backhand swing.  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A low sweepkick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An overhand clap that launches the opponent.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A hopping upside-down bicycle kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A quick jab forward (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward kick (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An upside-down bicycle kick.    (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Downward and crushes ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Saibamen  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Arm Break ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blazing Storm (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Too bad ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Giant Storm ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Break Cannon",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Goku Ultra Instinct",
+    "Descripcion": "PRUEBA",
+    "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Does a mid-level jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Appears in the air and does a falling punch.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a mid-level roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Does a charging punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires a shockwave with his fist. ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Jabs at a downward angle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a sweepkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Performs two jumping kicks.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires an energy blas",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does jumping a modified axe kick with both legs.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a midair jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Does a midair roundhouse kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Does a modified axe kick with both legs.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Does a midair stretch kick. (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spins and fires a ki blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Secret Sensation  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shining Soul  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unrestrained Will(HOLD) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Godly Display ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Autonomous Fist (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Godly Strike (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Transcendence (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Embodied Light(air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unencumbered Mind (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Heat (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Accelerating Battle Spirit ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Guiding Impulse (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Silver Dragon Flash",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
   }
 ]
