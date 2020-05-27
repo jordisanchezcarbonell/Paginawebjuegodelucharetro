@@ -14,6 +14,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { Link, animateScroll as scroll } from "react-scroll";
+import fondoFotoNombre from "./fondoTextoBD.png";
 
 // get our fontawesome imports
 import { faHome } from "@fortawesome/free-solid-svg-icons";
@@ -45,32 +46,44 @@ class Child extends React.Component {
     };
     return (
       <div
-        id="section1"
+    
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
       >
-        <div class="products">
-          <h3>{this.props.elemento.Nombre}</h3>
+      
+        {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
+          </img> */}
+
+
+<div class="fondoproba enter">
+
+
+<h3 className="TextoPersonajeTituloBD">{this.props.elemento.Nombre}</h3>  
+
+
+        <div class="rule "></div>
+      
+      
         </div>
         <Container className="">
-          <Row className="w-100  px-0 mx-0">
-            <Col className="col-md-6 w-100 mb-5">
+          <Row className="w-100  px-0 mx-0 ">
+            <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer
                 component={Paper}
-                className="fondoTablaGB  eliminarradius mt-5"
+                className="fondoTablaBD  eliminarradius mt-5 "
               >
-                <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
+                <h3 className="TituloAtaquesBD my-0">Unique Action</h3>
 
                 <Table
                   stickyHeader
                   aria-label="sticky table"
-                  className="nomostrarscroll"
+                  className="nomostrarscroll "
                 >
                   <TableBody className="nomostrarscroll">
                     {this.props.elemento.NormalAttacks.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesGB "
+                          className="  py-2 colorFondoAtaquesBD "
                           scope="row"
                           component="tr"
                           align="left"
@@ -80,7 +93,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesGB py-2"
+                            className="  nombreAtaquesBD py-2"
                             component="tr"
                             align="right"
                           >
@@ -88,7 +101,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueGB"
+                                  className="imgAtaqueBD"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -103,15 +116,18 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-              <TableContainer className=" fondoTablaGB  mt-3">
-                <h3 className="TituloAtaquesGB my-0 w-100">Special Moves</h3>
+          
+            </Col>
+            <Col className="col-md-6">
+            <TableContainer className=" fondoTablaBD  mt-5">
+                <h3 className="TituloAtaquesBD my-0 w-100">Special Moves</h3>
 
                 <Table>
                   <TableBody>
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesGB "
+                          className="  py-2 colorFondoAtaquesBD "
                           scope="row"
                           component="tr"
                           align="left"
@@ -121,7 +137,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesGB py-2"
+                            className="  nombreAtaquesBD py-2"
                             align="right"
                             component="tr"
                           >
@@ -129,7 +145,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueGB"
+                                  className="imgAtaqueBD"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -144,17 +160,20 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-            </Col>
-            <Col className="col-md-6">
-              <TableContainer className=" fondoTablaGB  mt-5 ">
-                <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
+
+
+
+
+
+              <TableContainer className=" fondoTablaBD  mt-3 ">
+                <h3 className="TituloAtaquesBD my-0">Sky bound Art</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.SuperAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesGB "
+                          className="  py-2 colorFondoAtaquesBD "
                           component="tr"
                           scope="row"
                           align="left"
@@ -165,14 +184,14 @@ class Child extends React.Component {
                         {
                           <TableCell
                             component="tr"
-                            className="  nombreAtaquesGB py-2"
+                            className="  nombreAtaquesBD py-2"
                             align="right"
                           >
                             {Ataque.Animacion.map(
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueGB"
+                                  className="imgAtaqueBD"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -188,8 +207,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaGB  mt-3 ">
-                <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
+              <TableContainer className=" fondoTablaBD  mt-3 ">
+                <h3 className="TituloAtaquesBD my-0">Super Sky boundArt</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
@@ -197,7 +216,7 @@ class Child extends React.Component {
                       (Ataque, index) => (
                         <TableRow key={Ataque.nombreAtaque} className="mx-5">
                           <TableCell
-                            className="  py-2 colorFondoAtaquesGB "
+                            className="  py-2 colorFondoAtaquesBD "
                             component="tr"
                             scope="row"
                             align="left"
@@ -208,14 +227,14 @@ class Child extends React.Component {
                           {
                             <TableCell
                               component="tr"
-                              className="  nombreAtaquesGB py-2"
+                              className="  nombreAtaquesBD py-2"
                               align="right"
                             >
                               {Ataque.Animacion.map(
                                 (animaciondelataque, index) => (
                                   <Image
                                     key={index}
-                                    className="imgAtaqueGB"
+                                    className="imgAtaqueBD"
                                     src={
                                       process.env.PUBLIC_URL +
                                       animaciondelataque
@@ -336,7 +355,7 @@ class Dragonball extends React.Component {
     };
 
     return (
-      <div className="DivGranBlue degrafado w-100 ml-0">
+      <div className="DivBDFONDO degrafado w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -382,15 +401,15 @@ class Dragonball extends React.Component {
 
         <div className="row">
           <div className="w-100 mt-4">
-            <Container className="w-100 ">
+            <Container className="w-100  ">
               <h3 className="LetraTituloBD">Character Select</h3>
-              <Row className=" w-100 stage">
+              <Row className=" w-100 stage ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
                 ></img> */}
 
-                <div class="nav nav-tabs col-md-6  " role="tablist">
+                <div class="nav nav-tabs col-md-6  borderBotBD " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     if (index <= 19) {
                     return (
@@ -422,7 +441,7 @@ class Dragonball extends React.Component {
 
 
 
-                <div class="nav nav-tabs col-md-6 " role="tablist">
+                <div class="nav nav-tabs col-md-6  borderBotBD" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     if (index > 19) {
                     return (
