@@ -309,7 +309,7 @@
       {
         "nombreAtaque": "Mystic Arm Swing",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
@@ -317,7 +317,7 @@
       {
         "nombreAtaque": "Mystic Arm Swing",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/M.png"
         ]
@@ -325,7 +325,7 @@
       {
         "nombreAtaque": "Mystic Arm Swing",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/H.png"
         ]
@@ -520,7 +520,7 @@
       {
         "nombreAtaque": "Dragon Flash Fist (air OK)",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
@@ -528,7 +528,7 @@
       {
         "nombreAtaque": "Dragon Flash Fist (air OK)",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/M.png"
         ]
@@ -536,7 +536,7 @@
       {
         "nombreAtaque": "Dragon Flash Fist(air OK)",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/H.png"
         ]
@@ -739,7 +739,7 @@
       {
         "nombreAtaque": "Ultimate Back Attack",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
@@ -2971,7 +2971,7 @@
       {
         "nombreAtaque": "Ultimate Back Attack",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/216.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
