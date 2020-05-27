@@ -27,7 +27,11 @@ class Child extends React.Component {
 
   render() {
     return (
-      <div style={{ width: "100%" }} key={this.props.elemento.Nombre}>
+      <div
+        style={{ width: "100%" }}
+        className="PruebadefondoAtaques"
+        key={this.props.elemento.Nombre}
+      >
         {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
           </img> */}
 
@@ -38,7 +42,7 @@ class Child extends React.Component {
 
           <div className="rule "></div>
         </div>
-        <Container className="">
+        <Container className=" ">
           <Row className="w-100  px-0 mx-0 ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer

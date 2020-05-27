@@ -12,6 +12,8 @@
 
 }
 
+.LetraAtakes {}
+
 .tablaborderabajo {
     border-bottom: 0px !important;
 }
@@ -67,9 +69,10 @@
     margin-left: 0 !important;
     padding-left: 0 !important;
     color: white !important;
-    font-size: 13px !important;
+    font-size: 0.9vw !important;
     font-weight: 100 !important;
-
+    font-family: 'Permanent Marker', cursive !important;
+    ;
     border: none;
 
 
@@ -154,6 +157,11 @@
 
     background-repeat: repeat-x;
     background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);
+}
+
+.PruebadefondoAtaques {
+    background: linear-gradient(70deg, black, white);
+
 }
 
 .TituloAtaquesGB {
