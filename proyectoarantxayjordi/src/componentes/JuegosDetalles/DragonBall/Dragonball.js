@@ -12,7 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-import BolaDeDrac from "./bolaDragon.png"
+import BolaDeDrac from "./bolaDragon.png";
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -36,10 +36,9 @@ class Child extends React.Component {
           </img> */}
 
         <div className="fondoproba enter">
-        <div className="pro ">
-
-          <img  className="bolaDeDrac"src={BolaDeDrac}></img>
-        </div>
+          <div className="pro ">
+            <img className="bolaDeDrac" src={BolaDeDrac}></img>
+          </div>
 
           <h3 className="TextoPersonajeTituloBD">
             {this.props.elemento.Nombre}
@@ -52,7 +51,7 @@ class Child extends React.Component {
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer
                 component={Paper}
-                className="fondoTablaBD  eliminarradius mt-5 "
+                className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5 "
               >
                 <h3 className="TituloAtaquesBD my-0">
                   Unique Action
@@ -64,7 +63,7 @@ class Child extends React.Component {
                   aria-label="sticky table"
                   className="nomostrarscroll "
                 >
-                  <TableBody className="nomostrarscroll">
+                  <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.NormalAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
@@ -109,12 +108,12 @@ class Child extends React.Component {
                   <hr className="pruebalinea" />
                 </h3>
 
-                <Table>
-                  <TableBody>
+                <Table className="nomostrarscrollBD">
+                  <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo"
+                          className="  py-2 colorFondoAtaquesBD  nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"

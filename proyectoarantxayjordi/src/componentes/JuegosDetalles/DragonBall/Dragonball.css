@@ -60,8 +60,8 @@
 
 
 
-.bolaDeDrac{
-    height:3vw ;
+.bolaDeDrac {
+    height: 3vw;
     position: absolute;
     top: 0%;
     left: 50%;
@@ -76,7 +76,7 @@
     color: white !important;
     font-size: 1vw !important;
     font-weight: 100 !important;
-    font-family: 'Permanent Marker', cursive!important;
+    font-family: 'Permanent Marker', cursive !important;
     border: none;
     width: 70%;
 
@@ -169,6 +169,10 @@
 
 }
 
+.eliminarradius {
+    border-radius: 0px !important;
+}
+
 .TituloAtaquesGB {
 
     background-color: gray;
@@ -220,6 +224,11 @@
 
     transform: skewX(-15deg);
     cursor: pointer;
+}
+
+.nomostrarscrollBD {
+    /*No mostrar*/
+    overflow: hidden !important;
 }
 
 .FotoBD {
