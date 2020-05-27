@@ -58,7 +58,9 @@ class Child extends React.Component {
 <div class="fondoproba enter">
 
 
-<h3 className="TextoPersonajeTituloBD">{this.props.elemento.Nombre}</h3>  
+<h3 className="TextoPersonajeTituloBD">{this.props.elemento.Nombre}
+
+</h3>  
 
 
         <div class="rule "></div>
@@ -72,7 +74,9 @@ class Child extends React.Component {
                 component={Paper}
                 className="fondoTablaBD  eliminarradius mt-5 "
               >
-                <h3 className="TituloAtaquesBD my-0">Unique Action</h3>
+                <h3 className="TituloAtaquesBD my-0">Unique Action
+                <hr className="pruebalinea"/>
+                </h3>
 
                 <Table
                   stickyHeader
@@ -120,7 +124,10 @@ class Child extends React.Component {
             </Col>
             <Col className="col-md-6">
             <TableContainer className=" fondoTablaBD  mt-5">
-                <h3 className="TituloAtaquesBD my-0 w-100">Special Moves</h3>
+                <h3 className="TituloAtaquesBD my-0 w-100">Special Moves
+                
+                
+                <hr className="pruebalinea"/></h3>
 
                 <Table>
                   <TableBody>
@@ -166,7 +173,9 @@ class Child extends React.Component {
 
 
               <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">Sky bound Art</h3>
+                <h3 className="TituloAtaquesBD my-0">Sky bound Art
+                
+                <hr className="pruebalinea"/></h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
@@ -208,7 +217,10 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">Super Sky boundArt</h3>
+                <h3 className="TituloAtaquesBD my-0">Super Sky boundArt
+                <hr className="pruebalinea"/>
+                
+                </h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
