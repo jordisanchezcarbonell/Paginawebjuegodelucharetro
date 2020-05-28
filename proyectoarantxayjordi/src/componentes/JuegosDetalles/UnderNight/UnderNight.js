@@ -390,20 +390,20 @@ class UnderNight extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD "
+                  className="nav nav-tabs col-md-6  borderBotUN "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
-                    if (index <= 19) {
+              
                       return (
                         <div
-                          className="CentrodoBD "
+                          className="CentrodoUN "
                           align="center"
                           key={personaje.Nombre}
                         >
-                          <div className="DIVFOTO w-100">
+                          <div className="divFOTOUN w-100">
                             <img
-                              className="FotoBD"
+                              className="FotoUB"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen personaje"
@@ -419,43 +419,11 @@ class UnderNight extends React.Component {
                           </div>
                         </div>
                       );
-                    }
+                    
                   })}
                 </div>
 
-                <div
-                  className="nav nav-tabs col-md-6  borderBotBD"
-                  role="tablist"
-                >
-                  {this.props.Juego.map((personaje, index) => {
-                    if (index > 19) {
-                      return (
-                        <div
-                          key={personaje.Nombre}
-                          className="CentrodoBD "
-                          align="center"
-                        >
-                          <div className="DIVFOTO w-100" align="center">
-                            <img
-                              className="FotoBD2 "
-                              /*onClick={() => this.showContent(index)}*/
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                              alt="imagen logo2"
-                            ></img>
-                          </div>
-                          <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
-
-                              <div></div>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    }
-                  })}
-                </div>
+             
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (
