@@ -12,7 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-import bb from "./orie.png";
+import TituloPJ from "./TituloPJ.png";
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -32,14 +32,14 @@ class Child extends React.Component {
         className="PruebadefondoAtaques"
         key={this.props.elemento.Nombre}
       >
-        <div className="fondoproba enter">
-          <div className="pro "></div>
-
-          <h3 className="TextoPersonajeTituloBD">
+        <div className="NombrePersonajeUN my-4  ">
+        
+<img className="w-100 fotoNombrePJUN"src={TituloPJ}></img>
+          <h3 className="TextoPersonajeTituloUN">
             {this.props.elemento.Nombre}
           </h3>
 
-          <div className="rule "></div>
+       
         </div>
         <Container className=" ">
           <Row className="w-100  px-0 mx-0 ">
@@ -389,7 +389,7 @@ class UnderNight extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-9  borderBotUN   mx-auto"
+                  className="nav nav-tabs col-md-11  borderBotUN   mx-auto"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -400,7 +400,7 @@ class UnderNight extends React.Component {
                         key={personaje.Nombre}
                       >
                         <div className="w-100 divFOTOUN">
-                          <h3 className="punto">1p</h3>
+                        
 
                           <img
                             className="FotoUB Personaje"
