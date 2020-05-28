@@ -31,8 +31,8 @@
 .divFOTOUN {
     width: 8vw !important;
     height: 10vw;
-    border: 3px solid #555;
-    background: #bec3c7;
+    border: 3px solid black;
+    background: none;
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -ms-transform: skew(20deg);
@@ -43,7 +43,7 @@
 .FotoUB {
     width: 6vw !important;
 
-    height: 10vw;
+    height: 9vw!important;
     height: auto;
     max-height: 250px;
     width: auto;
@@ -68,9 +68,9 @@
 
 }
 .punto{
-margin-top: -2vw;
+margin-top: -4vw;
 display: none;
-text-shadow: 0 0 30px white;
+text-shadow: 0 0 10px white;
 color:#e3231e;
 
 }
@@ -80,6 +80,7 @@ color:#e3231e;
 }
 .divFOTOUN:hover > .punto{
     display: block;
+    font-size: 3vw;
   }
 
 /*
