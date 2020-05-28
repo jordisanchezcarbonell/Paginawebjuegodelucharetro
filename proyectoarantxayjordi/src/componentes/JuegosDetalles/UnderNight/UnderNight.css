@@ -31,11 +31,10 @@
 
 
 }
+.divFOTOUN0{
 
 
-.divFOTOUN1 {
-
-    width: 8vw !important;
+    width: 6vw !important;
     height: 10vw;
     border: 3px solid #555;
     background: #428bca;
@@ -43,19 +42,42 @@
     -moz-transform: skew(20deg);
     -ms-transform: skew(20deg);
     -o-transform: skew(20deg);
-    transform: skew(0deg, 40deg);
+    transform: skew(20deg);
+
+}
+
+.divFOTOUN1 {
+
+    width: 6vw !important;
+    height: 10vw;
+    border: 3px solid #555;
+    background: #428bca;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -ms-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    transform: skew(20deg,20deg);
+    margin-left: -17px;
+
+}
+
+.divFOTOUN2 {
+
+    width: auto!important;
+    height: auto!important;
+    border: 3px solid #555;
+    background: #428bca;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -ms-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    transform: skew(20deg,-20deg);
+    margin-left: -17px;
 
 }
 
 
-@supports(object-fit: cover) {
-    .divFOTOUN1 .FotoUB1 {
-        width: auto;
-        height: 30vw;
-        object-fit: cover;
 
-    }
-}
 
 /*     
       object-fit: cover;
@@ -69,25 +91,68 @@
     margin-top: 10px;
 }
 
-
-
-
-
-.FotoUB1 {
-
-    height: 10vw;
-
-
-}
-
 .Personaje0 {
+    width: 6vw !important;
+    height: 10vw!important;
+    background: #428bca !important;
+}
+.Personaje1 {
+    width: 6vw !important;
+    height: 10vw!important;
     background: #428bca !important;
 }
 
 
 
-.Personaje1 {
-    /* transform: skew(0deg, 40deg);*/
 
-    background: rgb(230, 45, 45) !important;
+.divFOTOUN2{
+
+    height:  10vw!important;
+    background: #CCC;
+    overflow: hidden;
+
+
+    border: 3px solid #555;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -ms-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    transform: skew(20deg,-20deg);
+
+
+
+    width: 6vw!important;
+    /* whatever width you want */
+    display: inline-block;
+    position: relative;
+    background-size: contain;
+    background: url('https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Wiki-llama.jpg/1600px-Wiki-llama.jpg') top center no-repeat;
+    margin: 0 auto;
+  }
+
+.Personaje2{
+    width: 100%!important;
+}
+  .divFOTOUN2 .Personaje2{
+    width: auto;
+
+    height: auto;
+  }
+  @supports(object-fit: cover){
+      .divFOTOUN2 .Personaje2{
+        width: 100%!important;
+
+        height: 100%;
+        object-fit: cover;
+        object-position: top center;
+      }
+  }
+
+
+
+  @media screen and (max-width: 800px) { /* Hacemos la búsqueda y si coincide modificamos las propiedades de la imagen */
+    .Personaje2 {
+            left: 50%;
+            margin-left: -400px;   /* Agregamos un margen negativo que represente el 50% */
+    }
 }

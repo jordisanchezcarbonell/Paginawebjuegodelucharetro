@@ -170,6 +170,178 @@
     ]
   },
 
+
+  {
+    "Nombre": "Vatista",
+    "Descripcion": "Ryu .",
+    "Foto": "imagenes/PersonajesUnderNight/Vatista.jpg",
+    "Ataques": [
+      {
+        "nombreAtaque": "Light",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Medium",
+        "Animacion": ["imagenes/imagenesataques/Medium.png"]
+      },
+      {
+        "nombreAtaque": "Heavy",
+        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
+      },
+      {
+        "nombreAtaque": "Magic",
+        "Animacion": ["imagenes/imagenesataques/Magic.png"]
+      },
+      {
+        "nombreAtaque": "Launcher",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_right.png",
+          "imagenes/imagenesataques/Heavy.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Right",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dush Left",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Foward",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Backwards",
+        "Animacion": [
+          "imagenes/imagenesataques/Left.png",
+
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Throw Escape",
+        "Animacion": [
+          "imagenes/imagenesataques/Medium.png",
+          "imagenes/imagenesataques/Heavy.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Eat",
+        "Animacion": ["imagenes/imagenesataques/Light.png"]
+      },
+      {
+        "nombreAtaque": "Pushblock",
+        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
+      },
+      {
+        "nombreAtaque": "Cross Counter",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Attack_2.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Quick Recovery",
+        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
+      },
+      {
+        "nombreAtaque": "Dodge",
+        "Animacion": [
+          "imagenes/imagenesataques/Right.png",
+          "imagenes/imagenesataques/Left.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Roll",
+        "Animacion": [
+          "imagenes/imagenesataques/Dd_left.png",
+          "imagenes/imagenesataques/Down.png",
+          "imagenes/imagenesataques/Dd_right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "MAGIC HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "ELBOW DROP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      },
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
+      },
+      {
+        "nombreAtaque": "MAGIC DASH",
+        "Animacion": [
+          "imagenes/imagenesataques/HCF.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "COUNTER",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/Button_D.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 1 – TRAMPLE",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "LVL 2 – REBOUND",
+        "Animacion": [
+          "imagenes/imagenesataques/QCB.png",
+          "imagenes/imagenesataques/DoubleAtk.png"
+        ]
+      }
+    ]
+  },
+
   {
     "Nombre": "Phonon",
     "Descripcion": "Ryu .",
