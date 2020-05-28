@@ -12,6 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
+import bb from "./orie.png"
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -390,7 +391,7 @@ class UnderNight extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotUN "
+                  className="nav nav-tabs col-md-11  borderBotUN  mx-auto"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -400,9 +401,9 @@ class UnderNight extends React.Component {
                         align="center"
                         key={personaje.Nombre}
                       >
-                        <div className={"w-100 divFOTOUN" + index}>
+                        <div className="w-100 divFOTOUN" >
                           <img
-                            className={"FotoUB Personaje" + index}
+                            className="FotoUB Personaje" 
                             onClick={() => this.showContent(index)}
                             src={process.env.PUBLIC_URL + personaje.Foto}
                             alt="imagen personaje"
