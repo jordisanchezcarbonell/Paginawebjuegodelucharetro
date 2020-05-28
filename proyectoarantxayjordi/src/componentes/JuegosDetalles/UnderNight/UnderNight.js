@@ -12,7 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-import bb from "./orie.png"
+import bb from "./orie.png";
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -24,7 +24,7 @@ class Child extends React.Component {
 
     this.myRef = React.createRef(); // Create a ref object
   }
-  /*
+
   render() {
     return (
       <div
@@ -32,12 +32,8 @@ class Child extends React.Component {
         className="PruebadefondoAtaques"
         key={this.props.elemento.Nombre}
       >
-      
-
         <div className="fondoproba enter">
-          <div className="pro ">
-            <img className="bolaDeDrac" src={BolaDeDrac} alt="Logo"></img>
-          </div>
+          <div className="pro "></div>
 
           <h3 className="TextoPersonajeTituloBD">
             {this.props.elemento.Nombre}
@@ -63,7 +59,7 @@ class Child extends React.Component {
                   className="nomostrarscroll "
                 >
                   <TableBody className="nomostrarscrollBD">
-                    {this.props.elemento.NormalAttacks.map((Ataque, index) => (
+                    {this.props.elemento.SpecialAttack.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
                           className="  py-2 colorFondoAtaquesBD tablaborderabajo "
@@ -109,7 +105,7 @@ class Child extends React.Component {
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
-                    {this.props.elemento.SpecialMoves.map((Ataque, index) => (
+                    {this.props.elemento.SpecialAttack.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesBD  nomostrarscrollBD tablaborderabajo"
@@ -154,7 +150,7 @@ class Child extends React.Component {
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
-                    {this.props.elemento.SuperAttacks.map((Ataque, index) => (
+                    {this.props.elemento.InfiniteWorth.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesBD tablaborderabajo "
@@ -199,39 +195,42 @@ class Child extends React.Component {
 
                 <Table className="nomostrarscroll">
                   <TableBody>
-                    {this.props.elemento.MeteorAttack.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                        <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
-                          component="td"
-                          scope="row"
-                          align="left"
-                        >
-                          {Ataque.nombreAtaque}
-                        </TableCell>
-
-                        {
+                    {this.props.elemento.InfiniteWorthEXS.map(
+                      (Ataque, index) => (
+                        <TableRow key={Ataque.nombreAtaque} className="mx-5">
                           <TableCell
+                            className="  py-2 colorFondoAtaquesBD tablaborderabajo "
                             component="td"
-                            className="  nombreAtaquesBD py-2 tablaborderabajo"
-                            align="right"
+                            scope="row"
+                            align="left"
                           >
-                            {Ataque.Animacion.map(
-                              (animaciondelataque, index) => (
-                                <Image
-                                  key={index}
-                                  className="imgAtaqueBD"
-                                  src={
-                                    process.env.PUBLIC_URL + animaciondelataque
-                                  }
-                                  fluid
-                                />
-                              )
-                            )}
+                            {Ataque.nombreAtaque}
                           </TableCell>
-                        }
-                      </TableRow>
-                    ))}
+
+                          {
+                            <TableCell
+                              component="td"
+                              className="  nombreAtaquesBD py-2 tablaborderabajo"
+                              align="right"
+                            >
+                              {Ataque.Animacion.map(
+                                (animaciondelataque, index) => (
+                                  <Image
+                                    key={index}
+                                    className="imgAtaqueBD"
+                                    src={
+                                      process.env.PUBLIC_URL +
+                                      animaciondelataque
+                                    }
+                                    fluid
+                                  />
+                                )
+                              )}
+                            </TableCell>
+                          }
+                        </TableRow>
+                      )
+                    )}
                   </TableBody>
                 </Table>
               </TableContainer>
@@ -241,7 +240,6 @@ class Child extends React.Component {
       </div>
     );
   }
-  */
 }
 
 class UnderNight extends React.Component {
@@ -401,18 +399,15 @@ class UnderNight extends React.Component {
                         align="center"
                         key={personaje.Nombre}
                       >
-
-                        <div className="w-100 divFOTOUN" >
-                        <h3 className="punto">1p</h3>
+                        <div className="w-100 divFOTOUN">
+                          <h3 className="punto">1p</h3>
 
                           <img
-                            className="FotoUB Personaje" 
+                            className="FotoUB Personaje"
                             onClick={() => this.showContent(index)}
                             src={process.env.PUBLIC_URL + personaje.Foto}
                             alt="imagen personaje"
                           ></img>
-
-                     
                         </div>
 
                         <div>

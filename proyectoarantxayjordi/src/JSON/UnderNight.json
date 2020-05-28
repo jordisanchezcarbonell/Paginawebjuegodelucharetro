@@ -2,169 +2,87 @@
   {
     "Nombre": "Vatista",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/UNDERTODO/Story-enkidu00.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-vat0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "Light",
-        "Animacion": ["imagenes/imagenesataques/Light.png"]
-      },
-      {
-        "nombreAtaque": "Medium",
-        "Animacion": ["imagenes/imagenesataques/Medium.png"]
-      },
-      {
-        "nombreAtaque": "Heavy",
-        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
-      },
-      {
-        "nombreAtaque": "Magic",
-        "Animacion": ["imagenes/imagenesataques/Magic.png"]
-      },
-      {
-        "nombreAtaque": "Launcher",
+        "nombreAtaque": "Lumen Stella (AIRE OK,HOLD)",
         "Animacion": [
-          "imagenes/imagenesataques/Dd_right.png",
-          "imagenes/imagenesataques/Heavy.png",
-          "imagenes/imagenesataques/Dd_right.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "Dush Right",
+        "nombreAtaque": "Luvel Angelus",
         "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Right.png"
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "Dush Left",
+        "nombreAtaque": "Mikoruseo (AIRE OK,HOLD)",
         "Animacion": [
-          "imagenes/imagenesataques/Left.png",
-          "imagenes/imagenesataques/Left.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "Throw Foward",
+        "nombreAtaque": "Si Deus Fragmentum (AIRE OK) ",
         "Animacion": [
-          "imagenes/imagenesataques/Medium.png",
-          "imagenes/imagenesataques/Heavy.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "Throw Backwards",
+        "nombreAtaque": "Satelus Trianglum (AIRE OK) ",
         "Animacion": [
-          "imagenes/imagenesataques/Left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Transvoranse",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Lacteus Orbis",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
 
-          "imagenes/imagenesataques/Medium.png",
-          "imagenes/imagenesataques/Heavy.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "Throw Escape",
+        "nombreAtaque": "Zahhishio While own health below 30%, and EXS200% ",
         "Animacion": [
-          "imagenes/imagenesataques/Medium.png",
-          "imagenes/imagenesataques/Heavy.png"
-        ]
-      },
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
 
-      {
-        "nombreAtaque": "Eat",
-        "Animacion": ["imagenes/imagenesataques/Light.png"]
-      },
-      {
-        "nombreAtaque": "Pushblock",
-        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
-      },
-      {
-        "nombreAtaque": "Cross Counter",
-        "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Attack_2.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Quick Recovery",
-        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
-      },
-      {
-        "nombreAtaque": "Dodge",
-        "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Left.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Roll",
-        "Animacion": [
-          "imagenes/imagenesataques/Dd_left.png",
-          "imagenes/imagenesataques/Down.png",
-          "imagenes/imagenesataques/Dd_right.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC STOMP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC HEADBUCK",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "STOMP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "HEADBUCK",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "ELBOW DROP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "RUN",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "MAGIC DASH",
-        "Animacion": [
-          "imagenes/imagenesataques/HCF.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "COUNTER",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – TRAMPLE",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – REBOUND",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -173,167 +91,79 @@
   {
     "Nombre": "Phonon",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes//UNDERTODO/uniel-hyde.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-pho00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "Light",
-        "Animacion": ["imagenes/imagenesataques/Light.png"]
-      },
-      {
-        "nombreAtaque": "Medium",
-        "Animacion": ["imagenes/imagenesataques/Medium.png"]
-      },
-      {
-        "nombreAtaque": "Heavy",
-        "Animacion": ["imagenes/imagenesataques/Heavy.png"]
-      },
-      {
-        "nombreAtaque": "Magic",
-        "Animacion": ["imagenes/imagenesataques/Magic.png"]
-      },
-      {
-        "nombreAtaque": "Launcher",
+        "nombreAtaque": "Sliding Affliction (Air OK) ",
         "Animacion": [
-          "imagenes/imagenesataques/Dd_right.png",
-          "imagenes/imagenesataques/Heavy.png",
-          "imagenes/imagenesataques/Dd_right.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "Dush Right",
+        "nombreAtaque": "Tuning Satisfaction",
         "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Right.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "Dush Left",
+        "nombreAtaque": "Guidance Ascension",
         "Animacion": [
-          "imagenes/imagenesataques/Left.png",
-          "imagenes/imagenesataques/Left.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "Throw Foward",
+        "nombreAtaque": "Suppressive Restriction(AIRE OK) ",
         "Animacion": [
-          "imagenes/imagenesataques/Medium.png",
-          "imagenes/imagenesataques/Heavy.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "Throw Backwards",
+        "nombreAtaque": "Binding Beatitude",
         "Animacion": [
-          "imagenes/imagenesataques/Left.png",
-          "imagenes/imagenesataques/Medium.png",
-          "imagenes/imagenesataques/Heavy.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "Throw Escape",
+        "nombreAtaque": "Complete Servitude own health below 30%, and EXS200% ",
         "Animacion": [
-          "imagenes/imagenesataques/Medium.png",
-          "imagenes/imagenesataques/Heavy.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Eat",
-        "Animacion": ["imagenes/imagenesataques/Light.png"]
-      },
-      {
-        "nombreAtaque": "Pushblock",
-        "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
-      },
-      {
-        "nombreAtaque": "Cross Counter",
-        "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Attack_2.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Quick Recovery",
-        "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
-      },
-      {
-        "nombreAtaque": "Dodge",
-        "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Left.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Roll",
-        "Animacion": [
-          "imagenes/imagenesataques/Dd_left.png",
-          "imagenes/imagenesataques/Down.png",
-          "imagenes/imagenesataques/Dd_right.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC STOMP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC HEADBUCK",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "STOMP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "HEADBUCK",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "ELBOW DROP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "RUN",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "MAGIC DASH",
-        "Animacion": [
-          "imagenes/imagenesataques/HCF.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "COUNTER",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – TRAMPLE",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – REBOUND",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -342,86 +172,112 @@
   {
     "Nombre": "Hilda",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Hilda.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-hil00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "SLIDE",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "ICICLE MISSILE",
+        "nombreAtaque": "Skewer (Air OK) ",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Atk.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "SHATTER, LOW",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_A.png"
-        ]
-      },
-      {
-        "nombreAtaque": "SHATTER, MID",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "SHATTER, HIGH",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      },
-      {
-        "nombreAtaque": "INSTANT SNOWBALL",
-        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
-      },
-      {
-        "nombreAtaque": "SNOWBALL TOSS",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Interference",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "nombreAtaque": "Condense Gloom",
         "Animacion": [
-          "imagenes/imagenesataques/DPF.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "WIND",
+        "nombreAtaque": "Switch Attack Styles ",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dismal Sign ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "nombreAtaque": "Fallen Pain",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "nombreAtaque": "Revenant Pillar",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Impalement",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "In the Darkness own health below 30%, and EXS200%",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -429,84 +285,70 @@
   {
     "Nombre": "Byakuya",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/byakuya.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-bya00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "SLIDE",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "ICICLE MISSILE",
+        "nombreAtaque": "How Shall I Cook You?",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Atk.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, LOW",
+        "nombreAtaque": "You're Almost Ready to Eat",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_A.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, MID",
+        "nombreAtaque": "I'll Plant It Somewhere Over Here",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_B.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "SHATTER, HIGH",
+        "nombreAtaque": "Become a Part of Me",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_C.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "INSTANT SNOWBALL",
-        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
-      },
-      {
-        "nombreAtaque": "SNOWBALL TOSS",
+        "nombreAtaque": "Endless Nightmare own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC ICE ERUPTION",
-        "Animacion": [
-          "imagenes/imagenesataques/DPF.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "WIND",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – ICE CYCLONE",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – FROSTBITE",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -515,85 +357,104 @@
   {
     "Nombre": "Gordeau",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Gordeau.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-gor0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "DOOM CLAW",
+        "nombreAtaque": "Mortal Slide",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "SMITE",
+        "nombreAtaque": "Grim Reaper",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Button_C.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "SHADOW SPARK",
+        "nombreAtaque": "Assimilation",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Atk.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "CHAPTER TRAP",
+        "nombreAtaque": "Precise Aim",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Atk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "TELEPORT",
+        "nombreAtaque": "Mortal Glide",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Atk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "STUDY",
+        "nombreAtaque": "Precise Aim",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "MAGIC SPARK",
+        "nombreAtaque": "Turbulence",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "MAGIC TRAP",
+        "nombreAtaque": "Soul Exodus own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC TELEPORT",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – SHADOW BLAST",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – HI, FRED!",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -601,89 +462,82 @@
   {
     "Nombre": "Waldstein",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Waldstein.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-wal0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "RUN",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "BACK RUN",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleLeft.png"]
-      },
-      {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Eisen Nagel",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      },
-      {
-        "nombreAtaque": "CARTWHEEL HOLD",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "ZIPPY TELEPORT",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-          "imagenes/imagenesataques/Atk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "KISS!",
+        "nombreAtaque": "Wirbelwind",
         "Animacion": [
-          "imagenes/imagenesataques/DPF.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "GIFT, RANDOM",
-        "Animacion": ["imagenes/imagenesataques/Button_D.png"]
-      },
-      {
-        "nombreAtaque": "GIFT, FLOWER POT",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "GIFT, EDIBLE",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "KISS!",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – SMOTHER",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png",
-          "imagenes/imagenesataques/QCB.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
 
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "LVL 2 – PICNIC BASKET",
+        "nombreAtaque": "Verderben",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sturmangriff(HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Werfen Erschlagen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Katastrophe own health below 30%, and EXS200%",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -691,135 +545,95 @@
   {
     "Nombre": "Hyde",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Hyde.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-hyd0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "SHEEP HERDING",
+        "nombreAtaque": "Black Orbiter",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/Button_B.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "BARK!",
+        "nombreAtaque": "Red-Clad Craver",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DIGGING PUP",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DIGGING PUP, FOLLOWING",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_A.png"
-        ]
-      },
-      {
-        "nombreAtaque": "GROWLY PUP",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "PILOT PUP",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "BIG MOMMA",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png"
-        ]
-      },
-      {
-        "nombreAtaque": "RALLY",
-        "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Button_D.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
 
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG MOVEMENT",
-        "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
 
-          "imagenes/imagenesataques/Directions_Left.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vacant Shift - First",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
 
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "DISMISS DOG",
+        "nombreAtaque": "Shadow Scare",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Atk.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "DOG ATTACKS  1 attack",
+        "nombreAtaque": "Dark Lotus",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "DOG ATTACKS  2 attack",
+        "nombreAtaque": "Pale Bringer",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "DOG ATTACKS  3 attack",
+        "nombreAtaque": "Raging Roarown health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – STAMPEDE!",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – PICNIC BASKET",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -828,131 +642,104 @@
   {
     "Nombre": "Wagner",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/wagner.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-wag00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "SHEEP HERDING",
+        "nombreAtaque": "Kugel Blitz",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/Button_B.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "BARK!",
+        "nombreAtaque": "Wackenroder",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_C.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "DIGGING PUP",
+        "nombreAtaque": "Sturm Brecher",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "nombreAtaque": "Lohen Schneide",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_A.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png"
         ]
       },
       {
-        "nombreAtaque": "GROWLY PUP",
+        "nombreAtaque": "Lohe Garde",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/B.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "PILOT PUP",
+        "nombreAtaque": "Sturm Schlag",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/Button_B.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "BIG MOMMA",
+        "nombreAtaque": "Hitze Falke",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "RALLY",
+        "nombreAtaque": "Meggido L'or Celeste Grace health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG MOVEMENT",
-        "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DISMISS DOG",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Atk.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  1 attack",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  2 attack",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  3 attack",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – STAMPEDE!",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – PICNIC BASKET",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -961,77 +748,80 @@
   {
     "Nombre": "Orie",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Orie.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-ori00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Divine Thrust",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "VOLCANIC BASH",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "VOLCANIC CRASH",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FLIGHT",
-        "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FIRECRACKER ATTACK",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Sacred Arrow",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
 
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "To Me!",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Sealing Hoplon",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png"
+        ]
+      }
+    ],
+    "InfiniteWorth": [
+      {
+        "nombreAtaque": "Luminous Embrace",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Rest in Peace own health below 30%, and EXS200%",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1039,75 +829,114 @@
   {
     "Nombre": "Eltnum",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/eltnum.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-elt00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Hollow Point",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Warning Shot",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Reload",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Etherlite Air",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Etherlite Ground",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Air Slide",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Slash Sync",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Barrel Replica",
         "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
+        ]
+      }
+    ],
+    "InfiniteWorthEXS": [
+      {
+        "nombreAtaque": "Tri Hermes Blackland own health below 30%, and EXS200%",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1115,75 +944,94 @@
   {
     "Nombre": "Merkava",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Merkava.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-mer0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "I, Drill Through",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "I, Penetrate the Clear Skies",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "I, Capture and Devour",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "I, Breathe Out",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "I, Persistently Cling",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "I, Resentfully Rage",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "I, Defile own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1192,75 +1040,92 @@
   {
     "Nombre": "Chaos",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/chaos.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-cha00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Slither Up(HOLD) (Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "That's Your Prey (Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Spew Out(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Repel(Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Conceal(Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Dissect Barrage",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Deep Revenance own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1269,75 +1134,100 @@
   {
     "Nombre": "Seth",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Seth.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-se0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Captive Segment (Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Dual Piercing Vengeance",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Vanishing Confusion",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Piercing Penetration",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Transgressing Convict",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Nefarious Sequence",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Distant Frontier own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1346,75 +1236,97 @@
   {
     "Nombre": "Nanase",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/nanase.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-nan00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Chasing le Reve",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Ange's Invitation",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Plumage Dancing in the Wind",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Let the Fleur Carry Your Feelings",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Conveying My Vrai Coeur",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Atmosphere of the Aether",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Lumiere of the Dawn own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1423,75 +1335,70 @@
   {
     "Nombre": "Akatsuki",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/akatsuki.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-aka00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Blitz Shot (Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Armor Pierce Kick (Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Conveying My Vrai Coeur",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Kamikaze",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Ouka-Kai own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FIRECRACKER FLIP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1500,75 +1407,83 @@
   {
     "Nombre": "Carmine",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Carmine.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-car0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Spin! (Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Pulverize!(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Thrust!(Air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Launch!",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Hahahahaha! Be Devoured!",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "You Shit! This is the END! own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FIRECRACKER ATTACK",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FIRECRACKER FLIP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1576,75 +1491,74 @@
   {
     "Nombre": "Yuzuriha",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Yuzuriha.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-yu0.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Battoujutsu Ni no Kata: Saki(Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Sougetsu Ittou-ryu et cetera! Yae Ichirin(Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Over Here!(Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Sougetsu Ittou-Ryu Ougi: Kashou",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Zero no Kata Hi-ougi: Inochi Kurenai own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FIRECRACKER FLIP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1652,75 +1566,87 @@
   {
     "Nombre": "Mika",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/Mika.jpg",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-mika00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Mika's Missile(Air OK)",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Mika's Cannon",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Mika's Tornado",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
+
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Mika's Galaxy",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Mika's Revolution",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Mika's Galaxy own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1728,75 +1654,111 @@
   {
     "Nombre": "Linne",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/linne.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-lnd00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Sky Fangs",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Moon Gyre ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Tenacious Mist",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Sky Fangs",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Tenacious Mist",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Dragon Fang",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Mika's Revolution",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Mika's Galaxy own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
@@ -1804,75 +1766,94 @@
   {
     "Nombre": "Enkidu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesUnderNight/enkidu.png",
-    "Ataques": [
+    "Foto": "imagenes/UNDERRECORTADO/Story-enkidu00.png",
+    "SpecialAttack": [
       {
-        "nombreAtaque": "AIR DASH",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
-      {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Three Precept Strike",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_A.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Chained Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Stance of Reversal",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Gale Edge",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_B.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Thunder Stomp",
         "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Button_C.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/C.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorth": [
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Spiral Dual Palm Strike",
         "Animacion": [
-          "imagenes/imagenesataques/Button_D.png",
-          "imagenes/imagenesataques/AIROK.png"
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/downleft.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
-      },
+      }
+    ],
+    "InfiniteWorthEXS": [
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Demon Seal: Abyssal Force own health below 30%, and EXS200%",
         "Animacion": [
-          "imagenes/imagenesataques/Directions_Down.png",
-          "imagenes/imagenesataques/Directions_DownRight.png",
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Directions_UpRight.png",
-          "imagenes/imagenesataques/Directions_Up.png",
-          "imagenes/imagenesataques/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "FIRECRACKER FLIP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DownLeft.png",
-          "imagenes/imagenesataques/Directions_Left.png",
-          "imagenes/imagenesataques/Directions_UpLeft.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/imagenesataques/QCB.png",
-          "imagenes/imagenesataques/DoubleAtk.png"
+          "imagenes/ImagenesAtaqueUN/A.png",
+          "imagenes/ImagenesAtaqueUN/B.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/C.png",
+          "imagenes/ImagenesAtaqueUN/D.png"
         ]
       }
     ]
