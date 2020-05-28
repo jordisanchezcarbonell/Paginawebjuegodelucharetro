@@ -11,9 +11,9 @@
 
     background-repeat: repeat-x;
 }
-.paralelogramo {
-    width: 150px; 
-    height: 100px; 
+.divFOTOUN {
+    width: 8vw!important; 
+    height: 10vw; 
     border: 3px solid #555; 
     background: #428bca;
     -webkit-transform: skew(20deg);
@@ -21,4 +21,35 @@
     -ms-transform: skew(20deg);
     -o-transform: skew(20deg);
     transform: skew(20deg);
+}
+.FotoUB{
+    width: 8vw!important; 
+
+    height: 10vw; 
+
+
+}
+
+.divFOTOUN1{
+
+    width: 8vw!important; 
+    height: 10vw; 
+    border: 3px solid #555; 
+    background: #428bca;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -ms-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    transform: skew(-10deg);
+
+
+}
+
+.FotoUB1{
+
+    width: 8vw!important; 
+
+    height: 10vw; 
+
+
 }

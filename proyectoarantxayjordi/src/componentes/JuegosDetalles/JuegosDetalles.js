@@ -29,7 +29,7 @@ import KillerInstinct from "./KillerInstinc/KillerInstinc";
 import MortalKombat from "./MortalKombat/MortalKombat";
 import GbFantasy from "./GrandBLUE/GranBlue";
 import DB from "./DragonBall/Dragonball";
-import UnderNightJuego from "./DragonBall/Dragonball";
+import UnderNightJuego from "./UnderNight/UnderNight";
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {

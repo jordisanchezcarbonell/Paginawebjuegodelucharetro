@@ -394,7 +394,7 @@ class UnderNight extends React.Component {
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
-              
+              if (index < 1) {
                       return (
                         <div
                           className="CentrodoUN "
@@ -409,6 +409,9 @@ class UnderNight extends React.Component {
                               alt="imagen personaje"
                             ></img>
                           </div>
+
+
+                          
                           <div>
                             <div>
                               {this.state.isItemContentVisible[index] &&
@@ -419,9 +422,54 @@ class UnderNight extends React.Component {
                           </div>
                         </div>
                       );
-                    
+                              }
                   })}
                 </div>
+
+
+
+
+                <div
+                  className="nav nav-tabs col-md-6  borderBotUN "
+                  role="tablist"
+                >
+                  {this.props.Juego.map((personaje, index) => {
+              if (index ==1) {
+                      return (
+                        <div
+                          className="CentrodoUN "
+                          align="center"
+                          key={personaje.Nombre}
+                        >
+                          <div className="divFOTOUN1 w-100">
+                            <img
+                              className="FotoUB1"
+                              onClick={() => this.showContent(index)}
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt="imagen personaje"
+                            ></img>
+                          </div>
+
+
+                          
+                          <div>
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
+
+                              <div></div>
+                            </div>
+                          </div>
+                        </div>
+                      );
+                              }
+                  })}
+                </div>
+
+
+
+
+
 
              
               </Row>
