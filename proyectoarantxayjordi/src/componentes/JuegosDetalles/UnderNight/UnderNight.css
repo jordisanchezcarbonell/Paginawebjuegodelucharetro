@@ -11,30 +11,33 @@
 
     background-repeat: repeat-x;
 }
+
 .divFOTOUN {
-    width: 8vw!important; 
-    height: 10vw; 
-    border: 3px solid #555; 
-    background: #428bca;
+    width: 8vw !important;
+    height: 10vw;
+    border: 3px solid #555;
+    background: #bec3c7;
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -ms-transform: skew(20deg);
     -o-transform: skew(20deg);
     transform: skew(20deg);
 }
-.FotoUB{
-    width: 8vw!important; 
 
-    height: 10vw; 
+.FotoUB {
+    width: 8vw !important;
+
+    height: 10vw;
 
 
 }
 
-.divFOTOUN1{
 
-    width: 8vw!important; 
-    height: 10vw; 
-    border: 3px solid #555; 
+.divFOTOUN1 {
+
+    width: 8vw !important;
+    height: 10vw;
+    border: 3px solid #555;
     background: #428bca;
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
@@ -45,11 +48,21 @@
 
 }
 
-.FotoUB1{
+.FotoUB1 {
 
-    width: 8vw!important; 
+    width: 8vw !important;
 
-    height: 10vw; 
+    height: 10vw;
 
 
+}
+
+.Personaje0 {
+    background: #428bca !important;
+}
+
+
+
+.Personaje1 {
+    background: rgb(230, 45, 45) !important;
 }
