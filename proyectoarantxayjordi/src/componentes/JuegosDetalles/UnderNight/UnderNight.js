@@ -391,7 +391,7 @@ class UnderNight extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-11  borderBotUN  mx-auto"
+                  className="nav nav-tabs col-md-9  borderBotUN   mx-auto"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
