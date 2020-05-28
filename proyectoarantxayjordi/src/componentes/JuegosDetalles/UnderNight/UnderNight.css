@@ -10,7 +10,23 @@
     width: 100% !important;
 
     background-repeat: repeat-x;
+
 }
+
+.DivBDFONDOIMAGEN {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(https://cdn.hipwallpaper.com/m/24/25/QpOhy4.jpg),
+    linear-gradient(#6e859c, #c0ccd8);}
 
 .divFOTOUN {
     width: 8vw !important;

@@ -336,7 +336,7 @@ class UnderNight extends React.Component {
     };
 
     return (
-      <div>
+      <div className="DivBDFONDOIMAGEN">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
