@@ -62,7 +62,7 @@ class Child extends React.Component {
                     {this.props.elemento.SpecialAttack.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesUN tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -108,7 +108,7 @@ class Child extends React.Component {
                     {this.props.elemento.SpecialAttack.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD  nomostrarscrollBD tablaborderabajo"
+                          className="  py-2 colorFondoAtaquesUN  nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -153,7 +153,7 @@ class Child extends React.Component {
                     {this.props.elemento.InfiniteWorth.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesUN tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"
@@ -199,7 +199,7 @@ class Child extends React.Component {
                       (Ataque, index) => (
                         <TableRow key={Ataque.nombreAtaque} className="mx-5">
                           <TableCell
-                            className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                            className="  py-2 colorFondoAtaquesUN tablaborderabajo "
                             component="td"
                             scope="row"
                             align="left"
