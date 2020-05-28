@@ -401,13 +401,18 @@ class UnderNight extends React.Component {
                         align="center"
                         key={personaje.Nombre}
                       >
+
                         <div className="w-100 divFOTOUN" >
+                        <h3 className="punto">1p</h3>
+
                           <img
                             className="FotoUB Personaje" 
                             onClick={() => this.showContent(index)}
                             src={process.env.PUBLIC_URL + personaje.Foto}
                             alt="imagen personaje"
                           ></img>
+
+                     
                         </div>
 
                         <div>
