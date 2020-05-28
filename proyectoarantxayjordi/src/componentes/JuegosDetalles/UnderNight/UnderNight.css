@@ -87,5 +87,7 @@
 
 
 .Personaje1 {
+    transform: skew(0deg,40deg);
+
     background: rgb(230, 45, 45) !important;
 }
