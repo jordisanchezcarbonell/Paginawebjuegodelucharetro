@@ -400,7 +400,7 @@ class UnderNight extends React.Component {
                         align="center"
                         key={personaje.Nombre}
                       >
-                        <div className="divFOTOUN w-100">
+                        <div className={"w-100 divFOTOUN" + index}>
                           <img
                             className={"FotoUB Personaje" + index}
                             onClick={() => this.showContent(index)}

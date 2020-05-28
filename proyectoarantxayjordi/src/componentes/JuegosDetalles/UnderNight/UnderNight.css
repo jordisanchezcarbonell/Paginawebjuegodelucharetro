@@ -43,37 +43,37 @@
     -moz-transform: skew(20deg);
     -ms-transform: skew(20deg);
     -o-transform: skew(20deg);
-    transform: skew(20deg, -20deg);
-
+    transform: skew(0deg, 40deg);
 
 }
 
 
-@supports(object-fit: cover){
-    .divFOTOUN1 .FotoUB1{
+@supports(object-fit: cover) {
+    .divFOTOUN1 .FotoUB1 {
         width: auto;
-      height: 30vw;
-      object-fit: cover;
+        height: 30vw;
+        object-fit: cover;
 
     }
 }
+
 /*     
       object-fit: cover;
       object-fit: none;
       object-fit: scale-down; */
 
 
-      .narrow {
-        width: 100px;
-        height: 150px;
-        margin-top: 10px;
-      }
+.narrow {
+    width: 100px;
+    height: 150px;
+    margin-top: 10px;
+}
 
 
 
 
-      
-.FotoUB1{
+
+.FotoUB1 {
 
     height: 10vw;
 
@@ -87,7 +87,7 @@
 
 
 .Personaje1 {
-    transform: skew(0deg,40deg);
+    /* transform: skew(0deg, 40deg);*/
 
     background: rgb(230, 45, 45) !important;
 }
