@@ -443,7 +443,7 @@ class UnderNight extends React.Component {
                         >
                           <div className="divFOTOUN1 w-100">
                             <img
-                              className="FotoUB1"
+                              className="FotoUB1 narrow"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen personaje"
