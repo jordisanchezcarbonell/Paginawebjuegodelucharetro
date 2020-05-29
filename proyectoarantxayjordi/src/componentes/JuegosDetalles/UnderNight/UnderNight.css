@@ -53,8 +53,79 @@
     -o-transform: skew(20deg);
     transform: skew(20deg);
 }
+.TituloAtaquesUN{
+    border: 2px white solid;
+background-color: #4359bf;
+}
 
+.TituloAtaquesUN2{
+border: 2px white solid;
+background-color: #28ba4a;
+}
+.TituloAtaquesUN3{
+    border: 2px white solid;
+    background-color: #e6005a;
+    }
+    .TituloAtaquesUN4{
+        border: 2px white solid;
+        background-color: #a00016;
+        }
+        
+    
+
+
+.celdaimgAtaqUN{
+background-color: white;
+border: 2px white solid;
+margin :3px!important;
+-webkit-box-shadow: inset 0 0 0 2px #bfcaff;
+    -moz-box-shadow: inset 0 0 0 2px #bfcaff;
+    box-shadow: inset 0 0 0 2px #bfcaff;
+}
+
+.celdaimgAtaqUN2{
+    background-color: white;
+    border: 2px white solid;
+    margin :3px!important;
+    -webkit-box-shadow: inset 0 0 0 2px #d4e0e2;
+        -moz-box-shadow: inset 0 0 0 2px #d4e0e2;
+        box-shadow: inset 0 0 0 2px #d4e0e2;
+    }
+
+        .celdaimgAtaqUN4{
+            background-color: white;
+            border: 2px white solid;
+            margin :3px!important;
+            -webkit-box-shadow: inset 0 0 0 2px #ffe7f0;
+                -moz-box-shadow: inset 0 0 0 2px #ffe7f0;
+                box-shadow: inset 0 0 0 2px #ffe7f0;
+            }
+
+
+.NombreAtaquesUN{
+background-color: #bfcaff;
+border: 2px white solid;
+
+}
+
+.NombreAtaquesUN2{
+    background-color: #d4e0e2;
+    border: 2px white solid;
+    }
+    
+
+    
+.NombreAtaquesUN4{
+    background-color: #ffe7f0;
+    border: 2px white solid;
+    }
+.imgAtaqueUN{
+
+
+
+}
 .FotoUB {
+    
     width: 8vw !important;
 
     height: 9.5vw !important;
