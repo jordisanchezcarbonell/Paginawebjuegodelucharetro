@@ -13,6 +13,13 @@
 
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px !important;
+    margin-left: -15px;
+}
+
 .colorFondoAtaquesUN {
     margin-left: 0 !important;
     padding-left: 0 !important;
@@ -148,7 +155,27 @@
     border: 2px white solid;
 }
 
+.borderdeltexto {
+    border-top: solid blue;
+    border-bottom: solid blue;
+    border-top-width: 0.4em;
+    display: table-cell;
+}
+
+.TextoTituloUNFPRN {
+    display: table-cell;
+    color: white !important;
+    font-family: "purbaanabel" !important;
+
+    margin-top: 3vw !important;
+    ;
+    margin-left: -3vw !important;
+
+}
+
 .TextoTituloUN {
+
+
     color: white !important;
     font-family: "purbaanabel" !important;
 

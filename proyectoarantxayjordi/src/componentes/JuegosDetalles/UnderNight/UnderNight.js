@@ -347,16 +347,20 @@ class UnderNight extends React.Component {
         <div>
           <Row>
             <Col md="3" className="">
-              <h6> {this.props.detalles[0]}</h6>
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
                 className=""
-                height="110vw"
+                height="180vw"
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-              <h1 className="TextoTituloUN">{this.props.detalles.Nombre} </h1>
+              <img
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
+                alt=""
+                className=""
+                height="180vw"
+              ></img>
             </Col>
 
             <Col md="5" style={style}></Col>
