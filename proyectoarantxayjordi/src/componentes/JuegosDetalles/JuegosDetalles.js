@@ -30,6 +30,7 @@ import MortalKombat from "./MortalKombat/MortalKombat";
 import GbFantasy from "./GrandBLUE/GranBlue";
 import DB from "./DragonBall/Dragonball";
 import UnderNightJuego from "./UnderNight/UnderNight";
+import SoulCaliburVI from "./Soulcalibur/Soulcalibur";
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
@@ -379,7 +380,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[8].Nombre) {
       return this.streetfighter(detalles, SSBU);
     } else if (detalles.Nombre === prueba[9].Nombre) {
-      return this.streetfighter(detalles, SoulCalibur);
+      return <SoulCaliburVI detalles={detalles} Juego={SoulCalibur} />;
     } else if (detalles.Nombre === prueba[11].Nombre) {
       return <GbFantasy detalles={detalles} Juego={Granblue} />;
     } else if (detalles.Nombre === prueba[12].Nombre) {
