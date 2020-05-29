@@ -12,7 +12,6 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-import BolaDeDrac from "./bolaDragon.png";
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -36,9 +35,7 @@ class Child extends React.Component {
           </img> */}
 
         <div className="fondoproba enter">
-          <div className="pro ">
-            <img className="bolaDeDrac" src={BolaDeDrac} alt="Logo"></img>
-          </div>
+         
 
           <h3 className="TextoPersonajeTituloBD">
             {this.props.elemento.Nombre}
@@ -394,7 +391,7 @@ class StreetFighter5 extends React.Component {
                   className="nav nav-tabs col-md-6  borderBotBD "
                   role="tablist"
                 >
-                  {this.props.Juego.map((personaje, index) => {
+                 {this.props.Juego.map((personaje, index) => {
                     if (index <= 19) {
                       return (
                         <div
@@ -403,13 +400,17 @@ class StreetFighter5 extends React.Component {
                           key={personaje.Nombre}
                         >
                           <div className="DIVFOTO w-100">
+                            <div className="fotoPruebaa">
                             <img
-                              className="FotoBD"
+                              className="FotoSF"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen personaje"
                             ></img>
-                          </div>
+                            </div>
+ <div className="DivNombrePJ">
+                             <h3 className="NombrePesonaje1">{personaje.Nombre}</h3>
+                             </div>                          </div>
                           <div>
                             <div>
                               {this.state.isItemContentVisible[index] &&
@@ -421,7 +422,7 @@ class StreetFighter5 extends React.Component {
                         </div>
                       );
                     }
-                  })}
+                  })} 
                 </div>
 
                 <div
@@ -443,6 +444,9 @@ class StreetFighter5 extends React.Component {
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen logo2"
                             ></img>
+                            <div className="DivNombrePJ">
+                             <h3 className="NombrePesonaje1">{personaje.Nombre}</h3>
+                             </div>
                           </div>
                           <div>
                             <div>
@@ -455,7 +459,7 @@ class StreetFighter5 extends React.Component {
                         </div>
                       );
                     }
-                  })}
+                  })} 
                 </div>
               </Row>
             </Container>

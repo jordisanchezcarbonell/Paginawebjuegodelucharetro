@@ -220,11 +220,11 @@
 }
 
 .FotoBD2 {
-    width: 90px !important;
-    min-width: 90px !important;
-    height: 90px !important;
-    border-radius: 25px 0 !important;
-
+     width: 90px !important;
+    min-width: 5vw !important;
+    height: 10vw !important;
+    border-radius: 0 !important;
+border: 2px white solid;
     margin: 4px;
 
     transform: skewX(-15deg);
@@ -236,12 +236,12 @@
     overflow: hidden !important;
 }
 
-.FotoBD {
+.FotoSF {
     width: 90px !important;
-    min-width: 90px !important;
-    height: 90px !important;
-    border-radius: 0 25px !important;
-
+    min-width: 5vw !important;
+    height: 10vw !important;
+    border-radius: 0 !important;
+border: 2px white solid;
     margin: 4px;
     transform: skewX(15deg);
 
@@ -256,11 +256,45 @@
 }
 
 
+.DIVFOTO{
+    position: relative;
+
+}
+.fotoPruebaa:hover{
+    filter:brightness(0.6)!important;  
 
 
+}
 .DIVFOTO:hover {
+    z-index: 1!important;
+    filter:brightness(0.6)!important;  
 
-
+   
+      transform: scale(1.15) !important;
+      /*transition: all 1s;*/
+     
+}
+.NombrePesonaje1{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
     transform: scale(1.15) !important;
+    font-size: 1.1vw!important;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: 2!important;
 
+}
+
+.DivNombrePJ{
+
+    display: none;
+
+}
+
+
+.DIVFOTO:hover > .DivNombrePJ{
+  display: block;
+  z-index: 2!important;
 }

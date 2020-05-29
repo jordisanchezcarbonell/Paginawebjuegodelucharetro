@@ -1,1 +1,1 @@
-export { default } from "./Dragonball";
+export { default } from "./StreetFighter5";
