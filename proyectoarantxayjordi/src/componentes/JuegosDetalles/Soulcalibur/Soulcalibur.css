@@ -20,8 +20,8 @@
 
 
 
-.DivGranBlue {
-    color: black;
+.DivSoulcal {
+    /* color: black;
     text-align: center;
     position: relative;
     -webkit-background-size: cover;
@@ -29,10 +29,27 @@
     -o-background-size: cover;
     background-size: cover;
 
-    width: 100% !important;
 
-    background-repeat: repeat-x;
-    background-image: url(http://www.granbluefantasyvs.com/characters/images/charabg.png), linear-gradient(#6e859c, #c0ccd8);
+
+    background-image: url(./fondo.png);*/
+    /*background: url(./bg_deco_contents.png) top center repeat-x;
+    background: url(./bg_deco_contents.png) bottom center repeat-x rgba(0, 0, 0, 0.7);
+    */
+    background: url(./fondo.png) top center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    min-width: 1160px;
+    overflow: hidden;
+}
+
+
+
+.imagenestamaño {
+    width: 200px !important;
+    height: 500px !important;
 
 }
 
@@ -66,6 +83,16 @@
 }
 
 /*.characterMks::-webkit-scrollbar { display: none; }*/
+.colortexto {
+    color: #e4c69c !important;
+}
+
+.ContainerSeparacionSOUL {
+    text-align: center;
+    background-color: rgba(228, 198, 156, 0.466);
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
 
 .unskew {
     height: 200px !important;
