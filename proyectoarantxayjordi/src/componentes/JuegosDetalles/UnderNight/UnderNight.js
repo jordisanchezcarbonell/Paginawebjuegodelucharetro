@@ -29,7 +29,7 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaquesUN"
+        className=""
         key={this.props.elemento.Nombre}
       >
         <div className="NombrePersonajeUN my-4  ">
@@ -38,7 +38,7 @@ class Child extends React.Component {
             {this.props.elemento.Nombre}
           </h3>
         </div>
-        <Container className=" ">
+        <Container className="PruebadefondoAtaquesUN">
           <Row className="w-100  px-0 mx-0 ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD mt-5 ">
