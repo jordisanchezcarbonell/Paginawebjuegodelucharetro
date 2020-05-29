@@ -61,22 +61,29 @@
 
 }
 .TituloAtaquesUN{
-    font-family:" tipoUnder";
+    font-family:" tipoUnder"!important;
     border: 2px white solid;
+    color: white!important;
 background-color: #4359bf;
 }
 
 .TituloAtaquesUN2{
 border: 2px white solid;
+color: white!important;
+
 background-color: #28ba4a;
 }
 .TituloAtaquesUN3{
     border: 2px white solid;
     background-color: #e6005a;
+    color: white!important;
+
     }
     .TituloAtaquesUN4{
         border: 2px white solid;
         background-color: #a00016;
+        color: white!important;
+
         }
         
 
@@ -135,7 +142,7 @@ border: 2px white solid;
 }
 .FotoUB {
     
-    width: 8vw !important;
+    width: 9vw !important;
 
     height: 9.5vw !important;
     height: auto;
