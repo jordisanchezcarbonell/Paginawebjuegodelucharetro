@@ -42,7 +42,7 @@ class Child extends React.Component {
           <Row className="w-100  px-0 mx-0 ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD mt-5 ">
-                <h3 className="TituloAtaquesUN2  py-2 my-0 mb-2 ">
+                <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
                   Special Attack
                   {/* <hr className="pruebalinea" />   my-0 */}
                 </h3>
@@ -367,10 +367,10 @@ class UnderNight extends React.Component {
           </Row>
         </div>
 
-        <div className="DivBDFONDOUN">
-          <div className="w-100 mt-4">
+        <div className="DivBDFONDOUN ">
+          <div className="w-100 mt-4 ">
             <Container className="w-100  ">
-              <h3 className="TextoTituloUN">Character Select</h3>
+              <h3 className="TextoTituloUN mx-auto">Character Select</h3>
               <Row className=" w-100 stage ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
@@ -378,7 +378,7 @@ class UnderNight extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav  col-md-11  borderBotUN   mx-auto"
+                  className="nav  col-md-11  borderBotUN mb-4  mx-auto"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {

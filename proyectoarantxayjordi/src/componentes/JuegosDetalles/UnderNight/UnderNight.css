@@ -62,13 +62,13 @@
     transform: skew(20deg);
 }
 
-/*
+
 @font-face {
     font-family: "tipoUnder" !important;
     src: url(ms-pgothic.ttf) !important;
 
 }
-*/
+
 @font-face {
     font-family: "purbaanabel" !important;
     src: url(annabel\ 1.ttf) !important;
@@ -145,6 +145,8 @@
 }
 
 .NombreAtaquesUN2 {
+    font-family: "tipoUnder" !important;
+
     background-color: #d4e0e2;
     border: 2px white solid;
 }
@@ -152,6 +154,8 @@
 
 
 .NombreAtaquesUN4 {
+    font-family: "purbaanabel" !important;
+
     background-color: #ffe7f0;
     border: 2px white solid;
 }
@@ -175,7 +179,10 @@
 }
 
 .TextoTituloUN {
-
+    width: 50%;
+    text-align: center;
+border-top:1px white solid;
+border-bottom:1px white solid;
     text-transform: uppercase;
 
     color: white !important;
@@ -236,8 +243,7 @@
     font-size: 3vw;
     /*  font-family: arial, sans-serif;*/
     /*font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;*/
-    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
     color: white;
     position: absolute;
@@ -248,7 +254,7 @@
 
 
 .divFOTOUN:hover {
-    width: 9vw !important;
+    width: 9.5vw !important;
     height: 9.5vw;
     border: 3px solid white;
     background: #bec3c7;
@@ -262,10 +268,7 @@
 }
 
 
-.divFOTOUN:hover>.punto {
-    display: block;
-    font-size: 3vw;
-}
+
 
 .puebaNombre{
     display: none;
