@@ -395,6 +395,8 @@ class UnderNight extends React.Component {
                             src={process.env.PUBLIC_URL + personaje.Foto}
                             alt="imagen personaje"
                           ></img>
+
+                    <h3 className="puebaNombre">{personaje.Nombre}</h3>
                         </div>
 
                         <div>
