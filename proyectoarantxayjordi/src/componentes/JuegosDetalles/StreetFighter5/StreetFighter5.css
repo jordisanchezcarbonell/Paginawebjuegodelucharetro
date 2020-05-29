@@ -161,11 +161,12 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );
 
     width: 100% !important;
 
     background-repeat: repeat-x;
-    background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);
+   /* background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);*/
 }
 
 .PruebadefondoAtaques {
