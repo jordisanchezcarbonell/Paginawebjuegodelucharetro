@@ -161,13 +161,27 @@
 
     width: 9vw !important;
 
-    height: 9.5vw !important;
+    height: 9vw !important;
     height: auto;
     max-height: 250px;
     width: auto;
     max-width: 250px;
 
 }
+
+
+.divFOTOUN {
+    width: 9vw !important;
+    height: 9.5vw;
+    border: 3px solid black;
+    background: none;
+    -webkit-transform: skew(20deg);
+    -moz-transform: skew(20deg);
+    -ms-transform: skew(20deg);
+    -o-transform: skew(20deg);
+    transform: skew(15deg);
+}
+
 
 .fotoNombrePJUN {
 
@@ -203,15 +217,15 @@
 
 
 .divFOTOUN:hover {
-    width: 8vw !important;
-    height: 10vw;
+    width: 9vw !important;
+    height: 9.5vw;
     border: 3px solid white;
     background: #bec3c7;
     -webkit-transform: skew(20deg);
     -moz-transform: skew(20deg);
     -ms-transform: skew(20deg);
     -o-transform: skew(20deg);
-    transform: skew(20deg);
+    transform: skew(15deg);
 
 
 }
