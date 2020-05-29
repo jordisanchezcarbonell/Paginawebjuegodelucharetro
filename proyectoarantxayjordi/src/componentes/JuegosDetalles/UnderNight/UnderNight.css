@@ -179,9 +179,11 @@
 
     color: white !important;
     font-family: "purbaanabel" !important;
+font-size: 3.5vw;
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
 
-    margin-top: 3vw;
-    margin-left: -3vw !important;
+    margin-left: -2vw !important;
 
 }
 

@@ -195,7 +195,7 @@ class Child extends React.Component {
                           {
                             <TableCell
                               component="td"
-                              className="  celdaimgAtaqUN py-2 tablaborderabajo"
+                              className="  celdaimgAtaqUN4 py-2 tablaborderabajo"
                               align="right"
                             >
                               {Ataque.Animacion.map(
