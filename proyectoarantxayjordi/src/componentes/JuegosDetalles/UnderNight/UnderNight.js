@@ -355,8 +355,8 @@ class UnderNight extends React.Component {
                 height="110vw"
               ></img>
             </Col>
-            <Col md="4" className="">
-              <h1 className="">{this.props.detalles.Nombre} </h1>
+            <Col md="4" className="fondo2">
+              <h1 className="TextoTituloUN">{this.props.detalles.Nombre} </h1>
             </Col>
 
             <Col md="5" style={style}></Col>
@@ -366,7 +366,7 @@ class UnderNight extends React.Component {
         <div className="DivBDFONDOUN">
           <div className="w-100 mt-4">
             <Container className="w-100  ">
-              <h3>Character Select</h3>
+              <h3 className="TextoTituloUN">Character Select</h3>
               <Row className=" w-100 stage ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}

@@ -54,94 +54,111 @@
     transform: skew(20deg);
 }
 
-
+/*
 @font-face {
-    font-family: "tipoUnder"!important;
-    src: url(ms-pgothic.ttf)!important;
+    font-family: "tipoUnder" !important;
+    src: url(ms-pgothic.ttf) !important;
 
 }
-.TituloAtaquesUN{
-    font-family:" tipoUnder"!important;
+*/
+@font-face {
+    font-family: "purbaanabel" !important;
+    src: url(annabel\ 1.ttf) !important;
+
+}
+
+.TituloAtaquesUN {
+    font-family: " tipoUnder" !important;
     border: 2px white solid;
-    color: white!important;
-background-color: #4359bf;
+    color: white !important;
+    background-color: #4359bf;
 }
 
-.TituloAtaquesUN2{
-border: 2px white solid;
-color: white!important;
+.TituloAtaquesUN2 {
+    border: 2px white solid;
+    color: white !important;
+    font-family: "purbaanabel" !important;
 
-background-color: #28ba4a;
+    background-color: #28ba4a;
 }
-.TituloAtaquesUN3{
+
+.TituloAtaquesUN3 {
     border: 2px white solid;
     background-color: #e6005a;
-    color: white!important;
+    color: white !important;
+    font-family: "purbaanabel" !important;
 
-    }
-    .TituloAtaquesUN4{
-        border: 2px white solid;
-        background-color: #a00016;
-        color: white!important;
+}
 
-        }
-        
+.TituloAtaquesUN4 {
+    border: 2px white solid;
+    background-color: #a00016;
+    color: white !important;
+    font-family: "purbaanabel" !important;
 
-.celdaimgAtaqUN{
-background-color: white;
-border: 2px white solid;
-margin :3px!important;
--webkit-box-shadow: inset 0 0 0 2px #bfcaff;
+}
+
+
+.celdaimgAtaqUN {
+    background-color: white;
+    border: 2px white solid;
+    margin: 3px !important;
+    -webkit-box-shadow: inset 0 0 0 2px #bfcaff;
     -moz-box-shadow: inset 0 0 0 2px #bfcaff;
     box-shadow: inset 0 0 0 2px #bfcaff;
 }
 
-.celdaimgAtaqUN2{
+.celdaimgAtaqUN2 {
     background-color: white;
     border: 2px white solid;
-    margin :3px!important;
+    margin: 3px !important;
     -webkit-box-shadow: inset 0 0 0 2px #d4e0e2;
-        -moz-box-shadow: inset 0 0 0 2px #d4e0e2;
-        box-shadow: inset 0 0 0 2px #d4e0e2;
-    }
+    -moz-box-shadow: inset 0 0 0 2px #d4e0e2;
+    box-shadow: inset 0 0 0 2px #d4e0e2;
+}
 
-        .celdaimgAtaqUN4{
-            background-color: white;
-            border: 2px white solid;
-            margin :3px!important;
-            -webkit-box-shadow: inset 0 0 0 2px #ffe7f0;
-                -moz-box-shadow: inset 0 0 0 2px #ffe7f0;
-                box-shadow: inset 0 0 0 2px #ffe7f0;
-            }
+.celdaimgAtaqUN4 {
+    background-color: white;
+    border: 2px white solid;
+    margin: 3px !important;
+    -webkit-box-shadow: inset 0 0 0 2px #ffe7f0;
+    -moz-box-shadow: inset 0 0 0 2px #ffe7f0;
+    box-shadow: inset 0 0 0 2px #ffe7f0;
+}
 
 
-.NombreAtaquesUN{
+.NombreAtaquesUN {
 
-    font-family:"tipoUnder"!important;
+    font-family: "tipoUnder" !important;
 
-background-color: #bfcaff;
-border: 2px white solid;
+    background-color: #bfcaff;
+    border: 2px white solid;
 
 }
 
-.NombreAtaquesUN2{
+.NombreAtaquesUN2 {
     background-color: #d4e0e2;
     border: 2px white solid;
-    }
-    
+}
 
-    
-.NombreAtaquesUN4{
+
+
+.NombreAtaquesUN4 {
     background-color: #ffe7f0;
     border: 2px white solid;
-    }
-.imgAtaqueUN{
+}
 
+.TextoTituloUN {
+    color: white !important;
+    font-family: "purbaanabel" !important;
 
+    margin-top: 3vw;
+    margin-left: -3vw !important;
 
 }
+
 .FotoUB {
-    
+
     width: 9vw !important;
 
     height: 9.5vw !important;
