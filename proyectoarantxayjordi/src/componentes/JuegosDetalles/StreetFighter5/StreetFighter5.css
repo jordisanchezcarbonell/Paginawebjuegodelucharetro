@@ -1,0 +1,266 @@
+@font-face {
+    font-family: "LetraBD";
+    src: url(LeviReBrushed.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.LetraTituloBD {
+    font-size: 5vw;
+    font-family: "LetraBD";
+
+}
+
+.fondo {
+    color: white;
+    min-height: 750px !important;
+}
+
+.tablaborderabajo {
+    border-bottom: 0px !important;
+}
+
+/*
+
+.fondoproba .rule {
+    background: linear-gradient(90deg, #1c1c1c, #fff 25%, #fff 75%, #1c1c1c);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 7px;
+    z-index: 1;
+}
+*/
+.fondoproba {
+
+
+    width: 100%;
+    max-width: 100%;
+    margin: 4% auto 0 auto;
+    padding: 30px 1%;
+    color: #fff;
+    font-size: 1.08em;
+    font-family: 'Lora', serif;
+    letter-spacing: 0.1em;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+
+
+
+
+
+    position: relative;
+    padding: 20px 0;
+    background: linear-gradient(90deg, #1c3c85, #496cad 50%, #496cad 50%, #1c3c85);
+
+
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 12px 15px 100px 25px rgba(0, 0, 0, 0.75);
+}
+
+
+
+.bolaDeDrac {
+    height: 3vw;
+    position: absolute;
+    top: 0%;
+    left: 48.5%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.colorFondoAtaquesBD {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    color: black !important;
+    font-size: 1.5vw !important;
+    font-weight: 900 !important;
+    font-family: 'Oswald', sans-serif !important;
+
+    border: none;
+    width: 70%;
+
+}
+
+.fondoTablaBD {
+
+    background-color: rgba(0, 0, 0, 0) !important;
+    /*QUITAR FONDO SHADOW*/
+    box-shadow: none !important;
+
+
+}
+
+/*uhhhh*/
+
+.TituloAtaquesBD {
+    color: white;
+    font-weight: 100;
+    width: 100%;
+    font-family: "LetraBD";
+    font-size: 3vw;
+
+}
+
+.borderBotBD {
+    border-bottom: none !important;
+
+}
+
+.pruebalinea {
+    height: 1px;
+    background-color: black;
+    width: 80%;
+    margin-top: -0.1vw;
+
+
+}
+
+
+.nombreAtaquesBD {
+    width: 54%;
+    border: none;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+
+}
+
+.FotoFondoBD {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    height: 8vw;
+    margin-bottom: -2vw;
+
+
+}
+
+.TextoPersonajeTituloBD {
+    margin-left: -2vw;
+
+    color: white;
+    text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
+
+}
+
+.imgAtaqueBD {
+    height: 2.2vw !important;
+
+}
+
+.DivBDFONDO {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);
+}
+
+.PruebadefondoAtaques {
+    /*background: linear-gradient(70deg, black, white);*/
+    background-color: rgba(0, 0, 0, 0.35);
+
+}
+
+.eliminarradius {
+    border-radius: 0px !important;
+}
+
+.TituloAtaquesGB {
+
+    background-color: gray;
+    color: white;
+    font-weight: 100;
+    font-size: 2.5vw;
+    border-radius: 0px;
+    font-family: 'Marcellus', serif;
+    padding-bottom: 0.5vw !important;
+    padding-top: 0.2vw !important;
+
+}
+
+.colorFondoAtaquesGB {
+    background-color: #81abcb;
+    border: 1px white solid !important;
+    font-weight: 600 !important;
+    font-family: 'Marcellus', serif !important;
+}
+
+.nombreAtaquesGB {
+    font-family: 'Tenor Sans', sans-serif;
+    background-color: white;
+    border-bottom: 1px black solid !important;
+
+    color: black !important;
+
+}
+
+.fondoTablaGB {
+    border-radius: 100 !important;
+}
+
+
+.TextoTituloDB {
+    color: white;
+    margin-top: 3vw;
+    margin-left: -3vw !important;
+
+}
+
+.FotoBD2 {
+    width: 90px !important;
+    min-width: 90px !important;
+    height: 90px !important;
+    border-radius: 25px 0 !important;
+
+    margin: 4px;
+
+    transform: skewX(-15deg);
+    cursor: pointer;
+}
+
+.nomostrarscrollBD {
+    /*No mostrar*/
+    overflow: hidden !important;
+}
+
+.FotoBD {
+    width: 90px !important;
+    min-width: 90px !important;
+    height: 90px !important;
+    border-radius: 0 25px !important;
+
+    margin: 4px;
+    transform: skewX(15deg);
+
+
+    cursor: pointer;
+
+}
+
+
+.fotoLogoBD {
+    margin-left: -3vw !important;
+}
+
+
+
+
+.DIVFOTO:hover {
+
+
+    transform: scale(1.15) !important;
+
+}
