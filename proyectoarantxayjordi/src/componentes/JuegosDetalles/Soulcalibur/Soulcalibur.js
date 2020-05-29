@@ -357,6 +357,7 @@ class Soulcalibur extends React.Component {
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3 fotoCharacterSOUL"
+
                   alt="imagen logo"
                 >
 
@@ -377,15 +378,15 @@ class Soulcalibur extends React.Component {
                           </div>
                               <TableContainer
                                 component={Paper}
-                                className="TablaGeneral  mb-3 mt-3"
+                                className="TablaGeneralSoul  mb-3 mt-3"
                               >
                                 
                                 <Table>
-                                  <TableBody className="bodySKULL">
+                                  <TableBody className="TableBodySOUL">
                                     {personaje.Ataques.map((Ataque, index) => (
                                       <TableRow
                                         key={Ataque.nombreAtaque}
-                                        className="mx-5"
+                                        className="mx-5 RowSOUL" 
                                       >
                                         <TableCell
                                           onClick={() =>
@@ -394,17 +395,17 @@ class Soulcalibur extends React.Component {
                                               Ataque.Animacion[0]
                                             )
                                           }
-                                          className=" py-2 pro colortexto"
-                                          component="th"
+                                          className=" py-2 CellNombreAtaques "
+                                          component="td"
                                           scope="row"
                                         >
-                                          {Ataque.nombreAtaque}
+                                          {Ataque.nombreAtaque+"   "+"   "+":"}
                                         </TableCell>
 
                                         {
                                           <TableCell
-                                            component="th"
-                                            className="  nombreAtaques py-2"
+                                            component="td"
+                                            className="  CellImgAtaques py-2"
                                             align="right"
                                           ></TableCell>
                                         }
