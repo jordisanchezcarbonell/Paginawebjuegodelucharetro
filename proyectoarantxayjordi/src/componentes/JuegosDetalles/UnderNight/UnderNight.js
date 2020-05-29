@@ -29,7 +29,7 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaques"
+        className="PruebadefondoAtaquesUN"
         key={this.props.elemento.Nombre}
       >
         <div className="NombrePersonajeUN my-4  ">
@@ -396,7 +396,7 @@ class UnderNight extends React.Component {
                             alt="imagen personaje"
                           ></img>
 
-                    <h3 className="puebaNombre">{personaje.Nombre}</h3>
+                          <h3 className="puebaNombre">{personaje.Nombre}</h3>
                         </div>
 
                         <div>
