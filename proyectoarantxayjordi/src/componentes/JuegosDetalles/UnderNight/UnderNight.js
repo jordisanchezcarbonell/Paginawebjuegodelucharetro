@@ -33,23 +33,17 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className="NombrePersonajeUN my-4  ">
-        
-<img className="w-100 fotoNombrePJUN"src={TituloPJ}></img>
+          <img className="w-100 fotoNombrePJUN" src={TituloPJ}></img>
           <h3 className="TextoPersonajeTituloUN">
             {this.props.elemento.Nombre}
           </h3>
-
-       
         </div>
         <Container className=" ">
           <Row className="w-100  px-0 mx-0 ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
-              <TableContainer
-                component={Paper}
-                className="fondoTablaUN  eliminarradius nomostrarscrollBD mt-5 "
-              >
-                <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
-                  Unique Action
+              <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD mt-5 ">
+                <h3 className="TituloAtaquesUN2  py-2 my-0 mb-2 ">
+                  Special Attack
                   {/* <hr className="pruebalinea" />   my-0 */}
                 </h3>
 
@@ -96,11 +90,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-
               <TableContainer className=" fondoTablaUN  mt-3 ">
-                <h3 className="TituloAtaquesUN2 py-2 ">
-                  Sky bound Art
-                </h3>
+                <h3 className="TituloAtaquesUN2 py-2 ">Infinite Worth</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
@@ -140,17 +131,10 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-
-
-
-
-
             </Col>
             <Col className="col-md-6 ">
               <TableContainer className=" fondoTablaBD  mt-5">
-                <h3 className="TituloAtaquesUN3  py-2 ">
-                  Special Moves
-                </h3>
+                <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
@@ -191,12 +175,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-             
-
               <TableContainer className=" fondoTablaUN  mt-3 ">
-                <h3 className="TituloAtaquesUN4  py-2">
-                  Super Sky boundArt
-                </h3>
+                <h3 className="TituloAtaquesUN4  py-2">Infinite Worth EXS</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
@@ -394,7 +374,7 @@ class UnderNight extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-11  borderBotUN   mx-auto"
+                  className="nav  col-md-11  borderBotUN   mx-auto"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -405,8 +385,6 @@ class UnderNight extends React.Component {
                         key={personaje.Nombre}
                       >
                         <div className="w-100 divFOTOUN">
-                        
-
                           <img
                             className="FotoUB Personaje"
                             onClick={() => this.showContent(index)}
