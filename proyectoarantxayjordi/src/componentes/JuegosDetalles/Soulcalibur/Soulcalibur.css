@@ -14,6 +14,21 @@
     text-shadow: rgba(0, 0, 0, .3) 1px 1px 3px, rgba(0, 0, 0, .3) -1px 1px 3px, rgba(0, 0, 0, .3) 1px -1px 3px, rgba(0, 0, 0, .3) -1px -1px 3px;
 }
 
+.fondo2UC{
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+    height: 8w!important;
+
+}
+
+.fotoLogoSC{
+margin-top: -1vw!important;
+margin-bottom: -1.5vw!important;
+
+margin-left: 23vw;
+height:10vw;
+
+}
+
 .eliminarradius {
     border-radius: 0px !important;
 }
@@ -44,12 +59,30 @@
     min-width: 1160px;
     overflow: hidden;
 }
+.colimgSOul{
 
+    z-index: 1!important;
 
+}
+.coltablasoul{
+    z-index: 2!important;
+
+}
+
+.NombrePJSOUL{
+width: 100%!important;
+        
+    font-family: 'PT Serif', serif;  
+      font-size: 40px;
+    font-weight: bold;
+ 
+text-align: left;
+}
 
 .imagenestamaño {
-    width: 200px !important;
-    height: 500px !important;
+    height: 600px !important; 
+    margin-left: -13vw;
+    z-index: -1!important;
 
 }
 
@@ -86,12 +119,31 @@
 .colortexto {
     color: #e4c69c !important;
 }
+.containerDIV{
+    width: 100%!important;
+ 
+    min-width: 100%;
 
+}
+.fotoCharacterSOUL{
+background : 100%;
+    background-image: url(./bg_deco_contents.png) !important;
+    background-repeat: repeat-x;
+    background-position: center !important;
+}
 .ContainerSeparacionSOUL {
-    text-align: center;
-    background-color: rgba(228, 198, 156, 0.466);
+    background : 100%;
+    background-image: url(./bg_deco_contents.png),url(./bg_deco_contents.png) !important;
+    background-repeat: repeat-x;
+    background-position:  top,bottom!important ;
+
+
+
+    width: 100%;
+    background-color: rgba(2, 2, 1, 0.712);
     margin-bottom: 10px;
     padding-bottom: 20px;
+    min-width: 100%;
 }
 
 .unskew {

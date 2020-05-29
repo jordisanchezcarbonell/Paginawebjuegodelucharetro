@@ -3,7 +3,7 @@
     
     "Nombre": "Ivy",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/PersonajesSoulCalibur/Ivy.jpg",
+    "Foto": "imagenes/SOULTODO/ivy.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -38,7 +38,7 @@
   {
     "Nombre": "Nightmare",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Nightmare.jpg",
+    "Foto": "imagenes/SOULTODO/Nightmare.png",
     "Ataques": [
       {
         "nombreAtaque": "Jordi",
@@ -101,7 +101,7 @@
   {
     "Nombre": "Geralt",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Geralt.jpg",
+    "Foto": "imagenes/SOULTODO/Geralt.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -129,7 +129,7 @@
   {
     "Nombre": "2B",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/2B.jpg",
+    "Foto": "imagenes/SOULTODO/2B.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -140,7 +140,7 @@
   {
     "Nombre": "Groh",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Groh.jpg",
+    "Foto": "imagenes/SOULTODO/groh.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -151,7 +151,7 @@
   {
     "Nombre": "Seong Mi-na",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Seong_Mi-na.jpg",
+    "Foto": "imagenes/SOULTODO/Seong_Mi-na.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -162,7 +162,7 @@
   {
     "Nombre": "Azwel",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Azwel.jpg",
+    "Foto": "imagenes/SOULTODO/Azwel.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -171,9 +171,9 @@
     ]
   },
   {
-    "Nombre": "Cassandra",
+    "Nombre": "Cassandra Alexandra",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Cassandra.jpg",
+    "Foto": "imagenes/SOULTODO/C_Alexandra.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -182,9 +182,9 @@
     ]
   },
   {
-    "Nombre": "Sophitia",
+    "Nombre": "Sophitia Alexandra",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/sopjhitia.png",
+    "Foto": "imagenes/SOULTODO/S_Alexandra.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -195,7 +195,7 @@
   {
     "Nombre": "Yoshimitsu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Yoshimitsu.jpg",
+    "Foto": "imagenes/SOULTODO/Yoshimitsu.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -204,9 +204,9 @@
     ]
   },
   {
-    "Nombre": "Siegfried",
+    "Nombre": "Siegfried Schtauffen",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Siegfried.jpg",
+    "Foto": "imagenes/SOULTODO/S_Schtauffen.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -217,7 +217,7 @@
   {
     "Nombre": "Haohmaru",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/haohmaru.png",
+    "Foto": "imagenes/SOULTODO/Haohmaru.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -226,9 +226,9 @@
     ]
   },
   {
-    "Nombre": "Hilde",
+    "Nombre": "Hildegard von Krone",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/hilde.png",
+    "Foto": "imagenes/SOULTODO/H_von_krone.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -239,7 +239,7 @@
   {
     "Nombre": "Amy",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Amy.png",
+    "Foto": "imagenes/SOULTODO/Amy.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -250,7 +250,7 @@
   {
     "Nombre": "Voldo",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Voldo.jpg",
+    "Foto": "imagenes/SOULTODO/Voldo.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -261,7 +261,7 @@
   {
     "Nombre": "Kilik",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Kilik.png",
+    "Foto": "imagenes/SOULTODO/Kilik.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -272,7 +272,7 @@
   {
     "Nombre": "Zasalamel",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Zasalamel.jpg",
+    "Foto": "imagenes/SOULTODO/Zasalamel.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -283,7 +283,7 @@
   {
     "Nombre": "Raphael",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Raphael.jpg",
+    "Foto": "imagenes/SOULTODO/Raphael.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -294,7 +294,7 @@
   {
     "Nombre": "Cervantes",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Cervantes.jpg",
+    "Foto": "imagenes/SOULTODO/Cervantes.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -305,7 +305,7 @@
   {
     "Nombre": "Tira",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Tira.jpg",
+    "Foto": "imagenes/SOULTODO/Tira.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -316,7 +316,7 @@
   {
     "Nombre": "Maxi",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Maxi.jpg",
+    "Foto": "imagenes/SOULTODO/Maxi.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -325,9 +325,9 @@
     ]
   },
   {
-    "Nombre": "Xianghua",
+    "Nombre": "Chai Xianghua",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Xianghua.jpg",
+    "Foto": "imagenes/SOULTODO/C_Xianghua.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -336,9 +336,9 @@
     ]
   },
   {
-    "Nombre": "Mitsurugi",
+    "Nombre": "Heishiro Mitsurugi",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Mitsurugi.jpg",
+    "Foto": "imagenes/SOULTODO/h_mitsurugi.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -349,7 +349,7 @@
   {
     "Nombre": "Taki",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Taki.jpg",
+    "Foto": "imagenes/SOULTODO/Taki.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -360,7 +360,7 @@
   {
     "Nombre": "Talim",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Talim.jpg",
+    "Foto": "imagenes/SOULTODO/Talim.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
@@ -371,7 +371,7 @@
   {
     "Nombre": "Astaroth",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesSoulCalibur/Astaroth.jpg",
+    "Foto": "imagenes/SOULTODO/Astaroth.png",
     "Ataques": [
       { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
       { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
