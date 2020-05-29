@@ -53,7 +53,15 @@
     -o-transform: skew(20deg);
     transform: skew(20deg);
 }
+
+
+@font-face {
+    font-family: "tipoUnder"!important;
+    src: url(ms-pgothic.ttf)!important;
+
+}
 .TituloAtaquesUN{
+    font-family:" tipoUnder";
     border: 2px white solid;
 background-color: #4359bf;
 }
@@ -71,8 +79,6 @@ background-color: #28ba4a;
         background-color: #a00016;
         }
         
-    
-
 
 .celdaimgAtaqUN{
 background-color: white;
@@ -103,6 +109,9 @@ margin :3px!important;
 
 
 .NombreAtaquesUN{
+
+    font-family:"tipoUnder"!important;
+
 background-color: #bfcaff;
 border: 2px white solid;
 
