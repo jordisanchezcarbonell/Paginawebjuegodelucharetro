@@ -337,9 +337,8 @@ class Soulcalibur extends React.Component {
         </Modal>
         <div>
           <Row className="NavSC">
-        
             <Col md="8" className="fondo2UC">
-            <img
+              <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
                 className="fotoLogoSC "
@@ -347,7 +346,6 @@ class Soulcalibur extends React.Component {
             </Col>
 
             <Col md="4" style={style}></Col>
-
           </Row>
         </div>
         <div className="row rowGlobal ">
@@ -357,36 +355,34 @@ class Soulcalibur extends React.Component {
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3 fotoCharacterSOUL"
-
                   alt="imagen logo"
-                >
-
-
-                </img>
+                ></img>
 
                 <div className=" nav   w-100" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
-                      <div className="Personajes w-100    mx-0  px-0" key={personaje.Nombre}>
+                      <div
+                        className="Personajes w-100    mx-0  px-0"
+                        key={personaje.Nombre}
+                      >
                         <Container className="w-100   mx-0  px-0 ContainerSeparacionSOUL ">
-                        
-
                           <Row className="prueba pt-0 pb-3  mx-auto">
                             <Col md="8" className="coltablasoul">
                               <div className="contenedor   w-100">
-                            <div className="NombrePJSOUL mt-5  ">{personaje.Nombre}</div>
-                          </div>
+                                <div className="NombrePJSOUL mt-5  ">
+                                  {personaje.Nombre}
+                                </div>
+                              </div>
                               <TableContainer
                                 component={Paper}
                                 className="TablaGeneralSoul  mb-3 mt-3"
                               >
-                                
                                 <Table>
                                   <TableBody className="TableBodySOUL">
                                     {personaje.Ataques.map((Ataque, index) => (
                                       <TableRow
                                         key={Ataque.nombreAtaque}
-                                        className="mx-5 RowSOUL" 
+                                        className="mx-5 RowSOUL"
                                       >
                                         <TableCell
                                           onClick={() =>
@@ -399,7 +395,10 @@ class Soulcalibur extends React.Component {
                                           component="td"
                                           scope="row"
                                         >
-                                          {Ataque.nombreAtaque+"   "+"   "+":"}
+                                          {Ataque.nombreAtaque +
+                                            "   " +
+                                            "   " +
+                                            ":"}
                                         </TableCell>
 
                                         {
@@ -407,7 +406,22 @@ class Soulcalibur extends React.Component {
                                             component="td"
                                             className="  CellImgAtaques py-2"
                                             align="right"
-                                          ></TableCell>
+                                          >
+                                            {Ataque.Animacion.map(
+                                              (animaciondelataque, index) => (
+                                                <img
+                                                  className="imgAtaque"
+                                                  key={index}
+                                                  variant="top"
+                                                  src={
+                                                    process.env.PUBLIC_URL +
+                                                    animaciondelataque
+                                                  }
+                                                  alt="Error"
+                                                />
+                                              )
+                                            )}
+                                          </TableCell>
                                         }
                                       </TableRow>
                                     ))}
