@@ -1,37 +1,94 @@
 [
   {
-    
     "Nombre": "Ivy",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/SOULTODO/ivy.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/X.png",
+
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Normal Move 3 (HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 4 (HOLD)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/X.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Charge Moves 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Devastation Beam",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       }
     ]
   },
@@ -41,60 +98,77 @@
     "Foto": "imagenes/SOULTODO/Nightmare.png",
     "Ataques": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
-      },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       }
     ]
   },
@@ -103,25 +177,78 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Geralt.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
       }
     ]
   },
@@ -142,10 +269,110 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/groh.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
     ]
   },
   {
@@ -153,10 +380,110 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Seong_Mi-na.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
     ]
   },
   {
@@ -164,10 +491,110 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Azwel.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
     ]
   },
   {
@@ -175,10 +602,110 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/C_Alexandra.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
     ]
   },
   {
@@ -186,10 +713,114 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/S_Alexandra.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -197,10 +828,101 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Yoshimitsu.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -208,10 +930,101 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/S_Schtauffen.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -219,10 +1032,101 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Haohmaru.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -230,10 +1134,110 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/H_von_krone.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
     ]
   },
   {
@@ -241,10 +1245,101 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Amy.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -252,10 +1347,101 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Voldo.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -263,10 +1449,93 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Kilik.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      }
     ]
   },
   {
@@ -274,10 +1543,102 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Zasalamel.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -296,10 +1657,68 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Cervantes.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/up.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      }
     ]
   },
   {
@@ -307,10 +1726,102 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Tira.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -318,10 +1829,105 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Maxi.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -329,10 +1935,94 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/C_Xianghua.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      }
     ]
   },
   {
@@ -340,10 +2030,117 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/h_mitsurugi.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/left.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/donwright.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -351,10 +2148,117 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Taki.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/up.png",
+
+          "imagenes/ImagenesAtaqueUN/up.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   },
   {
@@ -362,10 +2266,93 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Talim.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+
+          "imagenes/ImagenesAtaqueUN/right.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      }
     ]
   },
   {
@@ -373,10 +2360,79 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SOULTODO/Astaroth.png",
     "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+      {
+        "nombreAtaque": "Normal Move 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 3 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/X.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Normal Move 4 ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/down.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Charge 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+          "imagenes/ImagenesAtaqueUN/Triangle.png",
+
+          "imagenes/ImagenesAtaqueUN/Triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Lethal Hit Counters",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Cuadrado.png",
+          "imagenes/ImagenesAtaqueUN/left.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Combo  2",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/right.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png",
+          "imagenes/ImagenesAtaqueUN/Redonda.png"
+        ]
+      }
     ]
   }
 ]
