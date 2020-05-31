@@ -51,7 +51,7 @@ class Child extends React.Component {
                 className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5 "
               >
                 <h3 className="TituloAtaquesBD my-0">
-                  Unique Action
+                  Unique Moves
                   <hr className="pruebalinea" />
                 </h3>
 
@@ -61,7 +61,7 @@ class Child extends React.Component {
                   className="nomostrarscroll "
                 >
                   <TableBody className="nomostrarscrollBD">
-                    {this.props.elemento.NormalAttacks.map((Ataque, index) => (
+                    {this.props.elemento.UniqueMoves.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
                           className="  py-2 colorFondoAtaquesBD tablaborderabajo "
@@ -146,13 +146,13 @@ class Child extends React.Component {
 
               <TableContainer className=" fondoTablaBD  mt-3 ">
                 <h3 className="TituloAtaquesBD my-0">
-                  Sky bound Art
+                  Critical Art
                   <hr className="pruebalinea" />
                 </h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
-                    {this.props.elemento.SuperAttacks.map((Ataque, index) => (
+                    {this.props.elemento.CriticalArt.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesBD tablaborderabajo "
@@ -189,50 +189,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">
-                  Super Sky boundArt
-                  <hr className="pruebalinea" />
-                </h3>
-
-                <Table className="nomostrarscroll">
-                  <TableBody>
-                    {this.props.elemento.MeteorAttack.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                        <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
-                          component="td"
-                          scope="row"
-                          align="left"
-                        >
-                          {Ataque.nombreAtaque}
-                        </TableCell>
-
-                        {
-                          <TableCell
-                            component="td"
-                            className="  nombreAtaquesBD py-2 tablaborderabajo"
-                            align="right"
-                          >
-                            {Ataque.Animacion.map(
-                              (animaciondelataque, index) => (
-                                <Image
-                                  key={index}
-                                  className="imgAtaqueBD"
-                                  src={
-                                    process.env.PUBLIC_URL + animaciondelataque
-                                  }
-                                  fluid
-                                />
-                              )
-                            )}
-                          </TableCell>
-                        }
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </TableContainer>
+             
             </Col>
           </Row>
         </Container>

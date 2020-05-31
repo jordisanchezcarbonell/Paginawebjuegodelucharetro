@@ -3,10 +3,85 @@
     "Nombre": "G",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/SF5/g2.jpg",
-    "Ataques": [
+    "UniqueMoves": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Wild President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Strong President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crash President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flying President",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Message To The People",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/2k.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "G Smash Over",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "G Smash Under",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "G Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+
+          "imagenes/ImagenesAtaquesSF/2p.png"
+        ]
+      },
+      {
+        "nombreAtaque": "G Impact",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Pangaea Burst ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
       }
     ]
   },
@@ -14,31 +89,87 @@
     "Nombre": "Urien",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/urien2.jpg",
-    "Ataques": [
+    "UniqueMoves": [
       {
-        "nombreAtaque": "Jordi",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Quarrel Punch",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Quarrel Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Terrible Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
       },
+      {
+        "nombreAtaque": "Killer Straight",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Break Rush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Chariot Tackle",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dangerous Headbutt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Violence Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
 
-      {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
-      },
+        "nombreAtaque": "Metallic Sphere",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Dominant Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
       }
     ]
   },
@@ -46,26 +177,95 @@
     "Nombre": "Akuma",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/akuma2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tenmakujinkyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" },
-      {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Zugaihasatsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
       },
       {
-        "nombreAtaque": "ALBERT",
-        "Animacion": "SANCHEZ"
+        "nombreAtaque": "Tenha",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
       },
       {
-        "nombreAtaque": "THEBEST",
-        "Animacion": "YOU"
+        "nombreAtaque": "Sekiseiken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kongoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Ashura Senku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/3K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hyakkishu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Violence Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tatsumaki Zankukyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sekia Kuretsuha",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shun Goku Satsu VT1",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LK.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
       }
     ]
   },
@@ -74,407 +274,2229 @@
     "Nombre": "Karin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/karin2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tsumujigari",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/KM.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ku-Renge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Kanzuki-Ryu Hokojutsu Seppo",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tenko",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Violence Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Senha Resshu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Kanzuki-Ryu Guren No Kata",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sekia Kuretsuha",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LK.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Ibuki",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ibuki2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Agemen",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kobekudaki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sazan",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bonshogeri",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nobusama",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/2k.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sasanaki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Kachofugetsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "M. Bison",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/mbison2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Psycho Blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Double Knee Press",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Head Press",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psycho Inferno",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psycho Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psycho Crusher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Ultimate Psycho Crusher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Rashid",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/rashid2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Flap Spin",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Beak Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Spinning Mixer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eagle Spike",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Whirlwind Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Haboob",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Altair",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Guile",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/guile2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Bazooka",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Full Bullet Magnum",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Somersault Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sonic Boom",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sonic Cross",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sonic Hurricane",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/BackLeft.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Chun-Li",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/chun-li2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tsuitotsuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hakkei ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hyakuretsukyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kikoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spinning Bird Kick ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Hoyokusen",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Necalli",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/necalli2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Opening Dagger ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Road of the Sun ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "The Disc's Guidance",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Raging Light ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mask of Tlalli ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Ceremony of Honor",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Cammy",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/cammy2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Bullet",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lift Upper",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Spiral Arrow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cannon Spike",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hooligan Combination",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180right.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Cross Stinger Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Gill",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/gill2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Cryo Drop Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pyro Quarrel Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Pyrokinesis",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cryokinesis",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Moonsault Knee Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Seraphic Wing",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Poison",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/poison2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Whiplash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slap & Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Avant Line",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Love Me Tender",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shocking Heel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Love Hurricane",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Menat",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/menat2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Divine Retribution",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Khamun Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Soul Sphere",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Spark",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Guardian of the Sun",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Nefertem",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Kolin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/kolin2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Blizzard Heel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sniping Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Parabellum",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Frost Touch",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vanity Step",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Frost Tower",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Zeku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/zeku2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Nouten Wari",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Bushin Gram - Koku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bushin Gram - Ban",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bushin Gekirinchu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Batsuzan Gaisei",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Birdie",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/birdie2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Bull Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bull Charge",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Bull Head ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hanging Chain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Killing Head",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Skip To My Chain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Seth",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/seth2.jpeg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Step Shoot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Hunter",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hecatoncheires",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mad Cradle",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Killing Head",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Tanden Destruction",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Abigail",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/abigail2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Abi Hammer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bang Bang",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/LP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Abigail Punch",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mad Cradle",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Abigail Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Abigail Special",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Laura",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/laura2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Step Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bang Bang",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Bolt Charge ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Thunder Clap",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sunset Wheel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Inazuma Spin Hold",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Lucia",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/lucia2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Elbow Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Drop Target",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/MP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Gun Smoke",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rough Chase",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flipper Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Hard Hit Knee",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Kage",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/kage2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Zugaihasatsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kikokuduki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Airborne Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shakunetsu Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Metsu Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shun Goku Satsu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/HP.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LP.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Balrog",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/balrog2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Under Impact",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/LK.png",
+          "imagenes/ImagenesAtaquesSF/MK.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stomping Combo",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/MK.png",
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Dash Straight",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dash Grand Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Screw Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Gigaton Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Dhalsim",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/dhaslim2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Drill Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kikokuduki",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Yoga Fire",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Flame",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Gale",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Teleport",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/3P.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Yoga Sunburst",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Sagat",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/sagat.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Tiger Heavy Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Step High Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Tiger Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Tiger Shot",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tiger Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tiger Knee Crush",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Tiger Rampag",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "R. Mika",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/rmika2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Lady Mika",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Passion Press",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Shooting Peach",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wingless Airplane",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rainbow Typhoon",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Brimstone",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Peach Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Blanka",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/blanka2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Rock Crusher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Surprise Forward",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/3K.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Rolling Attack",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Backstep Roll",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vertical Roll",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wild Hunt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Dynamic Rolling",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Sakura",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/sakura2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Floral Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Furiko Upper",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tengyo Hadoken ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shouoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shunpukyaku ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sakura Rain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Cody",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/cody2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Hammer Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bad Spray",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Tornado Sweep",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ruffian Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rapid Fire",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bean Ball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Criminal Punisher",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Ed",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ed2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
-
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Psycho Spark",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Psycho Upper",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2p.png"]
+      },
+      {
+        "nombreAtaque": "Psycho Rising",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2k.png"]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Psycho Barrage",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Ken",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ken2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Inazuma Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chin Buster",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tatsumaki Senpukyaku ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Tatsumaki Senpukyaku  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Guren Enjinkyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Juri",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/juri2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Korenzan",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Senkaikyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Fuharenkyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tensenrin",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ryodansatsu ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Sakkai Fuhazan",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "F.A.N.G",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/fang2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Senpukuga",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/3P.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nirenko",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Nishikyu",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sotoja",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nikankyaku",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Shishiruirui",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Falke",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/falke2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Psycho Spitze",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Luftjagd",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Psycho Schneide",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2p.png"]
+      },
+      {
+        "nombreAtaque": "Katapult",
+        "Animacion": ["imagenes/ImagenesAtaquesSF/2k.png"]
+      },
+      {
+        "nombreAtaque": "Psycho Panzer ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/down.png",
+          "imagenes/ImagenesAtaquesSF/HP.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Psycho Fluegel",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "E. Honda",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ehonda2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Harai-Geri",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chikara-Ashi",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downright.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sumo Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sumo Headbutt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Oicho Throw",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Kamigashima",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Ryu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ryu2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Axe Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/HK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Solar Plexus Strike",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoryuken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tatsumaki Senpukyaku ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Tatsumaki Senpukyaku  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Shinku Hadoken",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Zangief",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/zangief2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Hammer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/left.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Head Butt",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Screw Pile Driver",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/360.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Siberian Express",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tundra Storm ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/2k.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Borscht Dynamite ",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/air.png",
+
+          "imagenes/ImagenesAtaquesSF/360.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Bolshoi Russian Suplex",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/360.png",
+          "imagenes/ImagenesAtaquesSF/360.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Alex",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/alex2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Chop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lariat",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Air Stampede",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/downhold.png",
+          "imagenes/ImagenesAtaquesSF/up.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Slash Elbow",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/lesfthold.png",
+          "imagenes/ImagenesAtaquesSF/right.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Knee Smash",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Heavy Hammer",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Nash",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/nash2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Knee Bazooka",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/LP.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumping Sobat",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sonic Boom",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sonic Scythe",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tragedy Assault",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/Z.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Judgement Saber",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   },
   {
     "Nombre": "Vega",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/vega2.jpg",
-    "Ataques": [
-      { "nombreAtaque": "Jordi", "Animacion": "SANCHEZ" },
-      { "nombreAtaque": "ALBERT", "Animacion": "SANCHEZ" },
+    "UniqueMoves": [
+      {
+        "nombreAtaque": "Mercury Shard",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/MK.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Buster Claw",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/right.png",
+          "imagenes/ImagenesAtaquesSF/HP.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Switching Claw",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crimson Terror",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/236.png",
 
-      { "nombreAtaque": "THEBEST", "Animacion": "YOU" }
+          "imagenes/ImagenesAtaquesSF/kick.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Izuna Drop",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/180left.png",
+
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
+    ],
+    "CriticalArt": [
+      {
+        "nombreAtaque": "Bloody Rain",
+        "Animacion": [
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/214.png",
+          "imagenes/ImagenesAtaquesSF/punch.png"
+        ]
+      }
     ]
   }
 ]
