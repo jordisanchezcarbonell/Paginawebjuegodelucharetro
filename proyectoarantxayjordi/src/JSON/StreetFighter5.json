@@ -380,7 +380,7 @@
         "nombreAtaque": "Bonshogeri",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       },
       {
@@ -395,7 +395,7 @@
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/MP.png",
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       }
     ],
@@ -901,7 +901,7 @@
         "nombreAtaque": "Divine Retribution",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       },
       {
@@ -959,7 +959,7 @@
         "nombreAtaque": "Blizzard Heel",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       },
       {
@@ -1426,7 +1426,7 @@
         "nombreAtaque": "Under Impact",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/LK.png",
-          "imagenes/ImagenesAtaquesSF/MK.png",
+          "imagenes/ImagenesAtaquesSF/KM.png",
           "imagenes/ImagenesAtaquesSF/HK.png"
         ]
       },
@@ -1434,9 +1434,9 @@
         "nombreAtaque": "Stomping Combo",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/down.png",
-          "imagenes/ImagenesAtaquesSF/MK.png",
+          "imagenes/ImagenesAtaquesSF/KM.png",
           "imagenes/ImagenesAtaquesSF/down.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       }
     ],
@@ -1753,7 +1753,7 @@
         "nombreAtaque": "Floral Kick",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       },
       {
@@ -1817,7 +1817,7 @@
         "nombreAtaque": "Hammer Kick",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       },
       {
@@ -1987,7 +1987,7 @@
         "nombreAtaque": "Senkaikyaku",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/left.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       }
     ],
@@ -2452,7 +2452,7 @@
         "nombreAtaque": "Mercury Shard",
         "Animacion": [
           "imagenes/ImagenesAtaquesSF/right.png",
-          "imagenes/ImagenesAtaquesSF/MK.png"
+          "imagenes/ImagenesAtaquesSF/KM.png"
         ]
       },
       {
