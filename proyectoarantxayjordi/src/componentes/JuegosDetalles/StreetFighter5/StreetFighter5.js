@@ -38,7 +38,7 @@ class Child extends React.Component {
 
         <div className=" enter mt-4 pROSF">
           
-          <img src={imagenLetraSF5} className="w-100"></img>
+          <img src={imagenLetraSF5} className="w-100 ml-2"></img>
 
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
