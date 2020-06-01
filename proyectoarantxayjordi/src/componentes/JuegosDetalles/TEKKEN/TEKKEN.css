@@ -10,15 +10,7 @@
     float: right;
     margin-top: 1.5vw;
 }
-.FotoTK{
-    cursor: pointer;
-    width: 6vw !important;
-    min-width: 5vw !important;
-    height: 6vw !important;
-    background-color: rgba(0, 0, 0, 0.637);
-    border: 2px black solid;
-
-}.DivNegroTransTK{
+.DivNegroTransTK{
 
     background-color: rgba(0, 0, 0, 0.233)!important;
 
@@ -80,16 +72,7 @@
     font-style: normal;
     font-display: swap
 }
-.NombrePesonajeTK{
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color:black;
-    font-size: 1vw;
-font-weight: 800;
 
-}
 
 .PruebadefondoAtaques{
 
@@ -106,4 +89,50 @@ font-weight: 800;
         text-transform: uppercase;
 color:white;
 font-size: 3vw;
+}
+
+.FotoTK{
+    cursor: pointer;
+    width: 6vw !important;
+    min-width: 5vw !important;
+    height: 6vw !important;
+    background-color: rgba(0, 0, 0, 0.637);
+    border: 2px black solid;
+
+
+}
+.NombrePesonajeTK{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+    font-size: 1vw;
+font-weight: 800;
+opacity: 0;
+
+}
+/* filter: brightness(1.1) !important;
+*/
+.DIVFOTOTK:HOVER{
+    z-index: 1 !important;
+   
+    transform: scale(1.15) !important;
+
+    transform: scale(1.05) !important;
+}
+.DivFOTOTK{
+
+}
+
+/*    filter: brightness(0.6) !important;
+*/
+div.DIVFOTOTK .FotoTK:hover {
+ 
+    background-color: olive;
+    background-blend-mode: hard-light!important;
+}
+
+div.DIVFOTOTK:hover h3{
+    opacity: 1;
 }

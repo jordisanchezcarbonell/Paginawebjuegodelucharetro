@@ -102,7 +102,8 @@
     /*  background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );*/
 
     width: 100% !important;
-
+    background-color: rgba(255, 255, 255, 0.123);
+    background-blend-mode: multiply;
     background-repeat: repeat-x;
     background-image: url(http://cdn26.us1.fansshare.com/photo/hdwallpaperbackgrounds/outstanding-earth-space-backgrounds-wallpaper-background-outstanding-wallpaper-hd-anime-1739729774.jpg), linear-gradient(#6e859c, #c0ccd8);
 }
@@ -121,10 +122,8 @@
     -o-background-size: cover;
     background-size: cover;
     background-repeat: repeat-x;
-
-
-
-
+    background-color: rgba(0, 0, 0, 0.432);
+    background-blend-mode: soft-light;
 }
 
 .PruebadefondoAtaquesSF::before {

@@ -258,8 +258,8 @@ class TEKKEN extends React.Component {
                         align="center"
                         key={personaje.Nombre}
                       >
-                        <div className="DIVFOTO w-100">
-                          <div className="fotoPruebaa">
+                        <div className="DIVFOTOTK w-100">
+                          <div className="DivFOTOTK">
                             <img
                               className="FotoTK my-1 "
                               onClick={() => this.showContent(index)}
@@ -270,11 +270,7 @@ class TEKKEN extends React.Component {
                           <h3 className="NombrePesonajeTK">
                               {personaje.Nombre}
                             </h3>
-                          {/* <div className="DivNombrePJ">
-                            <h3 className="NombrePesonajeTK">
-                              {personaje.Nombre}
-                            </h3>
-                          </div>{" "} */}
+                      
                         </div>
                         <div>
                           <div>
