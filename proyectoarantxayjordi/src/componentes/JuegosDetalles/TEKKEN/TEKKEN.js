@@ -48,9 +48,9 @@ class Child extends React.Component {
                 component={Paper}
                 className="fondoTablaTK  eliminarradius nomostrarscrollBD mt-5 "
               >
-                <h3 className="TituloAtaquesBD my-0">
+                <h3 className="TituloAtaquesTK my-0">
                   Unique Moves
-                  <hr className="pruebalinea" />
+                  <hr className="LineaTK" />
                 </h3>
 
                 <Table
@@ -62,7 +62,7 @@ class Child extends React.Component {
                     {this.props.elemento.Ataques.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesTK tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -95,6 +95,15 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
+            </Col>
+            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+              <img
+                className="FotoTK2 my-1 mt-5 "
+
+                src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
+                alt="imagen personaje"
+              ></img>
+
             </Col>
 
           </Row>
@@ -223,9 +232,9 @@ class TEKKEN extends React.Component {
         </Modal>
         <div>
           <Row>
-       
+
             <Col md="7" className="fondo2TK">
-            <img
+              <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
                 className="fotoLogoTK"
@@ -268,9 +277,9 @@ class TEKKEN extends React.Component {
                             ></img>
                           </div>
                           <h3 className="NombrePesonajeTK">
-                              {personaje.Nombre}
-                            </h3>
-                      
+                            {personaje.Nombre}
+                          </h3>
+
                         </div>
                         <div>
                           <div>
