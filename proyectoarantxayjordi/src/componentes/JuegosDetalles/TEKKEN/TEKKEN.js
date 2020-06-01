@@ -236,10 +236,10 @@ class TEKKEN extends React.Component {
           </Row>
         </div>
 
-        <div className="row">
+        <div className="row DivNegroTransTK pb-5">
           <div className="w-100 mt-4 ">
             <Container className="w-100   ">
-              <h3 className="LetraTituloBD">Character Select</h3>
+              <h3 className="LetraTituloTK">Character Select</h3>
               <Row className=" w-100 stage ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
@@ -261,7 +261,7 @@ class TEKKEN extends React.Component {
                         <div className="DIVFOTO w-100">
                           <div className="fotoPruebaa">
                             <img
-                              className="FotoTK"
+                              className="FotoTK my-1 "
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen personaje"

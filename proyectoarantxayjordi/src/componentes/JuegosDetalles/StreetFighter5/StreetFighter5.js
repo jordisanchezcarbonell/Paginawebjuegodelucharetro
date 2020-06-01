@@ -33,10 +33,9 @@ class Child extends React.Component {
         className="PruebadefondoAtaquesSF DIVCONTENEDORTABLASSF"
         key={this.props.elemento.Nombre}
       >
-        {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
-          </img> */}
+      
 
-        <div className=" enter mt-4 pROSF">
+        <div className=" enter mt-4 pROSF ">
           
           <img src={imagenLetraSF5} className="w-100 ml-2"></img>
 

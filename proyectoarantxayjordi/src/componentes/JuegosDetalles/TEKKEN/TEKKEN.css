@@ -12,9 +12,16 @@
 }
 .FotoTK{
     cursor: pointer;
-    width: 90px !important;
+    width: 6vw !important;
     min-width: 5vw !important;
-    height: 10vw !important;
+    height: 6vw !important;
+    background-color: rgba(0, 0, 0, 0.637);
+    border: 2px black solid;
+
+}.DivNegroTransTK{
+
+    background-color: rgba(0, 0, 0, 0.233)!important;
+
 
 }
 .DivFONDOTK{
@@ -34,13 +41,32 @@
 
 /*    font-family: Mental;
 */
-.NombrePesonajeTK{
 
+
+@font-face {
+    font-family: "Letratk";
+    src: url(trump_gothic_west.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+.NombrePesonajeTK{
     position: absolute;
     top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color:white;
+    color:black;
     font-size: 1vw;
 
+}
+.LetraTituloTK{
+    font-weight: 800!important;
+   font-style: oblique!important;
+    letter-spacing: 6px;
+    font-family: "Letratk";
+    font-style: normal;
+    font-weight: 400;
+        text-transform: uppercase;
+color:white;
+font-size: 3vw;
 }
