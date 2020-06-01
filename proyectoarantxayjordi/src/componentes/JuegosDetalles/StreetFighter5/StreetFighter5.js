@@ -37,7 +37,8 @@ class Child extends React.Component {
           </img> */}
 
         <div className=" enter mt-4 pROSF">
-         <img src={imagenLetraSF5} className="w-100"></img>
+          
+          <img src={imagenLetraSF5} className="w-100"></img>
 
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
@@ -48,13 +49,8 @@ class Child extends React.Component {
         <Container className="  w-100">
           <Row className="w-100  px-0 mx-auto  ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
-              <TableContainer
-               
-                className="fondoTablaSF   nomostrarscrollBD mt-4  "
-              >
-                <h3 className="TituloAtaquesSF my-0">
-                  Unique Moves
-                </h3>
+              <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
+                <h3 className="TituloAtaquesSF my-0">Unique Moves</h3>
 
                 <Table
                   stickyHeader
@@ -63,7 +59,10 @@ class Child extends React.Component {
                 >
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.UniqueMoves.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5  rowSF5 ">
+                      <TableRow
+                        key={Ataque.nombreAtaque}
+                        className="mx-5  rowSF5 "
+                      >
                         <TableCell
                           className="  py-2 colorFondoAtaquesSF tablaborderabajo "
                           scope="row"
@@ -101,9 +100,7 @@ class Child extends React.Component {
             </Col>
             <Col className="col-md-6 ">
               <TableContainer className=" fondoTablaSF  mt-4">
-                <h3 className="TituloAtaquesSF my-0 w-100">
-                  Special Moves
-                </h3>
+                <h3 className="TituloAtaquesSF my-0 w-100">Special Moves</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
@@ -145,9 +142,7 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaSF  mt-2 mb-4">
-                <h3 className="TituloAtaquesSF my-0">
-                  Critical Art
-                </h3>
+                <h3 className="TituloAtaquesSF my-0">Critical Art</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
@@ -187,8 +182,6 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-
-             
             </Col>
           </Row>
         </Container>
@@ -347,7 +340,7 @@ class StreetFighter5 extends React.Component {
                   className="nav nav-tabs col-md-6  borderBotBD  "
                   role="tablist"
                 >
-                 {this.props.Juego.map((personaje, index) => {
+                  {this.props.Juego.map((personaje, index) => {
                     if (index <= 19) {
                       return (
                         <div
@@ -357,16 +350,19 @@ class StreetFighter5 extends React.Component {
                         >
                           <div className="DIVFOTO w-100">
                             <div className="fotoPruebaa">
-                            <img
-                              className="FotoSF"
-                              onClick={() => this.showContent(index)}
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                              alt="imagen personaje"
-                            ></img>
+                              <img
+                                className="FotoSF"
+                                onClick={() => this.showContent(index)}
+                                src={process.env.PUBLIC_URL + personaje.Foto}
+                                alt="imagen personaje"
+                              ></img>
                             </div>
-                        <div className="DivNombrePJ">
-                             <h3 className="NombrePesonaje1">{personaje.Nombre}</h3>
-                             </div>                          </div>
+                            <div className="DivNombrePJ">
+                              <h3 className="NombrePesonaje1">
+                                {personaje.Nombre}
+                              </h3>
+                            </div>{" "}
+                          </div>
                           <div>
                             <div>
                               {this.state.isItemContentVisible[index] &&
@@ -378,7 +374,7 @@ class StreetFighter5 extends React.Component {
                         </div>
                       );
                     }
-                  })} 
+                  })}
                 </div>
 
                 <div
@@ -393,18 +389,20 @@ class StreetFighter5 extends React.Component {
                           className="CentrodoBD "
                           align="center"
                         >
-                          <div className="DIVFOTO w-100" align="center">
-                          <div className="fotoPruebaa">
-                            <img
-                              className="FotoSF2 "
-                              onClick={() => this.showContent(index)}
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                              alt="imagen logo2"
-                            ></img>
+                          <div className="DIVFOTO w-100">
+                            <div className="fotoPruebaa">
+                              <img
+                                className="FotoSF2 "
+                                onClick={() => this.showContent(index)}
+                                src={process.env.PUBLIC_URL + personaje.Foto}
+                                alt="imagen logo2"
+                              ></img>
                             </div>
                             <div className="DivNombrePJ">
-                             <h3 className="NombrePesonaje1 nom2">{personaje.Nombre}</h3>
-                             </div>
+                              <h3 className="NombrePesonaje1 nom2">
+                                {personaje.Nombre}
+                              </h3>
+                            </div>
                           </div>
                           <div>
                             <div>
@@ -417,7 +415,7 @@ class StreetFighter5 extends React.Component {
                         </div>
                       );
                     }
-                  })} 
+                  })}
                 </div>
               </Row>
             </Container>
