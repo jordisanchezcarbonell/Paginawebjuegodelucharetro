@@ -46,7 +46,7 @@ class Child extends React.Component {
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer
                 component={Paper}
-                className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5 "
+                className="fondoTablaTK  eliminarradius nomostrarscrollBD mt-5 "
               >
                 <h3 className="TituloAtaquesBD my-0">
                   Unique Moves
@@ -96,7 +96,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-           
+
           </Row>
         </Container>
       </div>
@@ -196,7 +196,7 @@ class TEKKEN extends React.Component {
     };
 
     return (
-      <div className="DivBDFONDO degrafado w-100 ml-0">
+      <div className="DivFONDOTK degrafado w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -223,26 +223,22 @@ class TEKKEN extends React.Component {
         </Modal>
         <div>
           <Row>
-            <Col md="3" className="fondo1">
-              <h6> {this.props.detalles[0]}</h6>
-              <img
-                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
+       
+            <Col md="7" className="fondo2TK">
+            <img
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
-                className="fotoLogoBD"
+                className="fotoLogoTK"
                 height="110vw"
-              ></img>
-            </Col>
-            <Col md="4" className="fondo2">
-              <h1 className="TextoTituloDB">{this.props.detalles.Nombre} </h1>
-            </Col>
+              ></img>            </Col>
 
             <Col md="5" style={style}></Col>
           </Row>
         </div>
 
         <div className="row">
-          <div className="w-100 mt-4">
-            <Container className="w-100  ">
+          <div className="w-100 mt-4 ">
+            <Container className="w-100   ">
               <h3 className="LetraTituloBD">Character Select</h3>
               <Row className=" w-100 stage ">
                 {/* <img
@@ -251,84 +247,47 @@ class TEKKEN extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD "
+                  className="nav nav-tabs col-md-11  w-100 mx-auto borderBotBD "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
-                    if (index <= 19) {
-                      return (
-                        <div
-                          className="CentrodoBD "
-                          align="center"
-                          key={personaje.Nombre}
-                        >
-                          <div className="DIVFOTO w-100">
-                            <div className="fotoPruebaa">
-                              <img
-                                className="FotoSF"
-                                onClick={() => this.showContent(index)}
-                                src={process.env.PUBLIC_URL + personaje.Foto}
-                                alt="imagen personaje"
-                              ></img>
-                            </div>
-                            <div className="DivNombrePJ">
-                              <h3 className="NombrePesonaje1">
-                                {personaje.Nombre}
-                              </h3>
-                            </div>{" "}
-                          </div>
-                          <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
 
-                              <div></div>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    }
-                  })}
-                </div>
-
-                <div
-                  className="nav nav-tabs col-md-6  borderBotBD"
-                  role="tablist"
-                >
-                  {this.props.Juego.map((personaje, index) => {
-                    if (index > 19) {
-                      return (
-                        <div
-                          key={personaje.Nombre}
-                          className="CentrodoBD "
-                          align="center"
-                        >
-                          <div className="DIVFOTO w-100" align="center">
+                    return (
+                      <div
+                        className="CentrodoBD mx-auto "
+                        align="center"
+                        key={personaje.Nombre}
+                      >
+                        <div className="DIVFOTO w-100">
+                          <div className="fotoPruebaa">
                             <img
-                              className="FotoBD2 "
+                              className="FotoTK"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
-                              alt="imagen logo2"
+                              alt="imagen personaje"
                             ></img>
-                            <div className="DivNombrePJ">
-                              <h3 className="NombrePesonaje1">
-                                {personaje.Nombre}
-                              </h3>
-                            </div>
                           </div>
+                          <div className="DivNombrePJ">
+                            <h3 className="NombrePesonaje1">
+                              {personaje.Nombre}
+                            </h3>
+                          </div>{" "}
+                        </div>
+                        <div>
                           <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
+                            {this.state.isItemContentVisible[index] &&
+                              this.renderContent(personaje)}
 
-                              <div></div>
-                            </div>
+                            <div></div>
                           </div>
                         </div>
-                      );
-                    }
+                      </div>
+                    );
+
                   })}
                 </div>
+
+
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (

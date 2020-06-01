@@ -1,0 +1,33 @@
+.fondoTablaTK{
+
+
+    
+}
+.fondo2TK{  
+      background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+}
+.fotoLogoTK{
+    float: right;
+    margin-top: 1.5vw;
+}
+.FotoTK{
+    cursor: pointer;
+    width: 90px !important;
+    min-width: 5vw !important;
+    height: 10vw !important;
+
+}
+.DivFONDOTK{
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+    background-repeat: repeat-x;
+    background-image: url(https://static.bandainamcoent.eu/high/tekken/tekken-7/06-characters/t7_characters_background.jpg), linear-gradient(#6e859c, #c0ccd8) ;
+}
