@@ -34,6 +34,7 @@ import DB from "./DragonBall/Dragonball";
 import UnderNightJuego from "./UnderNight/UnderNight";
 import SoulCaliburVI from "./Soulcalibur/Soulcalibur";
 import StreetFighter5 from "./StreetFighter5/StreetFighter5";
+import GAMETEKKEN from "./TEKKEN/TEKKEN";
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
@@ -379,7 +380,7 @@ height: 10vw;
     } else if (detalles.Nombre === prueba[6].Nombre) {
       return <DB detalles={detalles} Juego={Dragonball} />;
     } else if (detalles.Nombre === prueba[7].Nombre) {
-      return this.streetfighter(detalles, TEKKEN);
+      return <GAMETEKKEN detalles={detalles} Juego={TEKKEN} />;
     } else if (detalles.Nombre === prueba[8].Nombre) {
       return this.streetfighter(detalles, SSBU);
     } else if (detalles.Nombre === prueba[9].Nombre) {

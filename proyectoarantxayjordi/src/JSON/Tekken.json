@@ -2,7 +2,7 @@
   {
     "Nombre": "Leroy",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/PersonajesTekken7/Leroy-smith.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Leroy-smith.png",
     "Ataques": [
       {
         "nombreAtaque": "Light",
@@ -170,7 +170,7 @@
   {
     "Nombre": "Akuma",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/PersonajesTekken7/akuma.jpg",
+    "Foto": "imagenes/PersonajesTekken7/akuma.png",
     "Ataques": [
       {
         "nombreAtaque": "Light",
@@ -338,7 +338,7 @@
   {
     "Nombre": "Geese Howard",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Geese_Howard.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Geese_Howard.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -423,7 +423,7 @@
   {
     "Nombre": "Steve",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Steve_Fox.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Steve_Fox.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -508,7 +508,7 @@
   {
     "Nombre": "Paul",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Paul_Phoenix.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Paul_Phoenix.png",
     "Ataques": [
       {
         "nombreAtaque": "DOOM CLAW",
@@ -682,7 +682,7 @@
   {
     "Nombre": "Law",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Marshall_Law.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Marshall_Law.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -814,7 +814,7 @@
   {
     "Nombre": "Devil Jin",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Devil_Jin.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Devil_Jin.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -946,7 +946,7 @@
   {
     "Nombre": "Ganryu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Ganryu.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Ganryu.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1098,7 +1098,7 @@
   {
     "Nombre": "Kazumi",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/kazumi.jpg",
+    "Foto": "imagenes/PersonajesTekken7/kazumi.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1174,7 +1174,7 @@
   {
     "Nombre": "King",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/King_II.jpg",
+    "Foto": "imagenes/PersonajesTekken7/King_II.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1250,7 +1250,7 @@
   {
     "Nombre": "Zafina",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Zafina.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Zafina.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1326,7 +1326,7 @@
   {
     "Nombre": "Dragunov",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Sergei_Dragunov.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Sergei_Dragunov.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1478,7 +1478,7 @@
   {
     "Nombre": "Lee",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Lee.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Lee.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1554,7 +1554,7 @@
   {
     "Nombre": "Claudio",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/claudio.jpg",
+    "Foto": "imagenes/PersonajesTekken7/claudio.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1630,7 +1630,7 @@
   {
     "Nombre": "Alisa",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Alisa_Bosconovitch.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Alisa_Bosconovitch.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1706,7 +1706,7 @@
   {
     "Nombre": "Julia",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Julia.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Julia.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1782,7 +1782,7 @@
   {
     "Nombre": "Fahkumram",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Fahkumram.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Fahkumram.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -2027,7 +2027,7 @@
   {
     "Nombre": "Marduk",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Marduk.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Marduk.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -2112,7 +2112,7 @@
   {
     "Nombre": "Jack-7",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Jack-7.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Jack-7.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -2197,7 +2197,7 @@
   {
     "Nombre": "Xiaoyu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Ling_Xiaoyu.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Ling_Xiaoyu.png",
     "Ataques": [
       {
         "nombreAtaque": "DOOM CLAW",
@@ -2283,7 +2283,7 @@
   {
     "Nombre": "Bryan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Bryan_fury.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Bryan_fury.png",
     "Ataques": [
       {
         "nombreAtaque": "RUN",
@@ -2371,7 +2371,7 @@
   {
     "Nombre": "Bob",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Bob.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Bob.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -2503,7 +2503,7 @@
   {
     "Nombre": "Negan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Negan.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Negan.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -2635,7 +2635,7 @@
   {
     "Nombre": "Shaheen",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Shaheen.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Shaheen.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -2711,7 +2711,7 @@
   {
     "Nombre": "Anna",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/anna_williams.jpg",
+    "Foto": "imagenes/PersonajesTekken7/anna_williams.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -2863,7 +2863,7 @@
   {
     "Nombre": "Heihachi",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Heihachi_Mishima.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Heihachi_Mishima.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3015,7 +3015,7 @@
   {
     "Nombre": "Nina",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Nina_Williams.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Nina_Williams.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3091,7 +3091,7 @@
   {
     "Nombre": "Katarina",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Katarina.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Katarina.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3167,7 +3167,7 @@
   {
     "Nombre": "Kuma",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Kuma.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Kuma.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3243,7 +3243,7 @@
   {
     "Nombre": "Lili",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Emilie_De_Rochefort.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Emilie_De_Rochefort.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3319,7 +3319,7 @@
   {
     "Nombre": "Panda",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/panda.jpg",
+    "Foto": "imagenes/PersonajesTekken7/panda.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3395,7 +3395,7 @@
   {
     "Nombre": "Feng",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Fen_Wei.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Fen_Wei.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3471,7 +3471,7 @@
   {
     "Nombre": "Noctis",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Noctis.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Noctis.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3548,7 +3548,7 @@
   {
     "Nombre": "Eliza",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Eliza_Render.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Eliza_Render.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3624,7 +3624,7 @@
   {
     "Nombre": "Miguel",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Miguel_Caballero.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Miguel_Caballero.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3700,7 +3700,7 @@
   {
     "Nombre": "Armor King",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/armor_king.jpg",
+    "Foto": "imagenes/PersonajesTekken7/armor_king.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3852,7 +3852,7 @@
   {
     "Nombre": "Leo",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Leo_Kliesen.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Leo_Kliesen.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -3928,7 +3928,7 @@
   {
     "Nombre": "Eddy",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/eddy_Gordo.jpg",
+    "Foto": "imagenes/PersonajesTekken7/eddy_Gordo.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -4004,7 +4004,7 @@
   {
     "Nombre": "Asuka",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Asuma_Kazama.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Asuma_Kazama.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -4232,7 +4232,7 @@
   {
     "Nombre": "Yoshimitsu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesTekken7/Yoshimitsu.jpg",
+    "Foto": "imagenes/PersonajesTekken7/Yoshimitsu.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
