@@ -217,8 +217,7 @@
 }
 
 .TextoPersonajeTituloSF {
-    top: 75%;
-    transform: translate(0%, 44%);
+
     position: relative;
     bottom: 9vh;
     color: #fff;
