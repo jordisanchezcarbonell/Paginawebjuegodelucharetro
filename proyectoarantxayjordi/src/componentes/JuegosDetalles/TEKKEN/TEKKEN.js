@@ -267,11 +267,14 @@ class TEKKEN extends React.Component {
                               alt="imagen personaje"
                             ></img>
                           </div>
-                          <div className="DivNombrePJ">
-                            <h3 className="NombrePesonaje1">
+                          <h3 className="NombrePesonajeTK">
                               {personaje.Nombre}
                             </h3>
-                          </div>{" "}
+                          {/* <div className="DivNombrePJ">
+                            <h3 className="NombrePesonajeTK">
+                              {personaje.Nombre}
+                            </h3>
+                          </div>{" "} */}
                         </div>
                         <div>
                           <div>
