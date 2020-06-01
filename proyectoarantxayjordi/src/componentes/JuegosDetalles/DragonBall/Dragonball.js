@@ -438,7 +438,7 @@ class Dragonball extends React.Component {
                         >
                           <div className="DIVFOTO w-100" align="center">
                             <img
-                              className="FotoBD2 "
+                              className="FotoBD2"
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen logo2"

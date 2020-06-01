@@ -99,34 +99,35 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  /*  background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );*/
+    /*  background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );*/
 
     width: 100% !important;
 
     background-repeat: repeat-x;
-background-image: url(http://cdn26.us1.fansshare.com/photo/hdwallpaperbackgrounds/outstanding-earth-space-backgrounds-wallpaper-background-outstanding-wallpaper-hd-anime-1739729774.jpg), linear-gradient(#6e859c, #c0ccd8);
+    background-image: url(http://cdn26.us1.fansshare.com/photo/hdwallpaperbackgrounds/outstanding-earth-space-backgrounds-wallpaper-background-outstanding-wallpaper-hd-anime-1739729774.jpg), linear-gradient(#6e859c, #c0ccd8);
 }
 
-.DIVCONTENEDORTABLASSF{
-    background-color: rgba(0, 0, 0, 0.555)!important;
-width: 100%!important;
+.DIVCONTENEDORTABLASSF {
+    background-color: rgba(0, 0, 0, 0.555) !important;
+    width: 100% !important;
 }
 
 .PruebadefondoAtaquesSF {
     /*background: linear-gradient(70deg, black, white);*/
-    background-image: url(https://vignette.wikia.nocookie.net/streetfighter/images/7/7e/Dojo.jpg/revision/latest/scale-to-width-down/1000?cb=20191004230027), linear-gradient(#6e859c, #c0ccd8)!important;
+    background-image: url(https://vignette.wikia.nocookie.net/streetfighter/images/7/7e/Dojo.jpg/revision/latest/scale-to-width-down/1000?cb=20191004230027), linear-gradient(#6e859c, #c0ccd8) !important;
     margin-bottom: -6vw;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-background-repeat: repeat-x;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: repeat-x;
 
 
 
 
 }
-.PruebadefondoAtaquesSF::after{
+
+.PruebadefondoAtaquesSF::before {
 
     /*background-color: rgba(0, 0, 0, 0.555)!important;*/
     background-image: linear-gradient(90deg, rgba(190, 55, 52, 1) 0%, rgba(0, 49, 96, 1) 35%, rgba(0, 49, 98, 1) 100%);
@@ -146,11 +147,11 @@ background-repeat: repeat-x;
 
 
 .FotoBD2 {
-     width: 90px !important;
+    width: 90px !important;
     min-width: 5vw !important;
     height: 10vw !important;
     border-radius: 0 !important;
-border: 2px white solid;
+    border: 2px white solid;
     margin: 4px;
 
     transform: skewX(-15deg);
@@ -167,7 +168,7 @@ border: 2px white solid;
     min-width: 5vw !important;
     height: 10vw !important;
     border-radius: 0 !important;
-border: 2px white solid;
+    border: 2px white solid;
     margin: 4px;
     transform: skewX(15deg);
 
@@ -175,12 +176,13 @@ border: 2px white solid;
     cursor: pointer;
 
 }
+
 .FotoSF2 {
     width: 90px !important;
     min-width: 5vw !important;
     height: 10vw !important;
     border-radius: 0 !important;
-border: 2px white solid;
+    border: 2px white solid;
     margin: 4px;
     transform: skewX(-15deg);
 
@@ -196,128 +198,146 @@ border: 2px white solid;
 }
 
 
-.DIVFOTO{
+.DIVFOTO {
     position: relative;
 
 }
 
+.contenedorSF {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
 
-.TextoPersonajeTituloSF{
+.SFcentrado {
     position: absolute;
-    top: 74%;
-    left: 45%;
-    transform: translate(50%,50%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
+.TextoPersonajeTituloSF {
+    top: 75%;
+    transform: translate(0%, 44%);
+    position: relative;
+    bottom: 9vh;
+    color: #fff;
+    font-weight: bold;
 }
 
 
-.fondoTablaSF{  width: 100%;
+.fondoTablaSF {
+    width: 100%;
     max-width: 1100px;
     margin: 0.8% auto;
     border: 1px solid #a78d50;
-    background: rgba(0, 0, 0, 0.7)!important;
-    -webkit-border-radius: 6px!important;
-    -moz-border-radius: 6px!important;
+    background: rgba(0, 0, 0, 0.7) !important;
+    -webkit-border-radius: 6px !important;
+    -moz-border-radius: 6px !important;
     -ms-border-radius: 6px !important;
-    border-radius: 6px!important;
+    border-radius: 6px !important;
     -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
-    border-radius: 0.5vw!important;
+    border-radius: 0.5vw !important;
 }
 
-.colorFondoAtaquesSF{
-color:white!important;
-font-family: 'Oswald' !important;
-white-space: nowrap!important;
-font-style: oblique;
-font-size: 1.2vw!important;
+.colorFondoAtaquesSF {
+    color: white !important;
+    font-family: 'Oswald' !important;
+    white-space: nowrap !important;
+    font-style: oblique;
+    font-size: 1.2vw !important;
 }
 
-.rowSF5:hover{
-    background: rgba(150, 1, 1, 0.815)!important;
+.rowSF5:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
 
 }
-.imgAtaqueSF{
 
-    height: 1.7vw!important;
+.imgAtaqueSF {
+
+    height: 1.7vw !important;
 }
 
-.TituloAtaquesSF{
+.TituloAtaquesSF {
     color: white;
     font-size: 1.5vw;
     font-weight: 800;
-    border-bottom:  1px solid #a78d50;;
-font-style: oblique;
+    border-bottom: 1px solid #a78d50;
+    ;
+    font-style: oblique;
     font-family: "WinYuGothic", "YuGothic", "メイリオ", Meiryo, Avenir-Light, Futura, Century Gothic, -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
 
     text-transform: uppercase;
     padding-top: 10px;
-    padding-bottom:10px; 
+    padding-bottom: 10px;
 }
-.NombrePesonaje1{
+
+.NombrePesonaje1 {
     position: absolute;
     top: 70%;
     left: 30%;
     transform: translate(-50%, -50%);
     transform: scale(1.15) !important;
-    font-size: 1.1vw!important;
+    font-size: 1.1vw !important;
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    z-index: 2!important;
-    text-align: center!important;
+    z-index: 2 !important;
+    text-align: center !important;
 
 
 
 }
 
 
-.nom2{
+.nom2 {
     position: absolute;
     top: 70%;
     left: 10%;
     transform: translate(-50%, -50%);
     transform: scale(1.15) !important;
-    font-size: 1.1vw!important;
+    font-size: 1.1vw !important;
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    z-index: 2!important;
-    text-align: center!important;
+    z-index: 2 !important;
+    text-align: center !important;
 
 }
 
 
-.fotoPruebaa:hover{
-    filter:brightness(0.6)!important;  
+.fotoPruebaa:hover {
+    filter: brightness(0.6) !important;
 
 
 }
+
 .DIVFOTO:hover {
-    z-index: 1!important;
-    filter:brightness(1.1)!important;  
+    z-index: 1 !important;
+    filter: brightness(1.1) !important;
 
-   
-      transform: scale(1.05) !important;
-      /*transition: all 1s;*/
-     
+
+    transform: scale(1.05) !important;
+    /*transition: all 1s;*/
+
 }
 
-.DivNombrePJ{
+.DivNombrePJ {
     display: none;
 
 }
 
-.LetraTituloSF{
+.LetraTituloSF {
     -webkit-text-stroke: 2px black;
-    color:white;
+    color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 4vw;
     text-transform: uppercase;
 }
 
 
-.DIVFOTO:hover > .DivNombrePJ{
-    background-color: rgba(0, 0, 0, 0.274)!important;
-  display: block;
-  text-align: center!important;
+.DIVFOTO:hover>.DivNombrePJ {
+    background-color: rgba(0, 0, 0, 0.274) !important;
+    display: block;
+    text-align: center !important;
 }
