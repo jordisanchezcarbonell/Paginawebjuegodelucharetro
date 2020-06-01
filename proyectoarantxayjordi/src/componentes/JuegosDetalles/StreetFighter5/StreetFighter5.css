@@ -6,7 +6,7 @@
     font-display: swap
 }
 
-.LetraTituloBD {
+.LetraTituloSF {
     font-size: 5vw;
     font-family: "LetraBD";
 
@@ -74,43 +74,11 @@
 
 
 
-.colorFondoAtaquesBD {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-    color: black !important;
-    font-size: 1.5vw !important;
-    font-weight: 900 !important;
-    font-family: 'Oswald', sans-serif !important;
 
-    border: none;
-    width: 70%;
-
-}
-
-.fondoTablaBD {
-
-    background-color: rgba(0, 0, 0, 0) !important;
-    /*QUITAR FONDO SHADOW*/
-    box-shadow: none !important;
-
-
-}
 
 /*uhhhh*/
 
-.TituloAtaquesBD {
-    color: white;
-    font-weight: 100;
-    width: 100%;
-    font-family: "LetraBD";
-    font-size: 3vw;
 
-}
-
-.borderBotBD {
-    border-bottom: none !important;
-
-}
 
 .pruebalinea {
     height: 1px;
@@ -122,38 +90,16 @@
 }
 
 
-.nombreAtaquesBD {
-    width: 54%;
-    border: none;
-    margin-right: 0 !important;
-    padding-right: 0 !important;
-
-}
-
-.FotoFondoBD {
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    height: 8vw;
-    margin-bottom: -2vw;
 
 
-}
 
-.TextoPersonajeTituloBD {
-    margin-left: -2vw;
 
-    color: white;
-    text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
-
-}
-
-.imgAtaqueBD {
+.imgAtaqueSF {
     height: 2.2vw !important;
 
 }
 
-.DivBDFONDO {
+.DivBDFONDOSF {
     color: black;
     text-align: center;
     position: relative;
@@ -161,64 +107,29 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );
+  /*  background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );*/
 
     width: 100% !important;
 
     background-repeat: repeat-x;
-   /* background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);*/
+background-image: url(http://cdn26.us1.fansshare.com/photo/hdwallpaperbackgrounds/outstanding-earth-space-backgrounds-wallpaper-background-outstanding-wallpaper-hd-anime-1739729774.jpg), linear-gradient(#6e859c, #c0ccd8);
 }
 
-.PruebadefondoAtaques {
+.PruebadefondoAtaquesSF {
     /*background: linear-gradient(70deg, black, white);*/
-    background-color: rgba(0, 0, 0, 0.35);
-
+    background-color: rgba(0, 0, 0, 0.315)!important;
+    background-image: url(https://game.capcom.com/cfn/sfv/as/img/common/bg_pattern_en.jpg?h=9659f240e349bb2129a762e4c5d227e6);
+margin-bottom: -6vw;
 }
 
 .eliminarradius {
     border-radius: 0px !important;
 }
 
-.TituloAtaquesGB {
-
-    background-color: gray;
-    color: white;
-    font-weight: 100;
-    font-size: 2.5vw;
-    border-radius: 0px;
-    font-family: 'Marcellus', serif;
-    padding-bottom: 0.5vw !important;
-    padding-top: 0.2vw !important;
-
-}
-
-.colorFondoAtaquesGB {
-    background-color: #81abcb;
-    border: 1px white solid !important;
-    font-weight: 600 !important;
-    font-family: 'Marcellus', serif !important;
-}
-
-.nombreAtaquesGB {
-    font-family: 'Tenor Sans', sans-serif;
-    background-color: white;
-    border-bottom: 1px black solid !important;
-
-    color: black !important;
-
-}
-
-.fondoTablaGB {
-    border-radius: 100 !important;
-}
 
 
-.TextoTituloDB {
-    color: white;
-    margin-top: 3vw;
-    margin-left: -3vw !important;
 
-}
+
 
 .FotoBD2 {
      width: 90px !important;
@@ -250,6 +161,20 @@ border: 2px white solid;
     cursor: pointer;
 
 }
+.FotoSF2 {
+    width: 90px !important;
+    min-width: 5vw !important;
+    height: 10vw !important;
+    border-radius: 0 !important;
+border: 2px white solid;
+    margin: 4px;
+    transform: skewX(-15deg);
+
+
+    cursor: pointer;
+
+}
+
 
 
 .fotoLogoBD {
@@ -261,6 +186,93 @@ border: 2px white solid;
     position: relative;
 
 }
+
+
+.TextoPersonajeTituloSF{
+    position: absolute;
+    top: 66%;
+    left: 45%;
+    transform: translate(0%,44%);
+
+}
+
+
+.fondoTablaSF{  width: 100%;
+    max-width: 1100px;
+    margin: 0.8% auto;
+    border: 1px solid #a78d50;
+    background: rgba(0, 0, 0, 0.7)!important;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 0.5vw!important;
+}
+
+.colorFondoAtaquesSF{
+color:white!important;
+font-family: 'Oswald' !important;
+white-space: nowrap!important;
+font-style: oblique;
+font-size: 1.2vw!important;
+}
+
+.rowSF5:hover{
+    background: rgba(150, 1, 1, 0.815)!important;
+
+}
+.imgAtaqueSF{
+
+    height: 1.7vw!important;
+}
+
+.TituloAtaquesSF{
+    color: white;
+    font-size: 1.5vw;
+    font-weight: 800;
+    border-bottom:  1px solid #a78d50;;
+font-style: oblique;
+    font-family: "WinYuGothic", "YuGothic", "メイリオ", Meiryo, Avenir-Light, Futura, Century Gothic, -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
+
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom:10px; 
+}
+.NombrePesonaje1{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    transform: scale(1.15) !important;
+    font-size: 1.1vw!important;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: 2!important;
+    text-align: center!important;
+
+
+
+}
+
+
+.nom2{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    transform: scale(1.15) !important;
+    font-size: 1.1vw!important;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: 2!important;
+    text-align: center!important;
+
+}
+
+
 .fotoPruebaa:hover{
     filter:brightness(0.6)!important;  
 
@@ -268,34 +280,30 @@ border: 2px white solid;
 }
 .DIVFOTO:hover {
     z-index: 1!important;
-    filter:brightness(0.6)!important;  
+    filter:brightness(1.1)!important;  
 
    
-      transform: scale(1.1) !important;
+      transform: scale(1.05) !important;
       /*transition: all 1s;*/
      
 }
-.NombrePesonaje1{
-    position: absolute;
-    top: 50%;
-    left: 20%;
-    transform: translate(-50%, -50%);
-    transform: scale(1.15) !important;
-    font-size: 1.1vw!important;
-    color: white;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    z-index: 2!important;
-
-}
 
 .DivNombrePJ{
-
     display: none;
 
 }
 
+.LetraTituloSF{
+    -webkit-text-stroke: 2px black;
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4vw;
+    text-transform: uppercase;
+}
+
 
 .DIVFOTO:hover > .DivNombrePJ{
+    background-color: rgba(0, 0, 0, 0.274)!important;
   display: block;
-  z-index: 2!important;
+  text-align: center!important;
 }

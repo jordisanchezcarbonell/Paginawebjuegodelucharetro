@@ -12,6 +12,8 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
+import imagenLetraSF5 from "./fondo_nombreSF5.jpg";
+
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -28,31 +30,30 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaques"
+        className="PruebadefondoAtaquesSF"
         key={this.props.elemento.Nombre}
       >
         {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
           </img> */}
 
-        <div className="fondoproba enter">
-         
+        <div className=" enter mt-4">
+         <img src={imagenLetraSF5} className="w-100"></img>
 
-          <h3 className="TextoPersonajeTituloBD">
+          <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
           </h3>
 
           <div className="rule "></div>
         </div>
-        <Container className=" ">
-          <Row className="w-100  px-0 mx-0 ">
+        <Container className="DIVCONTENEDORTABLASSF w-100">
+          <Row className="w-100  px-0 mx-auto  ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer
                 component={Paper}
-                className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5 "
+                className="fondoTablaSF  eliminarradius nomostrarscrollBD mt-4 "
               >
-                <h3 className="TituloAtaquesBD my-0">
+                <h3 className="TituloAtaquesSF my-0">
                   Unique Moves
-                  <hr className="pruebalinea" />
                 </h3>
 
                 <Table
@@ -62,9 +63,9 @@ class Child extends React.Component {
                 >
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.UniqueMoves.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5  rowSF5 ">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -74,7 +75,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesBD py-2 tablaborderabajo"
+                            className="  nombreAtaquesSF py-2 tablaborderabajo pr-2"
                             component="td"
                             align="right"
                           >
@@ -82,7 +83,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className="imgAtaqueSF"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -99,18 +100,17 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6 ">
-              <TableContainer className=" fondoTablaBD  mt-5">
-                <h3 className="TituloAtaquesBD my-0 w-100">
+              <TableContainer className=" fondoTablaSF  mt-4">
+                <h3 className="TituloAtaquesSF my-0 w-100">
                   Special Moves
-                  <hr className="pruebalinea" />
                 </h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
-                      <TableRow key={index} className="mx-5">
+                      <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD  nomostrarscrollBD tablaborderabajo"
+                          className="  py-2 colorFondoAtaquesSF  nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -120,7 +120,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesBD py-2 tablaborderabajo"
+                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
                             align="right"
                             component="td"
                           >
@@ -128,7 +128,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className="imgAtaqueSF"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -144,18 +144,17 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">
+              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+                <h3 className="TituloAtaquesSF my-0">
                   Critical Art
-                  <hr className="pruebalinea" />
                 </h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
                     {this.props.elemento.CriticalArt.map((Ataque, index) => (
-                      <TableRow key={index} className="mx-5">
+                      <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"
@@ -166,14 +165,14 @@ class Child extends React.Component {
                         {
                           <TableCell
                             component="td"
-                            className="  nombreAtaquesBD py-2 tablaborderabajo"
+                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
                             align="right"
                           >
                             {Ataque.Animacion.map(
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className="imgAtaqueSF"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -290,7 +289,7 @@ class StreetFighter5 extends React.Component {
     };
 
     return (
-      <div className="DivBDFONDO degrafado w-100 ml-0">
+      <div className="DivBDFONDOSF degrafado w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -335,17 +334,17 @@ class StreetFighter5 extends React.Component {
         </div>
 
         <div className="row">
-          <div className="w-100 mt-4">
-            <Container className="w-100  ">
-              <h3 className="LetraTituloBD">Character Select</h3>
-              <Row className=" w-100 stage ">
+          <div className="w-100 mt-4 mb-4 ">
+            <Container className="w-100 mx-auto  ">
+              <h3 className="LetraTituloSF mb-4">Character Select</h3>
+              <Row className=" w-100 stage  ml-4">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD "
+                  className="nav nav-tabs col-md-6  borderBotBD  "
                   role="tablist"
                 >
                  {this.props.Juego.map((personaje, index) => {
@@ -365,7 +364,7 @@ class StreetFighter5 extends React.Component {
                               alt="imagen personaje"
                             ></img>
                             </div>
- <div className="DivNombrePJ">
+                        <div className="DivNombrePJ">
                              <h3 className="NombrePesonaje1">{personaje.Nombre}</h3>
                              </div>                          </div>
                           <div>
@@ -395,14 +394,16 @@ class StreetFighter5 extends React.Component {
                           align="center"
                         >
                           <div className="DIVFOTO w-100" align="center">
+                          <div className="fotoPruebaa">
                             <img
-                              className="FotoBD2 "
+                              className="FotoSF2 "
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen logo2"
                             ></img>
+                            </div>
                             <div className="DivNombrePJ">
-                             <h3 className="NombrePesonaje1">{personaje.Nombre}</h3>
+                             <h3 className="NombrePesonaje1 nom2">{personaje.Nombre}</h3>
                              </div>
                           </div>
                           <div>
