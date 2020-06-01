@@ -30,13 +30,13 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaquesSF"
+        className="PruebadefondoAtaquesSF DIVCONTENEDORTABLASSF"
         key={this.props.elemento.Nombre}
       >
         {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
           </img> */}
 
-        <div className=" enter mt-4">
+        <div className=" enter mt-4 pROSF">
          <img src={imagenLetraSF5} className="w-100"></img>
 
           <h3 className="TextoPersonajeTituloSF">
@@ -45,12 +45,12 @@ class Child extends React.Component {
 
           <div className="rule "></div>
         </div>
-        <Container className="DIVCONTENEDORTABLASSF w-100">
+        <Container className="  w-100">
           <Row className="w-100  px-0 mx-auto  ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer
-                component={Paper}
-                className="fondoTablaSF  eliminarradius nomostrarscrollBD mt-4 "
+               
+                className="fondoTablaSF   nomostrarscrollBD mt-4  "
               >
                 <h3 className="TituloAtaquesSF my-0">
                   Unique Moves
