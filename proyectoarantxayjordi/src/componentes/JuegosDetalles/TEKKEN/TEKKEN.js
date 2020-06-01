@@ -34,8 +34,8 @@ class Child extends React.Component {
         {/* <img  className="FotoFondoBD" src={fondoFotoNombre}>
           </img> */}
 
-        <div className="fondoproba enter">
-          <h3 className="TextoPersonajeTituloBD">
+        <div className="fondonombreTK enter">
+          <h3 className="TextoPersonajeTituloTK">
             {this.props.elemento.Nombre}
           </h3>
 
