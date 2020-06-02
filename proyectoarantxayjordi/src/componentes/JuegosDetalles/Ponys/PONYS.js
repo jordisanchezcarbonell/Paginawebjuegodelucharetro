@@ -316,10 +316,12 @@ class PONYS extends React.Component {
 
       display: "block",
       backgroundImage:
-        "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
+        "linear-gradient(to left, rgba(255,255,255,0),#97033a), url(" +
         this.props.detalles.Rooter +
         ")",
       backgroundRepeat: "no-repeat",
+
+      // #a61d4f
     };
 
     return (
@@ -350,20 +352,17 @@ class PONYS extends React.Component {
         </Modal>
         <div>
           <Row>
-            <Col md="3" className="fondo1">
-              <h6> {this.props.detalles[0]}</h6>
-              <img
-                src={process.env.PUBLIC_URL + this.props.detalles.Logo}
+         
+
+            <Col md="8" className="fondo2Ponys px-0">
+            <img
+                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
-                className="fotoLogoKI"
+                className="fotoLogoPonys "
                 height="110vw"
               ></img>
             </Col>
-
-            <Col md="4" className="fondo2">
-              <h1 className="TituloJuego">{this.props.detalles.Nombre} </h1>
-            </Col>
-            <Col md="5" style={style}></Col>
+            <Col md="4 px-0" style={style}></Col>
           </Row>
         </div>
 
