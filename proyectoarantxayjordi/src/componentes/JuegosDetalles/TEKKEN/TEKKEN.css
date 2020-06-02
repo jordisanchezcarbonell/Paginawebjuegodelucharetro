@@ -124,7 +124,7 @@ font-size: 3vw;
     top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color:black;
+    color:white;
     font-size: 1vw;
 font-weight: 800;
 opacity: 0;
@@ -143,11 +143,43 @@ opacity: 0;
 
 /*    filter: brightness(0.6) !important;
 */
+.DIVFOTOTK{
+    position: relative;
+}
+
+.DIVFOTOTK:before,
+.separator:before {
+content: "";
+display: block;
+position: absolute;
+/* Todas las posiciones a cero */
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background: none;
+}
+.DIVFOTOTK:hover:before {
+    margin-top:  4%!important;;
+    margin-bottom: 4%!important;
+background: rgba(172, 3, 3, 0.438); /*Sepia*/
+
+}
+
+
+
+/*
+
+
+
 div.DIVFOTOTK .FotoTK:hover {
  
     background-color: red;
     background-blend-mode: hard-light!important;
-}
+}*/
+
+
+
 
 div.DIVFOTOTK:hover h3{
     opacity: 1;

@@ -1,5 +1,65 @@
-.FotoMV{
-border:2px rgb(219, 149, 18) solid;
+.FotoMC{
+border:2.5px rgb(219, 149, 18) solid;
 
 height: 5vw;
+filter: sepia(60%);
+
+
+}
+
+
+
+.DIVcolorear {
+    position: relative;
+    /* Estas dos propiedades sólo sirven para centrar */
+    display: table;
+    margin:0 auto;
+    }
+    /* Y esta para evitar el margin automático de Blogger en los enlaces */
+  
+    .DIVcolorear:before,
+    .separator:before {
+    content: "";
+    display: block;
+    position: absolute;
+    /* Todas las posiciones a cero */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: none;
+    }
+    .DIVcolorear:hover:before {
+    background: rgba(255,102,0, 0.5); /*Sepia*/
+
+    }
+
+
+
+
+
+
+/*filter: brightness(0.4);
+filter: saturate(30%);
+filter: sepia(60%);
+
+*/
+.DivFotoMC{
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 50%!important;
+
+}
+
+/*https://www.fightersgeneration.com/newspics/bg-red5.gif*/
+
+.DivFONDOSMC{
+
+
+    background-image: url(https://www.fightersgeneration.com/newspics/bg-red5.gif);
+}
+.FotoMC:hover{
+    filter: grayscale(0%);
+
 }

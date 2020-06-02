@@ -381,7 +381,7 @@
   {
     "Nombre": "Mega Man",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Mega_man.jpg",
+    "Foto":"imagenes/MvsC2/Mega_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Mega_man.jpg",
     "Ataques": [
       {
@@ -908,7 +908,7 @@
   {
     "Nombre": "Thanos",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Tahnos.jpg",
+    "Foto":"imagenes/MvsC2/Thanos.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Thanos.jpg",
     "Ataques": [
       {

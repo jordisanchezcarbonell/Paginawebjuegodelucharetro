@@ -5,13 +5,13 @@ import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
 import TableRow from "@material-ui/core/TableRow";
-import Paper from "@material-ui/core/Paper";
 import { Container, Row, Col } from "reactstrap";
 import "./MarvelVSCapcom.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
+import fotodesc from "./descarga.jpg";
 
 // get our fontawesome imports
 
@@ -276,7 +276,7 @@ class MarvelVSCapcom extends React.Component {
     };
 
     return (
-      <div className="DivBDFONDOSF degrafado w-100 ml-0">
+      <div className="DivFONDOSMC degrafado w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -327,8 +327,12 @@ class MarvelVSCapcom extends React.Component {
               <Row className=" w-100 stage  ml-4">
             
 
+
+
+   
+
                 <div
-                  className="col-md-11  nav borderBotBD  "
+                  className="col-md-11 mx-auto nav borderBotBD   "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -339,10 +343,10 @@ class MarvelVSCapcom extends React.Component {
                           align="center"
                           key={personaje.Nombre}
                         >
-                          <div className=" w-100">
+                          <div className=" DivFotoMC w-100">
                      
                               <img
-                                className="FotoMV"
+                                className="FotoMC"
                                 onClick={() => this.showContent(index)}
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 alt="imagen personaje"
