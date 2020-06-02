@@ -370,23 +370,23 @@ class PONYS extends React.Component {
 
         <div className="row  rowGlobalPonys ">
           <div className="w-100 mt-4">
-            <Container className="w-100 px-0 mx-auto ">
+            <Container className=" containerPonys">
               <h3 className="LetraCharacterPonys">Character Select</h3>
 
-              <Row className=" w-100  mx-auto">
-                <div className=" w-100 nav " role="tablist">
+              <Row className=" w-100  ">
+                <div className=" w-100 nav  probaaPonys  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
                         key={personaje.Nombre}
-                        className=" divImagenPonys mx-0 px-0  "
+                        className=" divImagenPonys   "
                         // data-toggle="tab"
                         //  role="tab"
                         //   aria-selected="false"
                       >
                         <Image
                           href="#una-id"
-                          className="ImagenPonys  "
+                          className="ImagenPonys mx-auto "
                           onClick={() => this.showContent(index)}
                           src={process.env.PUBLIC_URL + personaje.Foto}
                           fluid

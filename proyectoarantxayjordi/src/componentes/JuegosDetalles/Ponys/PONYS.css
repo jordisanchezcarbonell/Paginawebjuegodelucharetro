@@ -42,17 +42,35 @@
     margin-top: -0.5vw;
 }
 
+@supports(object-fit: cover){
+    .divImagenPonys img{
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+    }
+}
+.containerPonys{
+    min-width: 100%!important;
+    width: 100%!important;
+    margin:0!important;
+    padding:0!important;
+
+}
+
 .ImagenPonys {
     height: auto;
+    width: 10vw;
     background: #fff;
     filter: grayscale(90%);
 
-    width: 12vw;
+
+    border: none;
+    padding: 0;
+   
+
+    cursor: pointer;
 
 
-
-
-    background: #fff;
     background-image: initial;
     background-position-x: initial;
     background-position-y: initial;
@@ -67,19 +85,14 @@
 
 
 
-    border: none;
-    padding: 0;
-    display: inline-block;
-    max-width: 100%;
-    height: auto;
-    image-rendering: optimizeQuality;
-
-    cursor: pointer;
 
 }
+.probaaPonys{
+    margin:0 auto!important;
+    margin-left:20%!important;
 
+}
 .divImagenPonys {
-
 
     background-position: -9999px -9999px;
     background-size: cover !important;
