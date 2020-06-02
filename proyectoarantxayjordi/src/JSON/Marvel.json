@@ -774,18 +774,76 @@
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/MvsC2/Dhalsim.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dhalsim.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Yoga Fire",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Yoga Flame",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Yoga Blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Yoga Smash",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
       },
       {
-        "nombreAtaque": "FRIKIIIIII",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Flight",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Yoga Inferno",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Yoga Strike",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Yoga Fire",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Yoga Flame",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": " Yoga Blast",
+        "Animacion": ["imagenes/AtaquesMVC2/Lk.png"]
       }
     ]
   },
@@ -794,15 +852,57 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Blackheart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Blackheart.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Inferno",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Dark Thunder",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180rf.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Armageddon",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Heart of Darkness",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Judgment Day",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Dark Thunder",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": " Inferno",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -811,15 +911,65 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Psylocke.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Psylocke.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Psi-Blast",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Psi-Blade Spin",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ninjutsu",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/K.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Psi-Thrust",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Psi-Maelstrom",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kochou Gakure",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": " Psi-Blade Spin",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": " Psi-Blast",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -828,15 +978,76 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Captain_Commando.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Captain Fire",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Captain Corridor",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Captain Kick",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Captain Strike: Sho",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Captain Strike: Hoover",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Captain Sword",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Captain Storm",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Captain Fire",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Captain Corridor",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Yoga Blast",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
       }
     ]
   },
@@ -845,15 +1056,69 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Tron_Bonne.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Beacon Bomb",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Kobun Launch (Shikidan)",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bonne Strike",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Air Forward Dash",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Lp.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Lunch Rush (Chuushoku Rush)",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "King Kobun",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Throw",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": " Captain Corridor",
+        "Animacion": ["imagenes/AtaquesMVC2/Lk.png"]
+      },
+      {
+        "nombreAtaque": " Crouching",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
       }
     ]
   },
@@ -862,15 +1127,76 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Ruby_Heart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Cheval Seller",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Sublimation",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fantome",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Rafale Cannon",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/1810lf.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Flan Mer",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pare-tonn're",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Milles Fantomes",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Sublimination",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": "Rafale Canon",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Power Up Orb",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
       }
     ]
   },
@@ -879,15 +1205,64 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Omega_red.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Omega_red.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Carbnadium Coil",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/Hp.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Death Factor",
+        "Animacion": ["imagenes/AtaquesMVC2/L.png"]
+      },
+      {
+        "nombreAtaque": "Energy Drain",
+        "Animacion": ["imagenes/AtaquesMVC2/K.png"]
+      },
+
+      {
+        "nombreAtaque": "Omega Strike",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Omega Destroyer",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Carbnadium Smash",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Coil flip",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": " Omega Strike",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": " Ground Coil Strike",
+        "Animacion": ["imagenes/AtaquesMVC2/Db.png"]
       }
     ]
   },
@@ -896,15 +1271,49 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Colossus.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Colossus.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Giant Swing",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Power Tackle",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Super Dive",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Super Armor",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Power Tackle",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": "Power Tackle",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
       }
     ]
   },
