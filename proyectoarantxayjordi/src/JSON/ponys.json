@@ -4,6 +4,7 @@
     "Descripcion": "Ryu .",
     "Foto": "imagenes/ponys2/arizona.png",
     "Foto2": "imagenes/ponys2/arizonaResponsive.png",
+    "fondo": "imagenes/ponys2/wallarizona.jpg",
     "Basics": [
       {
         "nombreAtaque": "Light",

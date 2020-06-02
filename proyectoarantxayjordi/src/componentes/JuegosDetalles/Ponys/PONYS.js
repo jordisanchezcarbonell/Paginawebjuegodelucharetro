@@ -24,73 +24,30 @@ class Child extends React.Component {
   }
 
   render() {
-    const style = {
-      backgroundPosition: "right right",
-      backgroundSize: "cover",
-
-      display: "block",
+    const fondopersonaje = {
       backgroundImage:
-        "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
-        this.props.elemento.Foto2 +
-        ")",
-      backgroundRepeat: "no-repeat",
+        "url(" + process.env.PUBLIC_URL + this.props.elemento.fondo + ")",
+      WebkitBackgroundSize: "cover",
+      MozBackgroundSize: "cover",
+      OBackgroundSize: "cover",
+      backgroundSize: "cover",
+      color: "black",
+      backgroundPosition: "center center",
+      backgroundAttachment: "fixed",
+      height: "42vw",
     };
     return (
       <div
         id="section1"
-        style={{ width: "100%" }}
+        style={({ width: "100%" }, fondopersonaje)}
         key={this.props.elemento.Nombre}
-        className="DivPonysGlobal"
+        className=""
       >
         <div className="products">
           <h3>{this.props.elemento.Nombre}</h3>
         </div>
         <Row className="w-100  px-0 mx-0">
           <Col className="col-md-6 w-100 mb-5">
-            <TableContainer
-              component={Paper}
-              className="fondoTablaGB  eliminarradius mt-5"
-            >
-              <h3 className="TituloAtaquesGB my-0">Basics</h3>
-
-              <Table
-                stickyHeader
-                aria-label="sticky table"
-                className="nomostrarscroll"
-              >
-                <TableBody className="nomostrarscroll">
-                  {this.props.elemento.Basics.map((Ataque, index) => (
-                    <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
-                      <TableCell
-                        className="  py-2 colorFondoAtaquesGB "
-                        scope="row"
-                        component="td"
-                        align="left"
-                      >
-                        {Ataque.nombreAtaque}
-                      </TableCell>
-
-                      {
-                        <TableCell
-                          className="  nombreAtaquesGB py-2"
-                          component="td"
-                          align="right"
-                        >
-                          {Ataque.Animacion.map((animaciondelataque, index) => (
-                            <Image
-                              key={index}
-                              className="imgAtaqueGB"
-                              src={process.env.PUBLIC_URL + animaciondelataque}
-                              fluid
-                            />
-                          ))}
-                        </TableCell>
-                      }
-                    </TableRow>
-                  ))}
-                </TableBody>
-              </Table>
-            </TableContainer>
             <Col className="col-md-6 ">
               <TableContainer className=" fondoTablaSF  mt-4">
                 <h3 className="TituloAtaquesSF my-0 w-100">Unique Movement</h3>
