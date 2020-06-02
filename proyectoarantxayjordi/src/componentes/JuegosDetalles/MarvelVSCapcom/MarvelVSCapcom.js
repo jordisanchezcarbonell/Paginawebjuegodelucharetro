@@ -33,7 +33,6 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className=" enter mt-4 pROSF ">
-
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
           </h3>
@@ -44,7 +43,7 @@ class Child extends React.Component {
           <Row className="w-100  px-0 mx-auto  ">
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
-                <h3 className="TituloAtaquesSF my-0">Unique Moves</h3>
+                <h3 className="TituloAtaquesSF my-0">Special Moves</h3>
 
                 <Table
                   stickyHeader
@@ -52,7 +51,7 @@ class Child extends React.Component {
                   className="nomostrarscroll "
                 >
                   <TableBody className="nomostrarscrollBD">
-                    {this.props.elemento.UniqueMoves.map((Ataque, index) => (
+                    {this.props.elemento.SpecialMoves.map((Ataque, index) => (
                       <TableRow
                         key={Ataque.nombreAtaque}
                         className="mx-5  rowSF5 "
@@ -94,11 +93,11 @@ class Child extends React.Component {
             </Col>
             <Col className="col-md-6 ">
               <TableContainer className=" fondoTablaSF  mt-4">
-                <h3 className="TituloAtaquesSF my-0 w-100">Special Moves</h3>
+                <h3 className="TituloAtaquesSF my-0 w-100">Super Moves</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
-                    {this.props.elemento.SpecialMoves.map((Ataque, index) => (
+                    {this.props.elemento.SuperMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesSF  nomostrarscrollBD tablaborderabajo"
@@ -136,11 +135,11 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaSF  mt-2 mb-4">
-                <h3 className="TituloAtaquesSF my-0">Critical Art</h3>
+                <h3 className="TituloAtaquesSF my-0">AssistMoves</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
-                    {this.props.elemento.CriticalArt.map((Ataque, index) => (
+                    {this.props.elemento.AssistMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesSF tablaborderabajo "
@@ -325,54 +324,38 @@ class MarvelVSCapcom extends React.Component {
             <Container className="w-100 mx-auto  ">
               <h3 className="LetraTituloSF mb-4">Character Select</h3>
               <Row className=" w-100 stage  ml-4">
-            
-
-
-
-   
-
                 <div
                   className="col-md-11 mx-auto nav borderBotBD   "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
-                
-                      return (
-                        <div
-                          className=" "
-                          align="center"
-                          key={personaje.Nombre}
-                        >
-                          <div className=" DivFotoMC w-100">
-                     
-                              <img
-                                className="FotoMC"
-                                onClick={() => this.showContent(index)}
-                                src={process.env.PUBLIC_URL + personaje.Foto}
-                                alt="imagen personaje"
-                              ></img>
-                          
-                            <div className="DivNombrePJ">
-                              <h3 className="NombrePesonaje1">
-                                {personaje.Nombre}
-                              </h3>
-                            </div>{" "}
-                          </div>
+                    return (
+                      <div className=" " align="center" key={personaje.Nombre}>
+                        <div className=" DivFotoMC w-100">
+                          <img
+                            className="FotoMC"
+                            onClick={() => this.showContent(index)}
+                            src={process.env.PUBLIC_URL + personaje.Foto}
+                            alt="imagen personaje"
+                          ></img>
+                          <div className="DivNombrePJ">
+                            <h3 className="NombrePesonaje1">
+                              {personaje.Nombre}
+                            </h3>
+                          </div>{" "}
+                        </div>
+                        <div>
                           <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
+                            {this.state.isItemContentVisible[index] &&
+                              this.renderContent(personaje)}
 
-                              <div></div>
-                            </div>
+                            <div></div>
                           </div>
                         </div>
-                      );
-                    
+                      </div>
+                    );
                   })}
                 </div>
-
-        
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (
