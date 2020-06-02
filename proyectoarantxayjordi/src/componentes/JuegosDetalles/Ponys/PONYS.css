@@ -1,4 +1,6 @@
-.rowGlobalPonys {
+.rowGlobalPonys {}
+
+.DivPonysGlobal {
     color: black;
     text-align: center;
     position: relative;
@@ -72,7 +74,7 @@
 
     border: none;
     padding: 0;
-    margin: 0;
+    margin: 2vh;
     display: inline-block;
     max-width: 100%;
     height: auto;
