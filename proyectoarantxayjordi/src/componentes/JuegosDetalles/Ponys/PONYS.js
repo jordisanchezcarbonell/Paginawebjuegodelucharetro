@@ -51,7 +51,7 @@ class Child extends React.Component {
               component={Paper}
               className="fondoTablaGB  eliminarradius mt-5"
             >
-              <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
+              <h3 className="TituloAtaquesGB my-0">Basics</h3>
 
               <Table
                 stickyHeader
@@ -59,7 +59,7 @@ class Child extends React.Component {
                 className="nomostrarscroll"
               >
                 <TableBody className="nomostrarscroll">
-                  {this.props.elemento.Ataques.map((Ataque, index) => (
+                  {this.props.elemento.Basics.map((Ataque, index) => (
                     <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
                       <TableCell
                         className="  py-2 colorFondoAtaquesGB "
@@ -91,6 +91,175 @@ class Child extends React.Component {
                 </TableBody>
               </Table>
             </TableContainer>
+            <Col className="col-md-6 ">
+              <TableContainer className=" fondoTablaSF  mt-4">
+                <h3 className="TituloAtaquesSF my-0 w-100">Unique Movement</h3>
+
+                <Table className="nomostrarscrollBD">
+                  <TableBody className="nomostrarscrollBD">
+                    {this.props.elemento.Uniquemovement.map((Ataque, index) => (
+                      <TableRow key={index} className="mx-5 rowSF5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesSF  nomostrarscrollBD tablaborderabajo"
+                          scope="row"
+                          component="td"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                            align="right"
+                            component="td"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueSF"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+
+              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+                <h3 className="TituloAtaquesSF my-0">Magic Sytem</h3>
+
+                <Table className="nomostrarscrollBD">
+                  <TableBody>
+                    {this.props.elemento.MAGICSYSTEM.map((Ataque, index) => (
+                      <TableRow key={index} className="mx-5 rowSF5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
+                          component="td"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            component="td"
+                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueSF"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+
+              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+                <h3 className="TituloAtaquesSF my-0">Specials</h3>
+
+                <Table className="nomostrarscrollBD">
+                  <TableBody>
+                    {this.props.elemento.Specials.map((Ataque, index) => (
+                      <TableRow key={index} className="mx-5 rowSF5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
+                          component="td"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            component="td"
+                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueSF"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+
+              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+                <h3 className="TituloAtaquesSF my-0">Superattacks</h3>
+
+                <Table className="nomostrarscrollBD">
+                  <TableBody>
+                    {this.props.elemento.SUPERATTACKS.map((Ataque, index) => (
+                      <TableRow key={index} className="mx-5 rowSF5">
+                        <TableCell
+                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
+                          component="td"
+                          scope="row"
+                          align="left"
+                        >
+                          {Ataque.nombreAtaque}
+                        </TableCell>
+
+                        {
+                          <TableCell
+                            component="td"
+                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                            align="right"
+                          >
+                            {Ataque.Animacion.map(
+                              (animaciondelataque, index) => (
+                                <Image
+                                  key={index}
+                                  className="imgAtaqueSF"
+                                  src={
+                                    process.env.PUBLIC_URL + animaciondelataque
+                                  }
+                                  fluid
+                                />
+                              )
+                            )}
+                          </TableCell>
+                        }
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </TableContainer>
+            </Col>
           </Col>
         </Row>
       </div>

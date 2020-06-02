@@ -2,8 +2,9 @@
   {
     "Nombre": "ARIZONA",
     "Descripcion": "Ryu .",
-    "Foto": "imagenes/Ponys/ARIZONA.png",
-    "Ataques": [
+    "Foto": "imagenes/ponys2/arizona.png",
+    "Foto2": "imagenes/ponys2/arizonaResponsive.png",
+    "Basics": [
       {
         "nombreAtaque": "Light",
         "Animacion": ["imagenes/imagenesataques/Light.png"]
@@ -28,6 +29,7 @@
           "imagenes/imagenesataques/Dd_right.png"
         ]
       },
+
       {
         "nombreAtaque": "Dush Right",
         "Animacion": [
@@ -64,8 +66,13 @@
           "imagenes/imagenesataques/Medium.png",
           "imagenes/imagenesataques/Heavy.png"
         ]
+      }
+    ],
+    "Uniquemovement": [
+      {
+        "nombreAtaque": "RUN",
+        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
       },
-
       {
         "nombreAtaque": "Eat",
         "Animacion": ["imagenes/imagenesataques/Light.png"]
@@ -101,6 +108,15 @@
         ]
       },
       {
+        "nombreAtaque": "ELBOW DROP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_Right.png",
+          "imagenes/imagenesataques/Button_B.png"
+        ]
+      }
+    ],
+    "MAGICSYSTEM": [
+      {
         "nombreAtaque": "MAGIC STOMP",
         "Animacion": [
           "imagenes/imagenesataques/Directions_DoubleDown.png",
@@ -114,31 +130,7 @@
           "imagenes/imagenesataques/Button_D.png"
         ]
       },
-      {
-        "nombreAtaque": "STOMP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_DoubleDown.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "HEADBUCK",
-        "Animacion": [
-          "imagenes/imagenesataques/QCF.png",
-          "imagenes/imagenesataques/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "ELBOW DROP",
-        "Animacion": [
-          "imagenes/imagenesataques/Directions_Right.png",
-          "imagenes/imagenesataques/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "RUN",
-        "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
-      },
+
       {
         "nombreAtaque": "MAGIC DASH",
         "Animacion": [
@@ -152,7 +144,26 @@
           "imagenes/imagenesataques/QCB.png",
           "imagenes/imagenesataques/Button_D.png"
         ]
+      }
+    ],
+    "Specials": [
+      {
+        "nombreAtaque": "STOMP",
+        "Animacion": [
+          "imagenes/imagenesataques/Directions_DoubleDown.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
       },
+      {
+        "nombreAtaque": "HEADBUCK",
+        "Animacion": [
+          "imagenes/imagenesataques/QCF.png",
+          "imagenes/imagenesataques/Atk.png"
+        ]
+      }
+    ],
+
+    "SUPERATTACKS": [
       {
         "nombreAtaque": "LVL 1 – TRAMPLE",
         "Animacion": [
@@ -172,7 +183,8 @@
   {
     "Nombre": "VELVET",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/Ponys/VELVET.png",
+    "Foto": "imagenes/ponys2/velvet.png",
+    "Foto2": "imagenes/ponys2/velvetResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -259,7 +271,8 @@
   {
     "Nombre": "OLEANDER",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/Ponys/OLEANDER.png",
+    "Foto": "imagenes/ponys2/oleander.png",
+    "Foto2": "imagenes/ponys2/oleanderResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "DOOM CLAW",
@@ -345,7 +358,8 @@
   {
     "Nombre": "PAPRIKA",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/Ponys/PAPRIKA.png",
+    "Foto": "imagenes/ponys2/paprika.png",
+    "Foto2": "imagenes/ponys2/paprikaResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "RUN",
@@ -407,7 +421,7 @@
         ]
       },
       {
-        "nombreAtaque": "KISS!",
+        "nombreAtaque": "GIFT, CINNAMON ROLL",
         "Animacion": [
           "imagenes/imagenesataques/Directions_Left.png",
           "imagenes/imagenesataques/Button_D.png"
@@ -435,7 +449,8 @@
   {
     "Nombre": "POM",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/Ponys/POM.png",
+    "Foto": "imagenes/ponys2/pom.png",
+    "Foto2": "imagenes/ponys2/pomResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -571,7 +586,8 @@
   {
     "Nombre": "TIANHUO",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/Ponys/TIANHUO.png",
+    "Foto": "imagenes/ponys2/tianhuo.png",
+    "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
