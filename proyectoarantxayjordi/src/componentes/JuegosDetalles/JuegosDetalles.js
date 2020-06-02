@@ -16,14 +16,12 @@ import Juegos from "../../JSON/juegos.json";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import ponys from "../../JSON/ponys.json";
-import data from "../../JSON/Personajes.json";
 import MARVEL from "../../JSON/Marvel.json";
 import Dragonball from "../../JSON/DragonBall.json";
 import UnderNight from "../../JSON/UnderNight.json";
 import StreetFighterV from "../../JSON/StreetFighter5.json";
 
 import TEKKEN from "../../JSON/Tekken.json";
-import SSBU from "../../JSON/SSBU.json";
 import SoulCalibur from "../../JSON/SoulCalibur.json";
 import Granblue from "../../JSON/GranBlue.json";
 import ReactPlayer from "react-player";

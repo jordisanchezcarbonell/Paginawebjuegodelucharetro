@@ -8,59 +8,59 @@
     "SpecialMoves": [
       {
         "nombreAtaque": "Rocket Punch",
-        "Animacion": ["imagenes/AtaquesMVC2/236.png",
-        "imagenes/AtaquesMVC2/L.png"]
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
       },
 
       {
         "nombreAtaque": "Sentinel Force",
-        "Animacion": ["imagenes/AtaquesMVC2/236.png",
-                      "imagenes/AtaquesMVC2/K.png"]
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
       },
       {
         "nombreAtaque": "Flight Mode",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
           "imagenes/AtaquesMVC2/Lk.png",
-                    "imagenes/AtaquesMVC2/Hk.png"
-
+          "imagenes/AtaquesMVC2/Hk.png"
         ]
       }
-     
     ],
     "SuperMoves": [
       {
         "nombreAtaque": "Plasma Storm",
         "Animacion": [
-               "imagenes/AtaquesMVC2/236.png",
-               "imagenes/AtaquesMVC2/Lp.png",
-               "imagenes/AtaquesMVC2/Hp.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
         ]
       },
       {
         "nombreAtaque": "Hyper Sentinel Force",
         "Animacion": [
-     "imagenes/AtaquesMVC2/236.png",
-     "imagenes/AtaquesMVC2/Lk.png",
-     "imagenes/AtaquesMVC2/Hk.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
         ]
       },
 
       {
         "nombreAtaque": "Hard drive",
         "Animacion": [
-                 "imagenes/AtaquesMVC2/236.png",
-                 "imagenes/AtaquesMVC2/Lp.png",
-                 "imagenes/AtaquesMVC2/Hp.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
         ]
       }
     ],
     "AssistMoves": [
       {
         "nombreAtaque": "Projectile",
-        "Animacion": [
-          "imagenes/AtaquesMVC2/Lk.png"
-        ]
+        "Animacion": ["imagenes/AtaquesMVC2/Lk.png"]
       },
       {
         "nombreAtaque": "Launcher",
@@ -75,15 +75,17 @@
   {
     "Nombre": "Storm",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Storm.jpg",
+    "Foto": "imagenes/MvsC2/Storm.jpg",
 
     "Foto2": "imagenes/PersonajesMVsC/Storm.jpg",
-    
-        "SpecialMoves": [
+
+    "SpecialMoves": [
       {
         "nombreAtaque": "Typhoon (Whirlwind)",
-        "Animacion": ["imagenes/AtaquesMVC2/236.png",
-        "imagenes/AtaquesMVC2/L.png"]
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
       },
 
       {
@@ -101,42 +103,38 @@
         ]
       },
       {
-        "nombreAtaque": "Hikou (flight)"	,
+        "nombreAtaque": "Hikou (flight)",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
           "imagenes/AtaquesMVC2/Lk.png",
-                    "imagenes/AtaquesMVC2/Hk.png"
-
+          "imagenes/AtaquesMVC2/Hk.png"
         ]
       }
-     
     ],
     "SuperMoves": [
       {
         "nombreAtaque": "Lightning Storm",
         "Animacion": [
-               "imagenes/AtaquesMVC2/180rf.png",
-               "imagenes/AtaquesMVC2/Lp.png",
-               "imagenes/AtaquesMVC2/Hp.png"
+          "imagenes/AtaquesMVC2/180rf.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
         ]
       },
       {
         "nombreAtaque": "Hail Storm",
         "Animacion": [
-     "imagenes/AtaquesMVC2/214.png",
-     "imagenes/AtaquesMVC2/Lk.png",
-     "imagenes/AtaquesMVC2/Hk.png"
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
         ]
       }
     ],
     "AssistMoves": [
       {
         "nombreAtaque": "Typhoon",
-        "Animacion": [
-          "imagenes/AtaquesMVC2/Hk.png"
-        ]
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
       },
-     
+
       {
         "nombreAtaque": "Vertical Typhoon",
         "Animacion": ["imagenes/AtaquesMVC2/Lk.png"]
@@ -146,65 +144,254 @@
   {
     "Nombre": "Cable",
     "Descripcion": "LA MEJOOOOR",
-    "Foto":"imagenes/MvsC2/Cable.jpg",
+    "Foto": "imagenes/MvsC2/Cable.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cable.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Viper Beam",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Psimitar",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Electrap",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
       },
       {
-        "nombreAtaque": "FRIKIIIIII",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Psy-Charge",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crackdown",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Hyper Viper",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180rf.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Time Flip",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": " Viper Beam",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": " Scimitar",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Electrap",
+        "Animacion": ["imagenes/AtaquesMVC2/Lk.png"]
       }
     ]
   },
   {
     "Nombre": "Magneto",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Magneto.jpg",
+    "Foto": "imagenes/MvsC2/Magneto.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Magneto.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "E-M Disruptor",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Hyper Grav",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180rf.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Magnetic Blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/U.png",
+          "imagenes/AtaquesMVC2/Uf.png",
+          "imagenes/AtaquesMVC2/F.png",
+
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hikou (flight)",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Magnetic Shockwave",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Magnetic Tempest",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Projectile",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Hyper Grav",
+        "Animacion": ["imagenes/AtaquesMVC2/Lk.png"]
+      },
+      {
+        "nombreAtaque": "C",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
   {
     "Nombre": "Cyclops",
     "Descripcion": "LA MEJOOOOR",
-    "Foto":"imagenes/MvsC2/Cyclops.jpg",
+    "Foto": "imagenes/MvsC2/Cyclops.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cyclops.jpg",
 
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Optic Blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Optic Hold",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Optic Sweep",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Df.png",
+          "imagenes/AtaquesMVC2/D.png",
+
+          "imagenes/AtaquesMVC2/L.png"
+        ]
       },
       {
-        "nombreAtaque": "FRIKIIIIII",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Cyclone Kick",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gene Splice",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rapid Punches(Hold)",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/B.png",
+                    "imagenes/AtaquesMVC2/F.png",
+
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+       {
+         "nombreAtaque": "Rapid Punches(Hold)",
+         "Animacion": [
+           "imagenes/AtaquesMVC2/B.png",
+           "imagenes/AtaquesMVC2/F.png",
+
+           "imagenes/AtaquesMVC2/K.png"
+         ]
+       }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Mega Optic Blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Super Optic Blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Optic Blast",
+        "Animacion": ["imagenes/AtaquesMVC2/lp.png"]
+      },
+      {
+        "nombreAtaque": "Gene",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Cyclone",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
   {
     "Nombre": "Iron Man",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Iron_Man.jpg",
+    "Foto": "imagenes/MvsC2/Iron_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iron-Man.jpg",
     "Ataques": [
       {
@@ -221,7 +408,7 @@
   {
     "Nombre": "War Machine",
     "Descripcion": "LA MEJOOOOR",
-    "Foto":"imagenes/MvsC2/War_Machine.jpg",
+    "Foto": "imagenes/MvsC2/War_Machine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/War_machine.jpg",
     "Ataques": [
       {
@@ -241,7 +428,7 @@
   {
     "Nombre": "Doctor Doom",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Doctor_Doom.jpg",
+    "Foto": "imagenes/MvsC2/Doctor_Doom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
     "Ataques": [
       {
@@ -258,7 +445,7 @@
   {
     "Nombre": "Strider",
     "Descripcion": "LA MEJOOOOR",
-    "Foto":"imagenes/MvsC2/Strider.jpg",
+    "Foto": "imagenes/MvsC2/Strider.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
     "Ataques": [
       {
@@ -278,7 +465,7 @@
   {
     "Nombre": "Spiral",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Spiral.jpg",
+    "Foto": "imagenes/MvsC2/Spiral.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiral.jpg",
     "Ataques": [
       {
@@ -295,7 +482,7 @@
   {
     "Nombre": "Dhalsim",
     "Descripcion": "LA MEJOOOOR",
-    "Foto":"imagenes/MvsC2/Dhalsim.jpg",
+    "Foto": "imagenes/MvsC2/Dhalsim.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dhalsim.jpg",
     "Ataques": [
       {
@@ -315,7 +502,7 @@
   {
     "Nombre": "Blackheart",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Blackheart.jpg",
+    "Foto": "imagenes/MvsC2/Blackheart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Blackheart.jpg",
     "Ataques": [
       {
@@ -332,7 +519,7 @@
   {
     "Nombre": "Psylocke",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Psylocke.jpg",
+    "Foto": "imagenes/MvsC2/Psylocke.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Psylocke.jpg",
     "Ataques": [
       {
@@ -349,7 +536,7 @@
   {
     "Nombre": "Captain Commando",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Captain_Commando.jpg",
+    "Foto": "imagenes/MvsC2/Captain_Commando.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
     "Ataques": [
       {
@@ -366,7 +553,7 @@
   {
     "Nombre": "Tron Bonne",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Tron_Bonne.jpg",
+    "Foto": "imagenes/MvsC2/Tron_Bonne.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
     "Ataques": [
       {
@@ -383,7 +570,7 @@
   {
     "Nombre": "Ruby Heart",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Ruby_Heart.jpg",
+    "Foto": "imagenes/MvsC2/Ruby_Heart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
     "Ataques": [
       {
@@ -400,7 +587,7 @@
   {
     "Nombre": "Omega Red",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Omega_red.jpg",
+    "Foto": "imagenes/MvsC2/Omega_red.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Omega_red.jpg",
     "Ataques": [
       {
@@ -417,7 +604,7 @@
   {
     "Nombre": "Colossus",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Colossus.jpg",
+    "Foto": "imagenes/MvsC2/Colossus.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Colossus.jpg",
     "Ataques": [
       {
@@ -434,7 +621,7 @@
   {
     "Nombre": "Juggernaut",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Juggernaut.jpg",
+    "Foto": "imagenes/MvsC2/Juggernaut.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Juggernaut.jpg",
     "Ataques": [
       {
@@ -451,7 +638,7 @@
   {
     "Nombre": "Rogue",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Rogue.jpg",
+    "Foto": "imagenes/MvsC2/Rogue.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Rogue.jpg",
     "Ataques": [
       {
@@ -468,7 +655,7 @@
   {
     "Nombre": "Cammy",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Cammy.jpg",
+    "Foto": "imagenes/MvsC2/Cammy.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cammy.jpg",
     "Ataques": [
       {
@@ -485,7 +672,7 @@
   {
     "Nombre": "Mega Man",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Mega_Man.jpg",
+    "Foto": "imagenes/MvsC2/Mega_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Mega_man.jpg",
     "Ataques": [
       {
@@ -502,7 +689,7 @@
   {
     "Nombre": "Guile",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Guile.jpg",
+    "Foto": "imagenes/MvsC2/Guile.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Guile.jpg",
     "Ataques": [
       {
@@ -519,7 +706,7 @@
   {
     "Nombre": "Anakaris",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Anakaris.jpg",
+    "Foto": "imagenes/MvsC2/Anakaris.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Anakaris.png",
     "Ataques": [
       {
@@ -536,7 +723,7 @@
   {
     "Nombre": "Silver Samurai",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Silver_Samurai.jpg",
+    "Foto": "imagenes/MvsC2/Silver_Samurai.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Silver_samurai.jpg",
     "Ataques": [
       {
@@ -553,7 +740,7 @@
   {
     "Nombre": "Marrow",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Marrow.jpg",
+    "Foto": "imagenes/MvsC2/Marrow.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Marrow.jpg",
     "Ataques": [
       {
@@ -570,7 +757,7 @@
   {
     "Nombre": "Gambit",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Gambit.jpg",
+    "Foto": "imagenes/MvsC2/Gambit.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Gambit.jpg",
     "Ataques": [
       {
@@ -587,7 +774,7 @@
   {
     "Nombre": "Iceman",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Iceman.jpg",
+    "Foto": "imagenes/MvsC2/Iceman.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iceman.jpg",
     "Ataques": [
       {
@@ -604,7 +791,7 @@
   {
     "Nombre": "Spiderman",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Spiderman.jpg",
+    "Foto": "imagenes/MvsC2/Spiderman.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiderman.jpg",
     "Ataques": [
       {
@@ -621,7 +808,7 @@
   {
     "Nombre": "Wolverine - Bone",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Wolverine_Bone.jpg",
+    "Foto": "imagenes/MvsC2/Wolverine_Bone.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
     "Ataques": [
       {
@@ -638,7 +825,7 @@
   {
     "Nombre": "Wolverine - Claw",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Wolverine.jpg",
+    "Foto": "imagenes/MvsC2/Wolverine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
     "Ataques": [
       {
@@ -655,7 +842,7 @@
   {
     "Nombre": "Venom",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Venom.jpg",
+    "Foto": "imagenes/MvsC2/Venom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Venom.jpg",
     "Ataques": [
       {
@@ -672,7 +859,7 @@
   {
     "Nombre": "B.B. Hood",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/BB_hood.jpg",
+    "Foto": "imagenes/MvsC2/BB_hood.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Bb_hood.jpg",
     "Ataques": [
       {
@@ -689,7 +876,7 @@
   {
     "Nombre": "Sakura",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Sakura.jpg",
+    "Foto": "imagenes/MvsC2/Sakura.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sakura.jpg",
     "Ataques": [
       {
@@ -706,7 +893,7 @@
   {
     "Nombre": "Sonson",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Sonson.jpg",
+    "Foto": "imagenes/MvsC2/Sonson.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sonson.jpg",
     "Ataques": [
       {
@@ -723,7 +910,7 @@
   {
     "Nombre": "Akuma",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Akuma.jpg",
+    "Foto": "imagenes/MvsC2/Akuma.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Akuma.jpg",
     "Ataques": [
       {
@@ -740,7 +927,7 @@
   {
     "Nombre": "Ken",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Ken.jpg",
+    "Foto": "imagenes/MvsC2/Ken.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ken.jpg",
     "Ataques": [
       {
@@ -757,7 +944,7 @@
   {
     "Nombre": "Ryu",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Ryu.jpg",
+    "Foto": "imagenes/MvsC2/Ryu.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ryu.jpg",
     "Ataques": [
       {
@@ -774,7 +961,7 @@
   {
     "Nombre": "Charlie",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Charlie.jpg",
+    "Foto": "imagenes/MvsC2/Charlie.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Charlie.jpg",
     "Ataques": [
       {
@@ -791,7 +978,7 @@
   {
     "Nombre": "M.Bison",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/M_bison.jpg",
+    "Foto": "imagenes/MvsC2/M_bison.jpg",
     "Foto2": "imagenes/PersonajesMVsC/M.Bison.jpg",
     "Ataques": [
       {
@@ -808,7 +995,7 @@
   {
     "Nombre": "Captain America",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Captain_America.jpg",
+    "Foto": "imagenes/MvsC2/Captain_America.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captitan_America.jpg",
     "Ataques": [
       {
@@ -825,7 +1012,7 @@
   {
     "Nombre": "Hulk",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Hulk.jpg",
+    "Foto": "imagenes/MvsC2/Hulk.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Hulk.jpg",
     "Ataques": [
       {
@@ -842,7 +1029,7 @@
   {
     "Nombre": "Jin",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Jin.jpg",
+    "Foto": "imagenes/MvsC2/Jin.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Jin.jpg",
     "Ataques": [
       {
@@ -859,7 +1046,7 @@
   {
     "Nombre": "Jill",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Jill.jpg",
+    "Foto": "imagenes/MvsC2/Jill.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Jill.jpg",
     "Ataques": [
       {
@@ -876,7 +1063,7 @@
   {
     "Nombre": "Felicia",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Felicia.jpg",
+    "Foto": "imagenes/MvsC2/Felicia.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Felicia.jpg",
     "Ataques": [
       {
@@ -893,7 +1080,7 @@
   {
     "Nombre": "Morrigan",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Morrigan.jpg",
+    "Foto": "imagenes/MvsC2/Morrigan.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Morrigan.jpg",
     "Ataques": [
       {
@@ -910,7 +1097,7 @@
   {
     "Nombre": "Zangief",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Zangief.jpg",
+    "Foto": "imagenes/MvsC2/Zangief.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Zangief.jpg",
     "Ataques": [
       {
@@ -927,7 +1114,7 @@
   {
     "Nombre": "Amingo",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Amingo.jpg",
+    "Foto": "imagenes/MvsC2/Amingo.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Amingo.jpg",
     "Ataques": [
       {
@@ -944,7 +1131,7 @@
   {
     "Nombre": "Chun-Li",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Chun-li.jpg",
+    "Foto": "imagenes/MvsC2/Chun-li.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Chun-li.jpg",
     "Ataques": [
       {
@@ -961,7 +1148,7 @@
   {
     "Nombre": "Hayato",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Hayato.jpg",
+    "Foto": "imagenes/MvsC2/Hayato.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Hayato.jpg",
     "Ataques": [
       {
@@ -978,7 +1165,7 @@
   {
     "Nombre": "Sabretooth",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Sabretooth.jpg",
+    "Foto": "imagenes/MvsC2/Sabretooth.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sabretooth.jpg",
     "Ataques": [
       {
@@ -995,7 +1182,7 @@
   {
     "Nombre": "Shuma-Gorath",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Shuma-Gorath.jpg",
+    "Foto": "imagenes/MvsC2/Shuma-Gorath.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Shuma-Gorath.png",
     "Ataques": [
       {
@@ -1012,7 +1199,7 @@
   {
     "Nombre": "Thanos",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Thanos.jpg",
+    "Foto": "imagenes/MvsC2/Thanos.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Thanos.jpg",
     "Ataques": [
       {
@@ -1029,7 +1216,7 @@
   {
     "Nombre": "Dan",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Dan.jpg",
+    "Foto": "imagenes/MvsC2/Dan.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dan.jpg",
 
     "Ataques": [
@@ -1047,7 +1234,7 @@
   {
     "Nombre": "Kobun",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Kobun.jpg",
+    "Foto": "imagenes/MvsC2/Kobun.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Kobun.jpg",
     "Ataques": [
       {
@@ -1064,7 +1251,7 @@
   {
     "Nombre": "Roll",
     "Descripcion": "PRUEBA",
-    "Foto":"imagenes/MvsC2/Roll.jpg",
+    "Foto": "imagenes/MvsC2/Roll.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Roll.jpg",
     "Ataques": [
       {
