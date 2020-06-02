@@ -3,7 +3,7 @@
     "Nombre": "Leroy",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/TK7/Leroy-smith.png",
-    "Foto2":"imagenes/PersonajesTekken7/Leroy-smith.png",
+    "Foto2": "imagenes/PersonajesTekken7/Leroy-smith.png",
     "Ataques": [
       {
         "nombreAtaque": "Jab",
@@ -92,7 +92,7 @@
     "Nombre": "Akuma",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/TK7/akuma.png",
-    "Foto2":"imagenes/PersonajesTekken7/akuma.png",
+    "Foto2": "imagenes/PersonajesTekken7/akuma.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Drive",
@@ -182,7 +182,7 @@
     "Nombre": "Geese Howard",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Geese_Howard.png",
-    "Foto2":"imagenes/PersonajesTekken7/Geese_Howard.png",
+    "Foto2": "imagenes/PersonajesTekken7/Geese_Howard.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -270,7 +270,7 @@
     "Nombre": "Steve",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Steve_Fox.png",
-    "Foto2":"imagenes/PersonajesTekken7/Steve_Fox.png",
+    "Foto2": "imagenes/PersonajesTekken7/Steve_Fox.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Drive",
@@ -367,7 +367,7 @@
     "Nombre": "Paul",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Paul_Phoenix.png",
-    "Foto2":"imagenes/PersonajesTekken7/Paul_Phoenix.png",
+    "Foto2": "imagenes/PersonajesTekken7/Paul_Phoenix.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Drive",
@@ -475,7 +475,7 @@
     "Nombre": "Jin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Jin_Kazama.png",
-    "Foto2":"imagenes/PersonajesTekken7/Jin_Kazama.png",
+    "Foto2": "imagenes/PersonajesTekken7/Jin_Kazama.png",
 
     "Ataques": [
       {
@@ -571,7 +571,7 @@
     "Nombre": "Law",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Marshall_Law.png",
-    "Foto2":"imagenes/PersonajesTekken7/Marshall_Law.png",
+    "Foto2": "imagenes/PersonajesTekken7/Marshall_Law.png",
 
     "Ataques": [
       {
@@ -675,7 +675,7 @@
     "Nombre": "Devil Jin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Devil_Jin.png",
-    "Foto2":"imagenes/PersonajesTekken7/Devil_Kazuya.png",
+    "Foto2": "imagenes/PersonajesTekken7/Devil_Kazuya.png",
 
     "Ataques": [
       {
@@ -773,7 +773,7 @@
     "Nombre": "Ganryu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Ganryu.png",
-    "Foto2":"imagenes/PersonajesTekken7/Ganryu.png",
+    "Foto2": "imagenes/PersonajesTekken7/Ganryu.png",
 
     "Ataques": [
       {
@@ -871,7 +871,7 @@
     "Nombre": "Kazuya",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Kazuya_Mishima.png",
-    "Foto2":"imagenes/PersonajesTekken7/Kazuya_Mishima.png",
+    "Foto2": "imagenes/PersonajesTekken7/Kazuya_Mishima.png",
 
     "Ataques": [
       {
@@ -974,7 +974,7 @@
     "Nombre": "Kazumi",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/kazumi.png",
-    "Foto2":"imagenes/PersonajesTekken7/kazumi.png",
+    "Foto2": "imagenes/PersonajesTekken7/kazumi.png",
 
     "Ataques": [
       {
@@ -1078,7 +1078,7 @@
     "Nombre": "King",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/King_II.png",
-    "Foto2":"imagenes/PersonajesTekken7/King_II.png",
+    "Foto2": "imagenes/PersonajesTekken7/King_II.png",
 
     "Ataques": [
       {
@@ -1180,14 +1180,15 @@
     "Nombre": "Zafina",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Zafina.png",
-    "Foto2":"imagenes/PersonajesTekken7/Zafina.png",
+    "Foto2": "imagenes/PersonajesTekken7/Zafina.png",
 
     "Ataques": [
       {
-        "nombreAtaque": "Rage Art",
+        "nombreAtaque": "Left Right Scarecrow to SCS",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/downright.svg",
-          "imagenes/ImagenesataquesTekken/1+2.svg"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
@@ -1201,27 +1202,28 @@
         ]
       },
       {
-        "nombreAtaque": "Palm Attack to Uppercut",
+        "nombreAtaque": "Ecdysis to TS",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "Head Spinner",
+        "nombreAtaque": "Manticore",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/1+2.svg",
 
-          "imagenes/ImagenesataquesTekken/1.svg"
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "Reverse Jaguar Step",
+        "nombreAtaque": "Ettimu (2) to SCS",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
 
-          "imagenes/ImagenesataquesTekken/3+4.svg"
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
@@ -1233,46 +1235,45 @@
         ]
       },
       {
-        "nombreAtaque": "Elbow Impact",
+        "nombreAtaque": "Aqrabuamelu",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/right.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "Atlas' Hammer",
+        "nombreAtaque": "Poison Rosette",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/down.svg",
-          "imagenes/ImagenesataquesTekken/1+2.svg"
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
 
       {
-        "nombreAtaque": "Stagger Kicks",
+        "nombreAtaque": "Earwig Pincer",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/down.svg",
-          "imagenes/ImagenesataquesTekken/3+4.svg",
-          "imagenes/ImagenesataquesTekken/4.svg",
-          "imagenes/ImagenesataquesTekken/4.svg"
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
 
       {
         "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
           "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
           "imagenes/ImagenesataquesTekken/1.svg",
 
           "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
 
           "imagenes/ImagenesataquesTekken/4.svg",
-          "imagenes/ImagenesataquesTekken/4.svg",
-
-          "imagenes/ImagenesataquesTekken/4.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
           "imagenes/ImagenesataquesTekken/3.svg"
         ]
       }
@@ -1282,7 +1283,7 @@
     "Nombre": "Dragunov",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Sergei_Dragunov.png",
-    "Foto2":"imagenes/PersonajesTekken7/Sergei_Dragunov.png",
+    "Foto2": "imagenes/PersonajesTekken7/Sergei_Dragunov.png",
 
     "Ataques": [
       {
@@ -1387,7 +1388,7 @@
     "Nombre": "Hwoarang",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Hwoarang.png",
-    "Foto2":"imagenes/PersonajesTekken7/Hwoarang.png",
+    "Foto2": "imagenes/PersonajesTekken7/Hwoarang.png",
 
     "Ataques": [
       {
@@ -1496,7 +1497,7 @@
     "Nombre": "Lee",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Lee.png",
-    "Foto2":"imagenes/PersonajesTekken7/Lee.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lee.png",
 
     "Ataques": [
       {
@@ -1606,7 +1607,7 @@
     "Nombre": "Claudio",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/claudio.png",
-    "Foto2":"imagenes/PersonajesTekken7/claudio.png",
+    "Foto2": "imagenes/PersonajesTekken7/claudio.png",
 
     "Ataques": [
       {
@@ -1712,7 +1713,7 @@
     "Nombre": "Alisa",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Alisa_Bosconovitch.png",
-    "Foto2":"imagenes/PersonajesTekken7/Alisa_Bosconovitch.png",
+    "Foto2": "imagenes/PersonajesTekken7/Alisa_Bosconovitch.png",
 
     "Ataques": [
       {
@@ -1821,7 +1822,7 @@
     "Nombre": "Julia",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Julia.png",
-    "Foto2":"imagenes/PersonajesTekken7/Julia.png",
+    "Foto2": "imagenes/PersonajesTekken7/Julia.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1929,7 +1930,7 @@
     "Nombre": "Fahkumram",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Fahkumram.png",
-    "Foto2":"imagenes/PersonajesTekken7/Fahkumram.png",
+    "Foto2": "imagenes/PersonajesTekken7/Fahkumram.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -2009,7 +2010,7 @@
     "Nombre": "Master Raven",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/TK7/Master_Raven.png",
-    "Foto2":"imagenes/PersonajesTekken7/Master_Raven.png",
+    "Foto2": "imagenes/PersonajesTekken7/Master_Raven.png",
 
     "Ataques": [
       {
@@ -3120,7 +3121,7 @@
     "Nombre": "Josie",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Josie.png",
-    "Foto2":"imagenes/PersonajesTekken7/Josie.png",
+    "Foto2": "imagenes/PersonajesTekken7/Josie.png",
 
     "Ataques": [
       {
@@ -3230,7 +3231,7 @@
     "Nombre": "Nina",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Nina_Williams.png",
-    "Foto2":"imagenes/PersonajesTekken7/Nina_Williams.png",
+    "Foto2": "imagenes/PersonajesTekken7/Nina_Williams.png",
 
     "Ataques": [
       {
@@ -3342,7 +3343,7 @@
     "Nombre": "Katarina",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Katarina.png",
-    "Foto2":"imagenes/PersonajesTekken7/Katarina.png",
+    "Foto2": "imagenes/PersonajesTekken7/Katarina.png",
 
     "Ataques": [
       {
@@ -3446,7 +3447,7 @@
     "Nombre": "Kuma",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Kuma.png",
-    "Foto2":"imagenes/PersonajesTekken7/Kuma.png",
+    "Foto2": "imagenes/PersonajesTekken7/Kuma.png",
 
     "Ataques": [
       {
@@ -3549,7 +3550,7 @@
     "Nombre": "Lili",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Emilie_De_Rochefort.png",
-    "Foto2":"imagenes/PersonajesTekken7/Emilie_De_Rochefort.png",
+    "Foto2": "imagenes/PersonajesTekken7/Emilie_De_Rochefort.png",
 
     "Ataques": [
       {
@@ -3652,7 +3653,7 @@
     "Nombre": "Panda",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/panda.png",
-    "Foto2":"imagenes/PersonajesTekken7/panda.png",
+    "Foto2": "imagenes/PersonajesTekken7/panda.png",
 
     "Ataques": [
       {
@@ -3754,7 +3755,7 @@
     "Nombre": "Feng",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Fen_Wei.png",
-    "Foto2":"imagenes/PersonajesTekken7/Fen_Wei.png",
+    "Foto2": "imagenes/PersonajesTekken7/Fen_Wei.png",
 
     "Ataques": [
       {
@@ -3865,9 +3866,8 @@
     "Nombre": "Noctis",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Noctis.png",
-    "Foto2":"imagenes/PersonajesTekken7/Noctis.png",
+    "Foto2": "imagenes/PersonajesTekken7/Noctis.png",
 
-    
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3974,7 +3974,7 @@
     "Nombre": "Eliza",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Eliza_Render.png",
-    "Foto2":"imagenes/PersonajesTekken7/Eliza_Render.png",
+    "Foto2": "imagenes/PersonajesTekken7/Eliza_Render.png",
 
     "Ataques": [
       {
@@ -4086,7 +4086,7 @@
     "Nombre": "Miguel",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Miguel_Caballero.png",
-    "Foto2":"imagenes/PersonajesTekken7/Miguel_Caballero.png",
+    "Foto2": "imagenes/PersonajesTekken7/Miguel_Caballero.png",
 
     "Ataques": [
       {
@@ -4193,7 +4193,7 @@
     "Nombre": "Armor King",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/armor_king.png",
-    "Foto2":"imagenes/PersonajesTekken7/armor_king.png",
+    "Foto2": "imagenes/PersonajesTekken7/armor_king.png",
 
     "Ataques": [
       {
@@ -4303,7 +4303,7 @@
     "Nombre": "Lei",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Lei_Wulong.png",
-    "Foto2":"imagenes/PersonajesTekken7/Lei_Wulong.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lei_Wulong.png",
 
     "Ataques": [
       {
@@ -4383,7 +4383,7 @@
     "Nombre": "Leo",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Leo_Kliesen.png",
-    "Foto2":"imagenes/PersonajesTekken7/Leo_Kliesen.png",
+    "Foto2": "imagenes/PersonajesTekken7/Leo_Kliesen.png",
 
     "Ataques": [
       {
@@ -4488,7 +4488,7 @@
     "Nombre": "Eddy",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/eddy_Gordo.png",
-    "Foto2":"imagenes/PersonajesTekken7/eddy_Gordo.png",
+    "Foto2": "imagenes/PersonajesTekken7/eddy_Gordo.png",
 
     "Ataques": [
       {
@@ -4580,7 +4580,7 @@
     "Nombre": "Asuka",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Asuma_Kazama.png",
-    "Foto2":"imagenes/PersonajesTekken7/Asuma_Kazama.png",
+    "Foto2": "imagenes/PersonajesTekken7/Asuma_Kazama.png",
 
     "Ataques": [
       {
@@ -4676,7 +4676,7 @@
     "Nombre": "Lars",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Lars.png",
-    "Foto2":"imagenes/PersonajesTekken7/Lars.png",
+    "Foto2": "imagenes/PersonajesTekken7/Lars.png",
 
     "Ataques": [
       {
@@ -4771,7 +4771,7 @@
     "Nombre": "Gigas",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/gigas.png",
-    "Foto2":"imagenes/PersonajesTekken7/gigas.png",
+    "Foto2": "imagenes/PersonajesTekken7/gigas.png",
 
     "Ataques": [
       {
@@ -4779,64 +4779,55 @@
         "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
       },
       {
-        "nombreAtaque": "Delta Slicer",
+        "nombreAtaque": "Double Gimlet",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-
+          "imagenes/ImagenesataquesTekken/2.svg",
           "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "Lightning Assault High",
+        "nombreAtaque": "Right Wrench Kick",
+        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
+      },
+      {
+        "nombreAtaque": "Left Wrench Kick",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3.svg"]
+      },
+      {
+        "nombreAtaque": "Mad Rampage",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
 
           "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Burring Reamer",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+
           "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "Spinning Cutter",
-        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
-      },
-      {
-        "nombreAtaque": "Flash Bang to Dynamic Entry",
+        "nombreAtaque": "Quick Head-Butt",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/right.svg",
-
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/3.svg"
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "Charge Factor to Silent Entry",
+        "nombreAtaque": "Goliath",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/right.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Death Mask",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/right.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Tesla Gravity",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/down.svg",
-          "imagenes/ImagenesataquesTekken/3.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
 
       {
-        "nombreAtaque": "Earth Battery",
+        "nombreAtaque": "Repelling Blast",
         "Animacion": [
           "imagenes/ImagenesataquesTekken/down.svg",
           "imagenes/ImagenesataquesTekken/1+2.svg"
@@ -4846,16 +4837,15 @@
       {
         "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
           "imagenes/ImagenesataquesTekken/1.svg",
 
-          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
           "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
           "imagenes/ImagenesataquesTekken/2.svg",
           "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/3.svg",
-          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
           "imagenes/ImagenesataquesTekken/1+2.svg",
           "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
@@ -4866,78 +4856,85 @@
     "Nombre": "Yoshimitsu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Yoshimitsu.png",
-    "Foto2":"imagenes/PersonajesTekken7/Yoshimitsu.png",
+    "Foto2": "imagenes/PersonajesTekken7/Yoshimitsu.png",
 
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Flash Punch",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Flash Attack",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Triple Roundhouse Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Kincho",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Soul Stealer",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+4.svg"]
+      },
+      {
+        "nombreAtaque": "Quick Head-Butt",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Tsuka Splitter",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Quick Slash",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       }
     ]

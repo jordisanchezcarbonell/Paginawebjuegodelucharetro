@@ -16,13 +16,14 @@ import { animateScroll as scroll } from "react-scroll";
 import ReactPlayer from "react-player";
 
 //AVER SI FUNCIOONA
+
 class Child extends React.Component {
   constructor(props) {
     super(props);
     console.log(props);
     this.myRef = React.createRef(); // Create a ref object
   }
-  /*
+
   render() {
     return (
       <div
@@ -219,10 +220,9 @@ class Child extends React.Component {
       </div>
     );
   }
-  */
 }
 
-class Soulcalibur extends React.Component {
+class PONYS extends React.Component {
   constructor(props, context) {
     super(props);
 
@@ -310,7 +310,7 @@ class Soulcalibur extends React.Component {
     };
 
     return (
-      <div className="DivSoulcal">
+      <div className="DivGranBlue degrafado w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -336,111 +336,97 @@ class Soulcalibur extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row className="NavSC">
-            <Col md="8" className="fondo2UC">
+          <Row>
+            <Col md="3" className="fondo1">
+              <h6> {this.props.detalles[0]}</h6>
               <img
-                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
-                className="fotoLogoSC "
+                className="fotoLogoKI"
+                height="110vw"
               ></img>
             </Col>
 
-            <Col md="4" style={style}></Col>
+            <Col md="4" className="fondo2">
+              <h1 className="TituloJuego">{this.props.detalles.Nombre} </h1>
+            </Col>
+            <Col md="5" style={style}></Col>
           </Row>
         </div>
-        <div className="row rowGlobal ">
-          <div className="w-100  mt-4">
-            <Container className="w-100   mx-0  px-0   containerDIV">
-              <Row className=" w-100 stageUC  px-0  mx-0">
+
+        <div className="row degadadoprueba rowGlobalKI ">
+          <div className="w-100 mt-4">
+            <Container className="w-100 ">
+              <Row className=" w-100 stage">
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className="mx-auto mb-3 fotoCharacterSOUL"
+                  className="mx-auto mb-3"
                   alt="imagen logo"
                 ></img>
 
-                <div className=" nav   w-100" role="tablist">
+                <div className=" nav nav-tabs" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
-                    return (
-                      <div
-                        className="Personajes w-100    mx-0  px-0"
-                        key={personaje.Nombre}
-                      >
-                        <Container className="w-100   mx-0  px-0 ContainerSeparacionSOUL ">
-                          <Row className="prueba pt-0 pb-3  mx-auto">
-                            <Col md="8" className="coltablasoul">
-                              <div className="contenedor   w-100">
-                                <div className="NombrePJSOUL mt-5  ">
-                                  {personaje.Nombre}
-                                </div>
-                              </div>
-                              <TableContainer
-                                component={Paper}
-                                className="TablaGeneralSoul  mb-3 mt-3"
-                              >
-                                <Table>
-                                  <TableBody className="TableBodySOUL">
-                                    {personaje.Ataques.map((Ataque, index) => (
-                                      <TableRow
-                                        key={Ataque.nombreAtaque}
-                                        className="mx-5 RowSOUL"
-                                      >
-                                        <TableCell
-                                          onClick={() =>
-                                            this.showModal(
-                                              Ataque.nombreAtaque,
-                                              Ataque.Animacion[0]
-                                            )
-                                          }
-                                          className=" py-2 CellNombreAtaques "
-                                          component="td"
-                                          scope="row"
-                                        >
-                                          {Ataque.nombreAtaque +
-                                            "   " +
-                                            "   " +
-                                            ":"}
-                                        </TableCell>
+                    if (index <= 3) {
+                      return (
+                        <div
+                          key={personaje.Nombre}
+                          className="unskew characterGB"
+                          data-toggle="tab"
+                          role="tab"
+                          aria-selected="false"
+                        >
+                          <div className="unskew.active">
+                            <Image
+                              href="#una-id"
+                              className="centrarImagen"
+                              onClick={() => this.showContent(index)}
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                              fluid
+                            ></Image>
+                          </div>
 
-                                        {
-                                          <TableCell
-                                            component="td"
-                                            className="  CellImgAtaques py-2"
-                                            align="right"
-                                          >
-                                            {Ataque.Animacion.map(
-                                              (animaciondelataque, index) => (
-                                                <img
-                                                  className="imgAtaque"
-                                                  key={index}
-                                                  variant="top"
-                                                  src={
-                                                    process.env.PUBLIC_URL +
-                                                    animaciondelataque
-                                                  }
-                                                  alt="Error"
-                                                />
-                                              )
-                                            )}
-                                          </TableCell>
-                                        }
-                                      </TableRow>
-                                    ))}
-                                  </TableBody>
-                                </Table>
-                              </TableContainer>
-                            </Col>
-                            <Col md="4 mt-3 colimgSOul">
-                              <img
-                                className=" imagenestamaño"
-                                variant="top"
+                          <div>
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
+
+                              <div></div>
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    } else {
+                      return (
+                        <div key={index}>
+                          <div
+                            key={index}
+                            className="unskew characterGB"
+                            data-toggle="tab"
+                            role="tab"
+                            aria-selected="false"
+                          >
+                            <div className="unskew.active verticalcenter">
+                              <Image
+                                href="#una-id"
+                                className="centrarImagen"
+                                onClick={() => this.showContent(index)}
                                 src={process.env.PUBLIC_URL + personaje.Foto}
-                                alt="Error"
-                              />
-                            </Col>
-                          </Row>
-                        </Container>
-                      </div>
-                    );
+                                fluid
+                              ></Image>
+                            </div>
+                          </div>
+
+                          <div>
+                            <div>
+                              {this.state.isItemContentVisible[index] &&
+                                this.renderContent(personaje)}
+
+                              <div></div>
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    }
                   })}
                 </div>
               </Row>
@@ -454,4 +440,5 @@ class Soulcalibur extends React.Component {
     );
   }
 }
-export default withRouter(Soulcalibur);
+
+export default withRouter(PONYS);
