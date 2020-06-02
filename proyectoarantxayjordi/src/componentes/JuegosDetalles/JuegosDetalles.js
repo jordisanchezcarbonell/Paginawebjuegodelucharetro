@@ -35,6 +35,8 @@ import UnderNightJuego from "./UnderNight/UnderNight";
 import SoulCaliburVI from "./Soulcalibur/Soulcalibur";
 import StreetFighter5 from "./StreetFighter5/StreetFighter5";
 import GAMETEKKEN from "./TEKKEN/TEKKEN";
+import GAMETEKKEN from "./TEKKEN/TEKKEN";
+import PONYS from "./PONYS/PONYS";
 
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
@@ -370,7 +372,7 @@ height: 10vw;
     if (detalles.Nombre === prueba[0].Nombre) {
       return this.streetfighter(detalles, data);
     } else if (detalles.Nombre === prueba[2].Nombre) {
-      return this.streetfighter(detalles, ponys);
+      return <PONYS detalles={detalles} Juego={ponys} />;
     } else if (detalles.Nombre === prueba[3].Nombre) {
       return <KillerInstinct detalles={detalles} Juego={killerinstinct} />;
     } else if (detalles.Nombre === prueba[4].Nombre) {

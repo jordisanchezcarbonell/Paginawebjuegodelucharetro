@@ -1685,74 +1685,103 @@
     "Foto": "imagenes/TK7/Alisa_Bosconovitch.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Stop Bit to Destructive Form",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Accelerator Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Right Jab to Accelerator",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Dual Session",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Lost Access",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Overflow to Boot",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Deadlock to Destructive Form",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Optimizer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upleft.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       }
     ]
@@ -1763,74 +1792,103 @@
     "Foto": "imagenes/TK7/Julia.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Stop Bit to Destructive Form",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Accelerator Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Right Jab to Accelerator",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Dual Session",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Lost Access",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Overflow to Boot",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Deadlock to Destructive Form",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Optimizer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/upleft.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       }
     ]
@@ -1920,166 +1978,97 @@
     "Foto": "imagenes/TK7/Master_Raven.png",
     "Ataques": [
       {
-        "nombreAtaque": "Light",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Light.png"]
-      },
-      {
-        "nombreAtaque": "Medium",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Medium.png"]
-      },
-      {
-        "nombreAtaque": "Heavy",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Heavy.png"]
-      },
-      {
-        "nombreAtaque": "Magic",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Magic.png"]
-      },
-      {
-        "nombreAtaque": "Launcher",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Dd_right.png",
-          "imagenes/ImagenesataquesTekken/Heavy.png",
-          "imagenes/ImagenesataquesTekken/Dd_right.png"
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "Dush Right",
+        "nombreAtaque": "Left Right Combo to Haze",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Right.png",
-          "imagenes/ImagenesataquesTekken/Right.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "Dush Left",
+        "nombreAtaque": "Valkyrie Lance Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Left.png",
-          "imagenes/ImagenesataquesTekken/Left.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "Throw Foward",
+        "nombreAtaque": "Haze",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Tartaros",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Medium.png",
-          "imagenes/ImagenesataquesTekken/Heavy.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "Throw Backwards",
+        "nombreAtaque": "Alondite",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Left.png",
-          "imagenes/ImagenesataquesTekken/Medium.png",
-          "imagenes/ImagenesataquesTekken/Heavy.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "Throw Escape",
+        "nombreAtaque": "Basilisk Fang",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Medium.png",
-          "imagenes/ImagenesataquesTekken/Heavy.png"
+          "imagenes/ImagenesataquesTekken/dow.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "Eat",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Light.png"]
-      },
-      {
-        "nombreAtaque": "Pushblock",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Attack_2.png"]
-      },
-      {
-        "nombreAtaque": "Cross Counter",
+        "nombreAtaque": "Unicorn's Tail",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Right.png",
-          "imagenes/ImagenesataquesTekken/Attack_2.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "Quick Recovery",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Attack_1.png"]
-      },
-      {
-        "nombreAtaque": "Dodge",
+        "nombreAtaque": "Illusion Sweep",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Right.png",
-          "imagenes/ImagenesataquesTekken/Left.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "Roll",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Dd_left.png",
-          "imagenes/ImagenesataquesTekken/Down.png",
-          "imagenes/ImagenesataquesTekken/Dd_right.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC STOMP",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC HEADBUCK",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "STOMP",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "HEADBUCK",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "ELBOW DROP",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
-        ]
-      },
-      {
-        "nombreAtaque": "RUN",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
-        ]
-      },
-      {
-        "nombreAtaque": "MAGIC DASH",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/HCF.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "COUNTER",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – TRAMPLE",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – REBOUND",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/upleft.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       }
     ]
@@ -2090,83 +2079,97 @@
     "Foto": "imagenes/TK7/Marduk.png",
     "Ataques": [
       {
-        "nombreAtaque": "SLIDE",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "ICICLE MISSILE",
+        "nombreAtaque": "Left Right Combo to Haze",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Atk.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, LOW",
+        "nombreAtaque": "Valkyrie Lance Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, MID",
+        "nombreAtaque": "Haze",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Tartaros",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, HIGH",
+        "nombreAtaque": "Alondite",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "INSTANT SNOWBALL",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Button_D.png"]
-      },
-      {
-        "nombreAtaque": "SNOWBALL TOSS",
+        "nombreAtaque": "Basilisk Fang",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/dow.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "nombreAtaque": "Unicorn's Tail",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/DPF.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "WIND",
+        "nombreAtaque": "Illusion Sweep",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – FROSTBITE",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/upleft.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       }
     ]
@@ -2177,83 +2180,100 @@
     "Foto": "imagenes/TK7/Jack-7.png",
     "Ataques": [
       {
-        "nombreAtaque": "SLIDE",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "ICICLE MISSILE",
+        "nombreAtaque": "Jab to Jackhammer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Atk.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, LOW",
+        "nombreAtaque": "Jab Elbow Smash",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, MID",
+        "nombreAtaque": "Pivot Gun",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "SHATTER, HIGH",
+        "nombreAtaque": "Tyulpan Blast",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "INSTANT SNOWBALL",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Button_D.png"]
-      },
-      {
-        "nombreAtaque": "SNOWBALL TOSS",
+        "nombreAtaque": "Double Axe",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "MAGIC ICE ERUPTION",
+        "nombreAtaque": "Basilisk Fang",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/DPF.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "WIND",
+        "nombreAtaque": "Sit Punches 2",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – ICE CYCLONE",
+        "nombreAtaque": "Sherman Stomp",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – FROSTBITE",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       }
     ]
@@ -2264,82 +2284,98 @@
     "Foto": "imagenes/TK7/Ling_Xiaoyu.png",
     "Ataques": [
       {
-        "nombreAtaque": "DOOM CLAW",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "SMITE",
+        "nombreAtaque": "Rage Drive",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "SHADOW SPARK",
+        "nombreAtaque": "Bayonet Thruster",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Atk.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "CHAPTER TRAP",
+        "nombreAtaque": "April Showers",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "TELEPORT",
+        "nombreAtaque": "Bai Yang Zhuan Wu",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "STUDY",
+        "nombreAtaque": "Swivel Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "MAGIC SPARK",
+        "nombreAtaque": "Somersault to Phoenix Talon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "MAGIC TRAP",
+        "nombreAtaque": "Sunset Fan",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "MAGIC TELEPORT",
+        "nombreAtaque": "Seven Star Fist",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – SHADOW BLAST",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – HI, FRED!",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/up.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       }
     ]
@@ -2350,88 +2386,104 @@
     "Foto": "imagenes/TK7/Bryan_fury.png",
     "Ataques": [
       {
-        "nombreAtaque": "RUN",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "BACK RUN",
+        "nombreAtaque": "Rage Drive",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleLeft.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "One Two Low Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "CARTWHEEL HOLD",
+        "nombreAtaque": "Lair's Dance",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "ZIPPY TELEPORT",
+        "nombreAtaque": "Right Left to Spin Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "KISS2!",
+        "nombreAtaque": "Boa Crusher",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/DPF.png",
-          "imagenes/ImagenesataquesTekken/Atk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "GIFT, RANDOM",
-        "Animacion": ["imagenes/ImagenesataquesTekken/Button_D.png"]
-      },
-      {
-        "nombreAtaque": "GIFT, FLOWER POT",
+        "nombreAtaque": "Quick Low Screw Punch",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "GIFT, EDIBLE",
+        "nombreAtaque": "Low Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "KISS3!",
+        "nombreAtaque": "Seven Star Fist",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – SMOTHER",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png",
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – PICNIC BASKET",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       }
     ]
@@ -2442,130 +2494,105 @@
     "Foto": "imagenes/TK7/Bob.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "SHEEP HERDING",
+        "nombreAtaque": "Straight Rondel",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "BARK!",
+        "nombreAtaque": "Course Achuto",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "DIGGING PUP",
+        "nombreAtaque": "Sparkling Hop",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "nombreAtaque": "Merguez Kick Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "GROWLY PUP",
+        "nombreAtaque": "Combination Mince",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "PILOT PUP",
+        "nombreAtaque": "Tornado Mixer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "BIG MOMMA",
+        "nombreAtaque": "Duck Flip",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "RALLY",
+        "nombreAtaque": "Ravenous",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "DOG MOVEMENT",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DISMISS DOG",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/Atk.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  1 attack",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  2 attack",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  3 attack",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – STAMPEDE!",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – PICNIC BASKET",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       }
     ]
@@ -2576,130 +2603,105 @@
     "Foto": "imagenes/TK7/Negan.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "SHEEP HERDING",
+        "nombreAtaque": "Straight Rondel",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "BARK!",
+        "nombreAtaque": "Course Achuto",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "DIGGING PUP",
+        "nombreAtaque": "Sparkling Hop",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "DIGGING PUP, FOLLOWING",
+        "nombreAtaque": "Merguez Kick Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "GROWLY PUP",
+        "nombreAtaque": "Combination Mince",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "PILOT PUP",
+        "nombreAtaque": "Tornado Mixer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "BIG MOMMA",
+        "nombreAtaque": "Duck Flip",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "RALLY",
+        "nombreAtaque": "Ravenous",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "DOG MOVEMENT",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DISMISS DOG",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleDown.png",
-          "imagenes/ImagenesataquesTekken/Atk.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  1 attack",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  2 attack",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "DOG ATTACKS  3 attack",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 1 – STAMPEDE!",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – PICNIC BASKET",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       }
     ]
@@ -2710,74 +2712,93 @@
     "Foto": "imagenes/TK7/Shaheen.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Spica Gut Punch",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Spica Blinding Sands",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Hallux Kick to High Slashing Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Silent Sting",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Silent Flow",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Piercing Talon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Silent Rigel",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Vicious Stomp",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       }
     ]
@@ -2866,74 +2887,90 @@
     "Foto": "imagenes/TK7/Lucky_Chloe.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Left Point to C Uprock Hit",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Right Point to High Five",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "C Uprock Hit",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Axe Aerial",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Touchdown Raiz",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Touchdown Raiz to Buffalo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "C Windmill",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Double C Windmill",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       }
     ]
@@ -2944,74 +2981,102 @@
     "Foto": "imagenes/TK7/Heihachi_Mishima.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Flash Punch Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Demon Lair",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Pressure Point",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Raijin Stance",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Chrome Dome",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Hammer Beating",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Lightning Hammer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Funkei Uraken",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       }
     ]
@@ -3022,74 +3087,104 @@
     "Foto": "imagenes/TK7/Josie.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Papilio Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "One Two High Kick to Switch Stance",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Sunrise Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Right Straight to Low High Spin Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Intercept Cannon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Subic Ring",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Heavy Knee",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Left Low Kick & High Kick to Switch Stance",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       }
     ]
@@ -3100,74 +3195,106 @@
     "Foto": "imagenes/TK7/Nina_Williams.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Biting Snake",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Double Explosion 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "PK Combo to Assassin's Blade",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Spike Combo to Right Uppercut",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Left High Kick to Spiral Explosion",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Double Whip",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Dead Drop",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Left Spin Low Kick to Right Upper",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       }
     ]
@@ -3178,74 +3305,98 @@
     "Foto": "imagenes/TK7/Katarina.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Wing Punch Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Goose Punch Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Nimble Cutter",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Heel Hook",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Tarsus Neck Blow",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Peck Upper",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Woodpecker",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Fractured Flock",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       }
     ]
@@ -3256,74 +3407,97 @@
     "Foto": "imagenes/TK7/Kuma.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Jab Elbow Smash",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Triple Hammer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Bear Toss",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Hunting",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Frolicking Bear",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Break'n",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "G-Clef Cannon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Wild Lumberjack",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       }
     ]
@@ -3334,74 +3508,97 @@
     "Foto": "imagenes/TK7/Emilie_De_Rochefort.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Left Right Back Strike",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Left Right Piercing Thorn",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Mars Sword",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Kitty Claws",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Delayed Sundial",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Break'n",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Backflip Spinning Edge",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Bloody Masquerade Lance",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       }
     ]
@@ -3412,74 +3609,96 @@
     "Foto": "imagenes/TK7/panda.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Jab Elbow Smash",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Triple Hammer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Bear Toss",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Hunting",
+        "Animacion": ["imagenes/ImagenesataquesTekken/3+4.svg"]
+      },
+      {
+        "nombreAtaque": "Frolicking Bear",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Break'n",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "G-Clef Cannon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Wild Lumberjack",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       }
     ]
@@ -3490,74 +3709,105 @@
     "Foto": "imagenes/TK7/Fen_Wei.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Firestorm",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Peacock Sweep",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Boar's Tusk",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Climbing Dragon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Frolicking Bear",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Tornado Sweep",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Hungry Tiger",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Leaping Lion",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       }
     ]
@@ -3568,74 +3818,101 @@
     "Foto": "imagenes/TK7/Noctis.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Firestorm",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "San Lian Heng",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Tornado Stomp",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Shifting Clouds",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Jin Bu Zhen",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "God Fist",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Parting Heavens",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Zhuan Shen Lian Wu",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       }
     ]
@@ -3647,74 +3924,106 @@
     "Foto": "imagenes/TK7/Eliza_Render.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Dark Wave",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Dark Blade",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Dark Cannon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Dark Wave Chaos",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Dark Tempest Chaos",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downleft.svg",
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Double Needle",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Left Right Moonrise",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Left Right Arc Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       }
     ]
@@ -3725,74 +4034,101 @@
     "Foto": "imagenes/TK7/Miguel_Caballero.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Up-stroke",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Martillo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Martillo doble",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Dark Wave Chaos",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Emblema",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Ciclón",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Rude Charge",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/rightt.svg",
+          "imagenes/ImagenesataquesTekken/3+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Bajeza con cabeza",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       }
     ]
@@ -3803,74 +4139,104 @@
     "Foto": "imagenes/TK7/armor_king.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Palm Strike to Head Jammer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/2+4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Palm Upper to Suplex",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2+4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Head Spinner",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Reverse Jaguar Step",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Elbow Impact",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Jab Uppercut",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Stagger Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Stagger Kicks",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       }
     ]
@@ -3959,74 +4325,99 @@
     "Foto": "imagenes/TK7/Leo_Kliesen.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Elkeid",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Sorai Zanba",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Flash Punch Combo",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Twin Fang Double Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Agony Spear",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Oni Front Kickt",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Nejiri Uraken",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Rampaging Demon",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       }
     ]
@@ -4037,74 +4428,86 @@
     "Foto": "imagenes/TK7/eddy_Gordo.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Combo Jilar",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Gancho Chibata",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Handslaps",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Handstand Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Au de Sol",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Samba Slippery Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Au de Bico",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Godeme to Calcanheira",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       }
     ]
@@ -4115,74 +4518,90 @@
     "Foto": "imagenes/TK7/Asuma_Kazama.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/downright.svg",
+
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Jab Uppercut",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Jab Uppercut to Front Kick",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Jab Leg Cutter",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Basho's Dance",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Hyakujitsuko",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Exorcisor",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "Heaven's Hammer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
+        "nombreAtaque": "Double Lift Kicks",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "10 Hit Combo 1",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg"
         ]
       }
     ]
@@ -4193,74 +4612,89 @@
     "Foto": "imagenes/TK7/Lars.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Delta Slicer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Lightning Assault High",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Spinning Cutter",
+        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
+      },
+      {
+        "nombreAtaque": "Flash Bang to Dynamic Entry",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Charge Factor to Silent Entry",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Death Mask",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Tesla Gravity",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Earth Battery",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       }
     ]
@@ -4271,74 +4705,89 @@
     "Foto": "imagenes/TK7/gigas.png",
     "Ataques": [
       {
-        "nombreAtaque": "AIR DASH",
+        "nombreAtaque": "Rage Art",
+        "Animacion": ["imagenes/ImagenesataquesTekken/1+2.svg"]
+      },
+      {
+        "nombreAtaque": "Delta Slicer",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DoubleRight.png"
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC ASH",
+        "nombreAtaque": "Lightning Assault High",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_A.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/2.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC BASH",
+        "nombreAtaque": "Spinning Cutter",
+        "Animacion": ["imagenes/ImagenesataquesTekken/4.svg"]
+      },
+      {
+        "nombreAtaque": "Flash Bang to Dynamic Entry",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_B.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
         ]
       },
       {
-        "nombreAtaque": "VOLCANIC CRASH",
+        "nombreAtaque": "Charge Factor to Silent Entry",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/Button_C.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FLIGHT",
+        "nombreAtaque": "Death Mask",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Button_D.png",
-          "imagenes/ImagenesataquesTekken/AIROK.png"
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
       {
-        "nombreAtaque": "FIRECRACKER ATTACK",
+        "nombreAtaque": "Tesla Gravity",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_Down.png",
-          "imagenes/ImagenesataquesTekken/Directions_DownRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Right.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpRight.png",
-          "imagenes/ImagenesataquesTekken/Directions_Up.png",
-          "imagenes/ImagenesataquesTekken/Button_D.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
         ]
       },
+
       {
-        "nombreAtaque": "FIRECRACKER FLIP",
+        "nombreAtaque": "Earth Battery",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/Directions_DownLeft.png",
-          "imagenes/ImagenesataquesTekken/Directions_Left.png",
-          "imagenes/ImagenesataquesTekken/Directions_UpLeft.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       },
+
       {
-        "nombreAtaque": "LVL 1 – MEN SHAO TI",
+        "nombreAtaque": "10 Hit Combo 1",
         "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCF.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
-        ]
-      },
-      {
-        "nombreAtaque": "LVL 2 – RAN SHAO FENG",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/QCB.png",
-          "imagenes/ImagenesataquesTekken/DoubleAtk.png"
+          "imagenes/ImagenesataquesTekken/upright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
         ]
       }
     ]
