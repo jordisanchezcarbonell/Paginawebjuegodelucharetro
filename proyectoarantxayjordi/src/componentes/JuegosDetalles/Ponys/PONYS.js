@@ -20,7 +20,6 @@ import ReactPlayer from "react-player";
 class Child extends React.Component {
   constructor(props) {
     super(props);
-    console.log(props);
     this.myRef = React.createRef(); // Create a ref object
   }
 
@@ -243,6 +242,7 @@ class PONYS extends React.Component {
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
+                        key={personaje.Nombre}
                         className=" divImagenPonys mx-0 px-0  "
                         // data-toggle="tab"
                         //  role="tab"

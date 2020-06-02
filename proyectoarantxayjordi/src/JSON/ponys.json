@@ -3,7 +3,7 @@
     "Nombre": "ARIZONA",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/ponys2/arizona.png",
-    "Foto2":"imagenes/ponys2/arizonaResponsive.png",
+    "Foto2": "imagenes/ponys2/arizonaResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "Light",
@@ -174,7 +174,7 @@
     "Nombre": "VELVET",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/velvet.png",
-    "Foto2":"imagenes/ponys2/velvetResponsive.png",
+    "Foto2": "imagenes/ponys2/velvetResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -262,7 +262,7 @@
     "Nombre": "OLEANDER",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/oleander.png",
-    "Foto2":"imagenes/ponys2/oleanderResponsive.png",
+    "Foto2": "imagenes/ponys2/oleanderResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "DOOM CLAW",
@@ -349,7 +349,7 @@
     "Nombre": "PAPRIKA",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/paprika.png",
-    "Foto2":"imagenes/ponys2/paprikaResponsive.png",
+    "Foto2": "imagenes/ponys2/paprikaResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "RUN",
@@ -411,7 +411,7 @@
         ]
       },
       {
-        "nombreAtaque": "KISS!",
+        "nombreAtaque": "GIFT, CINNAMON ROLL",
         "Animacion": [
           "imagenes/imagenesataques/Directions_Left.png",
           "imagenes/imagenesataques/Button_D.png"
@@ -440,7 +440,7 @@
     "Nombre": "POM",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/pom.png",
-    "Foto2":"imagenes/ponys2/pomResponsive.png",
+    "Foto2": "imagenes/ponys2/pomResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -577,7 +577,7 @@
     "Nombre": "TIANHUO",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/tianhuo.png",
-    "Foto2":"imagenes/ponys2/tianhuoResponsive.png",
+    "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
