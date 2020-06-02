@@ -44,7 +44,6 @@ class Child extends React.Component {
         <div className="products">
           <h3>{this.props.elemento.Nombre}</h3>
         </div>
-        <Container className="">
           <Row className="w-100  px-0 mx-0">
             <Col className="col-md-6 w-100 mb-5">
               <TableContainer
@@ -97,7 +96,6 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
           </Row>
-        </Container>
       </div>
     );
   }
