@@ -25,6 +25,19 @@ class Child extends React.Component {
   }
 
   render() {
+
+
+    const style = {
+      backgroundPosition: "right right",
+      backgroundSize: "cover",
+
+      display: "block",
+      backgroundImage:
+        "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
+        this.props.detalles.Foto2 +
+        ")",
+      backgroundRepeat: "no-repeat",
+    };
     return (
       <div
         id="section1"
@@ -310,7 +323,7 @@ class PONYS extends React.Component {
     };
 
     return (
-      <div className="DivGranBlue degrafado w-100 ml-0">
+      <div className="DivPonysGlobal  w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
@@ -354,36 +367,40 @@ class PONYS extends React.Component {
           </Row>
         </div>
 
-        <div className="row degadadoprueba rowGlobalKI ">
+        <div className="row  rowGlobalPonys ">
           <div className="w-100 mt-4">
-            <Container className="w-100 ">
-              <Row className=" w-100 stage">
-                <img
-                  src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className="mx-auto mb-3"
-                  alt="imagen logo"
-                ></img>
+            <Container className="w-100 px-0 mx-auto ">
+            <h3 className="LetraCharacterPonys">Character Select</h3>
 
-                <div className=" nav nav-tabs" role="tablist">
-                  {this.props.Juego.map((personaje, index) => {
-                    if (index <= 3) {
+              <Row className=" w-100  mx-auto">        
+                <div className=" w-100 nav nav-tabs" role="tablist">
+                  
+                  {this.props.Juego.map((personaje, index) => {            
                       return (
                         <div
-                          key={personaje.Nombre}
-                          className="unskew characterGB"
-                          data-toggle="tab"
-                          role="tab"
-                          aria-selected="false"
+                           
+                           className=" divImagenPonys mx-0 px-0  "
+                        // data-toggle="tab"
+                        //  role="tab"
+                        //   aria-selected="false"
                         >
-                          <div className="unskew.active">
+                       
                             <Image
                               href="#una-id"
-                              className="centrarImagen"
+                              className="ImagenPonys  "
                               onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               fluid
                             ></Image>
-                          </div>
+
+                            <Image
+                              href="#una-id"
+                              className="ImagenPonysReponsive mt-3 mx-auto"
+                              onClick={() => this.showContent(index)}
+                              src={process.env.PUBLIC_URL + personaje.Foto2}
+                              fluid
+                            ></Image>
+                   
 
                           <div>
                             <div>
@@ -395,38 +412,7 @@ class PONYS extends React.Component {
                           </div>
                         </div>
                       );
-                    } else {
-                      return (
-                        <div key={index}>
-                          <div
-                            key={index}
-                            className="unskew characterGB"
-                            data-toggle="tab"
-                            role="tab"
-                            aria-selected="false"
-                          >
-                            <div className="unskew.active verticalcenter">
-                              <Image
-                                href="#una-id"
-                                className="centrarImagen"
-                                onClick={() => this.showContent(index)}
-                                src={process.env.PUBLIC_URL + personaje.Foto}
-                                fluid
-                              ></Image>
-                            </div>
-                          </div>
-
-                          <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
-
-                              <div></div>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    }
+                    
                   })}
                 </div>
               </Row>
