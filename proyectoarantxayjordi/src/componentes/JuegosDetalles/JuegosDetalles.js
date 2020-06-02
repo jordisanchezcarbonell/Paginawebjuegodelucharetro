@@ -35,7 +35,6 @@ import UnderNightJuego from "./UnderNight/UnderNight";
 import SoulCaliburVI from "./Soulcalibur/Soulcalibur";
 import StreetFighter5 from "./StreetFighter5/StreetFighter5";
 import GAMETEKKEN from "./TEKKEN/TEKKEN";
-import GAMETEKKEN from "./TEKKEN/TEKKEN";
 import PONYS from "./PONYS/PONYS";
 
 class JuegosDetalles extends React.Component {
