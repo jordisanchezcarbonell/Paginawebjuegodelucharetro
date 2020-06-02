@@ -239,7 +239,7 @@ class PONYS extends React.Component {
               <h3 className="LetraCharacterPonys">Character Select</h3>
 
               <Row className=" w-100  mx-auto">
-                <div className=" w-100 nav nav-tabs" role="tablist">
+                <div className=" w-100 nav " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div

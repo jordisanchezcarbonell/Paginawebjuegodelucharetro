@@ -1,40 +1,56 @@
-.rowGlobalPonys{
+.rowGlobalPonys {
+    color: black;
+    text-align: center;
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*  background: linear-gradient(to right, #d61920 , #d196ce ,#2461be );*/
 
+    width: 100% !important;
+    background-color: rgba(255, 255, 255, 0.123);
+    background-blend-mode: multiply;
+    background-repeat: repeat-x;
+    background-image: url(https://forums.themsfightinherds.com/styles/tactical/tactical/background/generic.jpg), linear-gradient(#6e859c, #c0ccd8);
 
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1000px) {
     .ImagenPonysReponsive {
-           display: block!important;
-        }
-        .ImagenPonys{
-            display: none!important;
-        }
-
+        display: block !important;
     }
 
-.ImagenPonysReponsive{
+    .ImagenPonys {
+        display: none !important;
+    }
+
+}
+
+.ImagenPonysReponsive {
 
     display: none;
     width: 60vw;
 }
 
-.fondo2Ponys{
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0) , #97033a );
+.fondo2Ponys {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), #97033a);
     color: #a61d4f52;
 }
-.fotoLogoPonys{
-float: right;
-margin-right:11vw ;
-height: 9vw;
-margin-top: -0.5vw;
+
+.fotoLogoPonys {
+    float: right;
+    margin-right: 11vw;
+    height: 9vw;
+    margin-top: -0.5vw;
 }
-.ImagenPonys{
+
+.ImagenPonys {
     height: auto;
     background: #fff;
     filter: grayscale(90%);
 
-width: 12vw;
+    width: 12vw;
 
 
 
@@ -65,8 +81,9 @@ width: 12vw;
     cursor: pointer;
 
 }
-.divImagenPonys{
-   
+
+.divImagenPonys {
+
 
     background-position: -9999px -9999px;
     background-size: cover !important;
@@ -74,16 +91,19 @@ width: 12vw;
 
 
 }
-.ImagenPonys:hover{
+
+.ImagenPonys:hover {
     filter: grayscale(0%);
     padding: 0;
     margin: 0;
 }
-.LetraCharacterPonys{
-    color:black;
+
+.LetraCharacterPonys {
+    color: black;
     font-family: 'letraponis', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;
     font-size: 5vw;
 }
+
 @font-face {
     font-family: "letraponis";
     src: url(steelfish\ rg.ttf);
