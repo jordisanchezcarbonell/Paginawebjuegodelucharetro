@@ -394,7 +394,7 @@ class PONYS extends React.Component {
 
                         <Image
                           href="#una-id"
-                          className="ImagenPonysReponsive mt-3 mx-auto"
+                          className="ImagenPonysReponsive mt-3  mx-auto"
                           onClick={() => this.showContent(index)}
                           src={process.env.PUBLIC_URL + personaje.Foto2}
                           fluid

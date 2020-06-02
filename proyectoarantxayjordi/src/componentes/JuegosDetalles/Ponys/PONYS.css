@@ -13,9 +13,10 @@
 
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1107px) {
     .ImagenPonysReponsive {
         display: block !important;
+
     }
 
     .ImagenPonys {
@@ -25,9 +26,9 @@
 }
 
 .ImagenPonysReponsive {
-
     display: none;
-    width: 60vw;
+    width: 70vw;
+    border-top: 1.6vw white solid;
 }
 
 .fondo2Ponys {
@@ -59,7 +60,7 @@
 
 .ImagenPonys {
     height: auto;
-    width: 10vw;
+    width: 150px;
     background: #fff;
     filter: grayscale(90%);
 
