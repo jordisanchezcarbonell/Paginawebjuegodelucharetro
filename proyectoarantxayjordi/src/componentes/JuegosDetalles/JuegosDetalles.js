@@ -36,7 +36,7 @@ import SoulCaliburVI from "./Soulcalibur/Soulcalibur";
 import StreetFighter5 from "./StreetFighter5/StreetFighter5";
 import GAMETEKKEN from "./TEKKEN/TEKKEN";
 import PONYS from "./Ponys/PONYS";
-//import MarvelVSCapcom from "./MarvelVSCapcom/MarvelVSCapcom";
+import MarvelVSCapcom from "./MarvelVSCapcom/MarvelVSCapcom";
 class JuegosDetalles extends React.Component {
   constructor(props, context) {
     super(props);
@@ -369,7 +369,7 @@ height: 10vw;
     const detalles = this.props.location.state.prueba;
     let prueba = Juegos;
     if (detalles.Nombre === prueba[0].Nombre) {
-      return; //<MarvelVSCapcom detalles={detalles} Juego={MARVEL} />;
+      return <MarvelVSCapcom detalles={detalles} Juego={MARVEL} />;
     } else if (detalles.Nombre === prueba[1].Nombre) {
       return <PONYS detalles={detalles} Juego={ponys} />;
     } else if (detalles.Nombre === prueba[2].Nombre) {

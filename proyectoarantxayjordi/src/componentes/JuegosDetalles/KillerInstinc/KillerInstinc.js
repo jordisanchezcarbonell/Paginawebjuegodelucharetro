@@ -207,7 +207,7 @@ class KillerInstinc extends React.Component {
                       </TableContainer>
 
                       <a
-                        class="btn-ki large ghostpulse "
+                        className="btn-ki large ghostpulse "
                         align="right"
                         href="https://www.ultra-combo.com/characters/rash/"
                       >
