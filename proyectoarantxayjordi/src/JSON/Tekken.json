@@ -3,6 +3,7 @@
     "Nombre": "Leroy",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/TK7/Leroy-smith.png",
+    "Foto2":"imagenes/PersonajesTekken7/Leroy-smith.png",
     "Ataques": [
       {
         "nombreAtaque": "Jab",
@@ -91,6 +92,7 @@
     "Nombre": "Akuma",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/TK7/akuma.png",
+    "Foto2":"imagenes/PersonajesTekken7/akuma.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Drive",
@@ -180,6 +182,7 @@
     "Nombre": "Geese Howard",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Geese_Howard.png",
+    "Foto2":"imagenes/PersonajesTekken7/Geese_Howard.png",
     "Ataques": [
       {
         "nombreAtaque": "SLIDE",
@@ -267,6 +270,7 @@
     "Nombre": "Steve",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Steve_Fox.png",
+    "Foto2":"imagenes/PersonajesTekken7/Steve_Fox.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Drive",
@@ -363,6 +367,7 @@
     "Nombre": "Paul",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Paul_Phoenix.png",
+    "Foto2":"imagenes/PersonajesTekken7/Paul_Phoenix.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Drive",
@@ -470,6 +475,8 @@
     "Nombre": "Jin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Jin_Kazama.png",
+    "Foto2":"imagenes/PersonajesTekken7/Jin_Kazama.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -564,6 +571,8 @@
     "Nombre": "Law",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Marshall_Law.png",
+    "Foto2":"imagenes/PersonajesTekken7/Marshall_Law.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -666,6 +675,8 @@
     "Nombre": "Devil Jin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Devil_Jin.png",
+    "Foto2":"imagenes/PersonajesTekken7/Devil_Kazuya.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -762,6 +773,8 @@
     "Nombre": "Ganryu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Ganryu.png",
+    "Foto2":"imagenes/PersonajesTekken7/Ganryu.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -858,6 +871,8 @@
     "Nombre": "Kazuya",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Kazuya_Mishima.png",
+    "Foto2":"imagenes/PersonajesTekken7/Kazuya_Mishima.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -959,6 +974,8 @@
     "Nombre": "Kazumi",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/kazumi.png",
+    "Foto2":"imagenes/PersonajesTekken7/kazumi.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1061,6 +1078,8 @@
     "Nombre": "King",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/King_II.png",
+    "Foto2":"imagenes/PersonajesTekken7/King_II.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1161,6 +1180,8 @@
     "Nombre": "Zafina",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Zafina.png",
+    "Foto2":"imagenes/PersonajesTekken7/Zafina.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1261,6 +1282,8 @@
     "Nombre": "Dragunov",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Sergei_Dragunov.png",
+    "Foto2":"imagenes/PersonajesTekken7/Sergei_Dragunov.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1364,6 +1387,8 @@
     "Nombre": "Hwoarang",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Hwoarang.png",
+    "Foto2":"imagenes/PersonajesTekken7/Hwoarang.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1471,6 +1496,8 @@
     "Nombre": "Lee",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Lee.png",
+    "Foto2":"imagenes/PersonajesTekken7/Lee.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1579,6 +1606,8 @@
     "Nombre": "Claudio",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/claudio.png",
+    "Foto2":"imagenes/PersonajesTekken7/claudio.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1683,6 +1712,8 @@
     "Nombre": "Alisa",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Alisa_Bosconovitch.png",
+    "Foto2":"imagenes/PersonajesTekken7/Alisa_Bosconovitch.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1790,6 +1821,7 @@
     "Nombre": "Julia",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Julia.png",
+    "Foto2":"imagenes/PersonajesTekken7/Julia.png",
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -1897,6 +1929,7 @@
     "Nombre": "Fahkumram",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Fahkumram.png",
+    "Foto2":"imagenes/PersonajesTekken7/Fahkumram.png",
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -1976,6 +2009,8 @@
     "Nombre": "Master Raven",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/TK7/Master_Raven.png",
+    "Foto2":"imagenes/PersonajesTekken7/Master_Raven.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3085,6 +3120,8 @@
     "Nombre": "Josie",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Josie.png",
+    "Foto2":"imagenes/PersonajesTekken7/Josie.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3193,6 +3230,8 @@
     "Nombre": "Nina",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Nina_Williams.png",
+    "Foto2":"imagenes/PersonajesTekken7/Nina_Williams.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3303,6 +3342,8 @@
     "Nombre": "Katarina",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Katarina.png",
+    "Foto2":"imagenes/PersonajesTekken7/Katarina.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3405,6 +3446,8 @@
     "Nombre": "Kuma",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Kuma.png",
+    "Foto2":"imagenes/PersonajesTekken7/Kuma.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3506,6 +3549,8 @@
     "Nombre": "Lili",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Emilie_De_Rochefort.png",
+    "Foto2":"imagenes/PersonajesTekken7/Emilie_De_Rochefort.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3607,6 +3652,8 @@
     "Nombre": "Panda",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/panda.png",
+    "Foto2":"imagenes/PersonajesTekken7/panda.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3707,6 +3754,8 @@
     "Nombre": "Feng",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Fen_Wei.png",
+    "Foto2":"imagenes/PersonajesTekken7/Fen_Wei.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3816,6 +3865,9 @@
     "Nombre": "Noctis",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Noctis.png",
+    "Foto2":"imagenes/PersonajesTekken7/Noctis.png",
+
+    
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -3922,6 +3974,8 @@
     "Nombre": "Eliza",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Eliza_Render.png",
+    "Foto2":"imagenes/PersonajesTekken7/Eliza_Render.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4032,6 +4086,8 @@
     "Nombre": "Miguel",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Miguel_Caballero.png",
+    "Foto2":"imagenes/PersonajesTekken7/Miguel_Caballero.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4137,6 +4193,8 @@
     "Nombre": "Armor King",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/armor_king.png",
+    "Foto2":"imagenes/PersonajesTekken7/armor_king.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4245,6 +4303,8 @@
     "Nombre": "Lei",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Lei_Wulong.png",
+    "Foto2":"imagenes/PersonajesTekken7/Lei_Wulong.png",
+
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
@@ -4323,6 +4383,8 @@
     "Nombre": "Leo",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Leo_Kliesen.png",
+    "Foto2":"imagenes/PersonajesTekken7/Leo_Kliesen.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4426,6 +4488,8 @@
     "Nombre": "Eddy",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/eddy_Gordo.png",
+    "Foto2":"imagenes/PersonajesTekken7/eddy_Gordo.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4516,6 +4580,8 @@
     "Nombre": "Asuka",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Asuma_Kazama.png",
+    "Foto2":"imagenes/PersonajesTekken7/Asuma_Kazama.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4610,6 +4676,8 @@
     "Nombre": "Lars",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Lars.png",
+    "Foto2":"imagenes/PersonajesTekken7/Lars.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4703,6 +4771,8 @@
     "Nombre": "Gigas",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/gigas.png",
+    "Foto2":"imagenes/PersonajesTekken7/gigas.png",
+
     "Ataques": [
       {
         "nombreAtaque": "Rage Art",
@@ -4796,6 +4866,8 @@
     "Nombre": "Yoshimitsu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/TK7/Yoshimitsu.png",
+    "Foto2":"imagenes/PersonajesTekken7/Yoshimitsu.png",
+
     "Ataques": [
       {
         "nombreAtaque": "AIR DASH",
