@@ -13,6 +13,46 @@
 
 }
 
+.DIVFONDOPONYUS {
+    color: black;
+    text-align: center;
+
+    width: 100% !important;
+    background-image: url("./Wiki-background.png"), linear-gradient(#6e859c, #c0ccd8);
+    background-blend-mode: hard-light !important;
+
+}
+
+.fondonombrePnys {
+
+    width: 100%;
+    max-width: 100%;
+    margin: 2% auto 0 auto;
+    color: #fff;
+    font-family: "Letratk";
+    padding-top: -3px;
+    letter-spacing: 0.5em;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: uppercase;
+
+    position: relative;
+    padding-top: 0.5vw;
+    padding-bottom: 0.1vw;
+    background: #9e003a;
+
+
+
+
+}
+
+.TextoPersonajeTituloPonys {
+    font-size: 3vw !important;
+    margin-left: -2vw;
+
+    color: white;
+}
+
 @media screen and (max-width: 1107px) {
     .ImagenPonysReponsive {
         display: block !important;
@@ -43,18 +83,19 @@
     margin-top: -0.5vw;
 }
 
-@supports(object-fit: cover){
-    .divImagenPonys img{
-      height: 100%;
-      object-fit: cover;
-      object-position: center center;
+@supports(object-fit: cover) {
+    .divImagenPonys img {
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
     }
 }
-.containerPonys{
-    min-width: 100%!important;
-    width: 100%!important;
-    margin:0!important;
-    padding:0!important;
+
+.containerPonys {
+    min-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
 
 }
 
@@ -67,7 +108,7 @@
 
     border: none;
     padding: 0;
-   
+
 
     cursor: pointer;
 
@@ -88,11 +129,13 @@
 
 
 }
-.probaaPonys{
-    margin:0 auto!important;
-    margin-left:20%!important;
+
+.probaaPonys {
+    margin: 0 auto !important;
+    margin-left: 20% !important;
 
 }
+
 .divImagenPonys {
 
     background-position: -9999px -9999px;
