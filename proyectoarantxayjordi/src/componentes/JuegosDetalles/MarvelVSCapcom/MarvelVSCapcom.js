@@ -332,7 +332,7 @@ class MarvelVSCapcom extends React.Component {
    
 
                 <div
-                  className="col-md-11 mx-auto nav borderBotBD   "
+                  className="col-md-10 mx-auto nav borderBotBD   "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {

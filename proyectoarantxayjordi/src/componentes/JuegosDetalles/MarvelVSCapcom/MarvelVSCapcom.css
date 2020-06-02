@@ -2,7 +2,7 @@
 border:2.5px rgb(219, 149, 18) solid;
 
 height: 5vw;
-filter: sepia(60%);
+filter: sepia(70%);
 
 
 }
@@ -31,7 +31,6 @@ filter: sepia(60%);
     }
     .DIVcolorear:hover:before {
     background: rgba(255,102,0, 0.5); /*Sepia*/
-
     }
 
 
@@ -61,5 +60,7 @@ filter: sepia(60%);
 }
 .FotoMC:hover{
     filter: grayscale(0%);
+    transform: scale(1.1)!important;
+
 
 }
