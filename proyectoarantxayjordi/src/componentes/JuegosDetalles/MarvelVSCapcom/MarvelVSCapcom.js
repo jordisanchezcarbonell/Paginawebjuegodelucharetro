@@ -12,7 +12,6 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-import imagenLetraSF5 from "./fondo_nombreSF5.jpg";
 
 // get our fontawesome imports
 
@@ -34,7 +33,6 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className=" enter mt-4 pROSF ">
-          <img src={imagenLetraSF5} className="w-100 ml-2"></img>
 
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
@@ -327,32 +325,29 @@ class MarvelVSCapcom extends React.Component {
             <Container className="w-100 mx-auto  ">
               <h3 className="LetraTituloSF mb-4">Character Select</h3>
               <Row className=" w-100 stage  ml-4">
-                {/* <img
-                  src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className="mx-auto mb-3"
-                ></img> */}
+            
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD  "
+                  className="col-md-11  nav borderBotBD  "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
-                    if (index <= 19) {
+                
                       return (
                         <div
                           className=" "
                           align="center"
                           key={personaje.Nombre}
                         >
-                          <div className="DIVFOTO w-100">
-                            <div className="fotoPruebaa">
+                          <div className=" w-100">
+                     
                               <img
-                                className="FotoSF"
+                                className="FotoMV"
                                 onClick={() => this.showContent(index)}
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 alt="imagen personaje"
                               ></img>
-                            </div>
+                          
                             <div className="DivNombrePJ">
                               <h3 className="NombrePesonaje1">
                                 {personaje.Nombre}
@@ -369,50 +364,11 @@ class MarvelVSCapcom extends React.Component {
                           </div>
                         </div>
                       );
-                    }
+                    
                   })}
                 </div>
 
-                <div
-                  className="nav nav-tabs col-md-6  borderBotBD"
-                  role="tablist"
-                >
-                  {this.props.Juego.map((personaje, index) => {
-                    if (index > 19) {
-                      return (
-                        <div
-                          key={personaje.Nombre}
-                          className=" "
-                          align="center"
-                        >
-                          <div className="DIVFOTO w-100">
-                            <div className="fotoPruebaa">
-                              <img
-                                className="FotoSF2 "
-                                onClick={() => this.showContent(index)}
-                                src={process.env.PUBLIC_URL + personaje.Foto}
-                                alt="imagen logo2"
-                              ></img>
-                            </div>
-                            <div className="DivNombrePJ">
-                              <h3 className="NombrePesonaje1 nom2">
-                                {personaje.Nombre}
-                              </h3>
-                            </div>
-                          </div>
-                          <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
-
-                              <div></div>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    }
-                  })}
-                </div>
+        
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (

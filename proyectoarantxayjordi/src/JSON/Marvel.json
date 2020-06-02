@@ -2,7 +2,9 @@
   {
     "Nombre": "Sentinel",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Sentinel.jpg",
+ 
+    "Foto":"imagenes/MvsC2/Sentinel.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Sentinel.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -21,7 +23,10 @@
   {
     "Nombre": "Storm",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Storm.jpg",
+    "Foto":"imagenes/MvsC2/Storm.jpg",
+
+    "Foto2": "imagenes/PersonajesMVsC/Storm.jpg",
+    
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -37,7 +42,8 @@
   {
     "Nombre": "Cable",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Cable.jpg",
+    "Foto":"imagenes/MvsC2/Cable.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Cable.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -56,7 +62,8 @@
   {
     "Nombre": "Magneto",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Magneto.jpg",
+    "Foto":"imagenes/MvsC2/Magneto.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Magneto.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -72,7 +79,9 @@
   {
     "Nombre": "Cyclops",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Cyclops.jpg",
+    "Foto":"imagenes/MvsC2/Cyclops.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Cyclops.jpg",
+
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -91,7 +100,8 @@
   {
     "Nombre": "Iron Man",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Iron-Man.jpg",
+    "Foto":"imagenes/MvsC2/Iron_Man.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Iron-Man.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -107,7 +117,8 @@
   {
     "Nombre": "War Machine",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/War_machine.jpg",
+    "Foto":"imagenes/MvsC2/War_Machine.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/War_machine.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -126,7 +137,8 @@
   {
     "Nombre": "Doctor Doom",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
+    "Foto":"imagenes/MvsC2/Doctor_Doom.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -142,7 +154,8 @@
   {
     "Nombre": "Strider",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
+    "Foto":"imagenes/MvsC2/Strider.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -161,7 +174,8 @@
   {
     "Nombre": "Spiral",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Spiral.jpg",
+    "Foto":"imagenes/MvsC2/Spiral.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Spiral.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -177,7 +191,8 @@
   {
     "Nombre": "Dhalsim",
     "Descripcion": "LA MEJOOOOR",
-    "Foto": "imagenes/PersonajesMVsC/Dhalsim.jpg",
+    "Foto":"imagenes/MvsC2/Dhalsim.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Dhalsim.jpg",
     "Ataques": [
       {
         "nombreAtaque": "Hadoyken",
@@ -196,7 +211,8 @@
   {
     "Nombre": "Blackheart",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Blackheart.jpg",
+    "Foto":"imagenes/MvsC2/Blackheart.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Blackheart.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -212,7 +228,8 @@
   {
     "Nombre": "Psylocke",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Psylocke.jpg",
+    "Foto":"imagenes/MvsC2/Psylocke.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Psylocke.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -228,7 +245,8 @@
   {
     "Nombre": "Captain Commando",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
+    "Foto":"imagenes/MvsC2/Captain_Commando.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -244,7 +262,8 @@
   {
     "Nombre": "Tron Bonne",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
+    "Foto":"imagenes/MvsC2/Tron_Bonne.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -260,7 +279,8 @@
   {
     "Nombre": "Ruby Heart",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
+    "Foto":"imagenes/MvsC2/Ruby_Heart.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -276,7 +296,8 @@
   {
     "Nombre": "Omega Red",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Omega_red.jpg",
+    "Foto":"imagenes/MvsC2/Omega_red.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Omega_red.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -292,7 +313,8 @@
   {
     "Nombre": "Colossus",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Colossus.jpg",
+    "Foto":"imagenes/MvsC2/Colossus.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Colossus.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -308,7 +330,8 @@
   {
     "Nombre": "Juggernaut",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Juggernaut.jpg",
+    "Foto":"imagenes/MvsC2/Juggernaut.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Juggernaut.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -324,7 +347,8 @@
   {
     "Nombre": "Rogue",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Rogue.jpg",
+    "Foto":"imagenes/MvsC2/Rogue.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Rogue.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -340,7 +364,8 @@
   {
     "Nombre": "Cammy",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Cammy.jpg",
+    "Foto":"imagenes/MvsC2/Cammy.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Cammy.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -356,7 +381,8 @@
   {
     "Nombre": "Mega Man",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Mega_man.jpg",
+    "Foto":"imagenes/MvsC2/Mega_man.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Mega_man.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -372,7 +398,8 @@
   {
     "Nombre": "Guile",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Guile.jpg",
+    "Foto":"imagenes/MvsC2/Guile.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Guile.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -388,7 +415,8 @@
   {
     "Nombre": "Anakaris",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Anakaris.png",
+    "Foto":"imagenes/MvsC2/Anakaris.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Anakaris.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -404,7 +432,8 @@
   {
     "Nombre": "Silver Samurai",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Silver_samurai.jpg",
+    "Foto":"imagenes/MvsC2/Silver_Samurai.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Silver_samurai.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -420,7 +449,8 @@
   {
     "Nombre": "Marrow",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Marrow.jpg",
+    "Foto":"imagenes/MvsC2/Marrow.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Marrow.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -436,7 +466,8 @@
   {
     "Nombre": "Gambit",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Gambit.jpg",
+    "Foto":"imagenes/MvsC2/Gambit.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Gambit.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -452,7 +483,8 @@
   {
     "Nombre": "Iceman",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Iceman.jpg",
+    "Foto":"imagenes/MvsC2/Iceman.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Iceman.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -468,7 +500,8 @@
   {
     "Nombre": "Spiderman",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Spiderman.jpg",
+    "Foto":"imagenes/MvsC2/Spiderman.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Spiderman.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -484,7 +517,8 @@
   {
     "Nombre": "Wolverine - Bone",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Wolverine.jpg",
+    "Foto":"imagenes/MvsC2/Wolverine_Bone.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -500,7 +534,8 @@
   {
     "Nombre": "Wolverine - Claw",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Wolverine.jpg",
+    "Foto":"imagenes/MvsC2/Wolverine.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -516,7 +551,8 @@
   {
     "Nombre": "Venom",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Venom.jpg",
+    "Foto":"imagenes/MvsC2/Venom.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Venom.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -532,7 +568,8 @@
   {
     "Nombre": "B.B. Hood",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Bb_hood.jpg",
+    "Foto":"imagenes/MvsC2/BB_hood.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Bb_hood.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -548,7 +585,8 @@
   {
     "Nombre": "Sakura",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Sakura.jpg",
+    "Foto":"imagenes/MvsC2/Sakura.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Sakura.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -564,7 +602,8 @@
   {
     "Nombre": "Sonson",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Sonson.jpg",
+    "Foto":"imagenes/MvsC2/Sonson.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Sonson.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -580,7 +619,8 @@
   {
     "Nombre": "Akuma",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Akuma.jpg",
+    "Foto":"imagenes/MvsC2/Akuma.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Akuma.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -596,7 +636,8 @@
   {
     "Nombre": "Ken",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Ken.jpg",
+    "Foto":"imagenes/MvsC2/Ken.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Ken.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -612,7 +653,8 @@
   {
     "Nombre": "Ryu",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Ryu.jpg",
+    "Foto":"imagenes/MvsC2/Ryu.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Ryu.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -628,7 +670,8 @@
   {
     "Nombre": "Charlie",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Charlie.jpg",
+    "Foto":"imagenes/MvsC2/Charlie.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Charlie.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -644,7 +687,8 @@
   {
     "Nombre": "M.Bison",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/M.Bison.jpg",
+    "Foto":"imagenes/MvsC2/M_bison.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/M.Bison.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -660,7 +704,8 @@
   {
     "Nombre": "Captain America",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Captitan_America.jpg",
+    "Foto":"imagenes/MvsC2/Captain_America.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Captitan_America.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -676,7 +721,8 @@
   {
     "Nombre": "Hulk",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Hulk.jpg",
+    "Foto":"imagenes/MvsC2/Hulk.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Hulk.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -692,7 +738,8 @@
   {
     "Nombre": "Jin",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Jin.jpg",
+    "Foto":"imagenes/MvsC2/Jin.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Jin.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -708,7 +755,8 @@
   {
     "Nombre": "Jill",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Jill.jpg",
+    "Foto":"imagenes/MvsC2/Jill.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Jill.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -724,7 +772,8 @@
   {
     "Nombre": "Felicia",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Felicia.jpg",
+    "Foto":"imagenes/MvsC2/Felicia.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Felicia.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -740,7 +789,8 @@
   {
     "Nombre": "Morrigan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Morrigan.jpg",
+    "Foto":"imagenes/MvsC2/Morrigan.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Morrigan.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -756,7 +806,8 @@
   {
     "Nombre": "Zangief",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Zangief.jpg",
+    "Foto":"imagenes/MvsC2/Zangief.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Zangief.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -772,7 +823,8 @@
   {
     "Nombre": "Amingo",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Amingo.jpg",
+    "Foto":"imagenes/MvsC2/Amingo.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Amingo.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -788,7 +840,8 @@
   {
     "Nombre": "Chun-Li",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Chun-li.jpg",
+    "Foto":"imagenes/MvsC2/Chun-li.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Chun-li.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -804,7 +857,8 @@
   {
     "Nombre": "Hayato",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Hayato.jpg",
+    "Foto":"imagenes/MvsC2/Hayato.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Hayato.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -820,7 +874,8 @@
   {
     "Nombre": "Sabretooth",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Sabretooth.jpg",
+    "Foto":"imagenes/MvsC2/Sabretooth.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Sabretooth.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -836,7 +891,8 @@
   {
     "Nombre": "Shuma-Gorath",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Shuma-Gorath.png",
+    "Foto":"imagenes/MvsC2/Shuma-Gorath.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Shuma-Gorath.png",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -852,7 +908,8 @@
   {
     "Nombre": "Thanos",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Thanos.jpg",
+    "Foto":"imagenes/MvsC2/Tahnos.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Thanos.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -868,7 +925,9 @@
   {
     "Nombre": "Dan",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Dan.jpg",
+    "Foto":"imagenes/MvsC2/Dan.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Dan.jpg",
+
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -884,7 +943,8 @@
   {
     "Nombre": "Kobun",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Kobun.jpg",
+    "Foto":"imagenes/MvsC2/Kobun.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Kobun.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
@@ -900,7 +960,8 @@
   {
     "Nombre": "Roll",
     "Descripcion": "PRUEBA",
-    "Foto": "imagenes/PersonajesMVsC/Roll.jpg",
+    "Foto":"imagenes/MvsC2/Roll.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Roll.jpg",
     "Ataques": [
       {
         "nombreAtaque": "FREE T-SHIRT!",
