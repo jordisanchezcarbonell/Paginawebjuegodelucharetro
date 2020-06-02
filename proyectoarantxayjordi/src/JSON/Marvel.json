@@ -1322,15 +1322,63 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Juggernaut.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Juggernaut.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Juggernaut Punch",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Juggernaut Body Press",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180rf.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Earthquake Punch",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Df.png",
+          "imagenes/AtaquesMVC2/D.png",
+
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Cyttorak Power-Up",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Juggernaut Headcrush",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": " Earthquake Punch",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": "Juggernaut Punch",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Body Press",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
       }
     ]
   },
@@ -1339,15 +1387,60 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Rogue.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Rogue.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Repeating Punches",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Rising Repeating Punches",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dive Punch",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Power Drain",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Goodnight Sugah",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Rising Punches",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Repeating Punches",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Power Drain",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
       }
     ]
   },
@@ -1356,15 +1449,76 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Cammy.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cammy.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Axle Spin Knuckle",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Cannon Drill",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Cannon Drill",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Hooligan Jump",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Killer Bee Assault",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Reverse Shaft Breaker",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spin Drive Smasher",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Cannon spike",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": "Cannon drill",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": "Axle Spin Knuckle",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -1373,15 +1527,83 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Mega_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Mega_man.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Weapon Activation",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Mega Uppercut",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Summon Rockball Power-Up",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Summon Leaf Shield Power-Up",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Summon Tornado Hold Power-Up",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Hyper Mega Man",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Beat Plane",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rush Drill",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "2-hit Charged Mega Buster",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": " Mega Upper Cut",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "2-hit Charged Mega Buster",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -1390,15 +1612,71 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Guile.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Guile.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Sonic Boom",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/B.png",
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Flash Kick",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/U.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Air Flash Kick",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/U.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Sonic Hurricane",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Somersault Strike",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Crossfire Assault",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Flash Kick",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": "Sonic Boom",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Sonic Boom",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -1407,15 +1685,102 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Anakaris.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Anakaris.png",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Miira Drop",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Cobra Strike",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/B.png",
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sarcophagus Drop",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Curse",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Curse",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/F.png",
+
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Lp.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Pharaoh Magic",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Hk.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pharaoh Illusion",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Super Cobra Strike",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/B.png",
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Super Coffin Drop",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/D.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Cobra Strike",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Mummy Wrap",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Coffin Drop",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
