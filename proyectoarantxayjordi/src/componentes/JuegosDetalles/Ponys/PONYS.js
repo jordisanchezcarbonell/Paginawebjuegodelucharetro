@@ -25,8 +25,6 @@ class Child extends React.Component {
   }
 
   render() {
-
-
     const style = {
       backgroundPosition: "right right",
       backgroundSize: "cover",
@@ -34,7 +32,7 @@ class Child extends React.Component {
       display: "block",
       backgroundImage:
         "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
-        this.props.detalles.Foto2 +
+        this.props.elemento.Foto2 +
         ")",
       backgroundRepeat: "no-repeat",
     };
@@ -62,7 +60,7 @@ class Child extends React.Component {
                   className="nomostrarscroll"
                 >
                   <TableBody className="nomostrarscroll">
-                    {this.props.elemento.UniqueAction.map((Ataque, index) => (
+                    {this.props.elemento.Ataques.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
@@ -95,135 +93,6 @@ class Child extends React.Component {
                         }
                       </TableRow>
                     ))}
-                  </TableBody>
-                </Table>
-              </TableContainer>
-              <TableContainer className=" fondoTablaGB  mt-3">
-                <h3 className="TituloAtaquesGB my-0 w-100">Special Moves</h3>
-
-                <Table>
-                  <TableBody>
-                    {this.props.elemento.Skill.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                        <TableCell
-                          className="  py-2 colorFondoAtaquesGB "
-                          scope="row"
-                          component="td"
-                          align="left"
-                        >
-                          {Ataque.nombreAtaque}
-                        </TableCell>
-
-                        {
-                          <TableCell
-                            className="  nombreAtaquesGB py-2"
-                            align="right"
-                            component="td"
-                          >
-                            {Ataque.Animacion.map(
-                              (animaciondelataque, index) => (
-                                <Image
-                                  key={index}
-                                  className="imgAtaqueGB"
-                                  src={
-                                    process.env.PUBLIC_URL + animaciondelataque
-                                  }
-                                  fluid
-                                />
-                              )
-                            )}
-                          </TableCell>
-                        }
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </TableContainer>
-            </Col>
-            <Col className="col-md-6">
-              <TableContainer className=" fondoTablaGB  mt-5 ">
-                <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
-
-                <Table className="nomostrarscroll">
-                  <TableBody>
-                    {this.props.elemento.SkyboundArt.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                        <TableCell
-                          className="  py-2 colorFondoAtaquesGB "
-                          component="td"
-                          scope="row"
-                          align="left"
-                        >
-                          {Ataque.nombreAtaque}
-                        </TableCell>
-
-                        {
-                          <TableCell
-                            component="td"
-                            className="  nombreAtaquesGB py-2"
-                            align="right"
-                          >
-                            {Ataque.Animacion.map(
-                              (animaciondelataque, index) => (
-                                <Image
-                                  key={index}
-                                  className="imgAtaqueGB"
-                                  src={
-                                    process.env.PUBLIC_URL + animaciondelataque
-                                  }
-                                  fluid
-                                />
-                              )
-                            )}
-                          </TableCell>
-                        }
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </TableContainer>
-
-              <TableContainer className=" fondoTablaGB  mt-3 ">
-                <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
-
-                <Table className="nomostrarscroll">
-                  <TableBody>
-                    {this.props.elemento.SuperSkyboundArt.map(
-                      (Ataque, index) => (
-                        <TableRow key={Ataque.nombreAtaque} className="mx-5">
-                          <TableCell
-                            className="  py-2 colorFondoAtaquesGB "
-                            component="td"
-                            scope="row"
-                            align="left"
-                          >
-                            {Ataque.nombreAtaque}
-                          </TableCell>
-
-                          {
-                            <TableCell
-                              component="td"
-                              className="  nombreAtaquesGB py-2"
-                              align="right"
-                            >
-                              {Ataque.Animacion.map(
-                                (animaciondelataque, index) => (
-                                  <Image
-                                    key={index}
-                                    className="imgAtaqueGB"
-                                    src={
-                                      process.env.PUBLIC_URL +
-                                      animaciondelataque
-                                    }
-                                    fluid
-                                  />
-                                )
-                              )}
-                            </TableCell>
-                          }
-                        </TableRow>
-                      )
-                    )}
                   </TableBody>
                 </Table>
               </TableContainer>
@@ -352,10 +221,8 @@ class PONYS extends React.Component {
         </Modal>
         <div>
           <Row>
-         
-
             <Col md="8" className="fondo2Ponys px-0">
-            <img
+              <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
                 className="fotoLogoPonys "
@@ -369,49 +236,44 @@ class PONYS extends React.Component {
         <div className="row  rowGlobalPonys ">
           <div className="w-100 mt-4">
             <Container className="w-100 px-0 mx-auto ">
-            <h3 className="LetraCharacterPonys">Character Select</h3>
+              <h3 className="LetraCharacterPonys">Character Select</h3>
 
-              <Row className=" w-100  mx-auto">        
+              <Row className=" w-100  mx-auto">
                 <div className=" w-100 nav nav-tabs" role="tablist">
-                  
-                  {this.props.Juego.map((personaje, index) => {            
-                      return (
-                        <div
-                           
-                           className=" divImagenPonys mx-0 px-0  "
+                  {this.props.Juego.map((personaje, index) => {
+                    return (
+                      <div
+                        className=" divImagenPonys mx-0 px-0  "
                         // data-toggle="tab"
                         //  role="tab"
                         //   aria-selected="false"
-                        >
-                       
-                            <Image
-                              href="#una-id"
-                              className="ImagenPonys  "
-                              onClick={() => this.showContent(index)}
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                              fluid
-                            ></Image>
+                      >
+                        <Image
+                          href="#una-id"
+                          className="ImagenPonys  "
+                          onClick={() => this.showContent(index)}
+                          src={process.env.PUBLIC_URL + personaje.Foto}
+                          fluid
+                        ></Image>
 
-                            <Image
-                              href="#una-id"
-                              className="ImagenPonysReponsive mt-3 mx-auto"
-                              onClick={() => this.showContent(index)}
-                              src={process.env.PUBLIC_URL + personaje.Foto2}
-                              fluid
-                            ></Image>
-                   
+                        <Image
+                          href="#una-id"
+                          className="ImagenPonysReponsive mt-3 mx-auto"
+                          onClick={() => this.showContent(index)}
+                          src={process.env.PUBLIC_URL + personaje.Foto2}
+                          fluid
+                        ></Image>
 
+                        <div>
                           <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
+                            {this.state.isItemContentVisible[index] &&
+                              this.renderContent(personaje)}
 
-                              <div></div>
-                            </div>
+                            <div></div>
                           </div>
                         </div>
-                      );
-                    
+                      </div>
+                    );
                   })}
                 </div>
               </Row>
