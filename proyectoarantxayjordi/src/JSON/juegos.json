@@ -1,10 +1,5 @@
 [
-  {
-    "Nombre": "Street Fighter III: 3rd Strike",
-    "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Street_Fighter_3rd.jpg",
-    "Rooter": "imagenes/imagenesRoster/street-fighter-iii-3rd-strike.jpg"
-  },
+
 
   {
     "Nombre": "Marvel vs Capcom",
@@ -53,12 +48,7 @@
     "Rooter": "imagenes/imagenesRoster/tekken.jpg",
     "Logo":"imagenes/TK7/logo.png"
   },
-  {
-    "Nombre": "Super Smash Bros. Ultimate",
-    "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/SuperSmashBros.png",
-    "Rooter": "imagenes/imagenesRoster/super_smash.jpg"
-  },
+
   {
     "Nombre": "Soulcalibur VI",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",

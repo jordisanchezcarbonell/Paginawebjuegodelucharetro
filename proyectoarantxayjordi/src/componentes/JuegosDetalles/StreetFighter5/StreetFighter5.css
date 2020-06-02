@@ -145,18 +145,6 @@
 
 
 
-.FotoBD2 {
-    width: 90px !important;
-    min-width: 5vw !important;
-    height: 10vw !important;
-    border-radius: 0 !important;
-    border: 2px white solid;
-    margin: 4px;
-
-    transform: skewX(-15deg);
-    cursor: pointer;
-}
-
 .nomostrarscrollBD {
     /*No mostrar*/
     overflow: hidden !important;
