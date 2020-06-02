@@ -47,9 +47,9 @@ class Child extends React.Component {
           <h3>{this.props.elemento.Nombre}</h3>
         </div>
         <Row className="w-100  px-0 mx-0">
-          <Col className="col-md-6 w-100 mb-5">
+          <Col className="col-md-6 w-100">
         
-              <TableContainer className=" fondoTablaSF  mt-4">
+              <TableContainer className=" fondoTablaSF   mt-4   mb-2">
                 <h3 className="TituloAtaquesSF my-0 w-100">Unique Movement</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -92,7 +92,7 @@ class Child extends React.Component {
               </TableContainer>
 
           
-              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+              <TableContainer className=" fondoTablaSF  ">
                 <h3 className="TituloAtaquesSF my-0">Superattacks</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -139,15 +139,12 @@ class Child extends React.Component {
           
             </Col>
 
-            <Col className="col-md-6 ">
+            <Col className="col-md-6  mb-4   ">
 
 
 
 
-
-
-
-            <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+            <TableContainer className=" fondoTablaSF  mt-4   mb-2">
                 <h3 className="TituloAtaquesSF my-0">Magic Sytem</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -190,7 +187,7 @@ class Child extends React.Component {
               </TableContainer>
 
 
-            <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+            <TableContainer className=" fondoTablaSF  mb-4">
                 <h3 className="TituloAtaquesSF my-0">Specials</h3>
 
                 <Table className="nomostrarscrollBD">

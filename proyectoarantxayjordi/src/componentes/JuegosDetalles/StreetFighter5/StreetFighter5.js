@@ -343,7 +343,7 @@ class StreetFighter5 extends React.Component {
                     if (index <= 19) {
                       return (
                         <div
-                          className="CentrodoBD "
+                          className=" "
                           align="center"
                           key={personaje.Nombre}
                         >
@@ -385,7 +385,7 @@ class StreetFighter5 extends React.Component {
                       return (
                         <div
                           key={personaje.Nombre}
-                          className="CentrodoBD "
+                          className=" "
                           align="center"
                         >
                           <div className="DIVFOTO w-100">
