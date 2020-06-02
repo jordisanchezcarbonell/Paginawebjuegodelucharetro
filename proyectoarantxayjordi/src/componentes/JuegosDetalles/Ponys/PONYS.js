@@ -40,62 +40,59 @@ class Child extends React.Component {
         id="section1"
         style={{ width: "100%" }}
         key={this.props.elemento.Nombre}
+        className="DivPonysGlobal"
       >
         <div className="products">
           <h3>{this.props.elemento.Nombre}</h3>
         </div>
-          <Row className="w-100  px-0 mx-0">
-            <Col className="col-md-6 w-100 mb-5">
-              <TableContainer
-                component={Paper}
-                className="fondoTablaGB  eliminarradius mt-5"
+        <Row className="w-100  px-0 mx-0">
+          <Col className="col-md-6 w-100 mb-5">
+            <TableContainer
+              component={Paper}
+              className="fondoTablaGB  eliminarradius mt-5"
+            >
+              <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
+
+              <Table
+                stickyHeader
+                aria-label="sticky table"
+                className="nomostrarscroll"
               >
-                <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
+                <TableBody className="nomostrarscroll">
+                  {this.props.elemento.Ataques.map((Ataque, index) => (
+                    <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
+                      <TableCell
+                        className="  py-2 colorFondoAtaquesGB "
+                        scope="row"
+                        component="td"
+                        align="left"
+                      >
+                        {Ataque.nombreAtaque}
+                      </TableCell>
 
-                <Table
-                  stickyHeader
-                  aria-label="sticky table"
-                  className="nomostrarscroll"
-                >
-                  <TableBody className="nomostrarscroll">
-                    {this.props.elemento.Ataques.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
+                      {
                         <TableCell
-                          className="  py-2 colorFondoAtaquesGB "
-                          scope="row"
+                          className="  nombreAtaquesGB py-2"
                           component="td"
-                          align="left"
+                          align="right"
                         >
-                          {Ataque.nombreAtaque}
+                          {Ataque.Animacion.map((animaciondelataque, index) => (
+                            <Image
+                              key={index}
+                              className="imgAtaqueGB"
+                              src={process.env.PUBLIC_URL + animaciondelataque}
+                              fluid
+                            />
+                          ))}
                         </TableCell>
-
-                        {
-                          <TableCell
-                            className="  nombreAtaquesGB py-2"
-                            component="td"
-                            align="right"
-                          >
-                            {Ataque.Animacion.map(
-                              (animaciondelataque, index) => (
-                                <Image
-                                  key={index}
-                                  className="imgAtaqueGB"
-                                  src={
-                                    process.env.PUBLIC_URL + animaciondelataque
-                                  }
-                                  fluid
-                                />
-                              )
-                            )}
-                          </TableCell>
-                        }
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </TableContainer>
-            </Col>
-          </Row>
+                      }
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+            </TableContainer>
+          </Col>
+        </Row>
       </div>
     );
   }
@@ -191,7 +188,7 @@ class PONYS extends React.Component {
     };
 
     return (
-      <div className="DivPonysGlobal  w-100 ml-0">
+      <div className="  w-100 ml-0">
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>
