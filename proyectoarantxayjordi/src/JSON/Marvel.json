@@ -340,20 +340,20 @@
         "nombreAtaque": "Rapid Punches(Hold)",
         "Animacion": [
           "imagenes/AtaquesMVC2/B.png",
-                    "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/F.png",
 
           "imagenes/AtaquesMVC2/L.png"
         ]
       },
-       {
-         "nombreAtaque": "Rapid Punches(Hold)",
-         "Animacion": [
-           "imagenes/AtaquesMVC2/B.png",
-           "imagenes/AtaquesMVC2/F.png",
+      {
+        "nombreAtaque": "Rapid Punches(Hold)",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/B.png",
+          "imagenes/AtaquesMVC2/F.png",
 
-           "imagenes/AtaquesMVC2/K.png"
-         ]
-       }
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
     ],
     "SuperMoves": [
       {
@@ -376,7 +376,7 @@
     "AssistMoves": [
       {
         "nombreAtaque": "Optic Blast",
-        "Animacion": ["imagenes/AtaquesMVC2/lp.png"]
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
       },
       {
         "nombreAtaque": "Gene",
@@ -393,15 +393,60 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Iron_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iron-Man.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Unibeam",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Smart bombs",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Repulsor blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flight",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Proton Cannon",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Unibeam",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": "Repulsor Blast",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Assist c",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -410,18 +455,76 @@
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/MvsC2/War_Machine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/War_machine.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Shoulder Cannon",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Low Shoulder Cannon",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Smart Bomb",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/B.png",
+          "imagenes/AtaquesMVC2/F.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
       },
       {
-        "nombreAtaque": "FRIKIIIIII",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Repulsor Blast",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flight",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Proton Cannon",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "War Destroyer",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Shoulder Cannon",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": "Repulsor Blast",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": "Assist c",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
       }
     ]
   },
@@ -430,15 +533,77 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Doctor_Doom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Plasma Beam",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Photon Shot",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Molecular Shield",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Hikou (Flight)",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Electric Cage",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sphere Flame",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Photon Array",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Photon Shot",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Molecular Shield",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": "Plasma Beam",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
@@ -447,18 +612,78 @@
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/MvsC2/Strider.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "Hadoyken",
-        "Animacion": "Esto es un hadoyken"
+        "nombreAtaque": "Ame no Murakumo",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Excalibur",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
       },
       {
-        "nombreAtaque": "Shoruken",
-        "Animacion": "Esto es un shoriyken"
+        "nombreAtaque": "Gram",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Z.png",
+          "imagenes/AtaquesMVC2/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Warp",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/ZL.png",
+          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/K.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Ouroboros",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
       },
       {
-        "nombreAtaque": "FRIKIIIIII",
-        "Animacion": "PROBNA"
+        "nombreAtaque": "Ragnarok",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/Df.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Legion",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Ame no Murakumo",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
+      },
+      {
+        "nombreAtaque": "Vajra",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
+      },
+      {
+        "nombreAtaque": "Formation A",
+        "Animacion": ["imagenes/AtaquesMVC2/Hk.png"]
       }
     ]
   },
@@ -467,15 +692,80 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/MvsC2/Spiral.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiral.jpg",
-    "Ataques": [
+    "SpecialMoves": [
       {
-        "nombreAtaque": "FREE T-SHIRT!",
+        "nombreAtaque": "Dancing Sword",
         "Animacion": [
-          "imagenes/AtaquesMVC2/Directions_Right.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png",
-          "imagenes/AtaquesMVC2/Button_C.png"
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/L.png"
         ]
+      },
+
+      {
+        "nombreAtaque": "Tsurugi Tobashi: Forward",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tsurugi Tobashi: Upward",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Kyuukouka Dance",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "SuperMoves": [
+      {
+        "nombreAtaque": "Stampede Sword",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Power Dance",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Metamorphose",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/236.png",
+          "imagenes/AtaquesMVC2/Lp.png",
+          "imagenes/AtaquesMVC2/Hp.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Speed Dance",
+        "Animacion": [
+          "imagenes/AtaquesMVC2/214.png",
+          "imagenes/AtaquesMVC2/Lk.png",
+          "imagenes/AtaquesMVC2/Hk.png"
+        ]
+      }
+    ],
+    "AssistMoves": [
+      {
+        "nombreAtaque": "Tsurugi Tobashi",
+        "Animacion": ["imagenes/AtaquesMVC2/Lp.png"]
+      },
+      {
+        "nombreAtaque": " Tsurugi Tobashi",
+        "Animacion": ["imagenes/AtaquesMVC2/Hp.png"]
       }
     ]
   },
