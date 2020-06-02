@@ -11,10 +11,7 @@
         "nombreAtaque": "RUN",
         "Animacion": ["imagenes/imagenesataques/Directions_DoubleRight.png"]
       },
-      {
-        "nombreAtaque": "Eat",
-        "Animacion": ["imagenes/imagenesataques/Light.png"]
-      },
+
       {
         "nombreAtaque": "Pushblock",
         "Animacion": ["imagenes/imagenesataques/Attack_2.png"]
@@ -30,21 +27,7 @@
         "nombreAtaque": "Quick Recovery",
         "Animacion": ["imagenes/imagenesataques/Attack_1.png"]
       },
-      {
-        "nombreAtaque": "Dodge",
-        "Animacion": [
-          "imagenes/imagenesataques/Right.png",
-          "imagenes/imagenesataques/Left.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Roll",
-        "Animacion": [
-          "imagenes/imagenesataques/Dd_left.png",
-          "imagenes/imagenesataques/Down.png",
-          "imagenes/imagenesataques/Dd_right.png"
-        ]
-      },
+
       {
         "nombreAtaque": "ELBOW DROP",
         "Animacion": [
@@ -510,7 +493,7 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/tianhuo.png",
     "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
-    "fondo": "imagenes/ponys2/FondoSunset_Prairie.png",
+    "fondo": "imagenes/ponys2/FondoHuoshan.png",
 
     "Uniquemovement": [
       {
