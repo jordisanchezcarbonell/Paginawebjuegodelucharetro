@@ -9,6 +9,7 @@ filter: sepia(70%);
 
 
 
+
 .DIVcolorear {
     position: relative;
     /* Estas dos propiedades sólo sirven para centrar */
@@ -55,8 +56,14 @@ filter: sepia(60%);
 
 .DivFONDOSMC{
 
-
     background-image: url(https://www.fightersgeneration.com/newspics/bg-red5.gif);
+}
+.TextoPersonajeTituloMC{
+    background: linear-gradient(to right, rgb(43, 2, 1),  rgb(87, 5, 2), rgb(43, 2, 1));
+padding-top: 0.5vw;
+text-shadow: 0 0 30px #fff;
+padding-bottom: 0.8vw;
+
 }
 .FotoMC:hover{
     filter: grayscale(0%);

@@ -29,11 +29,11 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaquesSF DIVCONTENEDORTABLASSF"
+        className="PruebadefondoAtaquesMC DIVCONTENEDORTABLASSF"
         key={this.props.elemento.Nombre}
       >
         <div className=" enter mt-4 pROSF ">
-          <h3 className="TextoPersonajeTituloSF">
+          <h3 className="TextoPersonajeTituloMC">
             {this.props.elemento.Nombre}
           </h3>
 
