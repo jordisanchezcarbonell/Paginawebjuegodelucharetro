@@ -17,7 +17,7 @@ export class PaginaJuegos extends Component {
       <div className=" fondodepantalla justify-content-center">
         <h2>
           <strong>
-            All Games<span>( 4 )</span>
+            All Games<span>( {data.length} )</span>
           </strong>
         </h2>
         <div className="row">
