@@ -238,7 +238,21 @@ tr {
     .character-thumb .label {
         font-size: .7rem;
         margin-top: 5px
+        
     }
+}
+
+
+
+
+@media screen and (max-width: 1107px) {
+.TituloElegirMK{
+
+
+    margin-top: 3vw!important;
+    margin-bottom: -3vw!important;
+}
+
 }
 
 @media (min-width:992px) {
@@ -279,13 +293,23 @@ tr {
 
 @media (min-width:992px) {
     .character-thumb.locked .img-wrapper {
-        height: 110px
+        height: 110px;
+        margin-left: 60px!important;
+
     }
 
     .character-thumb.locked .img-wrapper>svg {
-        width: 75px
+        width: 75px;
+
     }
+   
 }
+
+
+
+
+
+
 
 .horiz-rule {
     display: block;

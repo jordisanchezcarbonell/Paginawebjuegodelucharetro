@@ -13,6 +13,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 
+
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -317,9 +318,9 @@ class MortalKombat extends React.Component {
         <h1 className="TituloElegirMK"> Elige a tu jugador</h1>
         <div className="row rowGlobalKI  ">
           <div className="w-100 mt-4">
-            <Container className="w-100 ">
-              <Row className=" w-100 stage">
-                <div className="characterMk nav   " role="tablist">
+            <Container className="w-100 px-0">
+              <Row className=" w-100 stage mx-0 mb-4">
+                <div className="characterMk nav justify-content-center  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <a
