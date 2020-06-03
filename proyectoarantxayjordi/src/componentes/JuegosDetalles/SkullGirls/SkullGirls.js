@@ -17,7 +17,7 @@ import Image from "react-bootstrap/Image";
 // get our fontawesome imports
 import { faHome } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ReactComponent as Logo } from "../nombre.png";
+import { ReactComponent as Logo } from "./nombre.png";
 import ReactPlayer from "react-player";
 import IcomoonReact, { iconList } from "icomoon-react";
 import { BrowserRouter, Route, Link } from "react-router-dom";

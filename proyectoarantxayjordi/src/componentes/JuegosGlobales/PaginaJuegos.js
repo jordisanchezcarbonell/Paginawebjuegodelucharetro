@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import data from "../JSON/juegos.json";
+import data from "../../JSON/juegos.json";
 import "./JuegosGlobales.css";
 
 import { Link } from "react-router-dom";

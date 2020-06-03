@@ -2,8 +2,8 @@
 import React, { Component } from "react";
 import * as ReactBootstrap from "react-bootstrap";
 import { PaginaPlataformas } from "./PaginaPlataformas";
-import { PaginaJuegos } from "./PaginaJuegos";
-import JuegosDetalles from "./JuegosDetalles/JuegosDetalles";
+import { PaginaJuegos } from "./JuegosGlobales/PaginaJuegos";
+import JuegosDetalles from "./JuegosDetalles/Detalles/JuegosDetalles";
 import Personaje from "./PersonajeDetalles/Personaje";
 import Todo from "./PersonajesGlobales/PersonajesGlobales";
 import "./Principal.css";
