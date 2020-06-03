@@ -15,14 +15,15 @@ export class PaginaJuegos extends Component {
     console.log("-> render");
     return (
       <div className=" fondodepantalla">
-        <h2><strong>All Games<span>( 4 )</span></strong></h2>
+        <h2>
+          <strong>
+            All Games<span>( 4 )</span>
+          </strong>
+        </h2>
         <div className="row">
-
           {data.map((juego, index) => {
             return (
-
               <div key={juego.Nombre} className="wrapper">
-
                 <div className="cards">
                   <Link
                     to={{
@@ -33,20 +34,17 @@ export class PaginaJuegos extends Component {
                       },
                     }}
                   >
-
                     {/*Para coger la carpeta public */}
                     <figure class="card">
-{/*className="tamañoimg"*/}
-                      <img 
+                      {/*className="tamañoimg"*/}
+                      <img
                         variant="top"
-                        src={process.env.PUBLIC_URL + juego.Foto}
+                        src={process.env.PUBLIC_URL + juego.Cara}
                         alt="Error"
                       />
 
                       <figcaption>{juego.Nombre}</figcaption>
-
                     </figure>
-
                   </Link>
                 </div>
               </div>
@@ -57,18 +55,6 @@ export class PaginaJuegos extends Component {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*<div class="news">
 
