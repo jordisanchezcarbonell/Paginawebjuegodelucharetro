@@ -42,8 +42,8 @@ class Child extends React.Component {
         <Container className="  w-100">
           <Row className="w-100  px-0 justify-content-center ">
             <Col className="col-md-6 w-100 mb-5  ">
-              <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
-                <h3 className="TituloAtaquesSF my-0">Special Moves</h3>
+              <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  ">
+                <h3 className="TituloAtaquesMC my-0">Special Moves</h3>
 
                 <Table
                   stickyHeader
@@ -57,7 +57,7 @@ class Child extends React.Component {
                         className="mx-5  rowSF5 "
                       >
                         <TableCell
-                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesMC tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -92,15 +92,15 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6 w-100">
-              <TableContainer className=" fondoTablaSF  mt-4">
-                <h3 className="TituloAtaquesSF my-0 w-100">Super Moves</h3>
+              <TableContainer className=" fondoTablaMC  mt-4">
+                <h3 className="TituloAtaquesMC my-0 w-100">Super Moves</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.SuperMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesSF  nomostrarscrollBD tablaborderabajo"
+                          className="  py-2 colorFondoAtaquesMC  nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -134,15 +134,15 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
-                <h3 className="TituloAtaquesSF my-0">AssistMoves</h3>
+              <TableContainer className=" fondoTablaMC  mt-2 mb-4">
+                <h3 className="TituloAtaquesMC my-0">AssistMoves</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
                     {this.props.elemento.AssistMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesSF tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesMC tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"

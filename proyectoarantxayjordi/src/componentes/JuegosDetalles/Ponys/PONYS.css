@@ -139,7 +139,7 @@
     float: right;
     margin-right: 11vw;
     height: 9vw;
-    margin-top: -0.5vw;
+    margin-top: -0.5vw!important;
 }
 
 @supports(object-fit: cover) {
