@@ -5,7 +5,6 @@ import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
 import TableRow from "@material-ui/core/TableRow";
-import Paper from "@material-ui/core/Paper";
 import { Container, Row, Col } from "reactstrap";
 import "./UnderNight.css";
 import { withRouter } from "react-router-dom";
@@ -33,7 +32,7 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className="NombrePersonajeUN my-4  ">
-          <img className="w-100 fotoNombrePJUN" src={TituloPJ}></img>
+          <img className="w-100 fotoNombrePJUN" src={TituloPJ} alt="logo"></img>
           <h3 className="TextoPersonajeTituloUN">
             {this.props.elemento.Nombre}
           </h3>

@@ -99,13 +99,10 @@ class Child extends React.Component {
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <img
                 className="FotoTK2 my-1 mt-5 "
-
                 src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
                 alt="imagen personaje"
               ></img>
-
             </Col>
-
           </Row>
         </Container>
       </div>
@@ -232,14 +229,14 @@ class TEKKEN extends React.Component {
         </Modal>
         <div>
           <Row>
-
             <Col md="7" className="fondo2TK">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
                 alt=""
                 className="fotoLogoTK"
                 height="110vw"
-              ></img>            </Col>
+              ></img>{" "}
+            </Col>
 
             <Col md="5" style={style}></Col>
           </Row>
@@ -260,18 +257,19 @@ class TEKKEN extends React.Component {
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
-
                     return (
                       <div
                         className="CentrodoBD mx-auto "
                         align="center"
                         key={personaje.Nombre}
                       >
-                        <div className="DIVFOTOTK w-100">
+                        <div
+                          className="DIVFOTOTK w-100"
+                          onClick={() => this.showContent(index)}
+                        >
                           <div className="DivFOTOTK">
                             <img
                               className="FotoTK my-1 "
-                              onClick={() => this.showContent(index)}
                               src={process.env.PUBLIC_URL + personaje.Foto}
                               alt="imagen personaje"
                             ></img>
@@ -279,7 +277,6 @@ class TEKKEN extends React.Component {
                           <h3 className="NombrePesonajeTK">
                             {personaje.Nombre}
                           </h3>
-
                         </div>
                         <div>
                           <div>
@@ -291,11 +288,8 @@ class TEKKEN extends React.Component {
                         </div>
                       </div>
                     );
-
                   })}
                 </div>
-
-
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (

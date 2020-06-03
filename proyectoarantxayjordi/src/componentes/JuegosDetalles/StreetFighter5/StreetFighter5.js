@@ -5,7 +5,6 @@ import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
 import TableRow from "@material-ui/core/TableRow";
-import Paper from "@material-ui/core/Paper";
 import { Container, Row, Col } from "reactstrap";
 import "./StreetFighter5.css";
 import { withRouter } from "react-router-dom";
@@ -33,11 +32,8 @@ class Child extends React.Component {
         className="PruebadefondoAtaquesSF DIVCONTENEDORTABLASSF"
         key={this.props.elemento.Nombre}
       >
-      
-
         <div className=" enter mt-4 pROSF ">
-          
-          <img src={imagenLetraSF5} className="w-100 ml-2"></img>
+          <img src={imagenLetraSF5} className="w-100 ml-2" alt="logo"></img>
 
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}

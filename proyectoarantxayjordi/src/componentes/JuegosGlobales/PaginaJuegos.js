@@ -35,7 +35,7 @@ export class PaginaJuegos extends Component {
                     }}
                   >
                     {/*Para coger la carpeta public */}
-                    <figure class="card">
+                    <figure className="card">
                       {/*className="tamañoimg"*/}
                       <img
                         variant="top"
