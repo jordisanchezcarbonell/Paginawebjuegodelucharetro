@@ -1,45 +1,52 @@
-.fondoTablaTK{
-background: rgba(255, 255, 255, 0.144)!important;
+.fondoTablaTK {
+    background: rgba(255, 255, 255, 0.144) !important;
 
-    
+
 }
-.LineaTK{
 
-    width: 20vw!important;
+.LineaTK {
+
+    width: 20vw !important;
     background-color: white;
-    height: 2px!important;
+    height: 2px !important;
 }
-.TituloAtaquesTK{
+
+.TituloAtaquesTK {
     font-family: "Letratk";
     letter-spacing: 0.3em;
     font-weight: 500;
-font-size: 2.5vw!important;
+    font-size: 2.5vw !important;
 
-    color:white
+    color: white
 }
-.colorFondoAtaquesTK{
 
-    color: white!important;
+.colorFondoAtaquesTK {
+
+    color: white !important;
 }
-.fondo2TK{  
-      background: linear-gradient(90deg, rgba(0, 0, 0, 0) , rgba(0,0,0,1) );
+
+.fondo2TK {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
 }
-.fotoLogoTK{
+
+.fotoLogoTK {
     float: right;
     margin-top: 1.5vw;
 }
-.DivNegroTransTK{
 
-    background-color: rgba(0, 0, 0, 0.233)!important;
+.DivNegroTransTK {
+
+    background-color: rgba(0, 0, 0, 0.233) !important;
 
 
 }
-.DivFONDOTK{
+
+.DivFONDOTK {
     color: black;
     text-align: center;
 
     width: 100% !important;
-    background-image: url(https://static.bandainamcoent.eu/high/tekken/tekken-7/06-characters/t7_characters_background.jpg), linear-gradient(#6e859c, #c0ccd8) ;
+    background-image: url(https://static.bandainamcoent.eu/high/tekken/tekken-7/06-characters/t7_characters_background.jpg), linear-gradient(#6e859c, #c0ccd8);
 }
 
 
@@ -53,29 +60,30 @@ font-size: 2.5vw!important;
 
     background-repeat: repeat-x;
 */
-.TextoPersonajeTituloTK{
-    font-size:3vw!important;
+.TextoPersonajeTituloTK {
+    font-size: 3vw !important;
     margin-left: -2vw;
 
     color: white;
     text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
 }
-.fondonombreTK{
+
+.fondonombreTK {
 
     width: 100%;
     max-width: 100%;
     margin: 2% auto 0 auto;
     color: #fff;
-     font-family: "Letratk";
-    padding-top:-3px;
+    font-family: "Letratk";
+    padding-top: -3px;
     letter-spacing: 0.5em;
     box-sizing: border-box;
     text-align: center;
     text-transform: uppercase;
 
     position: relative;
-    padding-top:0.5vw ;
-    padding-bottom:0.1vw ;
+    padding-top: 0.5vw;
+    padding-bottom: 0.1vw;
     background: linear-gradient(90deg, #7a0606, #c91111 50%, #c91111 50%, #7a0606);
 
 
@@ -92,24 +100,25 @@ font-size: 2.5vw!important;
 }
 
 
-.PruebadefondoAtaques{
+.PruebadefondoAtaques {
 
-    background-image: url(https://tk7.tekken.com/assets/images/common/stone.jpg), linear-gradient(#6e859c, #c0ccd8) ;
+    background-image: url(https://tk7.tekken.com/assets/images/common/stone.jpg), linear-gradient(#6e859c, #c0ccd8);
 
 }
-.LetraTituloTK{
-    font-weight: 800!important;
-   font-style: oblique!important;
+
+.LetraTituloTK {
+    font-weight: 800 !important;
+    font-style: oblique !important;
     letter-spacing: 6px;
     font-family: "Letratk";
     font-style: normal;
     font-weight: 400;
-        text-transform: uppercase;
-color:white;
-font-size: 3vw;
+    text-transform: uppercase;
+    color: white;
+    font-size: 3vw;
 }
 
-.FotoTK{
+.FotoTK {
     cursor: pointer;
     width: 6vw !important;
     min-width: 5vw !important;
@@ -119,22 +128,24 @@ font-size: 3vw;
 
 
 }
-.NombrePesonajeTK{
+
+.NombrePesonajeTK {
     position: absolute;
     top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color:white;
+    color: white;
     font-size: 1vw;
-font-weight: 800;
-opacity: 0;
+    font-weight: 800;
+    opacity: 0;
 
 }
+
 /* filter: brightness(1.1) !important;
 */
-.DIVFOTOTK:HOVER{
+.DIVFOTOTK:HOVER {
     z-index: 1 !important;
-   
+
     transform: scale(1.15) !important;
 
     transform: scale(1.05) !important;
@@ -143,26 +154,29 @@ opacity: 0;
 
 /*    filter: brightness(0.6) !important;
 */
-.DIVFOTOTK{
+.DIVFOTOTK {
     position: relative;
 }
 
 .DIVFOTOTK:before,
 .separator:before {
-content: "";
-display: block;
-position: absolute;
-/* Todas las posiciones a cero */
-top: 0;
-bottom: 0;
-left: 0;
-right: 0;
-background: none;
+    content: "";
+    display: block;
+    position: absolute;
+    /* Todas las posiciones a cero */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: none;
 }
+
 .DIVFOTOTK:hover:before {
-    margin-top:  4%!important;;
-    margin-bottom: 4%!important;
-background: rgba(172, 3, 3, 0.438); /*Sepia*/
+    margin-top: 4% !important;
+    ;
+    margin-bottom: 4% !important;
+    background: rgba(172, 3, 3, 0.438);
+    /*Sepia*/
 
 }
 
@@ -181,8 +195,13 @@ div.DIVFOTOTK .FotoTK:hover {
 
 
 
-div.DIVFOTOTK:hover h3{
+div.DIVFOTOTK:hover h3 {
     opacity: 1;
 }
 
 
+.FOTOTK2 {
+    height: 600px !important;
+    z-index: -1 !important;
+
+}

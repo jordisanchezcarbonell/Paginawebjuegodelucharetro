@@ -62,7 +62,7 @@ class SkullGirls extends React.Component {
           </Modal.Header>
           <Modal.Body>
             <img
-              className="imgAtaque"
+              className=""
               variant="top"
               src={process.env.PUBLIC_URL + this.state.imagen}
               alt="Error"
@@ -112,7 +112,7 @@ class SkullGirls extends React.Component {
         <div className="row rowGlobal ">
           <Container className="w-100 ContainerSeparacion mt-4 ">
             <div className=" contenedor ">
-              <h1 className="txtDescripcion">Descripcion</h1>
+              <h1 className="txtDescripcion ">Descripcion</h1>
               <Image
                 src={require("./header.png")}
                 className="imgDescripcion"
@@ -185,7 +185,7 @@ class SkullGirls extends React.Component {
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
                                         <Image
-                                          className="imgAtaque"
+                                          className=""
                                           key={index}
                                           variant="top"
                                           src={
@@ -245,7 +245,7 @@ class SkullGirls extends React.Component {
                                       (animaciondelataque, index) => (
                                         <span key={index}>
                                           <Image
-                                            className="imgAtaque"
+                                            className=""
                                             variant="top"
                                             src={
                                               process.env.PUBLIC_URL +
@@ -304,7 +304,7 @@ class SkullGirls extends React.Component {
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
                                         <Image
-                                          className="imgAtaque"
+                                          className=""
                                           key={index}
                                           variant="top"
                                           src={
