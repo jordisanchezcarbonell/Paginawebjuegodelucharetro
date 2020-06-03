@@ -43,7 +43,7 @@ export class PaginaJuegos extends Component {
                         alt="Error"
                       />
 
-                      <figcaption>{juego.Nombre}</figcaption>
+                      {/* <figcaption>{juego.Nombre}</figcaption> */}
                     </figure>
                   </Link>
                 </div>
