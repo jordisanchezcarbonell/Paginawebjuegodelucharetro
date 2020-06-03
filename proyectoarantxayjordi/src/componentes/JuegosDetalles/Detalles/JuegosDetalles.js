@@ -1,11 +1,4 @@
 import React from "react";
-import Table from "@material-ui/core/Table";
-import TableBody from "@material-ui/core/TableBody";
-import TableCell from "@material-ui/core/TableCell";
-import TableContainer from "@material-ui/core/TableContainer";
-import TableRow from "@material-ui/core/TableRow";
-import Paper from "@material-ui/core/Paper";
-import { Container, Row, Col } from "reactstrap";
 
 import "./juegosDetalles.css";
 import killerinstinct from "../../../JSON/KillerInstinct.json";
@@ -14,7 +7,6 @@ import PJmortalkombat from "../../../JSON/MortalKombat.json";
 
 import Juegos from "../../../JSON/juegos.json";
 import { withRouter } from "react-router-dom";
-import { Modal, Button } from "react-bootstrap";
 import ponys from "../../../JSON/ponys.json";
 import MARVEL from "../../../JSON/Marvel.json";
 import Dragonball from "../../../JSON/DragonBall.json";
@@ -24,7 +16,6 @@ import StreetFighterV from "../../../JSON/StreetFighter5.json";
 import TEKKEN from "../../../JSON/Tekken.json";
 import SoulCalibur from "../../../JSON/SoulCalibur.json";
 import Granblue from "../../../JSON/GranBlue.json";
-import ReactPlayer from "react-player";
 import KillerInstinct from "../KillerInstinc/KillerInstinc";
 import MortalKombat from "../MortalKombat/MortalKombat";
 import GbFantasy from "../GrandBLUE/GranBlue";

@@ -1,26 +1,18 @@
-import React, { useState } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+import React from "react";
 import Table from "@material-ui/core/Table";
-import Table2 from "react-bootstrap/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
-import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
-import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
 import "./SkullGirls.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
-import Image from "react-bootstrap/Image";
 // get our fontawesome imports
-import { faHome } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { ReactComponent as Logo } from "./nombre.png";
+
 import ReactPlayer from "react-player";
-import IcomoonReact, { iconList } from "icomoon-react";
-import { BrowserRouter, Route, Link } from "react-router-dom";
+
 //AVER SI FUNCIOONA
 class SkullGirls extends React.Component {
   constructor(props, context) {

@@ -11,7 +11,6 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-import fotodesc from "./descarga.jpg";
 
 // get our fontawesome imports
 
