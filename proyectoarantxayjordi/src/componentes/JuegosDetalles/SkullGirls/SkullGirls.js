@@ -1,45 +1,32 @@
-import React from "react";
+import React, { useState } from "react";
+import { makeStyles } from "@material-ui/core/styles";
 import Table from "@material-ui/core/Table";
+import Table2 from "react-bootstrap/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
+import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
+import { StyleSheet, Text, View } from "react";
 import { Container, Row, Col } from "reactstrap";
-
-import "./juegosDetalles.css";
-import killerinstinct from "../../JSON/KillerInstinct.json";
-import Skullgirls from "../../JSON/SkullGirls.json";
-import PJmortalkombat from "../../JSON/MortalKombat.json";
-
-import Juegos from "../../JSON/juegos.json";
+import "./SkullGirls.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
-import ponys from "../../JSON/ponys.json";
-import MARVEL from "../../JSON/Marvel.json";
-import Dragonball from "../../JSON/DragonBall.json";
-import UnderNight from "../../JSON/UnderNight.json";
-import StreetFighterV from "../../JSON/StreetFighter5.json";
-
-import TEKKEN from "../../JSON/Tekken.json";
-import SoulCalibur from "../../JSON/SoulCalibur.json";
-import Granblue from "../../JSON/GranBlue.json";
+import Image from "react-bootstrap/Image";
+// get our fontawesome imports
+import { faHome } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { ReactComponent as Logo } from "../nombre.png";
 import ReactPlayer from "react-player";
-import KillerInstinct from "./KillerInstinc/KillerInstinc";
-import MortalKombat from "./MortalKombat/MortalKombat";
-import GbFantasy from "./GrandBLUE/GranBlue";
-import DB from "./DragonBall/Dragonball";
-import UnderNightJuego from "./UnderNight/UnderNight";
-import SoulCaliburVI from "./Soulcalibur/Soulcalibur";
-import StreetFighter5 from "./StreetFighter5/StreetFighter5";
-import GAMETEKKEN from "./TEKKEN/TEKKEN";
-import PONYS from "./Ponys/PONYS";
-import MarvelVSCapcom from "./MarvelVSCapcom/MarvelVSCapcom";
-import SkullG from "./SkullGirls/SkullGirls";
-
-class JuegosDetalles extends React.Component {
+import IcomoonReact, { iconList } from "icomoon-react";
+import { BrowserRouter, Route, Link } from "react-router-dom";
+//AVER SI FUNCIOONA
+class SkullGirls extends React.Component {
   constructor(props, context) {
     super(props);
+    console.log(props);
+    console.log(this.props.detalles.Foto);
   }
 
   state = {
@@ -54,24 +41,15 @@ class JuegosDetalles extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
+
+    console.log(this.state.elemento);
   };
 
   handleCloseModal = (e) => {
     this.setState({ show: false });
   };
-  streetfighter(detalles, elementoporpasarparametro) {
-    /**
-     * .imagenTitulo{
-height: 10vw;
-    background-position: right right;
-    background-size: 100% 200%!important;
-    display: block;
-    background: linear-gradient(to left, rgba(255,255,255,0), rgba(255,255,255,1)), url(https://steamcdn-a.akamaihd.net/steam/apps/574980/extras/steam_header.png?t=1589582752);
-    background-repeat: no-repeat;
 
-
-}
-     */
+  render() {
     const style = {
       backgroundPosition: "right right",
       backgroundSize: "cover",
@@ -79,7 +57,7 @@ height: 10vw;
       display: "block",
       backgroundImage:
         "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
-        detalles.Rooter +
+        this.props.detalles.Rooter +
         ")",
       backgroundRepeat: "no-repeat",
     };
@@ -114,14 +92,14 @@ height: 10vw;
           <Row>
             <Col md="3" className="fondo1">
               <img
-                src={process.env.PUBLIC_URL + detalles.Foto}
+                src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
                 className="fotoLogoPonys"
                 height="110vw"
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-              <h1 className="TextoTitulo">{detalles.Nombre} </h1>
+              <h1 className="TextoTitulo">{this.props.detalles.Nombre} </h1>
             </Col>
 
             <Col md="5" style={style}></Col>
@@ -149,9 +127,9 @@ height: 10vw;
                 alt="Descripcion Juego"
               />
             </div>
-            <h6 className="NombreDesc">{detalles.Descripcion} </h6>
+            <h6 className="NombreDesc">{this.props.detalles.Descripcion} </h6>
           </Container>
-          {elementoporpasarparametro.map((personaje) => {
+          {this.props.Juego.map((personaje) => {
             return (
               <div className="Personajes w-100" key={personaje.Nombre}>
                 <Container className="w-100 ContainerSeparacion ">
@@ -364,34 +342,6 @@ height: 10vw;
       </div>
     );
   }
-
-  render() {
-    const detalles = this.props.location.state.prueba;
-    let prueba = Juegos;
-    if (detalles.Nombre === prueba[0].Nombre) {
-      return <MarvelVSCapcom detalles={detalles} Juego={MARVEL} />;
-    } else if (detalles.Nombre === prueba[1].Nombre) {
-      return <PONYS detalles={detalles} Juego={ponys} />;
-    } else if (detalles.Nombre === prueba[2].Nombre) {
-      return <KillerInstinct detalles={detalles} Juego={killerinstinct} />;
-    } else if (detalles.Nombre === prueba[3].Nombre) {
-      return <SkullG detalles={detalles} Juego={Skullgirls} />;
-    } else if (detalles.Nombre === prueba[4].Nombre) {
-      return <UnderNightJuego detalles={detalles} Juego={UnderNight} />;
-    } else if (detalles.Nombre === prueba[5].Nombre) {
-      return <DB detalles={detalles} Juego={Dragonball} />;
-    } else if (detalles.Nombre === prueba[6].Nombre) {
-      return <GAMETEKKEN detalles={detalles} Juego={TEKKEN} />;
-    } else if (detalles.Nombre === prueba[7].Nombre) {
-      return <SoulCaliburVI detalles={detalles} Juego={SoulCalibur} />;
-    } else if (detalles.Nombre === prueba[8].Nombre) {
-      return <StreetFighter5 detalles={detalles} Juego={StreetFighterV} />;
-    } else if (detalles.Nombre === prueba[9].Nombre) {
-      return <GbFantasy detalles={detalles} Juego={Granblue} />;
-    } else if (detalles.Nombre === prueba[10].Nombre) {
-      return <MortalKombat detalles={detalles} Juego={PJmortalkombat} />;
-    }
-  }
 }
 
-export default withRouter(JuegosDetalles);
+export default withRouter(SkullGirls);
