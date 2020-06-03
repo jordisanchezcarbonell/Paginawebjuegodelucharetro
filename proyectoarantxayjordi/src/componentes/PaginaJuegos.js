@@ -14,7 +14,7 @@ export class PaginaJuegos extends Component {
   render() {
     console.log("-> render");
     return (
-      <div className=" fondodepantalla">
+      <div className=" fondodepantalla justify-content-center">
         <h2>
           <strong>
             All Games<span>( 4 )</span>
@@ -24,7 +24,7 @@ export class PaginaJuegos extends Component {
           {data.map((juego, index) => {
             return (
               <div key={juego.Nombre} className="wrapper">
-                <div className="cards">
+                <div className="cards justify-content-center">
                   <Link
                     to={{
                       pathname: "/juegosDetalles",
