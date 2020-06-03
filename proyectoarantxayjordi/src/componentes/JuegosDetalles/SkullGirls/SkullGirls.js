@@ -112,7 +112,7 @@ class SkullGirls extends React.Component {
         <div className="row rowGlobal ">
           <Container className="w-100 ContainerSeparacion mt-4 ">
             <div className=" contenedor ">
-              <h1 className="txtDescripcion">Descripcion</h1>
+              <h1 className="txtDescripcion ">Descripcion</h1>
               <Image
                 src={require("./header.png")}
                 className="imgDescripcion"

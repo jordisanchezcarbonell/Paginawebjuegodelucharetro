@@ -148,11 +148,25 @@ th {
   font-family: 'PT Serif', serif;
   font-size: 3vh;
   font-weight: bold;
-  position: absolute;
-  top: 42%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  position: relative;
+  bottom: 8vh;
+  font-weight: bold;
   /**/
+}
+
+@media screen and (max-width: 1027px) {
+  .centrado {
+    bottom: 5vh;
+
+  }
+
+  .contenedor {
+    margin-top: 10%;
+  }
 }
 
 @font-face {
