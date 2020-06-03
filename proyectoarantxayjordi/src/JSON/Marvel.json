@@ -10,7 +10,7 @@
         "nombreAtaque": "Rocket Punch",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -84,7 +84,7 @@
         "nombreAtaque": "Typhoon (Whirlwind)",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -99,7 +99,7 @@
         "nombreAtaque": "Lightning Sphere",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -151,7 +151,7 @@
         "nombreAtaque": "Viper Beam",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -159,7 +159,7 @@
         "nombreAtaque": "Psimitar",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -173,7 +173,7 @@
         "nombreAtaque": "Psy-Charge",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -227,7 +227,7 @@
         "nombreAtaque": "E-M Disruptor",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -245,7 +245,7 @@
           "imagenes/AtaquesMVC2/Uf.png",
           "imagenes/AtaquesMVC2/F.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -301,7 +301,7 @@
         "nombreAtaque": "Optic Blast",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -319,21 +319,21 @@
           "imagenes/AtaquesMVC2/Df.png",
           "imagenes/AtaquesMVC2/D.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Cyclone Kick",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Gene Splice",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -342,7 +342,7 @@
           "imagenes/AtaquesMVC2/B.png",
           "imagenes/AtaquesMVC2/F.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -398,7 +398,7 @@
         "nombreAtaque": "Unibeam",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -413,7 +413,7 @@
         "nombreAtaque": "Repulsor blast",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -460,7 +460,7 @@
         "nombreAtaque": "Shoulder Cannon",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -484,7 +484,7 @@
         "nombreAtaque": "Repulsor Blast",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -538,7 +538,7 @@
         "nombreAtaque": "Plasma Beam",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -546,7 +546,7 @@
         "nombreAtaque": "Photon Shot",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -617,7 +617,7 @@
         "nombreAtaque": "Ame no Murakumo",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -625,7 +625,7 @@
         "nombreAtaque": "Excalibur",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/P.png",
           "imagenes/AtaquesMVC2/K.png"
         ]
       },
@@ -633,7 +633,7 @@
         "nombreAtaque": "Gram",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -641,7 +641,7 @@
         "nombreAtaque": "Warp",
         "Animacion": [
           "imagenes/AtaquesMVC2/ZL.png",
-          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/P.png",
           "imagenes/AtaquesMVC2/K.png"
         ]
       }
@@ -697,7 +697,7 @@
         "nombreAtaque": "Dancing Sword",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -779,7 +779,7 @@
         "nombreAtaque": "Yoga Fire",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -787,7 +787,7 @@
         "nombreAtaque": "Yoga Flame",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -857,7 +857,7 @@
         "nombreAtaque": "Inferno",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -865,7 +865,7 @@
         "nombreAtaque": "Dark Thunder",
         "Animacion": [
           "imagenes/AtaquesMVC2/180rf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -916,7 +916,7 @@
         "nombreAtaque": "Psi-Blast",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -932,7 +932,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
           "imagenes/AtaquesMVC2/K.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -983,7 +983,7 @@
         "nombreAtaque": "Captain Fire",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -991,7 +991,7 @@
         "nombreAtaque": "Captain Corridor",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1061,7 +1061,7 @@
         "nombreAtaque": "Beacon Bomb",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1069,7 +1069,7 @@
         "nombreAtaque": "Kobun Launch (Shikidan)",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1132,7 +1132,7 @@
         "nombreAtaque": "Cheval Seller",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1154,8 +1154,8 @@
       {
         "nombreAtaque": "Rafale Cannon",
         "Animacion": [
-          "imagenes/AtaquesMVC2/1810lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/180lf.png",
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -1210,14 +1210,14 @@
         "nombreAtaque": "Carbnadium Coil",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/P.png",
           "imagenes/AtaquesMVC2/Hp.png"
         ]
       },
 
       {
         "nombreAtaque": "Death Factor",
-        "Animacion": ["imagenes/AtaquesMVC2/L.png"]
+        "Animacion": ["imagenes/AtaquesMVC2/P.png"]
       },
       {
         "nombreAtaque": "Energy Drain",
@@ -1228,7 +1228,7 @@
         "nombreAtaque": "Omega Strike",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png",
+          "imagenes/AtaquesMVC2/P.png",
           "imagenes/AtaquesMVC2/Hk.png"
         ]
       }
@@ -1276,7 +1276,7 @@
         "nombreAtaque": "Giant Swing",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1327,7 +1327,7 @@
         "nombreAtaque": "Juggernaut Punch",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1345,7 +1345,7 @@
           "imagenes/AtaquesMVC2/Df.png",
           "imagenes/AtaquesMVC2/D.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1353,7 +1353,7 @@
         "nombreAtaque": "Cyttorak Power-Up",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -1392,7 +1392,7 @@
         "nombreAtaque": "Repeating Punches",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1400,7 +1400,7 @@
         "nombreAtaque": "Rising Repeating Punches",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1454,7 +1454,7 @@
         "nombreAtaque": "Axle Spin Knuckle",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1532,7 +1532,7 @@
         "nombreAtaque": "Weapon Activation",
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1540,7 +1540,7 @@
         "nombreAtaque": "Mega Uppercut",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1618,7 +1618,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/B.png",
           "imagenes/AtaquesMVC2/F.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1691,7 +1691,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1700,7 +1700,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/B.png",
           "imagenes/AtaquesMVC2/F.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1708,7 +1708,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/D.png",
           "imagenes/AtaquesMVC2/D.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1795,13 +1795,13 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
       {
         "nombreAtaque": "Hyakuretsu Tou(mas)",
-        "Animacion": ["imagenes/AtaquesMVC2/L.png"]
+        "Animacion": ["imagenes/AtaquesMVC2/P.png"]
       },
 
       {
@@ -1809,7 +1809,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1880,7 +1880,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1889,14 +1889,14 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Ride & Slash",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1952,7 +1952,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -1961,14 +1961,14 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Trick Card",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -1986,7 +1986,7 @@
           "imagenes/AtaquesMVC2/D.png",
           "imagenes/AtaquesMVC2/U.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -2034,7 +2034,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2050,7 +2050,7 @@
         "nombreAtaque": "Ice Fist",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -2090,7 +2090,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2099,14 +2099,14 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Web Throw",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -2170,7 +2170,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2179,7 +2179,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -2230,7 +2230,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2239,7 +2239,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -2313,7 +2313,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2329,7 +2329,7 @@
         "nombreAtaque": "Web Throw",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -2374,7 +2374,7 @@
           "imagenes/AtaquesMVC2/B.png",
           "imagenes/AtaquesMVC2/F.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2382,14 +2382,14 @@
         "nombreAtaque": "Cheer & Fire (Angled)",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Shyness Strike",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2462,7 +2462,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2470,7 +2470,7 @@
         "nombreAtaque": "Hadouken",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -2533,7 +2533,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2541,7 +2541,7 @@
         "nombreAtaque": "Kingin no Hisago",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -2611,7 +2611,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2626,7 +2626,7 @@
         "nombreAtaque": "Dragon Punch ",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -2707,7 +2707,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2722,7 +2722,7 @@
         "nombreAtaque": "Shoryuken ",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2730,7 +2730,7 @@
         "nombreAtaque": "Shoryuken ",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -2786,7 +2786,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2801,7 +2801,7 @@
         "nombreAtaque": "Shoryuken ",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -2858,7 +2858,7 @@
           "imagenes/AtaquesMVC2/B.png",
           "imagenes/AtaquesMVC2/F.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2933,7 +2933,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/180rf.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -2968,7 +2968,7 @@
           "imagenes/AtaquesMVC2/D.png",
           "imagenes/AtaquesMVC2/U.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -3024,7 +3024,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3039,7 +3039,7 @@
         "nombreAtaque": "Stars & Stripes ",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -3095,7 +3095,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3103,7 +3103,7 @@
         "nombreAtaque": "Gamma Tornado",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3169,7 +3169,7 @@
           "imagenes/AtaquesMVC2/B.png",
 
           "imagenes/AtaquesMVC2/F.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3179,7 +3179,7 @@
           "imagenes/AtaquesMVC2/D.png",
           "imagenes/AtaquesMVC2/U.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3239,7 +3239,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3248,7 +3248,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3256,7 +3256,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -3312,7 +3312,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3329,7 +3329,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3393,7 +3393,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3402,7 +3402,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3410,7 +3410,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3474,7 +3474,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3491,7 +3491,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/360.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -3539,7 +3539,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3554,7 +3554,7 @@
         "nombreAtaque": "Cactus Bounce  ",
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       }
     ],
@@ -3602,7 +3602,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/180rf.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3673,7 +3673,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3681,7 +3681,7 @@
         "nombreAtaque": "Guren",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3746,7 +3746,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3754,7 +3754,7 @@
         "nombreAtaque": "Wild Fang",
         "Animacion": [
           "imagenes/AtaquesMVC2/180lf.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -3814,7 +3814,7 @@
           "imagenes/AtaquesMVC2/B.png",
           "imagenes/AtaquesMVC2/F.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3879,7 +3879,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3948,7 +3948,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -3956,7 +3956,7 @@
         "nombreAtaque": "Kouryuu Ken",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -4026,7 +4026,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
 
@@ -4089,7 +4089,7 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/236.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
@@ -4097,14 +4097,14 @@
         "Animacion": [
           "imagenes/AtaquesMVC2/214.png",
 
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
         "nombreAtaque": "Flowers",
         "Animacion": [
           "imagenes/AtaquesMVC2/Z.png",
-          "imagenes/AtaquesMVC2/L.png"
+          "imagenes/AtaquesMVC2/P.png"
         ]
       },
       {
