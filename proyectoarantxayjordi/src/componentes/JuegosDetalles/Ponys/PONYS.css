@@ -117,9 +117,17 @@
         display: block !important;
 
     }
+    .divImagenPonys   {
+        margin-bottom: 3vw!important;
+
+    }
 
     .ImagenPonys {
         display: none !important;
+    }
+
+    .TextoPersonajeTituloPonys{
+        margin-top: 1vw!important;
     }
 
 }
@@ -127,7 +135,6 @@
 .ImagenPonysReponsive {
     display: none;
     width: 70vw;
-    border-top: 1.6vw white solid;
 }
 
 .fondo2Ponys {
