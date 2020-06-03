@@ -53,7 +53,7 @@
     border-bottom: 1px solid #b3416b;
     ;
     font-style: oblique;
-    font-family: "WinYuGothic", "YuGothic", "メイリオ", Meiryo, Avenir-Light, Futura, Century Gothic, -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
+    font-family: 'Lora', serif!important;
 
     text-transform: uppercase;
     padding-top: 10px;
@@ -62,10 +62,10 @@
 }
 .colorFondoAtaquesPonys {
     color: white !important;
-    font-family: 'Oswald' !important;
-    white-space: nowrap !important;
-    font-style: oblique;
-    font-size: 1.2vw !important;
+    font-family: 'Lora', serif!important;
+  font-style: italic!important;
+    font-size: 1vw !important;
+    text-transform: capitalize;
 }
 
 .rowPonys:hover {
