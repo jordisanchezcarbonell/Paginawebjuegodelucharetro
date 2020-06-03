@@ -98,7 +98,7 @@ class Child extends React.Component {
             </Col>
             <Col className="col-md-5 w-100 mb-5 mr-5 ">
               <img
-                className="FotoTK2 my-1 mt-5 "
+                className="FOTOTK2 my-1 mt-5 "
                 src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
                 alt="imagen personaje"
               ></img>
