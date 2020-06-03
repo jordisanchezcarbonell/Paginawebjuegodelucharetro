@@ -1,4 +1,4 @@
-.rowGlobalPonys {}
+
 
 .DivPonysGlobal {
     text-align: center;
@@ -24,13 +24,19 @@
 }
 
 
+
+/*
+
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;*/
 .fondoTablaPonys {
 
     width: 100%;
     max-width: 1100px;
     margin: 0.8% auto;
-    border: 1px solid #a78d50;
-    background: rgba(0, 0, 0, 0.7) !important;
+    border: 1px solid #b3416b;
+    background: rgba(0, 0, 0, 0.76) !important;
     -webkit-border-radius: 6px !important;
     -moz-border-radius: 6px !important;
     -ms-border-radius: 6px !important;
@@ -40,13 +46,31 @@
     box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
     border-radius: 0.5vw !important;
 }
+.TituloAtaquesPonys{
+    color: white;
+    font-size: 1.5vw;
+    font-weight: 800;
+    border-bottom: 1px solid #b3416b;
+    ;
+    font-style: oblique;
+    font-family: "WinYuGothic", "YuGothic", "メイリオ", Meiryo, Avenir-Light, Futura, Century Gothic, -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
 
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
 .colorFondoAtaquesPonys {
     color: white !important;
     font-family: 'Oswald' !important;
     white-space: nowrap !important;
     font-style: oblique;
     font-size: 1.2vw !important;
+}
+
+.rowPonys:hover {
+    background: #9e003aa1 !important;
+
 }
 
 
@@ -152,24 +176,17 @@
     background-position-x: initial;
     background-position-y: initial;
     background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
+  
     background-attachment: initial;
     background-origin: initial;
     background-clip: initial;
     background-color: rgb(255, 255, 255);
 
-
-
-
-
 }
-
-
 
 .probaaPonys {
     margin: 0 auto !important;
-    margin-left: 15% !important;
+  
 
 }
 

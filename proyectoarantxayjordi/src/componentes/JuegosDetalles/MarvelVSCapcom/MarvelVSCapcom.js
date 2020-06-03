@@ -40,8 +40,8 @@ class Child extends React.Component {
           <div className="rule "></div>
         </div>
         <Container className="  w-100">
-          <Row className="w-100  px-0 mx-auto  ">
-            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+          <Row className="w-100  px-0 justify-content-center ">
+            <Col className="col-md-6 w-100 mb-5  ">
               <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
                 <h3 className="TituloAtaquesSF my-0">Special Moves</h3>
 
@@ -91,7 +91,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 ">
+            <Col className="col-md-6 w-100">
               <TableContainer className=" fondoTablaSF  mt-4">
                 <h3 className="TituloAtaquesSF my-0 w-100">Super Moves</h3>
 

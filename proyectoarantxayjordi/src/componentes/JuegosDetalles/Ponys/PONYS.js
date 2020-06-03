@@ -41,22 +41,22 @@ class Child extends React.Component {
         id="section1"
         style={({ width: "100%" }, fondopersonaje)}
         key={this.props.elemento.Nombre}
-        className=""
+        className="mx-auto"
       >
         <div className="fondonombrePnys">
           <h3 className="TextoPersonajeTituloPonys">
             {this.props.elemento.Nombre}
           </h3>
         </div>
-        <Row className="w-100  px-0 mx-auto  ">
-          <Col className="col-md-5  mx-auto ">
+        <Row className="w-100 probaponyyss  justify-content-center">
+          <Col className="col-md-5  w-100  ">
             <TableContainer className=" fondoTablaPonys   mt-4   mb-2">
-              <h3 className="TituloAtaquesSF my-0 w-100">Unique Movement</h3>
+              <h3 className="TituloAtaquesPonys my-0 w-100">Unique Movement</h3>
 
               <Table className="nomostrarscrollBD">
                 <TableBody className="nomostrarscrollBD">
                   {this.props.elemento.Uniquemovement.map((Ataque, index) => (
-                    <TableRow key={index} className="mx-5 rowSF5">
+                    <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
                         className="  py-2 colorFondoAtaquesPonys  nomostrarscrollBD tablaborderabajo"
                         scope="row"
@@ -89,12 +89,12 @@ class Child extends React.Component {
             </TableContainer>
 
             <TableContainer className=" fondoTablaPonys  ">
-              <h3 className="TituloAtaquesSF my-0">Superattacks</h3>
+              <h3 className="TituloAtaquesPonys my-0">Superattacks</h3>
 
               <Table className="nomostrarscrollBD">
                 <TableBody>
                   {this.props.elemento.SUPERATTACKS.map((Ataque, index) => (
-                    <TableRow key={index} className="mx-5 rowSF5">
+                    <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
@@ -127,14 +127,14 @@ class Child extends React.Component {
             </TableContainer>
           </Col>
 
-          <Col className="col-md-5  mb-4  mx-auto  ">
+          <Col className="col-md-5  mb-4   ">
             <TableContainer className=" fondoTablaPonys  mt-4   mb-2">
-              <h3 className="TituloAtaquesSF my-0">Magic Sytem</h3>
+              <h3 className="TituloAtaquesPonys my-0">Magic Sytem</h3>
 
               <Table className="nomostrarscrollBD">
                 <TableBody>
                   {this.props.elemento.MAGICSYSTEM.map((Ataque, index) => (
-                    <TableRow key={index} className="mx-5 rowSF5">
+                    <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
@@ -167,12 +167,12 @@ class Child extends React.Component {
             </TableContainer>
 
             <TableContainer className=" fondoTablaPonys  mb-4">
-              <h3 className="TituloAtaquesSF my-0">Specials</h3>
+              <h3 className="TituloAtaquesPonys my-0">Specials</h3>
 
               <Table className="nomostrarscrollBD">
                 <TableBody>
                   {this.props.elemento.Specials.map((Ataque, index) => (
-                    <TableRow key={index} className="mx-5 rowSF5">
+                    <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
@@ -345,7 +345,7 @@ class PONYS extends React.Component {
               <h3 className="LetraCharacterPonys">Character Select</h3>
 
               <Row className=" w-100  ">
-                <div className=" w-100 nav  probaaPonys  " role="tablist">
+                <div className=" w-100 nav  justify-content-center probaaPonys  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
