@@ -92,6 +92,6 @@ export class PaginaJuegos extends Component {
 
 			</figcaption>
 
-		</figure>
+		</fig
 
 	</div>*/
