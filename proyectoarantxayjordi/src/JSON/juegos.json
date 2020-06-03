@@ -1,35 +1,33 @@
 [
-
-
   {
     "Nombre": "Marvel vs Capcom",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/MvsC2/Mvc2_logo.gif",
+    "Foto": "imagenes/JuegosCaratula/m2.gif",
     "Rooter": "imagenes/imagenesRoster/marvel-vs-capcom.png"
   },
   {
     "Nombre": "Them's fightin herds",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/logoAPNG-1.png",
+    "Foto": "imagenes/JuegosCaratula/them3.jpg",
     "Rooter": "imagenes/imagenesRoster/pnys.png"
   },
   {
     "Nombre": "Killer Instinct",
     "Descripcion": "The story of Killer Instinct places us in a polluted world, where governments lack power and it is the large multinationals that exercise control, of all the most powerful is called Ultratech that is dedicated to the manufacture of weapons, Ultratech creates a tournament that he called Killer Instinct to test his weapons and in case it was not enough the company released Eyedol a demon from another dimension as final test, the fighter who defeated him had as a prize what he wanted ....",
-    "Foto": "imagenes/Juegos/killerinstinc.png",
+    "Foto": "imagenes/JuegosCaratula/killer1pg.jpg",
     "Rooter": "imagenes/imagenesRoster/killer_instinct-2513398.jpg"
   },
 
   {
     "Nombre": "Skullgirls",
     "Descripcion": "Set in Canopy Kingdom, characters are fighting for the opportunity to control the mysterious Skull Heart, an artifact with the ability to grant wishes, albeit at a substantial cost. The Skullgirl is a monster that haunts humanity: the result of those with an impure soul attempting to use the Heart.",
-    "Foto": "imagenes/Juegos/Skullgirls.png",
+    "Foto": "imagenes/JuegosCaratula/skull1.gif",
     "Rooter": "imagenes/imagenesRoster/skull.jpg"
   },
   {
     "Nombre": "UnderNightIn-Birth",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/UnderNightIn-Birth.png",
+    "Foto": "imagenes/JuegosCaratula/under2.jpg",
     "Rooter": "imagenes/imagenesRoster/pjs.png",
     "Logo2": "imagenes/Juegos/UNLOGO.png"
   },
@@ -37,36 +35,36 @@
   {
     "Nombre": "Dragon Ball Fighter Z",
     "Descripcion": "La trama de Dragon Ball Fighterz girará en torno a un nuevo enemigo y extraño mal que azota a Goku y sus amigos. Sin razón aparente, los Guerreros Z - incluyendo a Goku y Vegeta - empiezan a aparecer desmayados e incapaces de despertar, mientras que un ejército de clones aparece en la Tierra, perdiendo así la línea su primera línea de defensa ante una nueva amenaza: la llegada del as en la manga del difunto Doctor Gero: su nueva creación, el androide femenino C-2",
-    "Foto": "imagenes/Juegos/DragonBallFighterZ.png",
+    "Foto": "imagenes/JuegosCaratula/dragon1.jpg",
 
     "Rooter": "imagenes/imagenesRoster/dragonball.jpg"
   },
   {
     "Nombre": "Tekken 7",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Tekken7.png",
+    "Foto": "imagenes/JuegosCaratula/t1.jpg",
     "Rooter": "imagenes/imagenesRoster/tekken.jpg",
-    "Logo":"imagenes/TK7/logo.png"
+    "Logo": "imagenes/TK7/logo.png"
   },
 
   {
     "Nombre": "Soulcalibur VI",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Soulcalibur.png",
+    "Foto": "imagenes/JuegosCaratula/soul1.jpg",
     "Rooter": "imagenes/imagenesRoster/soulcaliburport.jpg",
     "Logo2": "imagenes/Juegos/SoulCallogo.png"
   },
   {
     "Nombre": "Street Fighter V Champion Edition",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/StreetFighterV.png",
+    "Foto": "imagenes/JuegosCaratula/street1.jpg",
     "Rooter": "imagenes/imagenesRoster/street-fighter-v.jpg"
   },
 
   {
     "Nombre": "Granblue Fantasy Versus",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Granblue_Fantasy_Versus_logo.png",
+    "Foto": "imagenes/JuegosCaratula/grand2.jpg",
     "Logo": "imagenes/Juegos/Granblue_Fantasy_Versus_logo.png",
     "Logo2": "imagenes/GRANDBLUETODO/pagetitle.png",
 
@@ -75,7 +73,7 @@
   {
     "Nombre": "Mortal Kombat 11",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
-    "Foto": "imagenes/Juegos/Mortal_Kombat_11_cover_art.png",
+    "Foto": "imagenes/JuegosCaratula/mortal1.jpg",
     "Logo": "imagenes/Juegos/logomk2.png",
     "Logo2": "imagenes/Juegos/logomk.png",
 
