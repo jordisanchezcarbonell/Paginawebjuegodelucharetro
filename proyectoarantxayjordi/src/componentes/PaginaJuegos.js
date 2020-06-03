@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import data from "../JSON/juegos.json";
-import "./Juegos.css";
+import "./JuegosGlobales.css";
 
 import { Link } from "react-router-dom";
 
@@ -15,28 +15,38 @@ export class PaginaJuegos extends Component {
     console.log("-> render");
     return (
       <div className=" fondodepantalla">
-        <h1 className="TextoIncial">Choose your Game</h1>
+        <h2><strong>All Games<span>( 4 )</span></strong></h2>
         <div className="row">
+
           {data.map((juego, index) => {
             return (
-              <div key={juego.Nombre} className="Personajes">
-                <div className="card">
+
+              <div key={juego.Nombre} className="wrapper">
+
+                <div className="cards">
                   <Link
                     to={{
                       pathname: "/juegosDetalles",
                       state: {
-                        prueba:juego,
+                        prueba: juego,
                         visible: juego.Nombre,
                       },
                     }}
                   >
+
                     {/*Para coger la carpeta public */}
-                    <img className="tamañoimg"
-                      variant="top"
-                      src={process.env.PUBLIC_URL + juego.Foto}
-                      alt="Error"
-                    />
-                    <span className="Nombre">{juego.Nombre}</span>
+                    <figure class="card">
+{/*className="tamañoimg"*/}
+                      <img 
+                        variant="top"
+                        src={process.env.PUBLIC_URL + juego.Foto}
+                        alt="Error"
+                      />
+
+                      <figcaption>{juego.Nombre}</figcaption>
+
+                    </figure>
+
                   </Link>
                 </div>
               </div>
@@ -47,3 +57,55 @@ export class PaginaJuegos extends Component {
     );
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<div class="news">
+
+		<figure class="article">
+
+			<img src="https://mrreiha.keybase.pub/codepen/hover-fx/news1.jpg" />
+
+			<figcaption>
+
+				<h3>New Item</h3>
+
+				<p>
+
+					In today’s update, two heads are better than one, and three heads are better than that, as the all-new Flockheart’s Gamble Arcana item for Ogre Magi makes its grand debut.
+
+				</p>
+
+			</figcaption>
+
+		</figure>
+
+		<figure class="article">
+
+			<img src="https://mrreiha.keybase.pub/codepen/hover-fx/news2.png" />
+
+			<figcaption>
+
+				<h3>Update</h3>
+
+				<p>
+
+					Just in time for Lunar New Year and the Rat’s time in the cyclical place of honor, the Treasure of Unbound Majesty is now available.
+
+				</p>
+
+			</figcaption>
+
+		</figure>
+
+	</div>*/
