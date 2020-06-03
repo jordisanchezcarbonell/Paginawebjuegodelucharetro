@@ -10,7 +10,7 @@ import "./SkullGirls.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 // get our fontawesome imports
-
+import Image from "react-bootstrap/Image";
 import ReactPlayer from "react-player";
 
 //AVER SI FUNCIOONA
@@ -113,10 +113,11 @@ class SkullGirls extends React.Component {
           <Container className="w-100 ContainerSeparacion mt-4 ">
             <div className=" contenedor ">
               <h1 className="txtDescripcion">Descripcion</h1>
-              <img
+              <Image
                 src={require("./header.png")}
                 className="imgDescripcion"
                 alt="Descripcion Juego"
+                fluid
               />
             </div>
             <h6 className="NombreDesc">{this.props.detalles.Descripcion} </h6>
@@ -126,10 +127,11 @@ class SkullGirls extends React.Component {
               <div className="Personajes w-100" key={personaje.Nombre}>
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
-                    <img
+                    <Image
                       src={require("./descarga1.png")}
                       className="fotoNombre"
                       alt="Descripcion Juego"
+                      fluid
                     />
 
                     <div className="centrado">{personaje.Nombre}</div>
@@ -138,10 +140,11 @@ class SkullGirls extends React.Component {
                   <Row className="prueba pt-0 pb-3  mx-auto">
                     <Col md="8">
                       <div className="contenedor mb-3 mt-5">
-                        <img
+                        <Image
                           src={require("./nombre.png")}
                           className="fotoNombre"
                           alt="Descripcion Juego"
+                          fluid
                         />
 
                         <div className="CentradoTituloAtaque w-100">
@@ -181,7 +184,7 @@ class SkullGirls extends React.Component {
                                   >
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
-                                        <img
+                                        <Image
                                           className="imgAtaque"
                                           key={index}
                                           variant="top"
@@ -190,6 +193,7 @@ class SkullGirls extends React.Component {
                                             animaciondelataque
                                           }
                                           alt="Error"
+                                          fluid
                                         />
                                       )
                                     )}
@@ -202,10 +206,11 @@ class SkullGirls extends React.Component {
                       </TableContainer>
 
                       <div className="contenedor  mb-4 mt-5">
-                        <img
+                        <Image
                           src={require("./nombre.png")}
                           className="fotoNombre"
                           alt="Descripcion Juego"
+                          fluid
                         />
 
                         <div className="CentradoTituloAtaque w-100 ">
@@ -239,7 +244,7 @@ class SkullGirls extends React.Component {
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
                                         <span key={index}>
-                                          <img
+                                          <Image
                                             className="imgAtaque"
                                             variant="top"
                                             src={
@@ -247,6 +252,7 @@ class SkullGirls extends React.Component {
                                               animaciondelataque
                                             }
                                             alt="Error"
+                                            fluid
                                           />
                                         </span>
                                       )
@@ -297,7 +303,7 @@ class SkullGirls extends React.Component {
                                   >
                                     {Ataque.Animacion.map(
                                       (animaciondelataque, index) => (
-                                        <img
+                                        <Image
                                           className="imgAtaque"
                                           key={index}
                                           variant="top"
@@ -306,6 +312,7 @@ class SkullGirls extends React.Component {
                                             animaciondelataque
                                           }
                                           alt="Error"
+                                          fluid
                                         />
                                       )
                                     )}
