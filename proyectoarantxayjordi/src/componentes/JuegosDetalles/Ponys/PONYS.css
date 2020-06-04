@@ -77,7 +77,10 @@
 
 
 
+.imgAtaquePN {
+    height: 2.2vw !important;
 
+}
 
 
 
@@ -105,6 +108,12 @@
 
 }
 
+.margenesresponsive {
+    margin-left: 0rem !important;
+
+    margin-right: 0rem !important;
+}
+
 .tamañodelaiamgenpNY {
     height: 42vw !important;
 }
@@ -129,6 +138,11 @@
 
     }
 
+    .TituloAtaquesPonys {
+        font-size: 5.5vw;
+
+    }
+
     .ImagenPonys {
         display: none !important;
     }
@@ -145,6 +159,31 @@
         height: 6.6vw !important;
 
     }
+
+    .colorFondoAtaquesPonys {
+        font-size: 4.1vw !important;
+
+    }
+
+    .padinponys {
+        padding-bottom: 1.5rem !important;
+        padding-right: 1.5rem !important;
+
+
+
+    }
+
+    .margenesresponsive {
+        margin-left: 1.5rem !important;
+        /*  margin-right: 3.2rem !important;*/
+
+
+    }
+}
+
+.padinponys {
+    padding-bottom: .5rem !important;
+    padding-right: .5rem !important;
 
 }
 

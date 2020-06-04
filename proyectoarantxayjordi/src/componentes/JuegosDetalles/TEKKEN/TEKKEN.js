@@ -43,12 +43,12 @@ class Child extends React.Component {
         </div>
         <Container className=" ">
           <Row className="w-100  px-0 mx-0 ">
-            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+            <Col className="col-md-5 w-100 margentabla ">
               <TableContainer
                 component={Paper}
                 className="fondoTablaTK  eliminarradius nomostrarscrollBD mt-5 "
               >
-                <h3 className="TituloAtaquesTK my-0">
+                <h3 className="TituloAtaquesTK  my-0">
                   Unique Moves
                   <hr className="LineaTK" />
                 </h3>
@@ -56,7 +56,7 @@ class Child extends React.Component {
                 <Table
                   stickyHeader
                   aria-label="sticky table"
-                  className="nomostrarscroll "
+                  className="nomostrarscroll w-100"
                 >
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.Ataques.map((Ataque, index) => (
@@ -80,7 +80,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className="imgAtaqueTTK"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -96,7 +96,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+            <Col className="col-md-5 w-100 mb-5 mr-5 escondersi ">
               <img
                 className="FOTOTK2 my-1 mt-5 "
                 src={process.env.PUBLIC_URL + this.props.elemento.Foto2}

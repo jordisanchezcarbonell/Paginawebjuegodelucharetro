@@ -46,12 +46,12 @@ class Child extends React.Component {
             {this.props.elemento.Nombre}
           </h3>
         </div>
-        <Row className="w-100 probaponyyss  justify-content-center">
+        <Row className="w-100   justify-content-center">
           <Col className="col-md-5  w-100  ">
-            <TableContainer className=" fondoTablaPonys   mt-4   mb-2">
+            <TableContainer className=" fondoTablaPonys margenesresponsive  mt-4   mb-2">
               <h3 className="TituloAtaquesPonys my-0 w-100">Unique Movement</h3>
 
-              <Table className="nomostrarscrollBD">
+              <Table className="nomostrarscrollBD ">
                 <TableBody className="nomostrarscrollBD">
                   {this.props.elemento.Uniquemovement.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
@@ -66,7 +66,7 @@ class Child extends React.Component {
 
                       {
                         <TableCell
-                          className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                          className="  nombreAtaquesSF   padinponys tablaborderabajo"
                           align="right"
                           component="td"
                         >
@@ -86,7 +86,7 @@ class Child extends React.Component {
               </Table>
             </TableContainer>
 
-            <TableContainer className=" fondoTablaPonys  ">
+            <TableContainer className=" fondoTablaPonys margenesresponsive ">
               <h3 className="TituloAtaquesPonys my-0">Superattacks</h3>
 
               <Table className="nomostrarscrollBD">
@@ -105,7 +105,7 @@ class Child extends React.Component {
                       {
                         <TableCell
                           component="td"
-                          className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                          className="  nombreAtaquesSF   padinponys tablaborderabajo"
                           align="right"
                         >
                           {Ataque.Animacion.map((animaciondelataque, index) => (
@@ -126,7 +126,7 @@ class Child extends React.Component {
           </Col>
 
           <Col className="col-md-5  mb-4   ">
-            <TableContainer className=" fondoTablaPonys  mt-4   mb-2">
+            <TableContainer className=" fondoTablaPonys margenesresponsive mt-4   mb-2">
               <h3 className="TituloAtaquesPonys my-0">Magic Sytem</h3>
 
               <Table className="nomostrarscrollBD">
@@ -145,7 +145,7 @@ class Child extends React.Component {
                       {
                         <TableCell
                           component="td"
-                          className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                          className="  nombreAtaquesSF   padinponys tablaborderabajo"
                           align="right"
                         >
                           {Ataque.Animacion.map((animaciondelataque, index) => (
@@ -164,7 +164,7 @@ class Child extends React.Component {
               </Table>
             </TableContainer>
 
-            <TableContainer className=" fondoTablaPonys  mb-4">
+            <TableContainer className=" fondoTablaPonys margenesresponsive mb-4">
               <h3 className="TituloAtaquesPonys my-0">Specials</h3>
 
               <Table className="nomostrarscrollBD">
@@ -183,7 +183,7 @@ class Child extends React.Component {
                       {
                         <TableCell
                           component="td"
-                          className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                          className="  nombreAtaquesSF   padinponys tablaborderabajo"
                           align="right"
                         >
                           {Ataque.Animacion.map((animaciondelataque, index) => (
@@ -343,12 +343,15 @@ class PONYS extends React.Component {
               <h3 className="LetraCharacterPonys">Character Select</h3>
 
               <Row className=" w-100  ">
-                <div className=" w-100 nav  justify-content-center probaaPonys  " role="tablist">
+                <div
+                  className=" w-100 nav  justify-content-center margenesresponsive  "
+                  role="tablist"
+                >
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
                         key={personaje.Nombre}
-                        className=" divImagenPonys   "
+                        className="   "
                         // data-toggle="tab"
                         //  role="tab"
                         //   aria-selected="false"

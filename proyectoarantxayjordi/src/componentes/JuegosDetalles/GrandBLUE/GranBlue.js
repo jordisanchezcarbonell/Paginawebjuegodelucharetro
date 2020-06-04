@@ -35,10 +35,10 @@ class Child extends React.Component {
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
-            <Col className="col-md-6 w-100 mb-5">
+            <Col className="col-md-6 w-100 mb-3">
               <TableContainer
                 component={Paper}
-                className="fondoTablaGB  eliminarradius mt-5"
+                className="fondoTablaGB  eliminarradius mt-5 mb-5"
               >
                 <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
 
@@ -73,7 +73,6 @@ class Child extends React.Component {
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
-                                  fluid
                                 />
                               )
                             )}
@@ -114,7 +113,6 @@ class Child extends React.Component {
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
-                                  fluid
                                 />
                               )
                             )}
@@ -127,13 +125,13 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6">
-              <TableContainer className=" fondoTablaGB  mt-5 ">
+              <TableContainer className=" fondoTablaGB  mt-5 mb-5 ">
                 <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.SkyboundArt.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                      <TableRow key={index} className="mx-5">
                         <TableCell
                           className="  py-2 colorFondoAtaquesGB "
                           component="td"
@@ -157,7 +155,6 @@ class Child extends React.Component {
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
-                                  fluid
                                 />
                               )
                             )}
@@ -169,7 +166,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaGB  mt-3 ">
+              <TableContainer className=" fondoTablaGB  mt-3  mb-5">
                 <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
 
                 <Table className="nomostrarscroll">
@@ -201,7 +198,6 @@ class Child extends React.Component {
                                       process.env.PUBLIC_URL +
                                       animaciondelataque
                                     }
-                                    fluid
                                   />
                                 )
                               )}

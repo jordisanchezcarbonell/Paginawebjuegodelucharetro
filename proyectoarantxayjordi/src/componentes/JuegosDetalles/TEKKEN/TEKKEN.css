@@ -180,7 +180,48 @@
 
 }
 
+.imgAtaqueTTK {
+    height: 2.2vw !important;
 
+}
+
+.margentabla {
+    margin-right: 3rem !important;
+    margin-bottom: 3rem !important;
+
+}
+
+@media screen and (max-width: 750px) {
+    .imgAtaqueTTK {
+        height: 4vh !important;
+
+    }
+
+    .FOTOTK2 {
+        height: 2vh !important;
+
+
+    }
+
+    .TituloAtaquesTK {
+        font-size: 4vh !important;
+    }
+
+    .escondersi {
+        display: none !important;
+
+    }
+
+    .margentabla {
+        margin-left: 0.8rem !important;
+        margin-right: 0rem !important;
+
+    }
+}
+
+.escondersi {
+    display: block;
+}
 
 /*
 
