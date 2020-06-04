@@ -48,12 +48,12 @@ class Child extends React.Component {
         </div>
         <Container className=" ">
           <Row className="w-100  px-0 mx-0 ">
-            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+            <Col className="col-md-6 w-100 mb-5  ColDB1  ">
               <TableContainer
                 component={Paper}
-                className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5 "
+                className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5  fondoTabla2BD TablaUnqiqueBD"
               >
-                <h3 className=" mifuente TituloAtaquesBD my-0">
+                <h3 className=" mifuente TituloAtaquesBD  mt-3 my-0">
                   Unique Action
                   <hr className="pruebalinea" />
                 </h3>
@@ -67,7 +67,7 @@ class Child extends React.Component {
                     {this.props.elemento.NormalAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
-                          className=" mifuente  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="   py-2 colorFondoAtaquesBD tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -85,7 +85,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className=""
+                                  className="imgAtaquesBD"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -101,9 +101,9 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 ">
+            <Col className="col-md-6 ColDB1">
               <TableContainer className=" fondoTablaBD  mt-5">
-                <h3 className="mifuente TituloAtaquesBD my-0 w-100">
+                <h3 className="mifuente TituloAtaquesBD   mt-3 my-0 w-100">
                   Special Moves
                   <hr className="pruebalinea" />
                 </h3>
@@ -147,8 +147,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="mifuente TituloAtaquesBD my-0">
+              <TableContainer className=" fondoTablaBD   mt-3 ">
+                <h3 className="mifuente TituloAtaquesBD  mt-3 my-0">
                   Sky bound Art
                   <hr className="pruebalinea" />
                 </h3>
@@ -192,8 +192,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="mifuente TituloAtaquesBD my-0">
+              <TableContainer className=" fondoTablaBD  mt-4  mb-4">
+                <h3 className="mifuente TituloAtaquesBD  mt-3 my-0">
                   Super Sky boundArt
                   <hr className="pruebalinea" />
                 </h3>
@@ -362,7 +362,7 @@ class Dragonball extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
+          <Row className="NavbarDB">
             <Col md="3" className="fondo1">
               <h6> {this.props.detalles[0]}</h6>
               <img
