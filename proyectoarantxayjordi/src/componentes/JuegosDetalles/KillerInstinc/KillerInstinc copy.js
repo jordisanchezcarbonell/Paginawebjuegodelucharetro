@@ -234,3 +234,40 @@ class KillerInstinc extends React.Component {
 }
 
 export default withRouter(KillerInstinc);
+/*       <Table className="T mb-3">
+                        <Tbody className="bodyKI">
+                          {personaje.Ataques.map((Ataque, index) => (
+                            <Tr
+                              className="borderprueba"
+                              key={Ataque.nombreAtaque}
+                            >
+                              <Td
+                                className="  py-2 colorFondoAtaquesKI "
+                                scope="row"
+                              >
+                                {Ataque.nombreAtaque}
+                              </Td>
+
+                              {
+                                <Td className="  nombreAtaquesKI py-2">
+                                  {Ataque.Animacion.map(
+                                    (animaciondelataque, index) => (
+                                      <Image
+                                        className="imgAtaquekIL"
+                                        key={index}
+                                        variant="top"
+                                        src={
+                                          process.env.PUBLIC_URL +
+                                          animaciondelataque
+                                        }
+                                        alt="Error"
+                                      />
+                                    )
+                                  )}
+                                </Td>
+                              }
+                            </Tr>
+                          ))}
+                        </Tbody>
+                      </Table>
+ */

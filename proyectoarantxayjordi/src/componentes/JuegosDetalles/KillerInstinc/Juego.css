@@ -6,8 +6,7 @@
   color: black;
   text-align: center;
   position: relative;
-  background: url(https://www.ultra-combo.com/wp-content/themes/killerinstinct/assets/img/global/bkg/bkg-01.png)
-    no-repeat center center fixed;
+  background: url(https://www.ultra-combo.com/wp-content/themes/killerinstinct/assets/img/global/bkg/bkg-01.png) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -51,6 +50,11 @@
     display: none !important;
     justify-content: center !important;
     height: auto !important;
+  }
+
+  .imgAtaquekIL {
+    height: 6.6vw !important;
+
   }
 
   .tamañodelaiamgen {
@@ -128,7 +132,7 @@
 }
 */
 
-.btn-ki.large > span > span {
+.btn-ki.large>span>span {
   min-width: 32.59452vw;
   margin: 1px 3px !important;
   margin-top: 0 !important;
@@ -139,7 +143,7 @@
   border: 1px solid #44d4d9;
 }
 
-.btn-ki.large > span {
+.btn-ki.large>span {
   font-family: "FontT";
   text-align: center;
   padding: 0.6vw 0.2vw;

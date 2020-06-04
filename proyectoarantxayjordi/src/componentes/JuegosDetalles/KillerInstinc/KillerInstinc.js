@@ -1,8 +1,9 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from "react";
-//import Table from "@material-ui/core/Table";
-import { Table, Thead, Tbody, Tr, Th, Td } from "react-super-responsive-table";
+import Table from "@material-ui/core/Table";
+//import { Table, Thead, Tbody, Tr, Th, Td } from "react-super-responsive-table";
 import "react-super-responsive-table/dist/SuperResponsiveTableStyle.css";
+
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
@@ -162,43 +163,50 @@ class KillerInstinc extends React.Component {
                     </Col>
                     <Col className="pra  w-100 col-md-6">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
-
-                      <Table className="T mb-3">
-                        <Tbody className="bodyKI">
-                          {personaje.Ataques.map((Ataque, index) => (
-                            <Tr
-                              className="borderprueba"
-                              key={Ataque.nombreAtaque}
-                            >
-                              <Td
-                                className="  py-2 colorFondoAtaquesKI "
-                                scope="row"
+                      <TableContainer component={Paper} className="T mb-3">
+                        <Table size="small">
+                          <TableBody className="bodyKI">
+                            {personaje.Ataques.map((Ataque, index) => (
+                              <TableRow
+                                key={Ataque.nombreAtaque}
+                                className="mx-5"
                               >
-                                {Ataque.nombreAtaque}
-                              </Td>
+                                <TableCell
+                                  className="  py-2 colorFondoAtaquesKI "
+                                  component="th"
+                                  scope="row"
+                                  align="left"
+                                >
+                                  {Ataque.nombreAtaque}
+                                </TableCell>
 
-                              {
-                                <Td className="  nombreAtaquesKI py-2">
-                                  {Ataque.Animacion.map(
-                                    (animaciondelataque, index) => (
-                                      <Image
-                                        className="imgAtaquekIL"
-                                        key={index}
-                                        variant="top"
-                                        src={
-                                          process.env.PUBLIC_URL +
-                                          animaciondelataque
-                                        }
-                                        alt="Error"
-                                      />
-                                    )
-                                  )}
-                                </Td>
-                              }
-                            </Tr>
-                          ))}
-                        </Tbody>
-                      </Table>
+                                {
+                                  <TableCell
+                                    component="th"
+                                    className="  nombreAtaquesKI py-2"
+                                    align="right"
+                                  >
+                                    {Ataque.Animacion.map(
+                                      (animaciondelataque, index) => (
+                                        <Image
+                                          className="imgAtaquekIL"
+                                          key={index}
+                                          variant="top"
+                                          src={
+                                            process.env.PUBLIC_URL +
+                                            animaciondelataque
+                                          }
+                                          alt="Error"
+                                        />
+                                      )
+                                    )}
+                                  </TableCell>
+                                }
+                              </TableRow>
+                            ))}
+                          </TableBody>
+                        </Table>
+                      </TableContainer>
 
                       <a
                         className="btn-ki large ghostpulse "
