@@ -39,7 +39,7 @@ class Child extends React.Component {
         </div>
         <Container className="PruebadefondoAtaquesUN">
           <Row className="w-100  px-0 mx-0 ">
-            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+            <Col className="col-md-5 w-100 margenes ">
               <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD mt-5 ">
                 <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
                   Special Attack
