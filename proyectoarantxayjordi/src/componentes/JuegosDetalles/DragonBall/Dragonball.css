@@ -153,6 +153,19 @@
 
 }
 
+.mifuente {
+    font-size: 2vh;
+}
+
+@media screen and (max-width: 750px) {
+    .mifuente {
+        font-size: 4vh !important;
+
+    }
+
+
+}
+
 .DivBDFONDO {
     color: black;
     text-align: center;
@@ -165,7 +178,7 @@
     width: 100% !important;
 
     background-repeat: repeat-x;
-    background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8) ;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-naranja-abstracto_1258-1352.jpg?size=626&ext=jpg), linear-gradient(#6e859c, #c0ccd8);
 }
 
 
@@ -214,6 +227,7 @@
     margin-left: -3vw !important;
 
 }
+
 .FotoBD2 {
     width: 90px !important;
     min-width: 90px !important;
@@ -225,6 +239,7 @@
     transform: skewX(-15deg);
     cursor: pointer;
 }
+
 .nomostrarscrollBD {
     /*No mostrar*/
     overflow: hidden !important;

@@ -36,7 +36,6 @@ class Child extends React.Component {
       color: "black",
       backgroundPosition: "center center",
       backgroundAttachment: "fixed",
-      height: "42vw",
     };
     return (
       <div
@@ -77,7 +76,7 @@ class Child extends React.Component {
                           {Ataque.Animacion.map((animaciondelataque, index) => (
                             <Image
                               key={index}
-                              className="imgAtaqueSF"
+                              className="imgAtaquePN"
                               src={process.env.PUBLIC_URL + animaciondelataque}
                               fluid
                             />
@@ -115,7 +114,7 @@ class Child extends React.Component {
                           {Ataque.Animacion.map((animaciondelataque, index) => (
                             <Image
                               key={index}
-                              className="imgAtaqueSF"
+                              className="imgAtaquePN"
                               src={process.env.PUBLIC_URL + animaciondelataque}
                               fluid
                             />
@@ -155,7 +154,7 @@ class Child extends React.Component {
                           {Ataque.Animacion.map((animaciondelataque, index) => (
                             <Image
                               key={index}
-                              className="imgAtaqueSF"
+                              className="imgAtaquePN"
                               src={process.env.PUBLIC_URL + animaciondelataque}
                               fluid
                             />
@@ -193,7 +192,7 @@ class Child extends React.Component {
                           {Ataque.Animacion.map((animaciondelataque, index) => (
                             <Image
                               key={index}
-                              className="imgAtaqueSF"
+                              className="imgAtaquePN"
                               src={process.env.PUBLIC_URL + animaciondelataque}
                               fluid
                             />
