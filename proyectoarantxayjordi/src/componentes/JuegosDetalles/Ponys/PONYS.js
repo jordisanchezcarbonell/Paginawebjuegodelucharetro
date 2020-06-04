@@ -14,6 +14,9 @@ import { animateScroll as scroll } from "react-scroll";
 
 import ReactPlayer from "react-player";
 
+
+
+
 //AVER SI FUNCIOONA
 
 class Child extends React.Component {

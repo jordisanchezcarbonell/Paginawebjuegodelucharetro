@@ -140,9 +140,9 @@ class KillerInstinc extends React.Component {
                 style={fondopersonaje}
                 key={personaje.Nombre}
               >
-                <Container className="w-100 ">
+                <Container className="w-100 ContainerKI mr-4 pr-4">
                   <Row className=" w-100 stage">
-                    <Col className="pra  w-100 col-md-6 esconder">
+                    <Col className="pra  pra1 w-100 col-md-6   esconder">
                       <img
                         src={process.env.PUBLIC_URL + personaje.Runa}
                         className="rune"
@@ -161,7 +161,7 @@ class KillerInstinc extends React.Component {
                         aria-hidden="true"
                       ></a>
                     </Col>
-                    <Col className="pra  w-100 col-md-6">
+                    <Col className="pra pra2 w-100 col-md-6 ">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
                       <TableContainer component={Paper} className="T mb-3">
                         <Table size="small">
@@ -213,7 +213,7 @@ class KillerInstinc extends React.Component {
                         align="right"
                         href="https://www.ultra-combo.com/characters/rash/"
                       >
-                        <span>
+                        <span className="botonSpan">
                           <span>Biography &amp; Videos</span>
                         </span>
                       </a>

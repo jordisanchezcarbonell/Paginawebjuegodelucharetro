@@ -17,25 +17,6 @@ h2 strong,
   position: relative;
 }
 
-.fix {
-  position: fixed;
-}
-
-.dfix {
-  display: inline;
-}
-
-.dib {
-  display: inline-block;
-}
-
-.db {
-  display: block;
-}
-
-.dn {
-  display: none;
-}
 
 .df,
 .cards,
@@ -43,17 +24,7 @@ h2 strong,
   display: flex;
 }
 
-.dif {
-  display: inline-flex;
-}
 
-.dg {
-  display: grid;
-}
-
-.dig {
-  display: inline-grid;
-}
 
 .vm,
 h2,
