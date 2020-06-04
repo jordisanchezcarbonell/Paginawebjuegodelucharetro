@@ -1,22 +1,26 @@
+.imgAtaquekIL {
+  height: 1.6vw !important;
+}
+
 .DivKillintinct {
   color: black;
   text-align: center;
   position: relative;
-  background: url(https://www.ultra-combo.com/wp-content/themes/killerinstinct/assets/img/global/bkg/bkg-01.png) no-repeat center center fixed;
+  background: url(https://www.ultra-combo.com/wp-content/themes/killerinstinct/assets/img/global/bkg/bkg-01.png)
+    no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
   width: 100% !important;
-
-
-
 }
-.bodyKI{
-  border-bottom:6px white solid!important;
 
+.bodyKI {
+  border-bottom: 6px white solid !important;
+  overflow: auto !important;
 }
+
 .rowGlobalKI {
   margin: 0;
 }
@@ -37,14 +41,33 @@
 
 }
 */
+.esconder {
+  display: block !important;
+  height: 42vw !important;
+}
+
+@media screen and (max-width: 750px) {
+  .esconder {
+    display: none !important;
+    justify-content: center !important;
+    height: auto !important;
+  }
+
+  .tamañodelaiamgen {
+    height: auto !important;
+  }
+}
+
+.responsiveTable td.pivoted {
+  padding-left: 3vh !important;
+}
+
 .nombreAtaquesKI {
   -webkit-box-shadow: inset 0 0 0 3px cadetblue;
   -moz-box-shadow: inset 0 0 0 3px cadetblue;
   box-shadow: inset 0 0 0 3px cadetblue;
-  width: 58%;
-
+  width: auto;
 }
-
 
 .fotoLogoKI {
   margin-left: -3vw;
@@ -65,7 +88,6 @@
 .TituloDescripcionKI {
   text-align: center;
   font-family: "FontT";
-
 }
 
 .FondoDescripcionKI {
@@ -79,12 +101,34 @@
 
   background-attachment: fixed;
   height: 8.5vw;
-
-
-
 }
 
-.btn-ki.large>span>span {
+.pruebacontainer {
+  overflow-x: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.tamañodelaiamgen {
+  height: 42vw !important;
+}
+
+.borderprueba {
+  border: 6px white solid !important;
+}
+
+/*
+@media screen and (max-width: 1027px) {
+  .tamañodelaiamgen {
+    height: 50vh !important;
+  }
+}
+*/
+
+.btn-ki.large > span > span {
   min-width: 32.59452vw;
   margin: 1px 3px !important;
   margin-top: 0 !important;
@@ -95,9 +139,7 @@
   border: 1px solid #44d4d9;
 }
 
-
-.btn-ki.large>span {
-
+.btn-ki.large > span {
   font-family: "FontT";
   text-align: center;
   padding: 0.6vw 0.2vw;
@@ -115,16 +157,13 @@
 
 .pra {
   position: absolute;
-  ;
   left: 0;
   top: 0;
 }
 
 .colorFondoAtaquesKI {
-
   background-color: rgba(72, 191, 196, 0.247);
   color: white !important;
-
 
   -webkit-box-shadow: inset 0 0 0 2px black;
   -moz-box-shadow: inset 0 0 0 2px black;
@@ -132,9 +171,7 @@
 }
 
 .T {
-
   background-color: rgba(0, 0, 0, 0.137) !important;
-
 }
 
 .rune {
@@ -153,7 +190,6 @@
   height: 40.2vw;
   width: auto;
   z-index: 2;
-
 }
 
 .character:hover,
@@ -163,7 +199,6 @@
   -moz-transform: translate(-30px, 0px);
   -webkit-transform: translate(-30px, 0px);
   -o-transform: translate(-30px, 0px);
-
 }
 
 @font-face {
@@ -176,9 +211,7 @@
   color: white;
   font-size: 4vw;
   text-align: left;
-
 }
-
 
 .rowKill {
   display: flex;

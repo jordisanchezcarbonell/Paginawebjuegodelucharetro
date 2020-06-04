@@ -1,6 +1,8 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from "react";
-import Table from "@material-ui/core/Table";
+//import Table from "@material-ui/core/Table";
+import { Table, Thead, Tbody, Tr, Th, Td } from "react-super-responsive-table";
+import "react-super-responsive-table/dist/SuperResponsiveTableStyle.css";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
 import TableContainer from "@material-ui/core/TableContainer";
@@ -10,6 +12,7 @@ import { Container, Row, Col } from "reactstrap";
 import "./Juego.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
+import Image from "react-bootstrap/Image";
 
 import ReactPlayer from "react-player";
 
@@ -129,7 +132,6 @@ class KillerInstinc extends React.Component {
               color: "black",
               backgroundPosition: "center center",
               backgroundAttachment: "fixed",
-              height: "42vw",
             };
             return (
               <div
@@ -139,7 +141,7 @@ class KillerInstinc extends React.Component {
               >
                 <Container className="w-100 ">
                   <Row className=" w-100 stage">
-                    <Col className="pra  w-100 col-md-6">
+                    <Col className="pra  w-100 col-md-6 esconder">
                       <img
                         src={process.env.PUBLIC_URL + personaje.Runa}
                         className="rune"
@@ -158,53 +160,45 @@ class KillerInstinc extends React.Component {
                         aria-hidden="true"
                       ></a>
                     </Col>
-                    <Col className="col-md-6 mt-2">
+                    <Col className="pra  w-100 col-md-6">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
 
-                      <TableContainer component={Paper} className="T mb-3">
-                        <Table size="small">
-                          <TableBody className="bodyKI">
-                            {personaje.Ataques.map((Ataque, index) => (
-                              <TableRow
-                                key={Ataque.nombreAtaque}
-                                className="mx-5"
+                      <Table className="T mb-3">
+                        <Tbody className="bodyKI">
+                          {personaje.Ataques.map((Ataque, index) => (
+                            <Tr
+                              className="borderprueba"
+                              key={Ataque.nombreAtaque}
+                            >
+                              <Td
+                                className="  py-2 colorFondoAtaquesKI "
+                                scope="row"
                               >
-                                <TableCell
-                                  className="  py-2 colorFondoAtaquesKI "
-                                  component="th"
-                                  scope="row"
-                                  align="left"
-                                >
-                                  {Ataque.nombreAtaque}
-                                </TableCell>
+                                {Ataque.nombreAtaque}
+                              </Td>
 
-                                {
-                                  <TableCell
-                                    component="th"
-                                    className="  nombreAtaquesKI py-2"
-                                    align="right"
-                                  >
-                                    {Ataque.Animacion.map(
-                                      (animaciondelataque, index) => (
-                                        <img
-                                          className="imgAtaque"
-                                          key={index}
-                                          variant="top"
-                                          src={
-                                            process.env.PUBLIC_URL +
-                                            animaciondelataque
-                                          }
-                                          alt="Error"
-                                        />
-                                      )
-                                    )}
-                                  </TableCell>
-                                }
-                              </TableRow>
-                            ))}
-                          </TableBody>
-                        </Table>
-                      </TableContainer>
+                              {
+                                <Td className="  nombreAtaquesKI py-2">
+                                  {Ataque.Animacion.map(
+                                    (animaciondelataque, index) => (
+                                      <Image
+                                        className="imgAtaquekIL"
+                                        key={index}
+                                        variant="top"
+                                        src={
+                                          process.env.PUBLIC_URL +
+                                          animaciondelataque
+                                        }
+                                        alt="Error"
+                                      />
+                                    )
+                                  )}
+                                </Td>
+                              }
+                            </Tr>
+                          ))}
+                        </Tbody>
+                      </Table>
 
                       <a
                         className="btn-ki large ghostpulse "

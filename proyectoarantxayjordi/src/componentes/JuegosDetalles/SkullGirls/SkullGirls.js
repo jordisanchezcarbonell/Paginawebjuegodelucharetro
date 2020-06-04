@@ -12,6 +12,7 @@ import { Modal, Button } from "react-bootstrap";
 // get our fontawesome imports
 import Image from "react-bootstrap/Image";
 import ReactPlayer from "react-player";
+import Grid from "@material-ui/core/Grid";
 
 //AVER SI FUNCIOONA
 class SkullGirls extends React.Component {
@@ -155,54 +156,56 @@ class SkullGirls extends React.Component {
                         component={Paper}
                         className="TablaGeneral  mb-3"
                       >
-                        <Table>
-                          <TableBody className="bodySKULL">
-                            {personaje.Ataques.map((Ataque, index) => (
-                              <TableRow
-                                key={Ataque.nombreAtaque}
-                                className="mx-5"
-                              >
-                                <TableCell
-                                  onClick={() =>
-                                    this.showModal(
-                                      Ataque.nombreAtaque,
-                                      Ataque.Animacion[0]
-                                    )
-                                  }
-                                  className=" py-2 pro "
-                                  component="th"
-                                  scope="row"
+                        <Grid item xs={12}>
+                          <Table>
+                            <TableBody className="bodySKULL">
+                              {personaje.Ataques.map((Ataque, index) => (
+                                <TableRow
+                                  key={Ataque.nombreAtaque}
+                                  className="mx-5"
                                 >
-                                  {Ataque.nombreAtaque}
-                                </TableCell>
-
-                                {
                                   <TableCell
-                                    component="th"
-                                    className="  nombreAtaques py-2"
-                                    align="right"
-                                  >
-                                    {Ataque.Animacion.map(
-                                      (animaciondelataque, index) => (
-                                        <Image
-                                          className=""
-                                          key={index}
-                                          variant="top"
-                                          src={
-                                            process.env.PUBLIC_URL +
-                                            animaciondelataque
-                                          }
-                                          alt="Error"
-                                          fluid
-                                        />
+                                    onClick={() =>
+                                      this.showModal(
+                                        Ataque.nombreAtaque,
+                                        Ataque.Animacion[0]
                                       )
-                                    )}
+                                    }
+                                    className=" py-2 pro "
+                                    component="th"
+                                    scope="row"
+                                  >
+                                    {Ataque.nombreAtaque}
                                   </TableCell>
-                                }
-                              </TableRow>
-                            ))}
-                          </TableBody>
-                        </Table>
+
+                                  {
+                                    <TableCell
+                                      component="th"
+                                      className="  nombreAtaques py-2"
+                                      align="right"
+                                    >
+                                      {Ataque.Animacion.map(
+                                        (animaciondelataque, index) => (
+                                          <Image
+                                            className=""
+                                            key={index}
+                                            variant="top"
+                                            src={
+                                              process.env.PUBLIC_URL +
+                                              animaciondelataque
+                                            }
+                                            alt="Error"
+                                            fluid
+                                          />
+                                        )
+                                      )}
+                                    </TableCell>
+                                  }
+                                </TableRow>
+                              ))}
+                            </TableBody>
+                          </Table>
+                        </Grid>
                       </TableContainer>
 
                       <div className="contenedor  mb-4 mt-5">
