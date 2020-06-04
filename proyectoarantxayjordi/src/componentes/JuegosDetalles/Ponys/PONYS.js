@@ -14,6 +14,9 @@ import { animateScroll as scroll } from "react-scroll";
 
 import ReactPlayer from "react-player";
 
+
+
+
 //AVER SI FUNCIOONA
 
 class Child extends React.Component {
@@ -47,12 +50,12 @@ class Child extends React.Component {
             {this.props.elemento.Nombre}
           </h3>
         </div>
-        <Row className="w-100 probaponyyss  justify-content-center">
+      <Row className="w-100 probaponyyss  justify-content-center">
           <Col className="col-md-5  w-100  ">
             <TableContainer className=" fondoTablaPonys   mt-4   mb-2">
               <h3 className="TituloAtaquesPonys my-0 w-100">Unique Movement</h3>
 
-              <Table className="nomostrarscrollBD">
+              <Table className="nomostrarscrollBD" >
                 <TableBody className="nomostrarscrollBD">
                   {this.props.elemento.Uniquemovement.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
@@ -343,7 +346,7 @@ class PONYS extends React.Component {
             <Container className=" containerPonys">
               <h3 className="LetraCharacterPonys">Character Select</h3>
 
-              <Row className=" w-100  ">
+              <Row className=" w-100   mx-0 px-0">
                 <div className=" w-100 nav  justify-content-center probaaPonys  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
