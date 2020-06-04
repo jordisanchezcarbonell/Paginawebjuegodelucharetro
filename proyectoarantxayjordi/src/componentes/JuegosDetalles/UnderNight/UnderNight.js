@@ -89,7 +89,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaUN  mt-3 ">
+              <TableContainer className=" fondoTablaUN tablaInfinetUNDER mt-3  ">
                 <h3 className="TituloAtaquesUN2 py-2 ">Infinite Worth</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -174,7 +174,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaUN  mt-3 ">
+              <TableContainer className=" fondoTablaUN  mt-3 mb-4 ">
                 <h3 className="TituloAtaquesUN4  py-2">Infinite Worth EXS</h3>
 
                 <Table className="nomostrarscroll">
@@ -344,32 +344,32 @@ class UnderNight extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
-            <Col md="3" className="">
+          <Row className="NavbarUnder">
+            {/* <Col md="3" className="">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
                 className=""
                 height="180vw"
               ></img>
-            </Col>
-            <Col md="4" className="fondo2">
+            </Col> */}
+            <Col md="8" className="fondo2UN">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                 alt=""
-                className=""
+                className="LogoUn"
                 height="180vw"
               ></img>
             </Col>
 
-            <Col md="5" style={style}></Col>
+            <Col md="4" style={style}></Col>
           </Row>
         </div>
 
         <div className="DivBDFONDOUN ">
           <div className="w-100 mt-4 ">
-            <Container className="w-100  ">
-              <h3 className="TextoTituloUN mx-auto">Character Select</h3>
+            <Container className="w-100 pt-1  ">
+              <h3 className="TextoTituloUN   mx-auto">Character Select</h3>
               <Row className=" w-100 stage ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
