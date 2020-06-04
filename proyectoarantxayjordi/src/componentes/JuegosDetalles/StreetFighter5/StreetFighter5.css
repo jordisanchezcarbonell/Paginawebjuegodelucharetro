@@ -233,7 +233,6 @@
     font-family: 'Oswald' !important;
     white-space: nowrap !important;
     font-style: oblique;
-    font-size: 1.2vw !important;
 }
 
 .rowSF5:hover {
@@ -322,8 +321,46 @@
 }
 
 
+.margenes {
+    margin-bottom: 3rem !important;
+    margin-right: 3rem !important;
+
+
+}
+
 .DIVFOTO:hover>.DivNombrePJ {
     background-color: rgba(0, 0, 0, 0.274) !important;
     display: block;
     text-align: center !important;
+}
+
+.mifuenteSF {
+    font-size: 2vh;
+
+}
+
+@media screen and (max-width: 750px) {
+    .mifuenteSF {
+        font-size: 4vh !important;
+
+    }
+
+    .DIVCONTENEDORTABLAMVS {
+        margin-bottom: -7vw
+    }
+
+
+
+
+    .LetraTituloMC {
+        font-size: 8vw !important;
+
+    }
+
+    .margenesSF {
+        margin-bottom: 0rem !important;
+        margin-right: 3rem !important;
+        margin-left: 3rem !important;
+
+    }
 }

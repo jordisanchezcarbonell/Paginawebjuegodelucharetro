@@ -161,7 +161,7 @@
     font-size: 2vh;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 500px) {
     .mifuente {
         font-size: 4vh !important;
 
@@ -177,12 +177,14 @@
 
     .ColDB1 {
         margin-left: 6% !important;
-        padding-left: 6% !important;
+        padding-left: 10% !important;
         padding-right: 8% !important;
-        margin-top: 6% !important;
+        margin-top: 20% !important;
 
 
     }
+
+    .col-md-6 {}
 
     .fondoTabla2BD {
         margin-right: 0 !important;
