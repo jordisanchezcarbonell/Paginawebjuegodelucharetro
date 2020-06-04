@@ -1,8 +1,8 @@
-.FotoMC{
-border:2.5px rgb(219, 149, 18) solid;
+.FotoMC {
+    border: 2.5px rgb(219, 149, 18) solid;
 
-height: 5vw;
-filter: sepia(70%);
+    height: 5vw;
+    filter: sepia(70%);
 
 
 }
@@ -14,12 +14,13 @@ filter: sepia(70%);
     position: relative;
     /* Estas dos propiedades sólo sirven para centrar */
     display: table;
-    margin:0 auto;
-    }
-    /* Y esta para evitar el margin automático de Blogger en los enlaces */
-  
-    .DIVcolorear:before,
-    .separator:before {
+    margin: 0 auto;
+}
+
+/* Y esta para evitar el margin automático de Blogger en los enlaces */
+
+.DIVcolorear:before,
+.separator:before {
     content: "";
     display: block;
     position: absolute;
@@ -29,10 +30,12 @@ filter: sepia(70%);
     left: 0;
     right: 0;
     background: none;
-    }
-    .DIVcolorear:hover:before {
-    background: rgba(255,102,0, 0.5); /*Sepia*/
-    }
+}
+
+.DIVcolorear:hover:before {
+    background: rgba(255, 102, 0, 0.5);
+    /*Sepia*/
+}
 
 
 
@@ -44,26 +47,42 @@ filter: saturate(30%);
 filter: sepia(60%);
 
 */
-.DivFotoMC{
-    display: block!important;
-    margin-left: auto!important;
-    margin-right: auto!important;
-    width: 50%!important;
+.DivFotoMC {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 50% !important;
 
 }
 
 /*https://www.fightersgeneration.com/newspics/bg-red5.gif*/
 
-.DivFONDOSMC{
+.DivFONDOSMC {
 
     background-image: url(https://www.fightersgeneration.com/newspics/bg-red5.gif);
 }
-.TextoPersonajeTituloMC{
-    background: linear-gradient(to right, rgb(43, 2, 1),  rgb(87, 5, 2), rgb(43, 2, 1));
-padding-top: 0.5vw;
-text-shadow: 0 0 30px #fff;
-padding-bottom: 0.8vw;
 
+.TextoPersonajeTituloMC {
+    background: linear-gradient(to right, rgb(43, 2, 1), rgb(87, 5, 2), rgb(43, 2, 1));
+    padding-top: 0.5vw;
+    text-shadow: 0 0 30px #fff;
+    padding-bottom: 0.8vw;
+
+}
+
+.mifuenteMVC {
+    font-size: 2vh;
+}
+
+@media screen and (max-width: 750px) {
+    .mifuenteMVC {
+        font-size: 4vh !important;
+
+    }
+
+    .colorFondoAtaquesMC {
+        font-size: 4.1vw !important;
+    }
 }
 
 @font-face {
@@ -71,10 +90,11 @@ padding-bottom: 0.8vw;
     src: url(Korinna-Regular.otf);
 
 }
+
 @font-face {
     font-family: "LetraMC2";
     src: url(Korsiv.otf);
- 
+
 }
 
 
@@ -86,20 +106,20 @@ padding-bottom: 0.8vw;
     font-weight: 800;
     border-bottom: 1px solid #a78d50;
     ;
-    font-family: "LetraMC"!important;
+    font-family: "LetraMC" !important;
     text-transform: uppercase;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-.colorFondoAtaquesMC{
+.colorFondoAtaquesMC {
 
-        color: white !important;
-        font-family: "LetraMC2"!important;
-        white-space: nowrap !important;
-        font-style: oblique;
-        font-size: 1.1vw !important;    
-font-weight: lighter!important;
+    color: white !important;
+    font-family: "LetraMC2" !important;
+    white-space: nowrap !important;
+    font-style: oblique;
+    font-size: 1.1vw !important;
+    font-weight: lighter !important;
 
 }
 
@@ -121,9 +141,9 @@ font-weight: lighter!important;
 }
 
 
-.FotoMC:hover{
+.FotoMC:hover {
     filter: grayscale(0%);
-    transform: scale(1.1)!important;
+    transform: scale(1.1) !important;
 
 
 }
