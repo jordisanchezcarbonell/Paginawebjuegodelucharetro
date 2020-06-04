@@ -28,17 +28,17 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaquesMC DIVCONTENEDORTABLASSF"
+        className="PruebadefondoAtaquesMC DIVCONTENEDORTABLAMVS "
         key={this.props.elemento.Nombre}
       >
-        <div className=" enter mt-4 pROSF ">
+        <div className=" enter mt-4 pROSF  ">
           <h3 className="TextoPersonajeTituloMC">
             {this.props.elemento.Nombre}
           </h3>
 
           <div className="rule "></div>
         </div>
-        <Container className="  w-100 ContainerMC">
+        <Container className="  w-100 ContainerMC ">
           <Row className="w-100  px-0 justify-content-center   RowMC">
             <Col className="col-md-6 w-100 mb-5  colPrimeraMarvel PaddingBotRespMC">
               <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  PaddingBotRespMC ">

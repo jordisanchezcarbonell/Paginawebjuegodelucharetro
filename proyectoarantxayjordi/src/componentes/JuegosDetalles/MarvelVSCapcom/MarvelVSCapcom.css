@@ -55,6 +55,13 @@ filter: sepia(60%);
 
 }
 
+.DIVCONTENEDORTABLAMVS {
+    background-color: rgba(0, 0, 0, 0.555) !important;
+    width: 100% !important;
+
+    margin-bottom: -1vw
+}
+
 /*https://www.fightersgeneration.com/newspics/bg-red5.gif*/
 
 .DivFONDOSMC {
@@ -80,52 +87,66 @@ filter: sepia(60%);
 
     }
 
+    .DIVCONTENEDORTABLAMVS {
+        margin-bottom: -7vw
+    }
+
     .colorFondoAtaquesMC {
         font-size: 4.1vw !important;
     }
-    .RowMC{
-  
-    
-        display:inline-block!important;
-        text-align:center!important;
+
+    .RowMC {
+
+
+        display: inline-block !important;
+        text-align: center !important;
 
     }
-    .colPrimeraMarvel{
-margin-left: 4%;
+
+    .colPrimeraMarvel {
+        margin-left: 4%;
 
     }
-    .PaddingBotRespMC{
-        margin-bottom: -5vw!important;
+
+    .PaddingBotRespMC {
+        margin-bottom: -5vw !important;
     }
-    .bottomMC{
-        margin-bottom:8vw!important;
+
+    .bottomMC {
+        margin-bottom: 8vw !important;
     }
-    .NavbarMC{
-        display: none!important;
+
+    .NavbarMC {
+        display: none !important;
     }
-    .LetraTituloMC{
-        font-size: 8vw!important;
+
+    .LetraTituloMC {
+        font-size: 8vw !important;
 
     }
 }
-.LetraTituloMC{
+
+.LetraTituloMC {
     -webkit-text-stroke: 2px black;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 4vw;
     text-transform: uppercase;
 }
+
 .fondo1MC {
 
     background-color: rgba(0, 0, 0, 0);
     height: 10vw;
     text-align: center;
-  
-  
-  }
+
+
+}
+
 .fondo2MC {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
-  }
+}
+
 @font-face {
     font-family: "LetraMC";
     src: url(Korinna-Regular.otf);
