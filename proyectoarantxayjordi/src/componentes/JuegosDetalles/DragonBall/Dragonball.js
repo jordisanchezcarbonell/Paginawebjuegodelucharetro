@@ -53,7 +53,7 @@ class Child extends React.Component {
                 component={Paper}
                 className="fondoTablaBD  eliminarradius nomostrarscrollBD mt-5 "
               >
-                <h3 className="TituloAtaquesBD my-0">
+                <h3 className=" mifuente TituloAtaquesBD my-0">
                   Unique Action
                   <hr className="pruebalinea" />
                 </h3>
@@ -67,7 +67,7 @@ class Child extends React.Component {
                     {this.props.elemento.NormalAttacks.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className=" mifuente  py-2 colorFondoAtaquesBD tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -85,7 +85,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -103,7 +103,7 @@ class Child extends React.Component {
             </Col>
             <Col className="col-md-6 ">
               <TableContainer className=" fondoTablaBD  mt-5">
-                <h3 className="TituloAtaquesBD my-0 w-100">
+                <h3 className="mifuente TituloAtaquesBD my-0 w-100">
                   Special Moves
                   <hr className="pruebalinea" />
                 </h3>
@@ -113,7 +113,7 @@ class Child extends React.Component {
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD  nomostrarscrollBD tablaborderabajo"
+                          className=" mifuente  py-2 colorFondoAtaquesBD  nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -131,7 +131,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -148,7 +148,7 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">
+                <h3 className="mifuente TituloAtaquesBD my-0">
                   Sky bound Art
                   <hr className="pruebalinea" />
                 </h3>
@@ -158,7 +158,7 @@ class Child extends React.Component {
                     {this.props.elemento.SuperAttacks.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className=" mifuente  py-2 colorFondoAtaquesBD tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"
@@ -176,7 +176,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -193,7 +193,7 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaBD  mt-3 ">
-                <h3 className="TituloAtaquesBD my-0">
+                <h3 className="mifuente TituloAtaquesBD my-0">
                   Super Sky boundArt
                   <hr className="pruebalinea" />
                 </h3>
@@ -203,7 +203,7 @@ class Child extends React.Component {
                     {this.props.elemento.MeteorAttack.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesBD tablaborderabajo "
+                          className="  mifuente py-2 colorFondoAtaquesBD tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"
@@ -221,7 +221,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueBD"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
