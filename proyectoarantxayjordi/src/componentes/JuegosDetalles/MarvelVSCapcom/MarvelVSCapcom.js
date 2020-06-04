@@ -38,10 +38,10 @@ class Child extends React.Component {
 
           <div className="rule "></div>
         </div>
-        <Container className="  w-100">
-          <Row className="w-100  px-0 justify-content-center ">
-            <Col className="col-md-6 w-100 mb-5  ">
-              <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  ">
+        <Container className="  w-100 ContainerMC">
+          <Row className="w-100  px-0 justify-content-center   RowMC">
+            <Col className="col-md-6 w-100 mb-5  colPrimeraMarvel PaddingBotRespMC">
+              <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  PaddingBotRespMC ">
                 <h3 className="TituloAtaquesMC my-0 mifuenteMVC">
                   Special Moves
                 </h3>
@@ -49,7 +49,7 @@ class Child extends React.Component {
                 <Table
                   stickyHeader
                   aria-label="sticky table"
-                  className="nomostrarscroll "
+                  className="nomostrarscroll  "
                 >
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
@@ -92,8 +92,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 w-100">
-              <TableContainer className=" fondoTablaMC  mt-4">
+            <Col className="col-md-6 w-100 colPrimeraMarvel">
+              <TableContainer className=" fondoTablaMC  mt-4 bottomMC">
                 <h3 className=" mifuenteMVC TituloAtaquesMC my-0 w-100">
                   Super Moves
                 </h3>
@@ -137,7 +137,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaMC  mt-2 mb-4">
+              <TableContainer className=" fondoTablaMC  mt-2 mb-4 ">
                 <h3 className=" mifuenteMVC TituloAtaquesMC my-0">
                   AssistMoves
                 </h3>
@@ -306,8 +306,8 @@ class MarvelVSCapcom extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
-            <Col md="3" className="fondo1">
+          <Row className="NavbarMC">
+            <Col md="3" className="fondo1MC">
               <h6> {this.props.detalles[0]}</h6>
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
@@ -316,7 +316,7 @@ class MarvelVSCapcom extends React.Component {
                 height="110vw"
               ></img>
             </Col>
-            <Col md="4" className="fondo2">
+            <Col md="4" className="fondo2MC">
               <h1 className="TextoTituloDB">{this.props.detalles.Nombre} </h1>
             </Col>
 
@@ -326,8 +326,8 @@ class MarvelVSCapcom extends React.Component {
 
         <div className="row">
           <div className="w-100 mt-4 mb-4 ">
-            <Container className="w-100 mx-auto  ">
-              <h3 className="LetraTituloSF mb-4">Character Select</h3>
+            <Container className="w-100 mx-auto   ">
+              <h3 className="LetraTituloMC  w-100 mb-4">Character Select</h3>
               <Row className=" w-100 stage  ml-4">
                 <div
                   className="col-md-10 mx-auto nav borderBotBD   "
