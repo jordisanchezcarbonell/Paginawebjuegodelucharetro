@@ -33,7 +33,11 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className=" enter mt-4 pROSF ">
-          <img src={imagenLetraSF5} className="w-100 ml-2" alt="logo"></img>
+          <img
+            src={imagenLetraSF5}
+            className="w-100 ml-2 tamañolinea"
+            alt="logo"
+          ></img>
 
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
@@ -95,7 +99,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 ">
+            <Col className="col-md-6 margenesSF  ">
               <TableContainer className=" fondoTablaSF  mt-4">
                 <h3 className="TituloAtaquesSF  mifuenteSF my-0 w-100">
                   Special Moves

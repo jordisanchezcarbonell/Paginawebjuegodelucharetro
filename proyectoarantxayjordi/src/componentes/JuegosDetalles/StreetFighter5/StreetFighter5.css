@@ -316,7 +316,6 @@
     -webkit-text-stroke: 2px black;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 4vw;
     text-transform: uppercase;
 }
 
@@ -350,9 +349,16 @@
     }
 
 
+    .TextoPersonajeTituloSF {
+        bottom: 6vh;
 
+    }
 
-    .LetraTituloMC {
+    .tamañolinea {
+        height: 6vh;
+    }
+
+    .LetraTituloSF {
         font-size: 8vw !important;
 
     }
