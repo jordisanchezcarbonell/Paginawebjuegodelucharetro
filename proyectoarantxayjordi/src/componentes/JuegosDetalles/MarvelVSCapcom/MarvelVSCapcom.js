@@ -58,7 +58,7 @@ class Child extends React.Component {
                         className="mx-5  rowSF5 "
                       >
                         <TableCell
-                          className="   py-2 colorFondoAtaquesMC tablaborderabajo "
+                          className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -68,7 +68,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesSF py-2 tablaborderabajo pr-2"
+                            className="  nombreAtaquesSF py-2 mifuenteataquesMVC tablaborderabajo pr-2"
                             component="td"
                             align="right"
                           >
@@ -103,7 +103,7 @@ class Child extends React.Component {
                     {this.props.elemento.SuperMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="   py-2 colorFondoAtaquesMC  nomostrarscrollBD tablaborderabajo"
+                          className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -113,7 +113,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                            className="  nombreAtaquesSF  mifuenteataquesMVC pr-2 py-2 tablaborderabajo"
                             align="right"
                             component="td"
                           >
@@ -147,7 +147,7 @@ class Child extends React.Component {
                     {this.props.elemento.AssistMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMC tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesMC mifuenteataquesMVC tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"

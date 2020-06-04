@@ -81,6 +81,10 @@ filter: sepia(60%);
     font-size: 2vh;
 }
 
+.mifuenteataquesMVC {
+    font-size: 1.1vw !important;
+}
+
 @media screen and (max-width: 750px) {
     .mifuenteMVC {
         font-size: 4vh !important;
@@ -92,7 +96,7 @@ filter: sepia(60%);
     }
 
     .colorFondoAtaquesMC {
-        font-size: 4.1vw !important;
+        font-size: 2vh !important;
     }
 
     .RowMC {
@@ -180,7 +184,6 @@ filter: sepia(60%);
     font-family: "LetraMC2" !important;
     white-space: nowrap !important;
     font-style: oblique;
-    font-size: 1.1vw !important;
     font-weight: lighter !important;
 
 }

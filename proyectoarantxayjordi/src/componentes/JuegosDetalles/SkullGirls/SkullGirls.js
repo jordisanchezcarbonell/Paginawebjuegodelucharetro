@@ -269,10 +269,11 @@ class SkullGirls extends React.Component {
                       </TableContainer>
 
                       <div className="contenedor mb-4 mt-5">
-                        <img
+                        <Image
                           src={require("./nombre.png")}
                           className="fotoNombre "
                           alt="Descripcion Juego"
+                          fluid
                         />
 
                         <div className="CentradoTituloAtaque w-100 ">
