@@ -60,6 +60,37 @@
   .tamañodelaiamgen {
     height: auto !important;
   }
+  .NombreKI{
+    font-size: 8vw!important;
+    margin-top:2vw!important;
+    margin-bottom:2vw!important;
+    margin-left:2vw!important;
+
+  }
+  .pra2{
+    margin-right:0!important;
+    padding-right:0!important;
+    margin-left: 5%!important;
+    display:inline-block!important;
+    text-align:center!important;
+
+  }
+  .ContainerKI{
+    margin-right:0!important;
+    padding-right:0!important;
+
+
+  }
+  .btn-ki{
+    margin-bottom: 2vw!important;
+  }
+  .btn-ki.large>span {
+    font-family: "FontT";
+    text-align: center;
+    padding: 2vw 0.2vw!important;
+    display: inline-block;
+    border: 2px solid #fff;
+  }
 }
 
 .responsiveTable td.pivoted {
@@ -142,11 +173,18 @@
   background-repeat: repeat;
   border: 1px solid #44d4d9;
 }
-
+.pra1{
+margin-left: -20vw!important;
+}
+.pra2{ margin-left:5vw!important}
+.ContainerKI{
+  padding-right:0!important;
+  margin-right: 0!important;
+}
 .btn-ki.large>span {
   font-family: "FontT";
   text-align: center;
-  padding: 0.6vw 0.2vw;
+  padding: 0.2vw 0.2vw;
   display: inline-block;
   border: 2px solid #fff;
 }
