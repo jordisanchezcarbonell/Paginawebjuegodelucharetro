@@ -40,7 +40,7 @@ class Child extends React.Component {
         <Container className="PruebadefondoAtaquesUN">
           <Row className="w-100  px-0 mx-0 ">
             <Col className="col-md-5 w-100 margenes ">
-              <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD mt-5 ">
+              <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD  ">
                 <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
                   Special Attack
                   {/* <hr className="pruebalinea" />   my-0 */}
@@ -132,7 +132,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-5 w-100 margenes">
-              <TableContainer className=" fondoTablaBD  mt-5">
+              <TableContainer className=" fondoTablaUN fondoTablaBD px-0 mt-5">
                 <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -174,8 +174,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaUN  mt-3 mb-4 ">
-                <h3 className="TituloAtaquesUN4  ">Infinite Worth EXS</h3>
+              <TableContainer className="  fondoTablaUN fondoTablaUN  mt-3 mb-4 ">
+                <h3 className="TituloAtaquesUN4 py-2 ">Infinite Worth EXS</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
@@ -344,7 +344,7 @@ class UnderNight extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row className="NavbarUnder">
+          <Row className="NavbarUnder ">
             {/* <Col md="3" className="">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
@@ -370,7 +370,7 @@ class UnderNight extends React.Component {
           <div className="w-100 mt-4 ">
             <Container className="w-100 pt-1  ">
               <h3 className="TextoTituloUN   mx-auto">Character Select</h3>
-              <Row className=" w-100 stage ">
+              <Row className=" w-100 stage RowUn  ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"

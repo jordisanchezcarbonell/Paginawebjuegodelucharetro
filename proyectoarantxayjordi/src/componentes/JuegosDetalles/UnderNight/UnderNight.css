@@ -29,7 +29,7 @@
     }
 
     .tablaInfinetUNDER {
-        margin-bottom: -8vw !important;
+        margin-bottom: -20vw !important;
     }
 
     .NavbarUnder {
@@ -37,13 +37,67 @@
     }
 
     .TextoTituloUN {
-        font-size: 6vw !important;
+        font-size: 7vw !important;
         width: 100% !important;
-        margin-bottom: 3vw !important;
+        margin-bottom: 6vw !important;
     }
+.divFOTOUN{
+    min-width: 25vw !important;
+    min-height: 29vw!important;
+    margin-right: 2vw!important;
+    border:3px white solid!important;
+ 
+    
+}
+
+
+.divFOTOUN:hover {
+
+    margin-right: 2vw!important;
+    border:3px white solid!important;
+   
+
 
 }
 
+.FotoUB {
+    border:white!important;
+
+    min-width: 24vw !important;
+
+    min-height: 27vw !important;
+
+}
+.RowUn{
+
+    margin-left: 0.7rem!important;
+}
+.TextoPersonajeTituloUN{
+
+    font-size: 8vw!important;
+}
+.fotoNombrePJUN{
+    height: 13vw!important;
+
+}
+.specialTablaUN{
+margin-top: -1vw!important;
+
+}
+
+.fondoTablaUN{
+margin-top: -1vw!important;
+margin-left: -10vw!important;
+    width:90vw!important ;
+}
+
+.puebaNombre{
+    font-size: 6vw!important;
+}
+}
+.fondoTablaUN{
+    margin-top: 3rem;
+}
 @media screen and (device-width: 412px) and (device-height: 823px) and (-webkit-device-pixel-ratio: 3.5) and (orientation: landscape) {
     .margenes {
         margin-bottom: 0rem !important;
@@ -106,17 +160,18 @@
 }
 
 .divFOTOUN {
-    width: 8vw !important;
-    height: 10vw;
+
     border: 3px solid black;
     background: none;
-    -webkit-transform: skew(20deg);
-    -moz-transform: skew(20deg);
-    -ms-transform: skew(20deg);
-    -o-transform: skew(20deg);
-    transform: skew(20deg);
-}
+    margin-right: 1vw;
 
+}
+.divFOTOUN:hover {
+    transform: scale(1.05);
+    border: 3px solid white;
+    background: #bec3c7;
+
+}
 
 @font-face {
     font-family: "tipoUnder" !important;
@@ -263,9 +318,9 @@
 
 .FotoUB {
 
-    width: 9vw !important;
+    width: 7vw !important;
 
-    height: 9vw !important;
+    height: 8vw !important;
     height: auto;
     max-height: 250px;
     width: auto;
@@ -274,23 +329,10 @@
 }
 
 
-.divFOTOUN {
-    width: 9vw !important;
-    height: 9.5vw;
-    border: 3px solid black;
-    background: none;
-    -webkit-transform: skew(20deg);
-    -moz-transform: skew(20deg);
-    -ms-transform: skew(20deg);
-    -o-transform: skew(20deg);
-    transform: skew(15deg);
-}
-
-
 .fotoNombrePJUN {
 
     width: 100%;
-    height: 5vw;
+    height: 4vw;
 
 }
 
@@ -324,19 +366,7 @@
 }
 
 
-.divFOTOUN:hover {
-    width: 9.5vw !important;
-    height: 9.5vw;
-    border: 3px solid white;
-    background: #bec3c7;
-    -webkit-transform: skew(20deg);
-    -moz-transform: skew(20deg);
-    -ms-transform: skew(20deg);
-    -o-transform: skew(20deg);
-    transform: skew(15deg);
 
-
-}
 
 
 
