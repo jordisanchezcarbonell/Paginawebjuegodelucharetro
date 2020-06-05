@@ -13,17 +13,19 @@
 
 
 @media screen and (max-width: 1107px) {
-    .LetraTituloTK{
-    
-    
-       font-size: 10vw!important;
-    }
-    .NavbarTK{
+    .LetraTituloTK {
 
-        display: none!important;
+
+        font-size: 10vw !important;
     }
-       .resppp {
-        height:  10vw !important;
+
+    .NavbarTK {
+
+        display: none !important;
+    }
+
+    .resppp {
+        height: 10vw !important;
 
     }
 
@@ -42,63 +44,79 @@
 
     }
 
+    .PruebadefondoAtaques {
+        margin-bottom: -12% !important;
+    }
+
     .margentabla {
         margin-left: 0.8rem !important;
         margin-right: 0rem !important;
 
     }
 
-    .PruebadefondoAtaques{
+    .PruebadefondoAtaques {
 
-        margin-bottom: -23%!important;
+        margin-bottom: -23% !important;
 
 
     }
-    .colTKTabla{
-        margin-left: 3%!important;
-        margin-right: auto!important;
-   
-        justify-content: center!important; 
+
+    .colTKTabla {
+        margin-left: 3% !important;
+        margin-right: auto !important;
+
+        justify-content: center !important;
         margin-bottom: 3rem !important;
     }
-    .TituloAtaquesTK{
+
+    .TituloAtaquesTK {
         font-size: 10vw !important;
 
     }
-    .imgAtaqueTTK{
-height: 4vw!important;
-min-height: 6vw!important;
 
-    }.FotoTK{
-        cursor: pointer;
-    min-width: 29vw !important;
-    min-height: 29vw !important;
-   
+    .imgAtaqueTTK {
+        height: 4vw !important;
+        min-height: 6vw !important;
+
     }
-    .TK2img{
+
+    .FotoTK {
+        cursor: pointer;
+        min-width: 29vw !important;
+        min-height: 29vw !important;
+
+    }
+
+    .TK2img {
         margin-left: 1rem !important;
 
 
     }
-    .NombrePesonajeTK{
+
+    .NombrePesonajeTK {
         font-size: 4vw !important;
 
     }
-    .TextoPersonajeTituloTK{
-        font-size: 9vw !important;        
-    }
-    .LineaTK{
 
-        width: 80%!important;
+    .TextoPersonajeTituloTK {
+        font-size: 9vw !important;
     }
-    
+
+    .LineaTK {
+
+        width: 80% !important;
     }
+
+    footer {
+        margin-top: 20% !important;
+    }
+}
 
 .TituloAtaquesTK {
     font-family: "Letratk";
     letter-spacing: 0.3em;
     font-weight: 500;
-    font-size: 2.5vw ;
+    font-size: 2.5vw;
 
     color: white
 }
@@ -144,7 +162,7 @@ min-height: 6vw!important;
     background-repeat: repeat-x;
 */
 .TextoPersonajeTituloTK {
-    font-size: 3vw ;
+    font-size: 3vw;
     margin-left: -2vw;
 
     color: white;
@@ -184,7 +202,7 @@ min-height: 6vw!important;
 
 
 .PruebadefondoAtaques {
-margin-bottom: -3%!important;
+    margin-bottom: -3%;
     background-image: url(https://tk7.tekken.com/assets/images/common/stone.jpg), linear-gradient(#6e859c, #c0ccd8);
 
 }
@@ -263,14 +281,12 @@ margin-bottom: -3%!important;
 }
 
 .imgAtaqueTTK {
-    height: 2.2vw!important ;
+    height: 2.2vw !important;
 
 }
 
 
-@media screen and (max-width: 750px) {
- 
-}
+@media screen and (max-width: 750px) {}
 
 .escondersi {
     display: block;
@@ -298,4 +314,8 @@ div.DIVFOTOTK:hover h3 {
     height: 600px !important;
     z-index: -1 !important;
 
+}
+
+footer {
+    margin-top: 1%;
 }
