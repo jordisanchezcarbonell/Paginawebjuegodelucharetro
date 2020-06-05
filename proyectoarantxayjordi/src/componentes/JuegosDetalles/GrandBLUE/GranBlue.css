@@ -1,36 +1,57 @@
 @media screen and (max-width: 1107px) {
 
-    .NavbarGB{
-        display: none!important;
+    .NavbarGB {
+        display: none !important;
     }
-    .logoCharacters{
-        height: 10vw!important;
+
+    .logoCharacters {
+        height: 10vw !important;
     }
-   
-.characterGB img {
-    height: 150px!important;
-    width:auto!important;
 
-}
+    .characterGB img {
+        height: 150px !important;
+        width: auto !important;
 
-.unskew  {
-    height: 100px !important;
-    margin-left: 0.5rem !important;
-    margin-bottom: 0.5rem !important;
+    }
 
-
-    width: 100px!important;
-}
-.RowGrandBLue{
-    margin-left: 0.5rem !important;
-
-}
-
-.TituloAtaquesGB{
-    font-size: 7vw!important;
+    .unskew {
+        height: 100px !important;
+        margin-left: 0.5rem !important;
+        margin-bottom: 0.5rem !important;
 
 
-}
+        width: 100px !important;
+    }
+
+    .RowGrandBLue {
+        margin-left: 0.5rem !important;
+
+    }
+
+    .TituloAtaquesGB {
+        font-size: 7vw !important;
+
+
+    }
+
+    .unskew:hover {
+        -webkit-transform: scale(1.0);
+        -moz-transform: scale(1.0);
+        -ms-transform: scale(1.0);
+        transform: scale(1.0);
+        /*background: #303030;*/
+
+    }
+
+    .unskew.active,
+    .unskew.active:hover {
+        -webkit-transform: scale(0.5);
+        -moz-transform: scale(0.5);
+        -ms-transform: scale(0.5);
+        transform: scale(0.5);
+
+    }
+
 
 }
 
@@ -104,7 +125,7 @@
 /*.characterMks::-webkit-scrollbar { display: none; }*/
 
 .unskew {
-    height: 200px ;
+    height: 200px;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
