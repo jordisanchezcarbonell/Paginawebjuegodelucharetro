@@ -28,6 +28,12 @@
 
     }
 
+    .container {
+
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
     .tablaInfinetUNDER {
         margin-bottom: -20vw !important;
     }
@@ -41,63 +47,70 @@
         width: 100% !important;
         margin-bottom: 6vw !important;
     }
-.divFOTOUN{
-    min-width: 25vw !important;
-    min-height: 29vw!important;
-    margin-right: 2vw!important;
-    border:3px white solid!important;
- 
-    
+
+    .divFOTOUN {
+        min-width: 25vw !important;
+        min-height: 29vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+    }
+
+
+    .divFOTOUN:hover {
+
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+
+
+
+    }
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 24vw !important;
+
+        min-height: 27vw !important;
+
+    }
+
+    .RowUn {
+
+        margin-left: 0.7rem !important;
+    }
+
+    .TextoPersonajeTituloUN {
+
+        font-size: 8vw !important;
+    }
+
+    .fotoNombrePJUN {
+        height: 13vw !important;
+
+    }
+
+    .specialTablaUN {
+        margin-top: -1vw !important;
+
+    }
+
+    .fondoTablaUN {
+        margin-top: -1vw !important;
+        margin-left: -10vw !important;
+        width: 90vw !important;
+    }
+
+    .puebaNombre {
+        font-size: 6vw !important;
+    }
 }
 
-
-.divFOTOUN:hover {
-
-    margin-right: 2vw!important;
-    border:3px white solid!important;
-   
-
-
-}
-
-.FotoUB {
-    border:white!important;
-
-    min-width: 24vw !important;
-
-    min-height: 27vw !important;
-
-}
-.RowUn{
-
-    margin-left: 0.7rem!important;
-}
-.TextoPersonajeTituloUN{
-
-    font-size: 8vw!important;
-}
-.fotoNombrePJUN{
-    height: 13vw!important;
-
-}
-.specialTablaUN{
-margin-top: -1vw!important;
-
-}
-
-.fondoTablaUN{
-margin-top: -1vw!important;
-margin-left: -10vw!important;
-    width:90vw!important ;
-}
-
-.puebaNombre{
-    font-size: 6vw!important;
-}
-}
-.fondoTablaUN{
+.fondoTablaUN {
     margin-top: 3rem;
 }
+
 @media screen and (device-width: 412px) and (device-height: 823px) and (-webkit-device-pixel-ratio: 3.5) and (orientation: landscape) {
     .margenes {
         margin-bottom: 0rem !important;
@@ -166,6 +179,7 @@ margin-left: -10vw!important;
     margin-right: 1vw;
 
 }
+
 .divFOTOUN:hover {
     transform: scale(1.05);
     border: 3px solid white;
