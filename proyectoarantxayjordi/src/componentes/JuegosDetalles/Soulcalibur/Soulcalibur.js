@@ -354,11 +354,11 @@ class Soulcalibur extends React.Component {
               <Row className=" w-100 stageUC  px-0  mx-0">
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className="mx-auto mb-3 fotoCharacterSOUL"
+                  className=" mb-3 fotoCharacterSOUL"
                   alt="imagen logo"
                 ></img>
 
-                <div className=" nav   w-100" role="tablist">
+                <div className=" nav mx-auto  w-100" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
