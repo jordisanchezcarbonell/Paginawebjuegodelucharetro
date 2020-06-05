@@ -125,7 +125,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6">
-              <TableContainer className=" fondoTablaGB   margenesGBPRUEBA">
+              <TableContainer className=" fondoTablaGB   margenesGBPRUEBA ">
                 <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
 
                 <Table className="nomostrarscroll">
@@ -166,7 +166,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaGB  mt-3  mb-5 margenesGBPRUEBA">
+              <TableContainer className=" fondoTablaGB  mt-3  mb-5 ">
                 <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
 
                 <Table className="nomostrarscroll">
