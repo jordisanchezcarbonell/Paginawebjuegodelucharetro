@@ -11,6 +11,7 @@ import "./Soulcalibur.css";
 import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import { animateScroll as scroll } from "react-scroll";
+import Image from "react-bootstrap/Image";
 
 import ReactPlayer from "react-player";
 
@@ -408,8 +409,8 @@ class Soulcalibur extends React.Component {
                                           >
                                             {Ataque.Animacion.map(
                                               (animaciondelataque, index) => (
-                                                <img
-                                                  className="imgAtaque"
+                                                <Image
+                                                  className="imagenAtaqueSL"
                                                   key={index}
                                                   variant="top"
                                                   src={
@@ -429,11 +430,12 @@ class Soulcalibur extends React.Component {
                               </TableContainer>
                             </Col>
                             <Col md="4 mt-3 colimgSOul">
-                              <img
+                              <Image
                                 className=" imagenestamaño"
                                 variant="top"
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 alt="Error"
+                                fluid
                               />
                             </Col>
                           </Row>
