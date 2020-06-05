@@ -93,7 +93,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6 w-100 colPrimeraMarvel">
-              <TableContainer className=" fondoTablaMC  mt-4 bottomMC">
+              <TableContainer className=" fondoTablaMC   pruMC mt-4 bottomMC">
                 <h3 className=" mifuenteMVC TituloAtaquesMC my-0 w-100">
                   Super Moves
                 </h3>

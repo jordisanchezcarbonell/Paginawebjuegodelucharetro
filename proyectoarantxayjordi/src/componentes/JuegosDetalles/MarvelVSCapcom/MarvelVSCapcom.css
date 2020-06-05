@@ -83,7 +83,7 @@ filter: sepia(60%);
 .mifuenteataquesMVC {
     font-size: 1.1vw !important;
 }
-
+/*
 @media screen and (max-width: 415px) {
 
     .FotoMC {
@@ -104,7 +104,10 @@ filter: sepia(60%);
 
 }
 
-@media screen and (min-width: 411px) {
+
+
+
+@media screen and (max-width: 415px) {
 
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
@@ -123,15 +126,167 @@ filter: sepia(60%);
     }
 
 }
+*/
 
-@media screen and (max-width: 750px) {
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+    /*MotoG4 GalazyG5*/
+     .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
     .container {
         padding-right: 0px !important;
-        padding-left: 9px !important;
+        padding-left: 18px !important;
+
+    }
+    .colPrimeraMarvel {
+        margin-left: -4%;
+
+    }
+    .DivFotoMC {
+        margin:1vw!important
     }
 }
 
-@media screen and (max-width: 780px ) {
+
+@media screen and (max-height: 568px) and (max-width: 320px) {
+    /*iphone5*/
+    .DivFotoMC {
+        margin:1vw!important
+    }
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+    .container {
+        padding-right: 0px !important;
+        padding-left: 30px !important;
+
+    }
+    .colPrimeraMarvel {
+        margin-left: -4%;
+
+    }
+}
+
+@media screen and (max-height: 736px) and (max-width: 414px) {
+    /*iphone6/7/8*/
+    .DivFotoMC {
+        margin:1vw!important
+    }
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+    .container {
+        padding-right: 0px !important;
+        padding-left: 16px !important;
+
+    }
+    .colPrimeraMarvel {
+        margin-left: -3%;
+
+    }
+}
+
+
+
+
+
+@media screen and (max-height: 667px) and (max-width: 375px) {
+    /*iphone6/7/8*/
+    .DivFotoMC {
+        margin:1vw!important
+    }
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+    .container {
+        padding-right: 0px !important;
+        padding-left: 18px !important;
+
+    }
+    .colPrimeraMarvel {
+        margin-left: -3%;
+
+    }
+}
+
+@media screen and (max-height: 812px) and (max-width: 375px) {
+    
+    /*iphone X*/
+    .DivFotoMC {
+        margin:1vw!important
+    }
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+    .container {
+        padding-right: 0px !important;
+        padding-left: 30px !important;
+
+    }
+    .colPrimeraMarvel {
+        margin-left: -3%;
+
+    }
+ 
+}
+
+
+
+
+@media screen and (max-height: 823px) and (max-width: 411px) {
+    /*Pixel*/
+    .DivFotoMC {
+        margin:1vw!important
+    }
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+    .container {
+        padding-right: 0px !important;
+        padding-left: 20px !important;
+
+    }
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
+}
+
+
+@media screen and ( max-width: 1025px ) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
@@ -154,16 +309,12 @@ filter: sepia(60%);
     }
 
     .RowMC {
-
-
         display: inline-block !important;
         text-align: center !important;
-
     }
 
     .colPrimeraMarvel {
         /*margin-left: 4%;*/
-
     }
 
     .PaddingBotRespMC {
@@ -180,8 +331,6 @@ filter: sepia(60%);
 
     .LetraTituloMC {
         font-size: 8vw !important;
-
-
     }
 
     footer {
@@ -191,23 +340,16 @@ filter: sepia(60%);
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
-        height: 26vw;
+        height: 23vw;
         filter: sepia(70%);
-
-
     }
 
     .RowMC {
-
         margin-left: 0.5rem !important;
     }
 
     .DivFotoMC {
-        margin: 2vw !important;
     }
-
-
-
 }
 
 .LetraTituloMC {
