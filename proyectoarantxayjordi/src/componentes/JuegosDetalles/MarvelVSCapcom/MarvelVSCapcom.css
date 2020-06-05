@@ -84,7 +84,7 @@ filter: sepia(60%);
     font-size: 1.1vw !important;
 }
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 415px) {
 
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
@@ -94,12 +94,54 @@ filter: sepia(60%);
 
 
     }
+
+
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (min-width: 411px) {
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+
+
+
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+
+}
+
+@media screen and (max-width: 750px) {
+    .container {
+        padding-right: 0px !important;
+        padding-left: 9px !important;
+    }
+}
+
+@media screen and (max-width: 780px ) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
+    }
+
+    .container {
+        padding-right: 0px;
+        padding-left: 0px;
+        padding-left: 5vw;
+        margin-left: 3vw;
     }
 
     .DIVCONTENEDORTABLAMVS {
