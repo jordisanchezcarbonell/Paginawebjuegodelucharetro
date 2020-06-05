@@ -351,17 +351,17 @@ class GranBlue extends React.Component {
 
         <div className="row degadadoprueba rowGlobalKI ">
           <div className="w-100 mt-4">
-            <Container className="w-100   ">
-              <Row className=" w-100 stage RowGrandBLue mx-auto  ">
+            <Container className="w-100     ">
+              <Row className=" w-100 stage RowGrandBLue   justify-content-center  mx-auto ">
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3 logoCharacters"
                   alt="imagen logo"
                 ></img>
 
-                <div className=" nav nav-tabs  justify-content-center  " role="tablist">
+                <div className=" nav nav-tabs  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
-                    if (index <= 3) {
+                 
                       return (
                         <div
                           key={personaje.Nombre}
@@ -390,38 +390,7 @@ class GranBlue extends React.Component {
                           </div>
                         </div>
                       );
-                    } else {
-                      return (
-                        <div key={index}>
-                          <div
-                            key={index}
-                            className="unskew characterGB"
-                            data-toggle="tab"
-                            role="tab"
-                            aria-selected="false"
-                          >
-                            <div className="unskew.active verticalcenter">
-                              <Image
-                                href="#una-id"
-                                className="centrarImagen"
-                                onClick={() => this.showContent(index)}
-                                src={process.env.PUBLIC_URL + personaje.Foto}
-                                fluid
-                              ></Image>
-                            </div>
-                          </div>
-
-                          <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
-
-                              <div></div>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    }
+                
                   })}
                 </div>
               </Row>

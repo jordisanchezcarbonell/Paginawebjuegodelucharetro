@@ -6,30 +6,29 @@
     .logoCharacters{
         height: 10vw!important;
     }
-
-    
+   
 .characterGB img {
     height: 150px!important;
-    width: auto;
-
+    width:auto!important;
 
 }
 
-
-
-
-.unskew {
+.unskew  {
     height: 100px !important;
     margin-left: 0.5rem !important;
     margin-bottom: 0.5rem !important;
 
-    flex-grow: 1;
- 
-    width: 100px!important;
 
+    width: 100px!important;
 }
 .RowGrandBLue{
     margin-left: 0.5rem !important;
+
+}
+
+.TituloAtaquesGB{
+    font-size: 7vw!important;
+
 
 }
 
