@@ -59,7 +59,6 @@ filter: sepia(60%);
     background-color: rgba(0, 0, 0, 0.555) !important;
     width: 100% !important;
 
-    margin-bottom: -1vw
 }
 
 /*https://www.fightersgeneration.com/newspics/bg-red5.gif*/
@@ -85,14 +84,15 @@ filter: sepia(60%);
     font-size: 1.1vw !important;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 1025px) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
     }
 
     .DIVCONTENEDORTABLAMVS {
-        margin-bottom: -7vw
+        margin-bottom: -7% !important;
+
     }
 
     .colorFondoAtaquesMC {
@@ -127,6 +127,11 @@ filter: sepia(60%);
     .LetraTituloMC {
         font-size: 8vw !important;
 
+
+    }
+
+    footer {
+        margin-top: 2% !important;
     }
 }
 
