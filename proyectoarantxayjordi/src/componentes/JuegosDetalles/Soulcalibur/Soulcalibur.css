@@ -54,6 +54,7 @@
 .imagenestamaño {
     height: 600px !important;
     margin-left: -13vw;
+    min-width: 35vw;
     z-index: -1 !important;
 
 }
@@ -107,7 +108,9 @@
 }
 
 .fotoCharacterSOUL {
-    height: 2vw;
+    height: 6vw;
+    margin-right: auto;
+    margin-left: auto ;
 
 }
 
@@ -145,15 +148,25 @@
     }
 
     .col-md-8 {
+        margin-top: -10vw!important;
         position: static;
-        width: 20% !important;
+        width: 32% !important;
         padding-right: 0px !important;
         padding-left: 0px !important;
+        margin-left: -15vw!important;
     }
 
     .imagenestamaño {
         display: none !important;
     }
+    .NavSC{
+        display: none!important;
+    }
+    .fotoCharacterSOUL{
+        height: 40px!important;
+      margin-left: 6%!important;
+    
+   
+    }
 
-    /**/
 }
