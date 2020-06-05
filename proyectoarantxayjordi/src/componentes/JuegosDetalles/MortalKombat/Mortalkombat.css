@@ -238,21 +238,27 @@ tr {
     .character-thumb .label {
         font-size: .7rem;
         margin-top: 5px
-        
     }
+
+
 }
 
 
 
 
 @media screen and (max-width: 1107px) {
-.TituloElegirMK{
+    .TituloElegirMK {
 
+        font-size: 7.5vw;
 
-    margin-top: 3vw!important;
-    margin-bottom: -3vw!important;
-}
+        margin-top: 3vw !important;
+        margin-bottom: -3vw !important;
+    }
 
+    .imgAtaqueMK {
+        height: 5vw !important;
+
+    }
 }
 
 @media (min-width:992px) {
@@ -294,7 +300,7 @@ tr {
 @media (min-width:992px) {
     .character-thumb.locked .img-wrapper {
         height: 110px;
-        margin-left: 60px!important;
+        margin-left: 60px !important;
 
     }
 
@@ -302,7 +308,7 @@ tr {
         width: 75px;
 
     }
-   
+
 }
 
 
