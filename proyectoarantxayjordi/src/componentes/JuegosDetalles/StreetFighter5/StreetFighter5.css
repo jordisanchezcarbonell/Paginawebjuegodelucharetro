@@ -152,7 +152,6 @@
 
 .FotoSF {
     width: 90px !important;
-    min-width: 5vw !important;
     height: 10vw !important;
     border-radius: 0 !important;
     border: 2px white solid;
@@ -351,15 +350,16 @@
 
     .TextoPersonajeTituloSF {
         bottom: 6vh;
+        margin-top: -1vw;
 
     }
 
     .tamañolinea {
-        height: 6vh;
+        height: 8vh;
     }
 
     .LetraTituloSF {
-        font-size: 8vw !important;
+        font-size: 9vw !important;
 
     }
 
@@ -369,4 +369,38 @@
         margin-left: 3rem !important;
 
     }
+    .NavbarSF{
+        display: none!important;
+    }
+    .RowSF{
+        margin-left: 3%!important;
+    }
+    .FotoSF{
+
+        width: 25vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg)!important;
+    }
+    .FotoSF2{
+
+        width: 25vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg)!important;
+    }
+ 
+    .pROSF{
+        margin-bottom: -6vw!important; 
+
+    }
+    .NombrePesonaje1{
+        font-size: 4vw!important;
+     }
+    .nom2{
+        margin-left: 5vw;
+   
+    }
+
+
 }

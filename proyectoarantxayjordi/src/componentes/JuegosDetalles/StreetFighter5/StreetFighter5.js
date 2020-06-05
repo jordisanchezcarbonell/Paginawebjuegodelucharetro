@@ -49,7 +49,7 @@ class Child extends React.Component {
           <Row className="w-100  px-0 mx-auto  ">
             <Col className="col-md-5 w-100 margenesSF">
               <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
-                <h3 className="TituloAtaquesSF mifuenteSF my-0">
+                <h3 className="TituloAtaquesSF mifuenteSF UniqueMVSF my-0">
                   Unique Moves
                 </h3>
 
@@ -313,7 +313,7 @@ class StreetFighter5 extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
+          <Row className="NavbarSF">
             <Col md="3" className="fondo1">
               <h6> {this.props.detalles[0]}</h6>
               <img
@@ -335,14 +335,14 @@ class StreetFighter5 extends React.Component {
           <div className="w-100 mt-4 mb-4 ">
             <Container className="w-100 mx-auto  ">
               <h3 className="LetraTituloSF mb-4">Character Select</h3>
-              <Row className=" w-100 stage  ml-4">
+              <Row className=" w-100 stage  ml-4 ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD  "
+                  className="nav nav-tabs col-md-6  RowSF borderBotBD  "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -383,7 +383,7 @@ class StreetFighter5 extends React.Component {
                 </div>
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD"
+                  className="nav nav-tabs col-md-6  RowSF borderBotBD"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
