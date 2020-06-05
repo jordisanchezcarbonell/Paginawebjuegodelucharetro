@@ -28,17 +28,17 @@ class Child extends React.Component {
     return (
       <div
         style={{ width: "100%" }}
-        className="PruebadefondoAtaquesMC DIVCONTENEDORTABLASSF"
+        className="PruebadefondoAtaquesMC DIVCONTENEDORTABLAMVS "
         key={this.props.elemento.Nombre}
       >
-        <div className=" enter mt-4 pROSF ">
+        <div className=" enter mt-4 pROSF  ">
           <h3 className="TextoPersonajeTituloMC">
             {this.props.elemento.Nombre}
           </h3>
 
           <div className="rule "></div>
         </div>
-        <Container className="  w-100 ContainerMC">
+        <Container className="  w-100 ContainerMC ">
           <Row className="w-100  px-0 justify-content-center   RowMC">
             <Col className="col-md-6 w-100 mb-5  colPrimeraMarvel PaddingBotRespMC">
               <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  PaddingBotRespMC ">
@@ -58,7 +58,7 @@ class Child extends React.Component {
                         className="mx-5  rowSF5 "
                       >
                         <TableCell
-                          className="   py-2 colorFondoAtaquesMC tablaborderabajo "
+                          className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC tablaborderabajo "
                           scope="row"
                           component="td"
                           align="left"
@@ -68,7 +68,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesSF py-2 tablaborderabajo pr-2"
+                            className="  nombreAtaquesSF py-2 mifuenteataquesMVC tablaborderabajo pr-2"
                             component="td"
                             align="right"
                           >
@@ -103,7 +103,7 @@ class Child extends React.Component {
                     {this.props.elemento.SuperMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="   py-2 colorFondoAtaquesMC  nomostrarscrollBD tablaborderabajo"
+                          className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -113,7 +113,7 @@ class Child extends React.Component {
 
                         {
                           <TableCell
-                            className="  nombreAtaquesSF   pr-2 py-2 tablaborderabajo"
+                            className="  nombreAtaquesSF  mifuenteataquesMVC pr-2 py-2 tablaborderabajo"
                             align="right"
                             component="td"
                           >
@@ -147,7 +147,7 @@ class Child extends React.Component {
                     {this.props.elemento.AssistMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMC tablaborderabajo "
+                          className="  py-2 colorFondoAtaquesMC mifuenteataquesMVC tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"

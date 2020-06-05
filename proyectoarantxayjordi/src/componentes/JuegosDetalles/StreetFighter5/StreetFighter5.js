@@ -33,7 +33,11 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className=" enter mt-4 pROSF ">
-          <img src={imagenLetraSF5} className="w-100 ml-2" alt="logo"></img>
+          <img
+            src={imagenLetraSF5}
+            className="w-100 ml-2 tamañolinea"
+            alt="logo"
+          ></img>
 
           <h3 className="TextoPersonajeTituloSF">
             {this.props.elemento.Nombre}
@@ -43,9 +47,11 @@ class Child extends React.Component {
         </div>
         <Container className="  w-100">
           <Row className="w-100  px-0 mx-auto  ">
-            <Col className="col-md-5 w-100 mb-5 mr-5 ">
+            <Col className="col-md-5 w-100 margenesSF">
               <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
-                <h3 className="TituloAtaquesSF my-0">Unique Moves</h3>
+                <h3 className="TituloAtaquesSF mifuenteSF my-0">
+                  Unique Moves
+                </h3>
 
                 <Table
                   stickyHeader
@@ -77,7 +83,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueSF"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -93,9 +99,11 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 ">
+            <Col className="col-md-6 margenesSF  ">
               <TableContainer className=" fondoTablaSF  mt-4">
-                <h3 className="TituloAtaquesSF my-0 w-100">Special Moves</h3>
+                <h3 className="TituloAtaquesSF  mifuenteSF my-0 w-100">
+                  Special Moves
+                </h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
@@ -120,7 +128,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueSF"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -137,7 +145,9 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaSF  mt-2 mb-4">
-                <h3 className="TituloAtaquesSF my-0">Critical Art</h3>
+                <h3 className="TituloAtaquesSF mifuenteSF my-0">
+                  Critical Art
+                </h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody>
@@ -162,7 +172,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueSF"
+                                  className=""
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }

@@ -6,13 +6,13 @@
   color: black;
   text-align: center;
   position: relative;
-  background: url(https://www.ultra-combo.com/wp-content/themes/killerinstinct/assets/img/global/bkg/bkg-01.png) no-repeat center center fixed;
+  background: url("./descripcion-background.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
-  width: 100% !important;
+  width: 100% auto;
 }
 
 .bodyKI {
@@ -60,34 +60,43 @@
   .tamañodelaiamgen {
     height: auto !important;
   }
-  .NombreKI{
-    font-size: 8vw!important;
-    margin-top:2vw!important;
-    margin-bottom:2vw!important;
-    margin-left:2vw!important;
+
+  .NombreKI {
+    font-size: 8vw !important;
+    margin-top: 2vw !important;
+    margin-bottom: 2vw !important;
+    margin-left: 2vw !important;
 
   }
-  .pra2{
-    margin-right:0!important;
-    padding-right:0!important;
-    margin-left: 5%!important;
-    display:inline-block!important;
-    text-align:center!important;
+
+  .pra2 {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 5% !important;
+    display: inline-block !important;
+    text-align: center !important;
 
   }
-  .ContainerKI{
-    margin-right:0!important;
-    padding-right:0!important;
+
+  .fotoLogoKI {
+    display: none !important;
+  }
+
+  .ContainerKI {
+    margin-right: 0 !important;
+    padding-right: 0 !important;
 
 
   }
-  .btn-ki{
-    margin-bottom: 2vw!important;
+
+  .btn-ki {
+    margin-bottom: 2vw !important;
   }
+
   .btn-ki.large>span {
     font-family: "FontT";
     text-align: center;
-    padding: 2vw 0.2vw!important;
+    padding: 2vw 0.2vw !important;
     display: inline-block;
     border: 2px solid #fff;
   }
@@ -173,14 +182,20 @@
   background-repeat: repeat;
   border: 1px solid #44d4d9;
 }
-.pra1{
-margin-left: -20vw!important;
+
+.pra1 {
+  margin-left: -20vw !important;
 }
-.pra2{ margin-left:5vw!important}
-.ContainerKI{
-  padding-right:0!important;
-  margin-right: 0!important;
+
+.pra2 {
+  margin-left: 5vw !important
 }
+
+.ContainerKI {
+  padding-right: 0 !important;
+  margin-right: 0 !important;
+}
+
 .btn-ki.large>span {
   font-family: "FontT";
   text-align: center;

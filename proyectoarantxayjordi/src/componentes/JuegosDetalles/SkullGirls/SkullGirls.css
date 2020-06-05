@@ -153,7 +153,7 @@ th {
   transform: translate(-50%, -50%);
 
   position: relative;
-  bottom: 8vh;
+  bottom: 9vh;
   font-weight: bold;
   /**/
 }
@@ -167,6 +167,7 @@ th {
   .contenedor {
     margin-top: 10%;
   }
+
 }
 
 @font-face {

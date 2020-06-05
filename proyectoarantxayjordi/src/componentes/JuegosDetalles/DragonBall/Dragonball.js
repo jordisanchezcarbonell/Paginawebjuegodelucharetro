@@ -65,7 +65,7 @@ class Child extends React.Component {
                 >
                   <TableBody className="nomostrarscrollBD">
                     {this.props.elemento.NormalAttacks.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
+                      <TableRow key={index} className="mx-5  ">
                         <TableCell
                           className="   py-2 colorFondoAtaquesBD tablaborderabajo "
                           scope="row"
@@ -201,7 +201,7 @@ class Child extends React.Component {
                 <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.MeteorAttack.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                      <TableRow key={index} className="mx-5">
                         <TableCell
                           className="  mifuente py-2 colorFondoAtaquesBD tablaborderabajo "
                           component="td"
