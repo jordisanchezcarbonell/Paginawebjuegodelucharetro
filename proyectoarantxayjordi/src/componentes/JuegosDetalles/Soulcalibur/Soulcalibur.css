@@ -130,7 +130,7 @@
 
 
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 750px) {
 
     .NombrePJSOUL {
         font-size: 25px;
@@ -156,4 +156,60 @@
     }
 
     /**/
+}
+
+@media (min-width:360px) {
+    .container {
+        max-width: 340px
+    }
+}
+
+@media (min-width:375px) {
+    .container {
+        max-width: 360px
+    }
+}
+
+
+
+@media (min-width:576px) {
+    .container {
+        max-width: 540px
+    }
+}
+
+@media (min-width:768px) {
+    .container {
+        max-width: 720px
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        max-width: 960px
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        max-width: 1140px
+    }
+}
+
+@media (min-width:1440px) {
+    .container {
+        max-width: 1280px
+    }
+}
+
+@media (min-width:1600px) {
+    .container {
+        max-width: 1540px
+    }
+}
+
+@media (min-width:1920px) {
+    .container {
+        max-width: 1880px
+    }
 }

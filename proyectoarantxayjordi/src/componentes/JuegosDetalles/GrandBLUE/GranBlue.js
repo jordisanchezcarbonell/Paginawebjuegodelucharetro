@@ -38,7 +38,7 @@ class Child extends React.Component {
             <Col className="col-md-6 w-100 mb-3">
               <TableContainer
                 component={Paper}
-                className="fondoTablaGB  eliminarradius mt-5 mb-5"
+                className="fondoTablaGB  eliminarradius margenesGBPRUEBA"
               >
                 <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
 
@@ -125,7 +125,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6">
-              <TableContainer className=" fondoTablaGB  mt-5 mb-5 ">
+              <TableContainer className=" fondoTablaGB   margenesGBPRUEBA">
                 <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
 
                 <Table className="nomostrarscroll">
@@ -166,7 +166,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaGB  mt-3  mb-5">
+              <TableContainer className=" fondoTablaGB  mt-3  mb-5 margenesGBPRUEBA">
                 <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
 
                 <Table className="nomostrarscroll">
@@ -359,38 +359,36 @@ class GranBlue extends React.Component {
                   alt="imagen logo"
                 ></img>
 
-                <div className=" nav nav-tabs  " role="tablist">
+                <div className=" nav " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
-                 
-                      return (
-                        <div
-                          key={personaje.Nombre}
-                          className="unskew characterGB  "
-                          data-toggle="tab"
-                          role="tab"
-                          aria-selected="false"
-                        >
-                          <div className="unskew.active">
-                            <Image
-                              href="#una-id"
-                              className="centrarImagen"
-                              onClick={() => this.showContent(index)}
-                              src={process.env.PUBLIC_URL + personaje.Foto}
-                              fluid
-                            ></Image>
-                          </div>
+                    return (
+                      <div
+                        key={personaje.Nombre}
+                        className="unskew characterGB  "
+                        data-toggle="tab"
+                        role="tab"
+                        aria-selected="false"
+                      >
+                        <div className="unskew.active">
+                          <Image
+                            href="#una-id"
+                            className="centrarImagen"
+                            onClick={() => this.showContent(index)}
+                            src={process.env.PUBLIC_URL + personaje.Foto}
+                            fluid
+                          ></Image>
+                        </div>
 
+                        <div>
                           <div>
-                            <div>
-                              {this.state.isItemContentVisible[index] &&
-                                this.renderContent(personaje)}
+                            {this.state.isItemContentVisible[index] &&
+                              this.renderContent(personaje)}
 
-                              <div></div>
-                            </div>
+                            <div></div>
                           </div>
                         </div>
-                      );
-                
+                      </div>
+                    );
                   })}
                 </div>
               </Row>

@@ -1,4 +1,4 @@
-@media screen and (max-width: 1107px) {
+@media screen and (max-width: 750px) {
 
     .NavbarGB {
         display: none !important;
@@ -12,6 +12,11 @@
         height: 150px !important;
         width: auto !important;
 
+    }
+
+    .margenesGBPRUEBA {
+        margin-top: 1rem !important;
+        margin-bottom: 0rem !important;
     }
 
     .unskew {
@@ -53,6 +58,66 @@
     }
 
 
+}
+
+@media (min-width:360px) {
+    .container {
+        max-width: 340px
+    }
+}
+
+@media (min-width:375px) {
+    .container {
+        max-width: 360px
+    }
+}
+
+
+@media (min-width:576px) {
+    .container {
+        max-width: 540px
+    }
+}
+
+@media (min-width:768px) {
+    .container {
+        max-width: 720px
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        max-width: 960px
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        max-width: 1140px
+    }
+}
+
+@media (min-width:1440px) {
+    .container {
+        max-width: 1280px
+    }
+}
+
+@media (min-width:1600px) {
+    .container {
+        max-width: 1540px
+    }
+}
+
+@media (min-width:1920px) {
+    .container {
+        max-width: 1880px
+    }
+}
+
+.margenesGBPRUEBA {
+    margin-top: 3rem ;
+    margin-bottom: 3rem ;
 }
 
 .products {
