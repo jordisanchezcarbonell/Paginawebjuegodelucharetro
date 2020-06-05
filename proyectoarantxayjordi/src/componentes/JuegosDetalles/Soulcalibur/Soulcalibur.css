@@ -107,7 +107,7 @@
 }
 
 .fotoCharacterSOUL {
-    height: 8vw;
+    height: 2vw;
 
 }
 
@@ -133,15 +133,27 @@
 @media screen and (max-width: 1025px) {
 
     .NombrePJSOUL {
-        font-size: 100px;
+        font-size: 25px;
     }
 
     .CellNombreAtaques {
-        font-size: 12.5vw !important;
+        font-size: 3.5vw !important;
     }
 
     .imagenAtaqueSL {
-        height: 14.6vw !important;
+        height: 4.6vw !important;
     }
+
+    .col-md-8 {
+        position: static;
+        width: 20% !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .imagenestamaño {
+        display: none !important;
+    }
+
     /**/
 }
