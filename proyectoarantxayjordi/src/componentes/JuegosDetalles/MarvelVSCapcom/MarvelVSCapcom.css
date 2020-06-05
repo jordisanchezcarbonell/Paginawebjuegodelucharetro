@@ -104,25 +104,7 @@ filter: sepia(60%);
 
 }
 
-@media screen and (min-width: 411px) {
 
-    .FotoMC {
-        border: 2.5px rgb(219, 149, 18) solid;
-
-        height: 23vw !important;
-        filter: sepia(70%);
-
-
-    }
-
-
-
-    .RowMC {
-
-        margin-left: 1.5rem !important;
-    }
-
-}
 
 @media screen and (max-width: 750px) {
     .container {
@@ -131,7 +113,7 @@ filter: sepia(60%);
     }
 }
 
-@media screen and (max-width: 780px ) {
+@media screen and (max-width: 780px) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
