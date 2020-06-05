@@ -183,15 +183,18 @@
 
 
     }
-
-    .col-md-6 {}
+.bolaDeDrac{
+    height: 8vw!important;
+}
 
     .fondoTabla2BD {
         margin-right: 0 !important;
     }
 
     .TablaUnqiqueBD {
-        margin-bottom: -26vw !important;
+        margin-bottom: -36vw !important;
+        margin-top: -10vw !important;
+
     }
 
     .colorFondoAtaquesBD {
@@ -203,9 +206,28 @@
         height: 5vw !important;
     }
 
+    .FotoBD , .FotoBD2{
+            border-radius: 0  !important;  
+            min-width:25vw!important;
+        transform: skewX(0deg)!important;   
+    
+        cursor: pointer;
+        min-height: 25vw!important;
+    
+    }
+    .ROWdb{
+
+        margin-left: 1rem!important;
+    }
+
+    
+    
+}
+.TablaUnqiqueBD {
+
+    margin-top: 3rem ;
 
 }
-
 .DivBDFONDO {
     color: black;
     text-align: center;
@@ -270,8 +292,8 @@
 
 .FotoBD2 {
     width: 90px !important;
-    min-width: 90px !important;
-    height: 90px !important;
+    min-width: 90px ;
+    height: 90px ;
     border-radius: 25px 0 !important;
 
     margin: 4px;
@@ -287,9 +309,9 @@
 
 .FotoBD {
     width: 90px !important;
-    min-width: 90px !important;
-    height: 90px !important;
-    border-radius: 0 25px !important;
+    min-width: 90px ;
+    height: 90px ;
+    border-radius: 0 25px ;
 
     margin: 4px;
     transform: skewX(15deg);
