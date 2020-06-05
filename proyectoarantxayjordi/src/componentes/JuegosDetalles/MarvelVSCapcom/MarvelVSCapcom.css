@@ -108,7 +108,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: 4%;
+        /*margin-left: 4%;*/
 
     }
 
@@ -133,6 +133,25 @@ filter: sepia(60%);
     footer {
         margin-top: 2% !important;
     }
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+    
+        height: 26vw;
+        filter: sepia(70%);
+    
+    
+    }
+    .RowMC{
+
+        margin-left: 0.5rem!important;
+    }
+    .DivFotoMC{
+        margin: 2vw!important;
+    }
+    
+
+
 }
 
 .LetraTituloMC {

@@ -328,7 +328,7 @@ class MarvelVSCapcom extends React.Component {
           <div className="w-100 mt-4 mb-4 ">
             <Container className="w-100 mx-auto   ">
               <h3 className="LetraTituloMC  w-100 mb-4">Character Select</h3>
-              <Row className=" w-100 stage  ml-4">
+              <Row className=" w-100 stage   RowMC">
                 <div
                   className="col-md-10 mx-auto nav borderBotBD   "
                   role="tablist"
