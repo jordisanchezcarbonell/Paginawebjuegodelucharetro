@@ -11,11 +11,80 @@
     height: 2px !important;
 }
 
+
+@media screen and (max-width: 1107px) {
+    .LetraTituloTK{
+    
+    
+       font-size: 10vw!important;
+    }
+    .NavbarTK{
+
+        display: none!important;
+    }
+       .resppp {
+        height:  10vw !important;
+
+    }
+
+    .FOTOTK2 {
+        height: 2vh !important;
+
+
+    }
+
+    .TituloAtaquesTK {
+        font-size: 4vh !important;
+    }
+
+    .escondersi {
+        display: none !important;
+
+    }
+
+    .margentabla {
+        margin-left: 0.8rem !important;
+        margin-right: 0rem !important;
+
+    }
+
+    .PruebadefondoAtaques{
+
+        margin-bottom: -23%!important;
+
+
+    }
+    .colTKTabla{
+        margin-left: 3%!important;
+        margin-right: auto!important;
+   
+        justify-content: center!important; 
+        margin-bottom: 3rem !important;
+    }
+    .TituloAtaquesTK{
+        font-size: 10vw !important;
+
+    }
+    .imgAtaqueTTK{
+height: 4vw!important;
+min-height: 6vw!important;
+
+    }.FotoTK{
+        cursor: pointer;
+    width: 8vw !important;
+    min-width: 8vw !important;
+    height: 6vw !important;
+    background-color: rgba(0, 0, 0, 0.637);
+    border: 2px black solid;
+    }
+    
+    }
+
 .TituloAtaquesTK {
     font-family: "Letratk";
     letter-spacing: 0.3em;
     font-weight: 500;
-    font-size: 2.5vw !important;
+    font-size: 2.5vw ;
 
     color: white
 }
@@ -101,7 +170,7 @@
 
 
 .PruebadefondoAtaques {
-
+margin-bottom: -3%!important;
     background-image: url(https://tk7.tekken.com/assets/images/common/stone.jpg), linear-gradient(#6e859c, #c0ccd8);
 
 }
@@ -181,42 +250,13 @@
 }
 
 .imgAtaqueTTK {
-    height: 2.2vw !important;
+    height: 2.2vw!important ;
 
 }
 
-.margentabla {
-    margin-right: 3rem !important;
-    margin-bottom: 3rem !important;
-
-}
 
 @media screen and (max-width: 750px) {
-    .imgAtaqueTTK {
-        height: 4vh !important;
-
-    }
-
-    .FOTOTK2 {
-        height: 2vh !important;
-
-
-    }
-
-    .TituloAtaquesTK {
-        font-size: 4vh !important;
-    }
-
-    .escondersi {
-        display: none !important;
-
-    }
-
-    .margentabla {
-        margin-left: 0.8rem !important;
-        margin-right: 0rem !important;
-
-    }
+ 
 }
 
 .escondersi {

@@ -41,9 +41,9 @@ class Child extends React.Component {
 
           <div className="rule "></div>
         </div>
-        <Container className=" ">
+        <Container className=" PruebadefondoAtaques h-100">
           <Row className="w-100  px-0 mx-0 ">
-            <Col className="col-md-5 w-100 margentabla ">
+            <Col className="col-md-5 w-100 margentabla colTKTabla">
               <TableContainer
                 component={Paper}
                 className="fondoTablaTK  eliminarradius nomostrarscrollBD mt-5 "
@@ -80,7 +80,7 @@ class Child extends React.Component {
                               (animaciondelataque, index) => (
                                 <Image
                                   key={index}
-                                  className="imgAtaqueTTK"
+                                  className="imgAtaqueTTK resppp"
                                   src={
                                     process.env.PUBLIC_URL + animaciondelataque
                                   }
@@ -228,7 +228,7 @@ class TEKKEN extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
+          <Row className="NavbarTK"> 
             <Col md="7" className="fondo2TK">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
