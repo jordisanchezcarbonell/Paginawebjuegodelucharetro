@@ -331,7 +331,7 @@ class GranBlue extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
+          <Row className="NavbarGB">
             <Col md="3" className="fondo1">
               <h6> {this.props.detalles[0]}</h6>
               <img
@@ -351,21 +351,21 @@ class GranBlue extends React.Component {
 
         <div className="row degadadoprueba rowGlobalKI ">
           <div className="w-100 mt-4">
-            <Container className="w-100 ">
-              <Row className=" w-100 stage">
+            <Container className="w-100   ">
+              <Row className=" w-100 stage RowGrandBLue mx-auto  ">
                 <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className="mx-auto mb-3"
+                  className="mx-auto mb-3 logoCharacters"
                   alt="imagen logo"
                 ></img>
 
-                <div className=" nav nav-tabs" role="tablist">
+                <div className=" nav nav-tabs  justify-content-center  " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     if (index <= 3) {
                       return (
                         <div
                           key={personaje.Nombre}
-                          className="unskew characterGB"
+                          className="unskew characterGB  "
                           data-toggle="tab"
                           role="tab"
                           aria-selected="false"
