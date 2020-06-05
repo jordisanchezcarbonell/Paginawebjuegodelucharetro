@@ -307,9 +307,27 @@ filter: sepia(60%);
     }
 
 }
+@media screen and (min-width: 1025px) {
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 5vw !important;
+        filter: sepia(70%);
 
 
-@media screen and (max-width: 1025px) {
+    }
+    
+    .RowMC {
+
+        margin-left: 1.5rem !important;
+    }
+    .DivFotoMC {
+        margin: 0 !important
+    }
+
+}
+
+@media screen and (max-width: 1024px) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
