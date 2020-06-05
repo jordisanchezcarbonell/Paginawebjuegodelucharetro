@@ -337,6 +337,20 @@
 
 }
 
+@media screen and (max-width: 1024px) {
+    .TextoPersonajeTituloSF {
+        bottom: 3vh;
+        margin-top: -1vw;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .TextoPersonajeTituloSF {
+        bottom: 3vh;
+        margin-top: -1vw;
+    }
+}
+
 @media screen and (max-width: 750px) {
     .mifuenteSF {
         font-size: 4vh !important;
@@ -369,37 +383,43 @@
         margin-left: 3rem !important;
 
     }
-    .NavbarSF{
-        display: none!important;
+
+    .NavbarSF {
+        display: none !important;
     }
-    .RowSF{
-        margin-left: 3%!important;
+
+    .RowSF {
+        margin-left: 3% !important;
     }
-    .FotoSF{
+
+    .FotoSF {
 
         width: 25vw !important;
         min-height: 30vw !important;
 
-        transform: skewX(0deg)!important;
+        transform: skewX(0deg) !important;
     }
-    .FotoSF2{
+
+    .FotoSF2 {
 
         width: 25vw !important;
         min-height: 30vw !important;
 
-        transform: skewX(0deg)!important;
+        transform: skewX(0deg) !important;
     }
- 
-    .pROSF{
-        margin-bottom: -6vw!important; 
+
+    .pROSF {
+        margin-bottom: -6vw !important;
 
     }
-    .NombrePesonaje1{
-        font-size: 4vw!important;
-     }
-    .nom2{
+
+    .NombrePesonaje1 {
+        font-size: 4vw !important;
+    }
+
+    .nom2 {
         margin-left: 5vw;
-   
+
     }
 
 
