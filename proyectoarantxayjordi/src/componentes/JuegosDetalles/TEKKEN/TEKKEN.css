@@ -71,11 +71,25 @@ min-height: 6vw!important;
 
     }.FotoTK{
         cursor: pointer;
-    width: 8vw !important;
-    min-width: 8vw !important;
-    height: 6vw !important;
-    background-color: rgba(0, 0, 0, 0.637);
-    border: 2px black solid;
+    min-width: 29vw !important;
+    min-height: 29vw !important;
+   
+    }
+    .TK2img{
+        margin-left: 1rem !important;
+
+
+    }
+    .NombrePesonajeTK{
+        font-size: 4vw !important;
+
+    }
+    .TextoPersonajeTituloTK{
+        font-size: 9vw !important;        
+    }
+    .LineaTK{
+
+        width: 80%!important;
     }
     
     }
@@ -130,7 +144,7 @@ min-height: 6vw!important;
     background-repeat: repeat-x;
 */
 .TextoPersonajeTituloTK {
-    font-size: 3vw !important;
+    font-size: 3vw ;
     margin-left: -2vw;
 
     color: white;
@@ -190,7 +204,6 @@ margin-bottom: -3%!important;
 .FotoTK {
     cursor: pointer;
     width: 6vw !important;
-    min-width: 5vw !important;
     height: 6vw !important;
     background-color: rgba(0, 0, 0, 0.637);
     border: 2px black solid;

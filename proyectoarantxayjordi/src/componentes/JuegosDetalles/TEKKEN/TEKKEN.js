@@ -96,7 +96,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-5 w-100 mb-5 mr-5 escondersi ">
+            <Col className="col-md-6 w-100 mb-5 mr-5 escondersi ">
               <img
                 className="FOTOTK2 my-1 mt-5 "
                 src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
@@ -246,28 +246,28 @@ class TEKKEN extends React.Component {
           <div className="w-100 mt-4 ">
             <Container className="w-100   ">
               <h3 className="LetraTituloTK">Character Select</h3>
-              <Row className=" w-100 stage ">
+              <Row className=" w-100 stage TK2img ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-11  w-100 mx-auto borderBotBD "
+                  className="nav nav-tabs col-md-11   w-100 mx-auto borderBotBD "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
                     return (
                       <div
-                        className="CentrodoBD mx-auto "
+                        className="CentrodoBD  mx-auto "
                         align="center"
                         key={personaje.Nombre}
                       >
                         <div
-                          className="DIVFOTOTK w-100"
+                          className="DIVFOTOTK  w-100"
                           onClick={() => this.showContent(index)}
                         >
-                          <div className="DivFOTOTK">
+                          <div className="DivFOTOTK ">
                             <img
                               className="FotoTK my-1 "
                               src={process.env.PUBLIC_URL + personaje.Foto}
