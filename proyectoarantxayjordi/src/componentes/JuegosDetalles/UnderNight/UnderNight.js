@@ -131,7 +131,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 margenes">
+            <Col className="col-md-5 w-100 margenes">
               <TableContainer className=" fondoTablaBD  mt-5">
                 <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
 
@@ -175,7 +175,7 @@ class Child extends React.Component {
               </TableContainer>
 
               <TableContainer className=" fondoTablaUN  mt-3 mb-4 ">
-                <h3 className="TituloAtaquesUN4  py-2">Infinite Worth EXS</h3>
+                <h3 className="TituloAtaquesUN4  ">Infinite Worth EXS</h3>
 
                 <Table className="nomostrarscroll">
                   <TableBody>
