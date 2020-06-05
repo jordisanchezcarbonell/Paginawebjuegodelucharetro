@@ -84,6 +84,18 @@ filter: sepia(60%);
     font-size: 1.1vw !important;
 }
 
+@media screen and (max-width: 411px) {
+
+    .FotoMC {
+        border: 2.5px rgb(219, 149, 18) solid;
+
+        height: 23vw !important;
+        filter: sepia(70%);
+
+
+    }
+}
+
 @media screen and (max-width: 1025px) {
     .mifuenteMVC {
         font-size: 4vh !important;
@@ -136,20 +148,22 @@ filter: sepia(60%);
 
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
-    
+
         height: 26vw;
         filter: sepia(70%);
-    
-    
-    }
-    .RowMC{
 
-        margin-left: 0.5rem!important;
+
     }
-    .DivFotoMC{
-        margin: 2vw!important;
+
+    .RowMC {
+
+        margin-left: 0.5rem !important;
     }
-    
+
+    .DivFotoMC {
+        margin: 2vw !important;
+    }
+
 
 
 }
