@@ -4410,102 +4410,107 @@
     "Foto2": "imagenes/PersonajesCortadosMk11/Shao_Kahn.png",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Warlord  ",
+        "nombreAtaque": "Blood Money  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Merging Realms  ",
+        "nombreAtaque": "Mine Mine Mine   ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Play For Souls K  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pillaged  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
 
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Die By My Hands  ",
+        "nombreAtaque": "Greed ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
 
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Bow To Me  ",
+        "nombreAtaque": "Massive Destruction    ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fear Me  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Konquer All     ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Merciless Spear ",
+        "nombreAtaque": "Demonic Mace ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "(Air) Wrath Hammer E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
+      {
+        "nombreAtaque": "Close Vial Of Sorrow E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
 
       {
-        "nombreAtaque": "Up Wrath Hammer E   ",
+        "nombreAtaque": "Far Vial Of Sorrow E   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Back Blown Out (Close) ",
+        "nombreAtaque": "For The Kollection (Close) ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Kahn-Sequences (Close)  ",
+        "nombreAtaque": "Head lantern (Close)  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/left.png",
@@ -4515,7 +4520,7 @@
       },
 
       {
-        "nombreAtaque": "Mercy (Mid)  ",
+        "nombreAtaque": "Mercy (Mid) ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/l2.png",
           "imagenes/ImagenesAtaqueMK/down.png",
@@ -4534,11 +4539,7 @@
       },
       {
         "nombreAtaque": "Essence Thief   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
+        "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
       }
     ]
   },
@@ -4550,102 +4551,107 @@
     "Foto2": "imagenes/PersonajesCortadosMk11/Robotocp.png",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Warlord  ",
+        "nombreAtaque": "Blood Money",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Merging Realms  ",
+        "nombreAtaque": "Mine Mine Mine",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Play For Souls K",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pillaged  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
 
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Die By My Hands  ",
+        "nombreAtaque": "Greed ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
 
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Bow To Me  ",
+        "nombreAtaque": "Massive Destruction    ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fear Me  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Konquer All     ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Merciless Spear ",
+        "nombreAtaque": "Demonic Mace ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "(Air) Wrath Hammer E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
+      {
+        "nombreAtaque": "Close Vial Of Sorrow E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
 
       {
-        "nombreAtaque": "Up Wrath Hammer E   ",
+        "nombreAtaque": "Far Vial Of Sorrow E   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Back Blown Out (Close) ",
+        "nombreAtaque": "For The Kollection (Close) ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Kahn-Sequences (Close)  ",
+        "nombreAtaque": "Head lantern (Close)  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/left.png",
@@ -4655,7 +4661,7 @@
       },
 
       {
-        "nombreAtaque": "Mercy (Mid)  ",
+        "nombreAtaque": "Mercy (Mid) ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/l2.png",
           "imagenes/ImagenesAtaqueMK/down.png",
@@ -4674,11 +4680,7 @@
       },
       {
         "nombreAtaque": "Essence Thief   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
+        "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
       }
     ]
   },
@@ -4690,50 +4692,52 @@
     "Foto2": "imagenes/PersonajesCortadosMk11/Sheeva.png",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Warlord  ",
+        "nombreAtaque": "Yellow Jacket ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Merging Realms  ",
+        "nombreAtaque": "Black Widow ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Die By My Hands  ",
-        "Animacion": [
           "imagenes/ImagenesAtaqueMK/triangle.png",
 
-          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wandering Spider  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Bow To Me  ",
+        "nombreAtaque": "Bugging Out   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fear Me  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Konquer All     ",
+        "nombreAtaque": "Killer Bee  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lonomia    ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/circle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
@@ -4742,7 +4746,7 @@
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Merciless Spear ",
+        "nombreAtaque": "Fireflies   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
 
@@ -4751,51 +4755,51 @@
         ]
       },
       {
-        "nombreAtaque": "(Air) Wrath Hammer E ",
+        "nombreAtaque": "Close Ground Swarm  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
 
       {
-        "nombreAtaque": "Up Wrath Hammer E   ",
+        "nombreAtaque": "Far Ground Swarm   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Back Blown Out (Close) ",
+        "nombreAtaque": "New Species (Close)",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Can't Die (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Kahn-Sequences (Close)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
 
       {
-        "nombreAtaque": "Mercy (Mid)  ",
+        "nombreAtaque": "Mercy (Mid) ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/l2.png",
           "imagenes/ImagenesAtaqueMK/down.png",
@@ -4813,7 +4817,7 @@
         ]
       },
       {
-        "nombreAtaque": "Essence Thief   ",
+        "nombreAtaque": "Not Lookin' Good  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
 
@@ -4830,112 +4834,129 @@
     "Foto2": "imagenes/PersonajesCortadosMk11/Fujin.png",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Warlord  ",
+        "nombreAtaque": "Advanced Warfare",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Target Acquired",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Merging Realms  ",
+        "nombreAtaque": "At Ease",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Die By My Hands  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Bow To Me  ",
+        "nombreAtaque": "Overwatch",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Fear Me  ",
+        "nombreAtaque": "Frontal Assault",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vedette",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Konquer All     ",
+        "nombreAtaque": "Decisive Victory",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Merciless Spear ",
+        "nombreAtaque": "Energy Rings",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
-
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "(Air) Wrath Hammer E ",
+        "nombreAtaque": "Close K.A.T. Orbital Drop E",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
 
       {
-        "nombreAtaque": "Up Wrath Hammer E   ",
+        "nombreAtaque": "Close K.A.T. Orbital Drop E",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Back Blown Out (Close) ",
+        "nombreAtaque": "To The Choppa (Mid)",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Kahn-Sequences (Close)  ",
+        "nombreAtaque": "Supply Drop (Close)",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
-
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
 
       {
-        "nombreAtaque": "Mercy (Mid)  ",
+        "nombreAtaque": "Mercy (Mid)",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/l2.png",
           "imagenes/ImagenesAtaqueMK/down.png",
@@ -4946,17 +4967,16 @@
       },
 
       {
-        "nombreAtaque": "The Klassic ",
+        "nombreAtaque": "The Klassic",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Essence Thief   ",
+        "nombreAtaque": "Popping heads",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/l1.png"
         ]
       }
