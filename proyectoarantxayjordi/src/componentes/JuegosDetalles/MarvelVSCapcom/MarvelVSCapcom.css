@@ -83,6 +83,7 @@ filter: sepia(60%);
 .mifuenteataquesMVC {
     font-size: 1.1vw !important;
 }
+
 /*
 @media screen and (max-width: 415px) {
 
@@ -130,8 +131,9 @@ filter: sepia(60%);
 
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
+
     /*MotoG4 GalazyG5*/
-     .FotoMC {
+    .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
         height: 23vw !important;
@@ -139,26 +141,31 @@ filter: sepia(60%);
 
 
     }
+
     .container {
         padding-right: 0px !important;
-        padding-left: 18px !important;
+        padding-left: 26px !important;
 
     }
+
     .colPrimeraMarvel {
         margin-left: -4%;
 
     }
+
     .DivFotoMC {
-        margin:1vw!important
+        margin: 1vw !important
     }
 }
 
 
-@media screen and (max-height: 568px) and (max-width: 320px) {
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
     /*iphone5*/
     .DivFotoMC {
-        margin:1vw!important
+        margin: 1vw !important
     }
+
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -167,22 +174,26 @@ filter: sepia(60%);
 
 
     }
+
     .container {
         padding-right: 0px !important;
-        padding-left: 30px !important;
+        padding-left: 48px !important;
 
     }
+
     .colPrimeraMarvel {
         margin-left: -4%;
 
     }
 }
 
-@media screen and (max-height: 736px) and (max-width: 414px) {
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
     /*iphone6/7/8*/
     .DivFotoMC {
-        margin:1vw!important
+        margin: 1vw !important
     }
+
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -191,11 +202,13 @@ filter: sepia(60%);
 
 
     }
+
     .container {
         padding-right: 0px !important;
         padding-left: 16px !important;
 
     }
+
     .colPrimeraMarvel {
         margin-left: -3%;
 
@@ -206,11 +219,13 @@ filter: sepia(60%);
 
 
 
-@media screen and (max-height: 667px) and (max-width: 375px) {
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
     /*iphone6/7/8*/
     .DivFotoMC {
-        margin:1vw!important
+        margin: 1vw !important
     }
+
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -219,23 +234,26 @@ filter: sepia(60%);
 
 
     }
+
     .container {
         padding-right: 0px !important;
         padding-left: 18px !important;
 
     }
+
     .colPrimeraMarvel {
         margin-left: -3%;
 
     }
 }
 
-@media screen and (max-height: 812px) and (max-width: 375px) {
-    
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
     /*iphone X*/
     .DivFotoMC {
-        margin:1vw!important
+        margin: 1vw !important
     }
+
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -244,26 +262,30 @@ filter: sepia(60%);
 
 
     }
+
     .container {
         padding-right: 0px !important;
         padding-left: 30px !important;
 
     }
+
     .colPrimeraMarvel {
         margin-left: -3%;
 
     }
- 
+
 }
 
 
 
 
-@media screen and (max-height: 823px) and (max-width: 411px) {
+@media screen and (max-height: 823px) and (min-width: 411px) {
+
     /*Pixel*/
     .DivFotoMC {
-        margin:1vw!important
+        margin: 1vw !important
     }
+
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -272,6 +294,7 @@ filter: sepia(60%);
 
 
     }
+
     .container {
         padding-right: 0px !important;
         padding-left: 20px !important;
@@ -286,7 +309,7 @@ filter: sepia(60%);
 }
 
 
-@media screen and ( max-width: 1025px ) {
+@media screen and (max-width: 1025px) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
@@ -348,8 +371,7 @@ filter: sepia(60%);
         margin-left: 0.5rem !important;
     }
 
-    .DivFotoMC {
-    }
+    .DivFotoMC {}
 }
 
 .LetraTituloMC {
