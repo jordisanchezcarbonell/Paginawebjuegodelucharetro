@@ -12,7 +12,7 @@
 }
 
 
-@media screen and (max-width: 1107px) {
+@media screen and (max-width: 1025px) {
     .LetraTituloTK {
 
 
@@ -62,7 +62,7 @@
     }
 
     .colTKTabla {
-        margin-left: 3% !important;
+        margin-left: auto !important;
         margin-right: auto !important;
 
         justify-content: center !important;
