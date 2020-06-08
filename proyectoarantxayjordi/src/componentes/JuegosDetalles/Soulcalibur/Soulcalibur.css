@@ -178,17 +178,54 @@
     /*MotoG4 GalazyG5*/
 
 
-    .ContainerSeparacionSOUL {
-        min-width: 100%;
+ 
+    .fotoCharacterSOUL{
+        width: 93%!important;
     }
 
-    .DivSoulcal {
-        min-width: 0%;
+.NombrePJSOUL{
+    margin-left: -5vw!important;
+}
+  
+
+    .AnchoSOUL{
+        width: 120%!important;
+        margin-left: -8vw!important;
     }
+    .CellNombreAtaques{
+    
+        
+        width: 60%!important;
+    }
+    
+     
+        .ContainerSeparacionSOUL {
+            min-width: 100%;
+        }
+    
+        .DivSoulcal {
+            min-width: 0%;
+        }
+
+
+
+
 }
 
 /*pruebsssa*/
 @media screen and (min-height: 568px) and (max-width: 320px) {
+
+    
+
+.AnchoSOUL{
+    width: 120%!important;
+    margin-left: -8vw!important;
+}
+.CellNombreAtaques{
+
+    
+    width: 60%!important;
+}
 
     /*iphone5*/
     .ContainerSeparacionSOUL {
@@ -201,6 +238,17 @@
 
 }
 
+
+@media screen and (max-height: 731px) and (min-width: 411px) {
+.fotoCharacterSOUL{
+
+    height: 15%!important;
+    width: 90%!important;
+}
+}
+
+
+
 @media screen and (min-height: 736px) and (max-width: 414px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
@@ -209,6 +257,24 @@
     .DivSoulcal {
         min-width: 0%;
     }
+
+
+    
+
+    .AnchoSOUL{
+        width: 120%!important;
+        margin-left: -8vw!important;
+    }
+    .CellNombreAtaques{
+    
+        
+        width: 60%!important;
+    }
+    
+      
+
+
+
 }
 
 
@@ -223,7 +289,30 @@
     .DivSoulcal {
         min-width: 0%;
     }
+
+
+    
+
+    .AnchoSOUL{
+        width: 120%!important;
+        margin-left: -8vw!important;
+    }
+    .CellNombreAtaques{
+    
+        
+        width: 60%!important;
+    }
+    
+       
+     
+    
+
+
+
 }
+
+
+
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
     .ContainerSeparacionSOUL {
@@ -233,18 +322,39 @@
     .DivSoulcal {
         min-width: 0%;
     }
+
+
+    .fotoCharacterSOUL{
+
+        height: 15%!important;
+        width: 90%!important;
+    }
 }
 
 
 
 
-@media screen and (max-height: 1366px) and (min-width: 1024px) {
+@media screen and (min-height: 1366px) and (max-width: 1024px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
     }
 
     .DivSoulcal {
         min-width: 0%;
+    }
+
+
+    .coltablasoul{
+        padding-top: 5vw!important;
+    }
+    .colimgSOul{
+
+        padding-top: 5vw!important;
+        width: 120vw!important;
+
+    }
+    .imagen2SOUL{
+        width: 120vw!important;
     }
 }
 
@@ -256,6 +366,16 @@
     .DivSoulcal {
         min-width: 0%;
     }
+
+    .coltablasoul{
+        padding-top: 5vw!important;
+    }
+    .colimgSOul{
+
+        padding-top: 5vw!important;
+        width: 120vw!important;
+
+    }
 }
 
 
@@ -266,6 +386,11 @@
 
     .DivSoulcal {
         min-width: 0%;
+    }
+    .fotoCharacterSOUL{
+
+        height: 15%!important;
+        width: 90%!important;
     }
 }
 

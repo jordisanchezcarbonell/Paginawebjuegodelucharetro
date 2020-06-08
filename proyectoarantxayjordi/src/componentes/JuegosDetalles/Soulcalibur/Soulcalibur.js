@@ -366,7 +366,7 @@ class Soulcalibur extends React.Component {
                         key={personaje.Nombre}
                       >
                         <Container className="w-100   mx-0  px-0 ContainerSeparacionSOUL ">
-                          <Row className="prueba pt-0 pb-3  mx-auto">
+                          <Row className="prueba pt-0 pb-3  mx-auto RowSOUL " >
                             <Col md="8" className="coltablasoul">
                               <div className="contenedor   w-100">
                                 <div className="NombrePJSOUL mt-5  ">
@@ -375,7 +375,7 @@ class Soulcalibur extends React.Component {
                               </div>
                               <TableContainer
                                 component={Paper}
-                                className="TablaGeneralSoul  mb-3 mt-3"
+                                className="TablaGeneralSoul  mb-3 mt-3 AnchoSOUL"
                               >
                                 <Table>
                                   <TableBody className="TableBodySOUL">
@@ -431,7 +431,7 @@ class Soulcalibur extends React.Component {
                             </Col>
                             <Col md="4 mt-3 colimgSOul">
                               <Image
-                                className=" imagenestamaño"
+                                className=" imagenestamaño   imagen2SOUL"
                                 variant="top"
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 alt="Error"
