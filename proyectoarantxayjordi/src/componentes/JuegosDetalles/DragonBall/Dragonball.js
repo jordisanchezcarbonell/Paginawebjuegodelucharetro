@@ -46,7 +46,7 @@ class Child extends React.Component {
 
           <div className="rule "></div>
         </div>
-        <Container className=" ">
+        <Container className="ContainerDB pl-0 ">
           <Row className="w-100  px-0 mx-0 ">
             <Col className="col-md-6 w-100 mb-5  ColDB1  ">
               <TableContainer
@@ -101,7 +101,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 ColDB1">
+            <Col className="col-md-6 ColDB1   colp">
               <TableContainer className=" fondoTablaBD  mt-5">
                 <h3 className="mifuente TituloAtaquesBD   mt-3 my-0 w-100">
                   Special Moves
@@ -391,7 +391,7 @@ class Dragonball extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD "
+                  className="nav nav-tabs col-md-6  borderBotBD  DIVBD"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -425,7 +425,7 @@ class Dragonball extends React.Component {
                 </div>
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD"
+                  className="nav nav-tabs col-md-6  borderBotBD DIVBD"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {

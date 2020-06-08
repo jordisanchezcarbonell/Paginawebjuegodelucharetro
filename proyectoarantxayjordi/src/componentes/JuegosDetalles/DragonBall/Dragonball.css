@@ -65,7 +65,7 @@
 
 
 .bolaDeDrac {
-    height: 3vw;
+    height: 2vw;
     position: absolute;
     top: 0%;
     left: 48.5%;
@@ -168,6 +168,10 @@
         font-size: 4vh !important;
 
     }
+    .MuiTableContainer-root {
+        width: 107%!important;
+        overflow-x: auto;
+    }
 
     .NavbarDB {
         display: none !important;
@@ -206,98 +210,45 @@
 
     .imgAtaqueBD {
 
-        height: 5vw !important;
+        height: 4vw !important;
     }
+
 
     .FotoBD,
     .FotoBD2 {
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-
+width: 90px!important;
+height: 90px!important;
         cursor: pointer;
-        min-height: 25vw !important;
+        min-height: 22vw !important;
 
     }
-
     .ROWdb {
 
-        margin-left: 1rem !important;
+        margin-left: 0.3rem !important;
     }
+
+    .ContainerDB{
+
+        margin-left: -0.2rem!important;
+        }
 }
 
 /*pruebsssa*/
-@media screen and (min-height: 568px) and (max-width: 320px) {
 
-    /*iphone5*/
-    .mifuente {
-        font-size: 4vh !important;
-
-    }
-
-    .NavbarDB {
-        display: none !important;
-    }
-
-    .LetraTituloBD {
-        font-size: 12vw !important;
-    }
-
-    .ColDB1 {
-        margin-left: 6% !important;
-        padding-left: 10% !important;
-        padding-right: 8% !important;
-        margin-top: 20% !important;
-
-
-    }
-
-    .bolaDeDrac {
-        height: 8vw !important;
-    }
-
-    .fondoTabla2BD {
-        margin-right: 0 !important;
-    }
-
-    .TablaUnqiqueBD {
-        margin-bottom: -36vw !important;
-        margin-top: -10vw !important;
-
-    }
-
-    .colorFondoAtaquesBD {
-        font-size: 5vw !important;
-    }
-
-    .imgAtaqueBD {
-
-        height: 5vw !important;
-    }
-
-    .FotoBD,
-    .FotoBD2 {
-        border-radius: 0 !important;
-        min-width: 0vw !important;
-        transform: skewX(0deg) !important;
-
-        cursor: pointer;
-        min-height: 25vw !important;
-
-    }
-
-    .ROWdb {
-
-        margin-left: 1rem !important;
-    }
-}
 
 @media screen and (min-height: 736px) and (max-width: 414px) {
 
-    /*iphone6/7/8*/
+    /*iphone6/7/8 plus */
     .mifuente {
         font-size: 4vh !important;
 
+    }
+    .MuiTableContainer-root {
+        width: 130%!important;
+        overflow-x: auto!important;
     }
 
     .NavbarDB {
@@ -337,17 +288,19 @@
 
     .imgAtaqueBD {
 
-        height: 5vw !important;
+        height: 4vw !important;
     }
+
 
     .FotoBD,
     .FotoBD2 {
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-
+width: 90px!important;
+height: 90px!important;
         cursor: pointer;
-        min-height: 25vw !important;
+        min-height: 22vw !important;
 
     }
 
@@ -355,6 +308,10 @@
 
         margin-left: 1rem !important;
     }
+    .ContainerDB{
+
+        margin-left: -0.8rem!important;
+        }
 }
 
 
@@ -368,7 +325,10 @@
         font-size: 4vh !important;
 
     }
-
+    .MuiTableContainer-root {
+        width: 115%!important;
+        overflow-x: auto!important;
+    }
     .NavbarDB {
         display: none !important;
     }
@@ -409,14 +369,27 @@
         height: 5vw !important;
     }
 
-    .FotoBD,
-    .FotoBD2 {
+
+    .FotoBD{
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-
+width: 90px!important;
+height: 90px!important;
         cursor: pointer;
-        min-height: 25vw !important;
+        min-height: 22vw !important;
+
+
+    }
+    .FotoBD2 {
+        border-radius: 0px !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+        border-radius: 0!important;
+width: 90px!important;
+height: 90px!important;
+        cursor: pointer;
+        min-height: 22vw !important;
 
     }
 
@@ -424,6 +397,10 @@
 
         margin-left: 1rem !important;
     }
+    .ContainerDB{
+
+        margin-left: -0.8rem!important;
+        }
 }
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
@@ -474,14 +451,16 @@
         height: 5vw !important;
     }
 
+
     .FotoBD,
     .FotoBD2 {
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-
+width: 90px!important;
+height: 90px!important;
         cursor: pointer;
-        min-height: 25vw !important;
+        min-height: 22vw !important;
 
     }
 
@@ -492,11 +471,21 @@
 
 }
 
-
+@media screen and (max-height: 731px) and (min-width: 411px) {
+    .MuiTableContainer-root {
+        width: 107%!important;
+        overflow-x: auto;
+    }
+}
 
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
+/*pixel xl*/
 
+.MuiTableContainer-root {
+    width: 107%!important;
+    overflow-x: auto;
+}
     .mifuente {
         font-size: 4vh !important;
 
@@ -547,86 +536,136 @@
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-
+width: 90px!important;
+height: 90px!important;
         cursor: pointer;
-        min-height: 25vw !important;
+        min-height: 22vw !important;
 
     }
 
     .ROWdb {
 
         margin-left: 1rem !important;
+    }
+
+  
+    .ContainerDB{
+
+        margin-left: 1.2rem!important;
     }
 
 }
 
 @media screen and (max-height: 568px) and (min-width: 320px) {
+/*iphone5*/
+.mifuente {
+    font-size: 4vh !important;
 
-    .mifuente {
-        font-size: 4vh !important;
+}
 
+.NavbarDB {
+    display: none !important;
+}
+
+.LetraTituloBD {
+    font-size: 12vw !important;
+    margin-left: -2rem !important;
+
+}
+
+.ColDB1 {
+    margin-left: 6% !important;
+    padding-left: 10% !important;
+    padding-right: 8% !important;
+    margin-top: 20% !important;
+
+
+}
+
+.bolaDeDrac {
+    height: 8vw !important;
+}
+
+.fondoTabla2BD {
+    margin-right: 0 !important;
+}
+
+.TablaUnqiqueBD {
+    margin-bottom: -36vw !important;
+    margin-top: -10vw !important;
+}
+
+.colorFondoAtaquesBD {
+    font-size: 5vw !important;
+}
+.MuiTableContainer-root {
+    width: 107%!important;
+    overflow-x: auto;
+}
+.imgAtaqueBD {
+
+    height: 4vw !important;
+}
+
+
+.FotoBD,
+.FotoBD2 {
+    border-radius: 0 !important;
+    min-width:  80px!important;
+    transform: skewX(0deg) !important;
+width: 80px!important;
+height: 80px!important;
+    cursor: pointer;
+    min-height: 22vw !important;
+
+}
+
+.ROWdb {
+
+    margin-left: 1rem !important;
+}
+.DIVBD{
+
+    margin-left: -1.2rem !important;
+
+}
+.ContainerDB{
+
+margin-left: -0.8rem!important;
+}
+
+}
+@media screen and (min-width: 1024px) and (max-height: 1366px) {
+
+    .ROWdb {
+
+        margin-left: 3rem !important;
     }
 
-    .NavbarDB {
-        display: none !important;
-    }
-
-    .LetraTituloBD {
-        font-size: 12vw !important;
-    }
-
-    .ColDB1 {
-        margin-left: 6% !important;
-        padding-left: 10% !important;
-        padding-right: 8% !important;
-        margin-top: 20% !important;
 
 
-    }
 
-    .bolaDeDrac {
-        height: 8vw !important;
-    }
+}
 
-    .fondoTabla2BD {
-        margin-right: 0 !important;
-    }
-
-    .TablaUnqiqueBD {
-        margin-bottom: -36vw !important;
-        margin-top: -10vw !important;
-
-    }
-
-    .colorFondoAtaquesBD {
-        font-size: 5vw !important;
-    }
-
-    .imgAtaqueBD {
-
-        height: 5vw !important;
-    }
-
-    .FotoBD,
-    .FotoBD2 {
-        width: 74px !important;
-
-        border-radius: 0 !important;
-        min-width: 0vw !important;
-        transform: skewX(0deg) !important;
-
-        cursor: pointer;
-        min-height: 25vw !important;
-
-    }
+@media screen and (min-width: 768px) and (max-height: 1024px){
 
     .ROWdb {
 
         margin-left: 1rem !important;
     }
+    .FotoBD,
+    .FotoBD2 {
+        border-radius: 0 !important;
+        min-width: 0vw !important;
+        transform: skewX(0deg) !important;
+width: 100px!important;
+height: 90px!important;
+        cursor: pointer;
+        min-height: 22vw !important;
+
+    }
 
 }
-
 @media screen and (min-width: 1025px) {
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
@@ -635,8 +674,8 @@
         filter: sepia(70%);
 
 
-    }
-
+    } 
+    
     .RowMC {
 
         margin-left: 1.5rem !important;
@@ -722,10 +761,10 @@
 }
 
 .FotoBD2 {
-    width: 90px;
+    width: 120px;
     min-width: 90px;
-    height: 90px;
-    border-radius: 25px 0 !important;
+    height: 120px;
+    border-radius: 25px 0;
 
     margin: 4px;
 
@@ -739,9 +778,9 @@
 }
 
 .FotoBD {
-    width: 90px;
+    width: 120px;
     min-width: 90px;
-    height: 90px;
+    height: 120px;
     border-radius: 0 25px;
 
     margin: 4px;
