@@ -384,17 +384,23 @@
     .prrr {
 
         margin-left: 13vw !important;
-        ;
+        margin-right: 10vw !important;
+
 
     }
 
-    .pruebatablas{
+    .pruebatablas {
         flex: 0 0 41.666667% !important;
         max-width: 100% !important;
 
     }
-    .UNAFU{
-        width: 120% !important;
+
+    .UNAFU {
+        width: 113% !important;
+    }
+
+    .UNAFU2 {
+        width: 157% !important;
     }
 }
 
