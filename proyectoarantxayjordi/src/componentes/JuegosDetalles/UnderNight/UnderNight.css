@@ -146,12 +146,12 @@
 
 @media screen and (max-height: 1366px) and (max-width:1024px) {
 
-    .pUN{
+    .pUN {
         margin-left: -1rem !important;
-        width:80vw!important;
-    
+        width: 80vw !important;
+
     }
-      
+
     .divFOTOUN {
         min-width: 20vw !important;
         min-height: 27vw !important;
@@ -372,6 +372,30 @@
 
 
 
+}
+
+@media screen and (max-width: 768px) and (min-height: 1024px) {
+
+    .passs {
+        margin-left: 6vw !important;
+        ;
+    }
+
+    .prrr {
+
+        margin-left: 13vw !important;
+        ;
+
+    }
+
+    .pruebatablas{
+        flex: 0 0 41.666667% !important;
+        max-width: 100% !important;
+
+    }
+    .UNAFU{
+        width: 120% !important;
+    }
 }
 
 @media screen and (max-height: 812px) and (max-width: 375px) {

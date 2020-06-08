@@ -39,8 +39,8 @@ class Child extends React.Component {
         </div>
         <Container className="PruebadefondoAtaquesUN">
           <Row className="w-100  px-0 mx-0   prrr">
-            <Col className="col-md-5 w-100 margenes  ">
-              <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD prrr ">
+            <Col className="col-md-5 w-100  pruebatablas margenes  ">
+              <TableContainer className="fondoTablaUN UNAFU  eliminarradius nomostrarscrollBD prrr ">
                 <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
                   Special Attack
                   {/* <hr className="pruebalinea" />   my-0 */}
@@ -89,7 +89,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaUN tablaInfinetUNDER mt-3  prrr ">
+              <TableContainer className=" UNAFU fondoTablaUN tablaInfinetUNDER mt-3  prrr ">
                 <h3 className="TituloAtaquesUN2 py-2 ">Infinite Worth</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -132,7 +132,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-5 w-100 margenes">
-              <TableContainer className=" fondoTablaUN fondoTablaBD px-0 mt-5 prrr">
+              <TableContainer className="UNAFU  fondoTablaUN fondoTablaBD px-0 mt-5 prrr">
                 <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -174,7 +174,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className="  fondoTablaUN fondoTablaUN  mt-3 mb-4  prrr">
+              <TableContainer className="  UNAFU fondoTablaUN fondoTablaUN  mt-3 mb-4  prrr">
                 <h3 className="TituloAtaquesUN4 py-2 ">Infinite Worth EXS</h3>
 
                 <Table className="nomostrarscroll">
