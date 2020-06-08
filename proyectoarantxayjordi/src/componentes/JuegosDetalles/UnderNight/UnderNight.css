@@ -161,17 +161,10 @@
 
     }
 
-    .NombreAtaquesUN {
+    .NombreAtaquesUN, .NombreAtaquesUN2,  .NombreAtaquesUN4{
         font-size: 3vw !important;
     }
 
-    .NombreAtaquesUN2 {
-        font-size: 3vw !important;
-    }
-
-    .NombreAtaquesUN4 {
-        font-size: 3vw !important;
-    }
 
 
 
@@ -204,12 +197,7 @@
         ;
     }
 
-    .prrr {
 
-        margin-left: 5vw !important;
-        ;
-
-    }
 
     .TextoPersonajeTituloUN {
 
@@ -220,6 +208,50 @@
         height: 13vw !important;
 
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .prrr {
+
+        margin-left: 2vw !important;
+        margin-right: 20vw !important;
+
+
+    }
+
+    .pruebatablas {
+        flex: 0 0 41.666667% !important;
+        max-width: 100% !important;
+
+    }
+.CONTAINERINFIT{
+    margin-bottom: -7vw!important;
+
+
+}
+    .UNAFU {
+        width: 198% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw!important;
+        width: 245% !important;
+    }
+
+
+
+
 
 }
 
@@ -383,8 +415,8 @@
 
     .prrr {
 
-        margin-left: 13vw !important;
-        margin-right: 10vw !important;
+        margin-left: 2vw !important;
+        margin-right: 14vw !important;
 
 
     }
@@ -394,13 +426,17 @@
         max-width: 100% !important;
 
     }
+.CONTAINERINFIT{
+    margin-bottom: -10vw!important;
 
+
+}
     .UNAFU {
-        width: 113% !important;
+        width: 210% !important;
     }
 
     .UNAFU2 {
-        width: 157% !important;
+        width: 248% !important;
     }
 }
 
