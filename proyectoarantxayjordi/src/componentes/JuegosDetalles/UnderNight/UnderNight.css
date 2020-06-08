@@ -263,20 +263,18 @@
         font-size: 3vw !important;
     }
 
+.prrr{
+    margin-left: -1rem !important;
 
-
-
-    .passs {
-        margin-left: -4vw !important;
-        ;
-    }
-
-    .prrr {
-
-        margin-left: -13vw !important;
-        ;
+}
+    .margenes {
+        margin-bottom: 0rem !important;
+        margin-right: 1rem !important;
+        margin-left: -1rem !important;
 
     }
+   
+
 
 }
 
@@ -353,7 +351,7 @@
     /*iphone6/7/8*/
 
     .passs {
-        margin-left: 4vw !important;
+        margin-left: 6vw !important;
         ;
     }
 
@@ -371,7 +369,18 @@
 @media screen and (max-height: 812px) and (max-width: 375px) {
 
     /*iphone X*/
+    .passs {
+        margin-left: 6vw !important;
+        
+    }
 
+  
+    .margenes {
+        margin-bottom: 0rem !important;
+        margin-right: 1rem !important;
+        margin-left: 2rem !important;
+
+    }
 
 }
 

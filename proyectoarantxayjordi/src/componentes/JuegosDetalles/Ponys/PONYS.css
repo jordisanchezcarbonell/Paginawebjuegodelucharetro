@@ -30,7 +30,7 @@
     margin-right: auto!important;*/
 .fondoTablaPonys {
 
-    width: 100%;
+    width: 99%!important;
     max-width: 1100px;
     margin: 0.8% auto;
     border: 1px solid #b3416b;
