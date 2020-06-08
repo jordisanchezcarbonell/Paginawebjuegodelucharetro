@@ -483,6 +483,10 @@
 
         transform: skewX(0deg) !important;
     }
+    .AnchoSF{
+        width: 170%!important;
+        margin-left: -15vw!important;
+    }
 
 }
 
@@ -490,6 +494,10 @@
 @media screen and (min-height: 568px) and (max-width: 320px) {
 
     /*iphone5*/
+    .AnchoSF{
+        width: 170%!important;
+        margin-left: -17.3vw!important;
+    }
 
 
 }
@@ -517,6 +525,7 @@
 
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
+    /*iphone6/7*/
     .FotoSF {
 
         width: 20vw !important;
@@ -531,6 +540,11 @@
         min-height: 30vw !important;
 
         transform: skewX(0deg) !important;
+    }
+
+    .AnchoSF{
+        width: 170%!important;
+        margin-left: -16vw!important;
     }
 }
 
@@ -555,12 +569,35 @@
 
 
 
-@media screen and (max-height: 1366px) and (min-width: 1024px) {}
+@media screen and (min-height: 1366px) and (max-width: 1024px) {
 
-@media screen and (max-height: 1024px) and (min-width: 768px) {}
+    .AnchoSF{
+    
+        margin-left:4vw!important;
+    }
 
+
+}
+
+@media screen and (max-height: 1024px) and (min-width: 768px) {
+    .AnchoSF{
+    
+        margin-left:4vw!important;
+    }
+}
+@media screen and (max-height: 823px) and (min-width: 411px) {
+   /*pixel xl*/
+
+   .AnchoSF{
+    width: 170%!important;
+    margin-left: -15vw!important;
+}
+
+
+}
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
+    /*pixel xl*/
     .FotoSF {
 
         width: 20vw !important;

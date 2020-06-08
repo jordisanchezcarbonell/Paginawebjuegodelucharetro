@@ -48,7 +48,7 @@ class Child extends React.Component {
         <Container className="  w-100">
           <Row className="w-100  px-0 mx-auto  ">
             <Col className="col-md-5 w-100 margenesSF">
-              <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  ">
+              <TableContainer className="fondoTablaSF   nomostrarscrollBD mt-4  AnchoSF ">
                 <h3 className="TituloAtaquesSF mifuenteSF UniqueMVSF my-0">
                   Unique Moves
                 </h3>
@@ -100,7 +100,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6 margenesSF  ">
-              <TableContainer className=" fondoTablaSF  mt-4">
+              <TableContainer className=" fondoTablaSF  mt-4 AnchoSF">
                 <h3 className="TituloAtaquesSF  mifuenteSF my-0 w-100">
                   Special Moves
                 </h3>
@@ -144,7 +144,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaSF  mt-2 mb-4">
+              <TableContainer className=" fondoTablaSF  mt-2 mb-4 AnchoSF">
                 <h3 className="TituloAtaquesSF mifuenteSF my-0">
                   Critical Art
                 </h3>
