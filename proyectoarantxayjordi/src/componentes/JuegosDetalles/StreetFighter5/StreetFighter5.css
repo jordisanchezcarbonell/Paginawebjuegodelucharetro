@@ -424,3 +424,161 @@
 
 
 }
+
+@media screen and (max-width: 750px) {
+
+    .NombrePJSOUL {
+        font-size: 25px;
+    }
+
+    .CellNombreAtaques {
+        font-size: 3.5vw !important;
+    }
+
+    .imagenAtaqueSL {
+        height: 4.6vw !important;
+    }
+
+    .col-md-8 {
+        margin-top: -10vw !important;
+        position: static;
+        width: 32% !important;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+        margin-left: -15vw !important;
+    }
+
+    .imagenestamaño {
+        display: none !important;
+    }
+
+    .NavSC {
+        display: none !important;
+    }
+
+    .fotoCharacterSOUL {
+        height: 40px !important;
+        margin-left: 6% !important;
+
+
+    }
+
+}
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+
+    /*MotoG4 GalazyG5*/
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+}
+
+/*pruebsssa*/
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+
+
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+}
+
+
+
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+}
+
+
+
+
+@media screen and (max-height: 1366px) and (min-width: 1024px) {}
+
+@media screen and (max-height: 1024px) and (min-width: 768px) {}
+
+
+@media screen and (max-height: 823px) and (min-width: 411px) {
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+}
+
+
+@media screen and (min-width: 1025px) {}
+
+@media screen and (max-width: 1024px) {}
