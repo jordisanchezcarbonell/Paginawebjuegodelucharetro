@@ -322,6 +322,7 @@
     border: 1px white solid !important;
     font-weight: 600 !important;
     font-family: 'Marcellus', serif !important;
+    cursor: pointer;
 }
 
 .nombreAtaquesGB {

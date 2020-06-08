@@ -232,6 +232,7 @@
     font-family: 'Oswald' !important;
     white-space: nowrap !important;
     font-style: oblique;
+    cursor: pointer;
 }
 
 .rowSF5:hover {

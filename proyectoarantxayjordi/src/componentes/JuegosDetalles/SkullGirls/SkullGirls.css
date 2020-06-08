@@ -23,7 +23,7 @@
   background-color: rgba(72, 191, 196, 0.247);
   color: white !important;
 
-
+cursor: pointer;
   -webkit-box-shadow: inset 0 0 0 2px black;
   -moz-box-shadow: inset 0 0 0 2px black;
   box-shadow: inset 0 0 0 2px black;
