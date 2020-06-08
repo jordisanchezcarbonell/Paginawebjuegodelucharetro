@@ -270,17 +270,18 @@
         font-size: 3vw !important;
     }
 
-.prrr{
-    margin-left: -1rem !important;
+    .prrr {
+        margin-left: -1rem !important;
 
-}
+    }
+
     .margenes {
         margin-bottom: 0rem !important;
         margin-right: 1rem !important;
         margin-left: -1rem !important;
 
     }
-   
+
 
 
 }
@@ -378,10 +379,10 @@
     /*iphone X*/
     .passs {
         margin-left: 6vw !important;
-        
+
     }
 
-  
+
     .margenes {
         margin-bottom: 0rem !important;
         margin-right: 1rem !important;
@@ -617,7 +618,7 @@
 .NombreAtaquesUN {
 
     font-family: "tipoUnder" !important;
-
+    cursor: pointer;
     background-color: #bfcaff;
     border: 2px white solid;
 
@@ -625,7 +626,7 @@
 
 .NombreAtaquesUN2 {
     font-family: "tipoUnder" !important;
-
+    cursor: pointer;
     background-color: #d4e0e2;
     border: 2px white solid;
 }
@@ -634,7 +635,7 @@
 
 .NombreAtaquesUN4 {
     font-family: "purbaanabel" !important;
-
+    cursor: pointer;
     background-color: #ffe7f0;
     border: 2px white solid;
 }

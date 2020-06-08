@@ -8,67 +8,71 @@
 
     width: 20vw !important;
     background-color: white;
-    height: 2px !important;}
-
-
-
-    @media screen and (max-width: 1024px) and (min-height: 1366px) {
-
-
-
-        .fondoTablaTK{
-            width: 200%!important;
-            margin-left: -15vw!important;
-        }
-
-        .colorFondoAtaquesTK {
-
-
-            font-size: 3vw !important;
-        }
-    }
-
-
-    @media screen and (max-width: 768px) and (min-height: 1024px){
-/*ipad*/
-.fondoTablaTK{
-    width: 200%!important;
-    margin-left: -15vw!important;
+    height: 2px !important;
 }
 
-.colorFondoAtaquesTK {
 
 
-    font-size: 3vw !important;
-}
+@media screen and (max-width: 1024px) and (min-height: 1366px) {
 
+
+
+    .fondoTablaTK {
+        width: 200% !important;
+        margin-left: -15vw !important;
     }
 
-    
+    .colorFondoAtaquesTK {
+
+
+        font-size: 3vw !important;
+    }
+}
+
+
+@media screen and (max-width: 768px) and (min-height: 1024px) {
+
+    /*ipad*/
+    .fondoTablaTK {
+        width: 200% !important;
+        margin-left: -15vw !important;
+    }
+
+    .colorFondoAtaquesTK {
+
+
+        font-size: 3vw !important;
+    }
+
+}
+
+
 @media screen and (max-height: 731px) and (min-width: 411px) {
+
     /*pixel*/
-    .fondoTablaTK{
-        margin-left: 2vw!important;
+    .fondoTablaTK {
+        margin-left: 2vw !important;
     }
-    
- 
+
+
 }
+
 @media screen and (max-height: 640px) and (max-width: 360px) {
 
-    .fondoTablaTK{
-        margin-left: 2vw!important;
+    .fondoTablaTK {
+        margin-left: 2vw !important;
     }
 
 
 }
-    
+
 @media screen and (min-height: 736px) and (max-width: 414px) {
 
-/*iphone plus*/
+    /*iphone plus*/
 
-.fondoTablaTK{
-    margin-left: 2vw!important;
-}
+    .fondoTablaTK {
+        margin-left: 2vw !important;
+    }
 
 
 }
@@ -77,28 +81,32 @@
 
     /*iphone5*/
 
-    .fondoTablaTK{
-        margin-left: 2vw!important;
+    .fondoTablaTK {
+        margin-left: 2vw !important;
     }
 
 }
+
 @media screen and (min-height: 667px) and (max-width: 375px) {
-/*iphone 6/7*/
-.fondoTablaTK{
-    margin-left: 2vw!important;
-}
 
-}
-    @media screen and (min-height: 812px) and (max-width: 375px) {
-
-/*iphone x*/
-
-
-
-.fondoTablaTK{
-    margin-left: 3vw!important;
-}
+    /*iphone 6/7*/
+    .fondoTablaTK {
+        margin-left: 2vw !important;
     }
+
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone x*/
+
+
+
+    .fondoTablaTK {
+        margin-left: 3vw !important;
+    }
+}
+
 @media screen and (max-width: 1025px) {
     .LetraTituloTK {
 
@@ -289,6 +297,7 @@
 
 
 .PruebadefondoAtaques {
+    cursor: pointer;
     margin-bottom: -3%;
     background-image: url(https://tk7.tekken.com/assets/images/common/stone.jpg), linear-gradient(#6e859c, #c0ccd8);
 
