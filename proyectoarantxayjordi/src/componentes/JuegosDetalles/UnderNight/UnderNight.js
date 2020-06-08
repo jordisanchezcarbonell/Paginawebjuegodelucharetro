@@ -89,7 +89,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" UNAFU fondoTablaUN tablaInfinetUNDER mt-3  prrr ">
+              <TableContainer className=" UNAFU fondoTablaUN tablaInfinetUNDER mt-3  prrr CONTAINERINFIT">
                 <h3 className="TituloAtaquesUN2 py-2 ">Infinite Worth</h3>
 
                 <Table className="nomostrarscrollBD">
