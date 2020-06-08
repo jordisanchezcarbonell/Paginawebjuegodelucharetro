@@ -294,7 +294,9 @@ th {
 
     display: none!important;
   }
-
+  .NombreDesc{
+    font-size: 5vw!important;
+  }
   /*iphone5*/
 
 
@@ -326,6 +328,9 @@ th {
 }
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
+  .NombreDesc{
+    font-size: 5vw!important;
+  }
   .NavbarSkull{
 
     display: none!important;
@@ -352,6 +357,14 @@ th {
 
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
+
+
+  .centrado {
+    bottom: 3.5vh;
+    font-size: 2.5vh;
+  }
+
+  
   .NavbarSkull{
 
     display: none!important;
@@ -367,10 +380,17 @@ th {
   width: 150%!important;
   overflow-x: auto;
 }
+.NombreDesc{
+  font-size: 5vw!important;
+}
 
 
 }
 @media screen and (max-height: 731px) and (min-width: 411px) {
+
+  .NombreDesc{
+    font-size: 5vw!important;
+  }
   .NavbarSkull{
 
     display: none!important;
@@ -389,6 +409,9 @@ th {
 }
 
 @media screen and (max-height: 640px) and (min-width: 360px) {
+  .NombreDesc{
+    font-size: 5vw!important;
+  }
   .NavbarSkull{
 
     display: none!important;
@@ -427,22 +450,12 @@ th {
 
     display: none!important;
   }
+
+
 }
 
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
 
-  /*Pixel*/
-  .centrado {
-    bottom: 3.5vh;
-    font-size: 2.5vh;
-  }
-
-  .NavbarSkull{
-
-    display: none!important;
-  }
-}
 
 @media screen and (max-height: 1366px) and (min-width: 1024px) {
   .centrado {
@@ -454,6 +467,7 @@ th {
     padding-top: 11vw;
     width: 37vw;
   }
+  
 }
 
 @media screen and (min-width: 1025px) {
