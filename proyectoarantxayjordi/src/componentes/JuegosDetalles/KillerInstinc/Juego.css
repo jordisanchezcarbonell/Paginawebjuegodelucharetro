@@ -107,13 +107,19 @@
     margin-bottom: 2vw !important;
   }
 
+  .colorFondoAtaquesKI {
+    font-size: 3vw !important;
+
+  }
+
+
   .btn-ki.large>span {
     font-family: "FontT";
     text-align: center;
     padding: 2vw 0.2vw !important;
     display: inline-block;
     border: 2px solid #fff;
-    font-size: 5vw !important;
+    font-size: 4vw !important;
 
   }
 }
