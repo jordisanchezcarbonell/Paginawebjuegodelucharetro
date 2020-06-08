@@ -246,6 +246,85 @@ th {
 
 .imagenpaddin {
   padding-top: 11vw;
+  width: 58vw;
+
+}
 
 
+
+
+@media screen and (max-height: 640px) and (min-width: 360px) {
+
+  /*MotoG4 GalazyG5*/
+  .centrado {
+    bottom: 4.2vh;
+  }
+
+  .imagenpaddin {
+    margin-right: 2vw;
+  }
+}
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+  /*iphone5*/
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+  /*iphone6/7/8*/
+  .centrado {
+    bottom: 5.2vh;
+    font-size: 2.5vh;
+  }
+}
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+  /*iphone6/7/8*/
+  .centrado {
+    bottom: 4.2vh;
+    font-size: 2.5vh;
+  }
+
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+  /*iphone X*/
+}
+
+
+@media screen and (max-height: 1024px) and (min-width: 768px) {
+  .centrado {
+    bottom: 7.2vh;
+    font-size: 2.5vh;
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 43vw;
+
+  }
+}
+
+@media screen and (max-height: 823px) and (min-width: 411px) {
+
+  /*Pixel*/
+  .centrado {
+    bottom: 3.5vh;
+    font-size: 2.5vh;
+  }
+}
+
+@media screen and (max-height: 1366px) and (max-width: 1024px) {
+  .centrado {
+    bottom: 7vh;
+    font-size: 3.5vh;
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 33vw;
+  }
 }
