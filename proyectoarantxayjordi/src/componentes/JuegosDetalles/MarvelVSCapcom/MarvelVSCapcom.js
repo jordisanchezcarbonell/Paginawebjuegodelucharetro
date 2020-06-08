@@ -41,7 +41,7 @@ class Child extends React.Component {
         <Container className="  w-100 ContainerMC ">
           <Row className="w-100  px-0 justify-content-center   RowMC">
             <Col className="col-md-6 w-100 mb-5  colPrimeraMarvel PaddingBotRespMC">
-              <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  PaddingBotRespMC ">
+              <TableContainer className="fondoTablaMC   nomostrarscrollBD mt-4  PaddingBotRespMC provaaa ">
                 <h3 className="TituloAtaquesMC my-0 mifuenteMVC">
                   Special Moves
                 </h3>

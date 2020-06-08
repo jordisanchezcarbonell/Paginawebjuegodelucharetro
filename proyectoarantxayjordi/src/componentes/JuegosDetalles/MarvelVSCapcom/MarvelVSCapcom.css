@@ -144,12 +144,12 @@ filter: sepia(60%);
 
     .containerMV {
         padding-right: 0px !important;
-        padding-left: 26px !important;
+        padding-left: 15px !important;
 
     }
 
     .colPrimeraMarvel {
-        margin-left: -4%;
+        margin-left: -3%;
 
     }
 
@@ -177,12 +177,12 @@ filter: sepia(60%);
 
     .containerMV {
         padding-right: 0px !important;
-        padding-left: 48px !important;
+        padding-left: 25px !important;
 
     }
 
     .colPrimeraMarvel {
-        margin-left: -4%;
+        margin-left: -3%;
 
     }
 }
@@ -210,7 +210,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -3%;
+        margin-left: -2%;
 
     }
 }
@@ -242,7 +242,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -3%;
+        margin-left: -7%;
 
     }
 }
@@ -270,13 +270,32 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -3%;
+        margin-left: -7%;
 
     }
 
 }
 
+@media screen and (max-height: 1024px) and (min-width: 768px) {
 
+
+
+
+    .containerMV {
+        padding-right: 0px !important;
+        padding-left: 20px !important;
+
+    }
+
+    .colPrimeraMarvel {
+        margin-left: -7%;
+
+    }
+    .provaaa{
+
+        width: 190%!important;
+    }
+}
 
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
@@ -297,16 +316,21 @@ filter: sepia(60%);
 
     .containerMV {
         padding-right: 0px !important;
-        padding-left: 20px !important;
+        padding-left: 1px !important;
 
     }
+    .colPrimeraMarvel {
+        margin-left: -3%;
 
+    }
     .RowMC {
 
         margin-left: 1.5rem !important;
     }
 
 }
+
+
 @media screen and (min-width: 1025px) {
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
