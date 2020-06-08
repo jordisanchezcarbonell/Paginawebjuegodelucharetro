@@ -38,7 +38,7 @@ class Child extends React.Component {
             <Col className="col-md-6 w-100 mb-3">
               <TableContainer
                 component={Paper}
-                className="fondoTablaGB  eliminarradius margenesGBPRUEBA"
+                className="fondoTablaGB  eliminarradius margenesGBPRUEBA anchoGB"
               >
                 <h3 className="TituloAtaquesGB my-0">Unique Action</h3>
 
@@ -83,7 +83,7 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-              <TableContainer className=" fondoTablaGB  mt-3">
+              <TableContainer className=" fondoTablaGB  mt-3 anchoGB">
                 <h3 className="TituloAtaquesGB my-0 w-100">Special Moves</h3>
 
                 <Table>
@@ -125,7 +125,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6">
-              <TableContainer className=" fondoTablaGB   margenesGBPRUEBA ">
+              <TableContainer className=" fondoTablaGB   margenesGBPRUEBA  anchoGB">
                 <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
 
                 <Table className="nomostrarscroll">
@@ -166,7 +166,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaGB  mt-3  mb-5 ">
+              <TableContainer className=" fondoTablaGB  mt-3  mb-5  anchoGB">
                 <h3 className="TituloAtaquesGB my-0">Super Sky boundArt</h3>
 
                 <Table className="nomostrarscroll">

@@ -472,6 +472,7 @@ height: 90px!important;
 }
 
 @media screen and (max-height: 731px) and (min-width: 411px) {
+    /*pixel*/
     .TamañoTablaBD {
         width: 107%!important;
         overflow-x: auto;

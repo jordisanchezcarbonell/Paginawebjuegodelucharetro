@@ -60,6 +60,71 @@
 
 }
 
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+    /*motog4*/
+  .products{
+      margin-left: 7vw!important;
+  }  
+  .anchoGB{
+
+
+    width: 110%!important;
+    margin-left: -3vw!important;
+  }
+}
+
+@media screen and (max-height: 731px) and (min-width: 411px) {
+/*pixel2*/
+    .products{
+        margin-left: 7vw!important;
+    } 
+    .anchoGB{
+
+
+        width: 115%!important;
+        margin-left: -4vw!important;
+      } 
+ 
+}
+.nombreAtaquesGB{
+
+    width: 36%!important;
+
+  }
+@media screen and (max-height: 823px) and (min-width: 411px) {
+
+    .products{
+        margin-left: 7vw!important;
+    } 
+    .anchoGB{
+
+
+        width: 120%!important;
+        margin-left: -5vw!important;
+      } 
+      
+
+
+}
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    .products{
+        margin-left: 7vw!important;
+    } 
+    .anchoGB{
+
+
+        width: 110%!important;
+        margin-left: -2vw!important;
+      } 
+
+}
+
+
+
 @media (min-width:360px) {
     .container {
         max-width: 340px
