@@ -317,7 +317,7 @@ th {
   }
 }
 
-@media screen and (max-height: 1366px) and (max-width: 1024px) {
+@media screen and (max-height: 1366px) and (min-width: 1024px) {
   .centrado {
     bottom: 7vh;
     font-size: 3.5vh;
