@@ -2,6 +2,11 @@
   height: 1.6vw !important;
 }
 
+.centrarelemento {
+  justify-content: center !important;
+  width: 100%;
+}
+
 .DivKillintinct {
   color: black;
   text-align: center;
@@ -45,7 +50,7 @@
   height: 42vw !important;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 1024px) {
   .esconder {
     display: none !important;
     justify-content: center !important;
@@ -53,7 +58,7 @@
   }
 
   .imgAtaquekIL {
-    height: 6.6vw !important;
+    height: 3.6vw !important;
 
   }
 
@@ -78,6 +83,15 @@
 
   }
 
+  .MuiTableContainer-root {
+    width: 123%;
+    overflow-x: auto;
+  }
+
+  .centrarelemento {
+    justify-content: center !important;
+  }
+
   .fotoLogoKI {
     display: none !important;
   }
@@ -99,6 +113,8 @@
     padding: 2vw 0.2vw !important;
     display: inline-block;
     border: 2px solid #fff;
+    font-size: 5vw !important;
+
   }
 }
 
