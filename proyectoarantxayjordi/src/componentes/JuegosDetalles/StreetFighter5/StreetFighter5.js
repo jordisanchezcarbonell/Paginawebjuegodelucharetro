@@ -35,7 +35,7 @@ class Child extends React.Component {
         <div className=" enter mt-4 pROSF ">
           <img
             src={imagenLetraSF5}
-            className="w-100 ml-2 tamañolinea"
+            className="w-100 tamañolinea"
             alt="logo"
           ></img>
 
