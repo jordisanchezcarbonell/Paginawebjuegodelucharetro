@@ -328,7 +328,7 @@ th {
 }
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
-  .NombreDesc{
+   .NombreDesc{
     font-size: 5vw!important;
   }
   .NavbarSkull{
