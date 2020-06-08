@@ -670,11 +670,42 @@ height: 90px!important;
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
-        height: 5vw !important;
         filter: sepia(70%);
 
 
     } 
+    
+.bolaDeDrac {
+    height: 2vw!important;
+    position: absolute;
+    top: 0%;
+    left: 48.5%;
+    transform: translate(-50%, -50%);
+}
+
+
+    .FotoBD2 {
+        width: 90px!important;
+        min-width: 90px;
+        height: 50px!important;
+        border-radius: 25px 0;
+    min-height:  90px!important;;
+        margin: 4px;
+    
+        transform: skewX(-15deg)!important;
+        cursor: pointer;
+    }
+    .FotoBD {
+        width: 90px!important;
+        min-width: 90px;
+        height: 50px!important;
+        border-radius: 25px 0;
+    min-height:  90px!important;;
+        margin: 4px;
+    
+        transform: skewX(15deg)!important;
+        cursor: pointer;
+    }
     
     .RowMC {
 
@@ -685,6 +716,18 @@ height: 90px!important;
         margin: 0 !important
     }
 
+    .colorFondoAtaquesBD {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        color: black !important;
+        font-size: 1.5vw !important;
+        font-weight: 900 !important;
+        font-family: 'Oswald', sans-serif !important;
+    
+        border: none;
+        width: 70%;
+    
+    }
 }
 
 
