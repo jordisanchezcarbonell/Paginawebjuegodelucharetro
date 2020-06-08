@@ -228,7 +228,7 @@ class TEKKEN extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row className="NavbarTK"> 
+          <Row className="NavbarTK">
             <Col md="7" className="fondo2TK">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Logo}
@@ -243,7 +243,7 @@ class TEKKEN extends React.Component {
         </div>
 
         <div className="row DivNegroTransTK pb-5">
-          <div className="w-100 mt-4 ">
+          <div className="tamañodefectoTK mt-4 ">
             <Container className="w-100   ">
               <h3 className="LetraTituloTK">Character Select</h3>
               <Row className=" w-100 stage TK2img ">

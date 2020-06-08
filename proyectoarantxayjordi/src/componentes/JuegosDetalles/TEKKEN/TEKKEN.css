@@ -11,7 +11,9 @@
     height: 2px !important;
 }
 
-
+.tamañodefectoTK {
+    width: 100%;
+}
 
 @media screen and (max-width: 1024px) and (min-height: 1366px) {
 
