@@ -43,11 +43,49 @@
 }
 
     }
+
     
+@media screen and (max-height: 731px) and (min-width: 411px) {
+    /*pixel*/
+    .fondoTablaTK{
+        margin-left: 2vw!important;
+    }
+    
+ 
+}
+@media screen and (max-height: 640px) and (max-width: 360px) {
+
+    .fondoTablaTK{
+        margin-left: 2vw!important;
+    }
+
+
+}
+    
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+/*iphone plus*/
+
+.fondoTablaTK{
+    margin-left: 2vw!important;
+}
+
+
+}
+
+@media screen and (max-height: 568px) and (min-width: 320px) {
+
+    /*iphone5*/
+
+    .fondoTablaTK{
+        margin-left: 2vw!important;
+    }
+
+}
 @media screen and (min-height: 667px) and (max-width: 375px) {
 /*iphone 6/7*/
 .fondoTablaTK{
-    margin-left: -4vw!important;
+    margin-left: 2vw!important;
 }
 
 }
@@ -58,7 +96,7 @@
 
 
 .fondoTablaTK{
-    margin-left: -4vw!important;
+    margin-left: 3vw!important;
 }
     }
 @media screen and (max-width: 1025px) {

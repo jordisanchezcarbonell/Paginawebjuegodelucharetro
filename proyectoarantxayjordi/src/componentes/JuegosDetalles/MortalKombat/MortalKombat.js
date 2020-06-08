@@ -49,7 +49,7 @@ class Child extends React.Component {
             <Col className="col-md-4 w-100 margenesparalastablas">
               <TableContainer
                 component={Paper}
-                className="fondoTablaMK pruebadelelemento mt-5"
+                className="fondoTablaMK pruebadelelemento mt-5 AnchoMK"
               >
                 <h3 className="TituloAtaquesMK">Kombo Attacks</h3>
 
@@ -102,7 +102,7 @@ class Child extends React.Component {
             <Col className="col-md-4 margenesparalastablas">
               <TableContainer
                 component={Paper}
-                className="fondoTablaMK  pruebadelelemento mt-5"
+                className="fondoTablaMK  pruebadelelemento mt-5 AnchoMK"
               >
                 <h3 className="TituloAtaquesMK">Special Moves</h3>
 
@@ -146,7 +146,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-4 margenesparalastablas">
-              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
+              <TableContainer className=" fondoTablaMK pruebadelelemento mt-5 AnchoMK">
                 <h3 className="TituloAtaquesMK">Finishers</h3>
 
                 <Table className="nomostrarscroll">
@@ -154,7 +154,7 @@ class Child extends React.Component {
                     {this.props.elemento.Finishers.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMK tablaborderabajoMK"
+                          className="  py-2 colorFondoAtaquesMK tablaborderabajoMK PruebaMK"
                           component="td"
                           scope="row"
                           align="left"
