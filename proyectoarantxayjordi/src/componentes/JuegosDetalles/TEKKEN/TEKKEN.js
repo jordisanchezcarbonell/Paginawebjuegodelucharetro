@@ -243,10 +243,10 @@ class TEKKEN extends React.Component {
         </div>
 
         <div className="row DivNegroTransTK pb-5">
-          <div className="tamañodefectoTK mt-4 ">
+          <div className="w-100  mt-4 ">
             <Container className="w-100   ">
               <h3 className="LetraTituloTK">Character Select</h3>
-              <Row className=" w-100 stage TK2img ">
+              <Row className=" tamañodefectoTK stage TK2img ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
