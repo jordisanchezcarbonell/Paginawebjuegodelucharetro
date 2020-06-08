@@ -8,9 +8,25 @@
 
     width: 20vw !important;
     background-color: white;
-    height: 2px !important;
-}
+    height: 2px !important;}
 
+
+
+    @media screen and (max-width: 1024px) and (min-height: 1366px) {
+
+
+
+        .fondoTablaTK{
+            width: 200%!important;
+            margin-left: -15vw!important;
+        }
+
+        .colorFondoAtaquesTK {
+
+
+            font-size: 3vw !important;
+        }
+    }
 
 @media screen and (max-width: 1025px) {
     .LetraTituloTK {
@@ -82,7 +98,7 @@
 
     .FotoTK {
         cursor: pointer;
-        min-width: 29vw !important;
+        min-width: 25vw !important;
         min-height: 29vw !important;
 
     }

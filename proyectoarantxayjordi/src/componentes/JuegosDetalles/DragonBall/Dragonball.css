@@ -499,14 +499,6 @@ height: 90px!important;
         font-size: 12vw !important;
     }
 
-    .ColDB1 {
-        margin-left: 6% !important;
-        padding-left: 10% !important;
-        padding-right: 8% !important;
-        margin-top: 20% !important;
-
-
-    }
 
     .bolaDeDrac {
         height: 8vw !important;
@@ -516,11 +508,6 @@ height: 90px!important;
         margin-right: 0 !important;
     }
 
-    .TablaUnqiqueBD {
-        margin-bottom: -36vw !important;
-        margin-top: -10vw !important;
-
-    }
 
     .colorFondoAtaquesBD {
         font-size: 5vw !important;
@@ -674,7 +661,24 @@ height: 90px!important;
 
 
     } 
+    .ContainerDB{
+
+        margin-right: auto!important;
+        margin-left: auto!important;
+     
+    }
+    .LetraTituloBD{
+        font-size: 4vw!important;
+    }
     
+    .ColDB1 {
+        margin-left: -1% !important;
+        padding-left: 3% !important;
+        padding-right: 3% !important;
+
+
+
+    }
 .bolaDeDrac {
     height: 2vw!important;
     position: absolute;
