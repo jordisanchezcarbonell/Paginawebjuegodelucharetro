@@ -49,9 +49,9 @@ class Child extends React.Component {
                 <Table
                   stickyHeader
                   aria-label="sticky table"
-                  className="nomostrarscroll "
+                  className="nomostrarscroll  "
                 >
-                  <TableBody className="nomostrarscrollBD">
+                  <TableBody className="nomostrarscrollBD ">
                     {this.props.elemento.SpecialAttack.map((Ataque, index) => (
                       <TableRow key={Ataque.nombreAtaque} className="mx-5  ">
                         <TableCell

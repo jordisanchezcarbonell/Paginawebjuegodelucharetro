@@ -162,7 +162,7 @@ class SkullGirls extends React.Component {
                               {personaje.Ataques.map((Ataque, index) => (
                                 <TableRow
                                   key={Ataque.nombreAtaque}
-                                  className="mx-5"
+                                  className="mx-5 "
                                 >
                                   <TableCell
                                     onClick={() =>

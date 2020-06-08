@@ -145,6 +145,13 @@
 
 
 @media screen and (max-height: 1366px) and (max-width:1024px) {
+
+    .pUN{
+        margin-left: -1rem !important;
+        width:80vw!important;
+    
+    }
+      
     .divFOTOUN {
         min-width: 20vw !important;
         min-height: 27vw !important;
