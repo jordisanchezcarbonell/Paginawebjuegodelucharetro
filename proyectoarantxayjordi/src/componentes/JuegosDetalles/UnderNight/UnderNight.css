@@ -222,6 +222,24 @@
 }
 
 
+@media screen and (min-width:1025px) {
+
+    .NombreAtaquesUN,.NombreAtaquesUN2,.NombreAtaquesUN4 {
+        font-size: 1vw !important;
+    }
+    .TituloAtaquesUN4,.TituloAtaquesUN,.TituloAtaquesUN2,.TituloAtaquesUN3{
+        font-size: 1.5vw !important;
+
+
+    }
+    .imgAtaqueUN{
+
+        height:1vw!important
+    }
+
+}
+
+
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
 
