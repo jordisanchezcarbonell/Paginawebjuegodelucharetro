@@ -149,7 +149,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -3%;
+        margin-left: 0%;
 
     }
 
@@ -182,7 +182,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -3%;
+        margin-left: 0%;
 
     }
 }
@@ -217,6 +217,14 @@ filter: sepia(60%);
 
 
 
+@media screen and (max-height: 731px) and (min-width: 411px) {
+    /*pixel*/
+    .colPrimeraMarvel {
+        margin-left: 0%!important;
+
+    }
+}
+
 
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
@@ -242,7 +250,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -7%;
+        margin-left: 0%;
 
     }
 }
@@ -270,7 +278,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -7%;
+        margin-left: 0%;
 
     }
 
@@ -285,7 +293,7 @@ filter: sepia(60%);
         width: 190%!important;
     }
     .colPrimeraMarvel {
-        margin-left: 5%;
+        margin-left: 4%;
 
     }
 
@@ -302,7 +310,7 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: 6%;
+        margin-left: 4.5%;
 
     }
     .tablaanchuraMC{
@@ -314,7 +322,7 @@ filter: sepia(60%);
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
 
-    /*Pixel*/
+    /*PixelXL*/
     .DivFotoMC {
         margin: 1vw !important
     }
@@ -334,7 +342,7 @@ filter: sepia(60%);
 
     }
     .colPrimeraMarvel {
-        margin-left: -3%;
+        margin-left: 0%;
 
     }
     .RowMC {
