@@ -168,7 +168,7 @@
         font-size: 4vh !important;
 
     }
-    .MuiTableContainer-root {
+    .TamañoTablaBD{
         width: 107%!important;
         overflow-x: auto;
     }
@@ -246,7 +246,7 @@ height: 90px!important;
         font-size: 4vh !important;
 
     }
-    .MuiTableContainer-root {
+    .TamañoTablaBD {
         width: 130%!important;
         overflow-x: auto!important;
     }
@@ -325,7 +325,7 @@ height: 90px!important;
         font-size: 4vh !important;
 
     }
-    .MuiTableContainer-root {
+    .TamañoTablaBD {
         width: 115%!important;
         overflow-x: auto!important;
     }
@@ -472,7 +472,7 @@ height: 90px!important;
 }
 
 @media screen and (max-height: 731px) and (min-width: 411px) {
-    .MuiTableContainer-root {
+    .TamañoTablaBD {
         width: 107%!important;
         overflow-x: auto;
     }
@@ -482,7 +482,7 @@ height: 90px!important;
 @media screen and (max-height: 823px) and (min-width: 411px) {
 /*pixel xl*/
 
-.MuiTableContainer-root {
+.TamañoTablaBD {
     width: 107%!important;
     overflow-x: auto;
 }
@@ -585,7 +585,7 @@ height: 90px!important;
 .colorFondoAtaquesBD {
     font-size: 5vw !important;
 }
-.MuiTableContainer-root {
+.TamañoTablaBD {
     width: 107%!important;
     overflow-x: auto;
 }

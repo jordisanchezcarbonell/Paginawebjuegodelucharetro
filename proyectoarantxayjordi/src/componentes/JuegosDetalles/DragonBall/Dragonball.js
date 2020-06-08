@@ -51,7 +51,7 @@ class Child extends React.Component {
             <Col className="col-md-6 w-100 mb-5  ColDB1  ">
               <TableContainer
                 component={Paper}
-                className="fondoTablaBD  eliminarradius nomostrarscrollBD fondoTabla2BD TablaUnqiqueBD"
+                className="fondoTablaBD  eliminarradius nomostrarscrollBD fondoTabla2BD TablaUnqiqueBD TamañoTablaBD "
               >
                 <h3 className=" mifuente TituloAtaquesBD  mt-3 my-0">
                   Unique Action
@@ -102,7 +102,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-6 ColDB1   colp">
-              <TableContainer className=" fondoTablaBD  mt-5">
+              <TableContainer className=" fondoTablaBD  mt-5 TamañoTablaBD">
                 <h3 className="mifuente TituloAtaquesBD   mt-3 my-0 w-100">
                   Special Moves
                   <hr className="pruebalinea" />
@@ -147,7 +147,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaBD   mt-3 ">
+              <TableContainer className=" fondoTablaBD   mt-3 TamañoTablaBD ">
                 <h3 className="mifuente TituloAtaquesBD  mt-3 my-0">
                   Sky bound Art
                   <hr className="pruebalinea" />
@@ -192,7 +192,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaBD  mt-4  mb-4">
+              <TableContainer className=" fondoTablaBD  mt-4  mb-4 TamañoTablaBD">
                 <h3 className="mifuente TituloAtaquesBD  mt-3 my-0">
                   Super Sky boundArt
                   <hr className="pruebalinea" />

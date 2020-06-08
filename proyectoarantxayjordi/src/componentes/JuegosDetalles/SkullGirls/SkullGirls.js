@@ -82,7 +82,7 @@ class SkullGirls extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
+          <Row className="NavbarSkull">
             <Col md="3" className="fondo1">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
@@ -154,7 +154,7 @@ class SkullGirls extends React.Component {
                       </div>
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  mb-3"
+                        className="TablaGeneral  mb-3 AnchoSG"
                       >
                         <Grid item xs={12}>
                           <Table>
@@ -222,7 +222,7 @@ class SkullGirls extends React.Component {
                       </div>
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  "
+                        className="TablaGeneral  AnchoSG "
                       >
                         <Table>
                           <TableBody className="bodySKULL">
@@ -283,7 +283,7 @@ class SkullGirls extends React.Component {
 
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  "
+                        className="TablaGeneral  AnchoSG "
                       >
                         <Table>
                           <TableBody className="bodySKULL">

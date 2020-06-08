@@ -234,6 +234,10 @@ th {
 }
 
 @media screen and (max-width: 750px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
   .col-md-8 {
     margin-top: -10vw !important;
     position: static;
@@ -254,6 +258,10 @@ th {
 
 
 @media screen and (max-height: 640px) and (min-width: 360px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
 
   /*MotoG4 GalazyG5*/
   .centrado {
@@ -265,12 +273,50 @@ th {
   }
 }
 
+@media screen and (max-width: 768px) and (min-height: 1024px){
+  
+.imagenpaddin{
+
+
+  width: 38vw!important;
+}
+
+.centrado {
+  bottom: 7.2vh;
+  font-size: 2.5vh;
+}
+
+
+
+}
 @media screen and (min-height: 568px) and (max-width: 320px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
 
   /*iphone5*/
+
+
+  .ContainerSeparacion{
+    
+    margin-left:4vw!important;
+    min-width: 90%!important;
+  }
+
+  .AnchoSG{
+
+    margin-left: -15vw!important;
+    width: 150%!important;
+    overflow-x: auto;
+  }
 }
 
 @media screen and (min-height: 736px) and (max-width: 414px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
 
   /*iphone6/7/8*/
   .centrado {
@@ -280,33 +326,109 @@ th {
 }
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
 
   /*iphone6/7/8*/
   .centrado {
     bottom: 4.2vh;
     font-size: 2.5vh;
   }
+  .ContainerSeparacion{
+    
+    margin-left: 6vw!important;
+    width: 90%!important;
+  }
+.AnchoSG{
+
+  margin-left: -15vw!important;
+  width: 150%!important;
+  overflow-x: auto;
+}
 
 }
+
+
+@media screen and (max-height: 823px) and (min-width: 411px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
+  .ContainerSeparacion{
+    
+    margin-left: 10vw!important;
+    width: 100%!important;
+  }
+.AnchoSG{
+
+  margin-left: -15vw!important;
+  width: 150%!important;
+  overflow-x: auto;
+}
+
+
+}
+@media screen and (max-height: 731px) and (min-width: 411px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
+  .ContainerSeparacion{
+    
+    margin-left: 10vw!important;
+    width: 90%!important;
+  }
+.AnchoSG{
+
+  margin-left: -15vw!important;
+  width: 150%!important;
+  overflow-x: auto;
+}
+}
+
+@media screen and (max-height: 640px) and (min-width: 360px) {
+  .NavbarSkull{
+
+    display: none!important;
+  }
+  /*MotoG4 GalazyG5*/
+  .centrado {
+    bottom: 4.2vh;
+    font-size: 2.5vh;
+  }
+  .ContainerSeparacion{
+    
+    margin-left: 7vw!important;
+    width: 90%!important;
+  }
+.AnchoSG{
+
+  margin-left: -15vw!important;
+  width: 150%!important;
+  overflow-x: auto;
+}
+
+
+
+}
+
+/*  .MuiTableContainer-root {
+    margin-left: -15vw!important;
+    width: 150%!important;
+    overflow-x: auto;
+}*/
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
 
   /*iphone X*/
-}
+  .NavbarSkull{
 
-
-@media screen and (max-height: 1024px) and (min-width: 768px) {
-  .centrado {
-    bottom: 7.2vh;
-    font-size: 2.5vh;
-  }
-
-  .imagenpaddin {
-    padding-top: 11vw;
-    width: 43vw;
-
+    display: none!important;
   }
 }
+
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
 
@@ -314,6 +436,11 @@ th {
   .centrado {
     bottom: 3.5vh;
     font-size: 2.5vh;
+  }
+
+  .NavbarSkull{
+
+    display: none!important;
   }
 }
 
@@ -325,7 +452,7 @@ th {
 
   .imagenpaddin {
     padding-top: 11vw;
-    width: 33vw;
+    width: 37vw;
   }
 }
 
@@ -339,4 +466,5 @@ th {
     padding-top: 11vw;
     width: 20vw;
   }
+
 }
