@@ -142,7 +142,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px !important;
         padding-left: 26px !important;
 
@@ -175,7 +175,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px !important;
         padding-left: 48px !important;
 
@@ -203,7 +203,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px !important;
         padding-left: 16px !important;
 
@@ -235,7 +235,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px !important;
         padding-left: 18px !important;
 
@@ -263,7 +263,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px !important;
         padding-left: 30px !important;
 
@@ -295,7 +295,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px !important;
         padding-left: 20px !important;
 
@@ -333,7 +333,7 @@ filter: sepia(60%);
 
     }
 
-    .container {
+    .containerMV {
         padding-right: 0px;
         padding-left: 0px;
         padding-left: 5vw;

@@ -28,7 +28,7 @@
 
     }
 
-    .container {
+    .containerUN {
 
         padding-right: 0px !important;
         padding-left: 0px !important;
@@ -224,17 +224,24 @@
 
 @media screen and (min-width:1025px) {
 
-    .NombreAtaquesUN,.NombreAtaquesUN2,.NombreAtaquesUN4 {
+    .NombreAtaquesUN,
+    .NombreAtaquesUN2,
+    .NombreAtaquesUN4 {
         font-size: 1vw !important;
     }
-    .TituloAtaquesUN4,.TituloAtaquesUN,.TituloAtaquesUN2,.TituloAtaquesUN3{
+
+    .TituloAtaquesUN4,
+    .TituloAtaquesUN,
+    .TituloAtaquesUN2,
+    .TituloAtaquesUN3 {
         font-size: 1.5vw !important;
 
 
     }
-    .imgAtaqueUN{
 
-        height:1vw!important
+    .imgAtaqueUN {
+
+        height: 1vw !important
     }
 
 }
@@ -278,10 +285,10 @@
 
     /*iphone5
 
-
-    .container {
+*/
+    .containerUN {
         padding-right: 0px !important;
-        padding-left: 0px;
+        padding-left: 10px !important;
     }
 
     .passs {
@@ -294,7 +301,7 @@
         ;
 
     }
-    */
+
 
 }
 
