@@ -76,12 +76,18 @@
         margin-left: 2vw !important;
     }
 
+    .tamañodefectoTK {
+        width: 100% !important;
+    }
 
 }
 
 @media screen and (max-height: 568px) and (min-width: 320px) {
 
     /*iphone5*/
+    .tamañodefectoTK {
+        width: 99% !important;
+    }
 
     .fondoTablaTK {
         margin-left: 2vw !important;
@@ -90,6 +96,9 @@
 }
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
+    .tamañodefectoTK {
+        width: 100% !important;
+    }
 
     /*iphone 6/7*/
     .fondoTablaTK {
@@ -103,6 +112,9 @@
     /*iphone x*/
 
 
+    .tamañodefectoTK {
+        width: 100% !important;
+    }
 
     .fondoTablaTK {
         margin-left: 3vw !important;
