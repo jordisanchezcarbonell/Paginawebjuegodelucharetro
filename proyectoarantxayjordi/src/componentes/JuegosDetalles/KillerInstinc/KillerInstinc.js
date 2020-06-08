@@ -163,7 +163,7 @@ class KillerInstinc extends React.Component {
                     </Col>
                     <Col className="pra pra2 w-100 col-md-6  centrarelemento">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
-                      <TableContainer component={Paper} className="T mb-3">
+                      <TableContainer component={Paper} className="T mb-3 AnchoKI">
                         <Table size="small">
                           <TableBody className="bodyKI">
                             {personaje.Ataques.map((Ataque, index) => (
