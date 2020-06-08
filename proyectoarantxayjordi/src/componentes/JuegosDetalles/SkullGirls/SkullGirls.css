@@ -328,3 +328,15 @@ th {
     width: 33vw;
   }
 }
+
+@media screen and (min-width: 1025px) {
+  .centrado {
+    bottom: 9vh;
+    font-size: 3.5vh;
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 20vw;
+  }
+}
