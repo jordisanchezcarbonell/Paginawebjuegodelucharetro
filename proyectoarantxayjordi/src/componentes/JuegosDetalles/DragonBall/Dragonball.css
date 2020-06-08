@@ -164,6 +164,10 @@
 @media screen and (max-height: 640px) and (max-width: 360px) {
 
     /*MotoG4 GalazyG5*/
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw!important;
+    
+    }
     .mifuente {
         font-size: 4vh !important;
 
@@ -242,6 +246,10 @@ height: 90px!important;
 @media screen and (min-height: 736px) and (max-width: 414px) {
 
     /*iphone6/7/8 plus */
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw!important;
+    
+    }
     .mifuente {
         font-size: 4vh !important;
 
@@ -315,12 +323,18 @@ height: 90px!important;
 }
 
 
-
+.ROWdb{
+    margin-bottom: 1vw;
+}
 
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
 
     /*iphone6/7/8*/
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw!important;
+    
+    }
     .mifuente {
         font-size: 4vh !important;
 
@@ -404,8 +418,13 @@ height: 90px!important;
 }
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
+    
 
     /*iphone X*/
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw!important;
+    
+    }
     .mifuente {
         font-size: 4vh !important;
 
@@ -477,12 +496,19 @@ height: 90px!important;
         width: 107%!important;
         overflow-x: auto;
     }
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw!important;
+    
+    }
 }
 
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
 /*pixel xl*/
+.TextoPersonajeTituloBD {
+    margin-left: 2vw!important;
 
+}
 .TamañoTablaBD {
     width: 107%!important;
     overflow-x: auto;
@@ -546,6 +572,10 @@ height: 90px!important;
 
 @media screen and (max-height: 568px) and (min-width: 320px) {
 /*iphone5*/
+.TextoPersonajeTituloBD {
+    margin-left: 2vw!important;
+
+}
 .mifuente {
     font-size: 4vh !important;
 
