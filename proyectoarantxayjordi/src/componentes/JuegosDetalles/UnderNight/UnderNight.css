@@ -135,6 +135,252 @@
 
 }
 
+
+
+
+
+
+
+
+
+@media screen and (max-height: 1366px)  and (max-width:1024px ) {
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+    
+    
+    }
+    
+    .puebaNombre {
+        font-size: 6vw !important;
+    }
+    .TextoTituloUN {
+        font-size: 6vw !important;
+        width: 100% !important;
+        margin-bottom: 3vw !important;
+    }
+    .NavbarUnder {
+        display: none !important;
+    }
+    
+    .FotoUB {
+        border: white !important;
+    
+        min-width: 22vw !important;
+    
+        min-height: 27vw !important;
+    
+    }
+
+
+    .passs{
+        margin-left: 10vw!important;;
+    }
+.prrr{
+
+    margin-left: 5vw!important;;
+
+}
+.TextoPersonajeTituloUN {
+
+    font-size: 8vw !important;
+}
+
+.fotoNombrePJUN {
+    height: 13vw !important;
+
+}
+
+}
+
+
+
+
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+
+    /*MotoG4 GalazyG5*/
+
+
+    .passs{
+        margin-left: -4vw!important;;
+    }
+.prrr{
+
+    margin-left: -13vw!important;;
+
+}
+
+}
+
+/*pruebsssa*/
+@media screen and (min-height: 568px) and (min-width: 320px) {
+
+    /*iphone5*/
+
+
+    
+    .passs{
+        margin-left: -12vw!important;;
+    }
+    .prrr{
+    
+    margin-left: -13vw!important;;
+    
+    }
+
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8 plus*/
+  
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+    
+    
+    }
+    
+    
+    
+    .FotoUB {
+        border: white !important;
+    
+        min-width: 22vw !important;
+    
+        min-height: 27vw !important;
+    
+    }
+ 
+
+
+
+    .passs{
+        margin-left: -2vw!important;
+    }
+    .prrr{
+    
+    margin-left: -13vw!important;
+    
+    }
+
+}
+
+
+
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+
+    .passs{
+        margin-left: 4vw!important;;
+    }
+    .prrr{
+    
+    margin-left: 13vw!important;;
+    
+    }
+
+
+ 
+}
+
+@media screen and (max-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+ 
+
+}
+
+
+
+
+@media screen and (max-height: 731px) and (max-width: 411px) {
+/*pixel2 */
+
+
+
+.passs{
+    margin-left: -2vw!important;;
+}
+.prrr{
+
+margin-left: -13vw!important;;
+
+}
+
+.divFOTOUN {
+    min-width: 20vw !important;
+    min-height: 27vw !important;
+    margin-right: 2vw !important;
+    border: 3px white solid !important;
+
+
+}
+
+
+
+.FotoUB {
+    border: white !important;
+
+    min-width: 22vw !important;
+
+    min-height: 27vw !important;
+
+}
+
+}
+
+@media screen and (max-height: 823px) and (max-width: 411px) {
+
+    /*Pixel plus*/
+ 
+    .passs{
+        margin-left: -2vw!important;;
+    }
+    .prrr{
+    
+    margin-left: -13vw!important;;
+    
+    }
+    
+    .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
+    
+    
+    }
+    
+    
+    
+    .FotoUB {
+        border: white !important;
+    
+        min-width: 22vw !important;
+    
+        min-height: 27vw !important;
+    
+    }
+   
+}
+
+
+
+
+
+
+
+
+
 /*pruebaaa*/
 .row {
     display: flex;
