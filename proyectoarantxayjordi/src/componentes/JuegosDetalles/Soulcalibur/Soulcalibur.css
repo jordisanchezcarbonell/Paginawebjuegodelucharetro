@@ -178,34 +178,35 @@
     /*MotoG4 GalazyG5*/
 
 
- 
-    .fotoCharacterSOUL{
-        width: 93%!important;
+
+    .fotoCharacterSOUL {
+        width: 93% !important;
     }
 
-.NombrePJSOUL{
-    margin-left: -5vw!important;
-}
-  
+    .NombrePJSOUL {
+        margin-left: -5vw !important;
+    }
 
-    .AnchoSOUL{
-        width: 120%!important;
-        margin-left: -8vw!important;
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
     }
-    .CellNombreAtaques{
-    
-        
-        width: 60%!important;
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
     }
-    
-     
-        .ContainerSeparacionSOUL {
-            min-width: 100%;
-        }
-    
-        .DivSoulcal {
-            min-width: 0%;
-        }
+
+
+    .ContainerSeparacionSOUL {
+        min-width: 100%;
+    }
+
+    .DivSoulcal {
+        min-width: 0%;
+    }
 
 
 
@@ -215,17 +216,18 @@
 /*pruebsssa*/
 @media screen and (min-height: 568px) and (max-width: 320px) {
 
-    
 
-.AnchoSOUL{
-    width: 120%!important;
-    margin-left: -8vw!important;
-}
-.CellNombreAtaques{
 
-    
-    width: 60%!important;
-}
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
+    }
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
+    }
 
     /*iphone5*/
     .ContainerSeparacionSOUL {
@@ -240,11 +242,11 @@
 
 
 @media screen and (max-height: 731px) and (min-width: 411px) {
-.fotoCharacterSOUL{
+    .fotoCharacterSOUL {
 
-    height: 15%!important;
-    width: 90%!important;
-}
+        height: 15% !important;
+        width: 90% !important;
+    }
 }
 
 
@@ -259,19 +261,20 @@
     }
 
 
-    
 
-    .AnchoSOUL{
-        width: 120%!important;
-        margin-left: -8vw!important;
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
     }
-    .CellNombreAtaques{
-    
-        
-        width: 60%!important;
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
     }
-    
-      
+
+
 
 
 
@@ -291,21 +294,22 @@
     }
 
 
-    
 
-    .AnchoSOUL{
-        width: 120%!important;
-        margin-left: -8vw!important;
+
+    .AnchoSOUL {
+        width: 120% !important;
+        margin-left: -8vw !important;
     }
-    .CellNombreAtaques{
-    
-        
-        width: 60%!important;
+
+    .CellNombreAtaques {
+
+
+        width: 60% !important;
     }
-    
-       
-     
-    
+
+
+
+
 
 
 
@@ -324,10 +328,10 @@
     }
 
 
-    .fotoCharacterSOUL{
+    .fotoCharacterSOUL {
 
-        height: 15%!important;
-        width: 90%!important;
+        height: 15% !important;
+        width: 90% !important;
     }
 }
 
@@ -344,17 +348,19 @@
     }
 
 
-    .coltablasoul{
-        padding-top: 5vw!important;
+    .coltablasoul {
+        padding-top: 5vw !important;
     }
-    .colimgSOul{
 
-        padding-top: 5vw!important;
-        width: 120vw!important;
+    .colimgSOul {
+
+        padding-top: 5vw !important;
+        width: 120vw !important;
 
     }
-    .imagen2SOUL{
-        width: 120vw!important;
+
+    .imagen2SOUL {
+        width: 60vw !important;
     }
 }
 
@@ -367,13 +373,14 @@
         min-width: 0%;
     }
 
-    .coltablasoul{
-        padding-top: 5vw!important;
+    .coltablasoul {
+        padding-top: 5vw !important;
     }
-    .colimgSOul{
 
-        padding-top: 5vw!important;
-        width: 120vw!important;
+    .colimgSOul {
+
+        padding-top: 5vw !important;
+        width: 120vw !important;
 
     }
 }
@@ -387,10 +394,11 @@
     .DivSoulcal {
         min-width: 0%;
     }
-    .fotoCharacterSOUL{
 
-        height: 15%!important;
-        width: 90%!important;
+    .fotoCharacterSOUL {
+
+        height: 15% !important;
+        width: 90% !important;
     }
 }
 

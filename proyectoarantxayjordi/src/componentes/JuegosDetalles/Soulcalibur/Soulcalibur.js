@@ -366,7 +366,7 @@ class Soulcalibur extends React.Component {
                         key={personaje.Nombre}
                       >
                         <Container className="w-100   mx-0  px-0 ContainerSeparacionSOUL ">
-                          <Row className="prueba pt-0 pb-3  mx-auto RowSOUL " >
+                          <Row className="prueba pt-0 pb-3  mx-auto RowSOUL ">
                             <Col md="8" className="coltablasoul">
                               <div className="contenedor   w-100">
                                 <div className="NombrePJSOUL mt-5  ">
@@ -435,7 +435,6 @@ class Soulcalibur extends React.Component {
                                 variant="top"
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 alt="Error"
-                                fluid
                               />
                             </Col>
                           </Row>
