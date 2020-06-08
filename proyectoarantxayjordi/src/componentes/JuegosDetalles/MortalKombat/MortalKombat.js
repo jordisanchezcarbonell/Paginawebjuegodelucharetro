@@ -46,7 +46,7 @@ class Child extends React.Component {
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
-            <Col className="col-md-4 w-100">
+            <Col className="col-md-4 w-100 margenesparalastablas">
               <TableContainer
                 component={Paper}
                 className="fondoTablaMK pruebadelelemento mt-5"
@@ -99,7 +99,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-4 ">
+            <Col className="col-md-4 margenesparalastablas">
               <TableContainer
                 component={Paper}
                 className="fondoTablaMK  pruebadelelemento mt-5"
@@ -109,7 +109,7 @@ class Child extends React.Component {
                 <Table className="nomostrarscroll">
                   <TableBody>
                     {this.props.elemento.KomboAttacks.map((Ataque, index) => (
-                      <TableRow key={Ataque.nombreAtaque} className="mx-5">
+                      <TableRow key={Ataque.nombreAtaque} className="mx-5 ">
                         <TableCell
                           className="  py-2 colorFondoAtaquesMK  tablaborderabajoMK"
                           scope="row"
@@ -145,7 +145,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-4">
+            <Col className="col-md-4 margenesparalastablas">
               <TableContainer className=" fondoTablaMK pruebadelelemento mt-5">
                 <h3 className="TituloAtaquesMK">Finishers</h3>
 

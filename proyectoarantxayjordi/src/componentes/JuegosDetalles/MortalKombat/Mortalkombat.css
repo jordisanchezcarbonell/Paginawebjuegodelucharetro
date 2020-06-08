@@ -18,6 +18,7 @@
 
 }
 
+
 .MuiTable-root {
     width: 100% !important;
     display: table !important;
@@ -263,6 +264,11 @@ tr {
     .photo-banner,
     .photo {
         display: none !important;
+    }
+
+    .margenesparalastablas {
+        margin-left: 7vh;
+        margin-right: 7vh;
     }
 }
 
