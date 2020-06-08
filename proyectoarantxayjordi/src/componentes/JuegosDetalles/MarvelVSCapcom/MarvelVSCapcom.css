@@ -276,6 +276,20 @@ filter: sepia(60%);
 
 }
 
+
+
+
+@media screen and (max-height: 1366px) and (min-width: 1024px) {
+    .tablaanchuraMC{
+
+        width: 190%!important;
+    }
+    .colPrimeraMarvel {
+        margin-left: 5%;
+
+    }
+
+}
 @media screen and (max-height: 1024px) and (min-width: 768px) {
 
 
@@ -288,10 +302,10 @@ filter: sepia(60%);
     }
 
     .colPrimeraMarvel {
-        margin-left: -7%;
+        margin-left: 6%;
 
     }
-    .provaaa{
+    .tablaanchuraMC{
 
         width: 190%!important;
     }
@@ -332,6 +346,11 @@ filter: sepia(60%);
 
 
 @media screen and (min-width: 1025px) {
+    .colPrimeraMarvel {
+        margin-left: -1%;
+
+    }
+    
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -339,6 +358,10 @@ filter: sepia(60%);
         filter: sepia(70%);
 
 
+    }
+    .tablaanchuraMC{
+
+        width: 100%!important;
     }
     
     .RowMC {
