@@ -83,10 +83,7 @@
 
   }
 
-  .MuiTableContainer-root {
-    width: 123%;
-    overflow-x: auto;
-  }
+
 
   .centrarelemento {
     justify-content: center !important;
