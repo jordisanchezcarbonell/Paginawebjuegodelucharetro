@@ -136,12 +136,12 @@ class KillerInstinc extends React.Component {
             };
             return (
               <div
-                className="w-100 mt-4"
+                className="w-100 mt-4 "
                 style={fondopersonaje}
                 key={personaje.Nombre}
               >
-                <Container className="w-100 ContainerKI mr-4 pr-4">
-                  <Row className=" w-100 stage">
+                <Container className="w-100 ContainerKI mr-4 pr-4 ">
+                  <Row className="  stage centrarelemento">
                     <Col className="pra  pra1 w-100 col-md-6   esconder">
                       <img
                         src={process.env.PUBLIC_URL + personaje.Runa}
@@ -161,7 +161,7 @@ class KillerInstinc extends React.Component {
                         aria-hidden="true"
                       ></a>
                     </Col>
-                    <Col className="pra pra2 w-100 col-md-6 ">
+                    <Col className="pra pra2 w-100 col-md-6  centrarelemento">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
                       <TableContainer component={Paper} className="T mb-3">
                         <Table size="small">
