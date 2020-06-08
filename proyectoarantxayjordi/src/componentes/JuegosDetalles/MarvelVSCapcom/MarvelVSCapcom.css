@@ -76,7 +76,14 @@ filter: sepia(60%);
 
 }
 
+.MVCursor {
+    cursor: pointer;
+
+}
+
+
 .mifuenteMVC {
+
     font-size: 2vh;
 }
 
@@ -218,9 +225,10 @@ filter: sepia(60%);
 
 
 @media screen and (max-height: 731px) and (min-width: 411px) {
+
     /*pixel*/
     .colPrimeraMarvel {
-        margin-left: 0%!important;
+        margin-left: 0% !important;
 
     }
 }
@@ -288,16 +296,18 @@ filter: sepia(60%);
 
 
 @media screen and (max-height: 1366px) and (min-width: 1024px) {
-    .tablaanchuraMC{
+    .tablaanchuraMC {
 
-        width: 190%!important;
+        width: 190% !important;
     }
+
     .colPrimeraMarvel {
         margin-left: 4%;
 
     }
 
 }
+
 @media screen and (max-height: 1024px) and (min-width: 768px) {
 
 
@@ -313,9 +323,10 @@ filter: sepia(60%);
         margin-left: 4.5%;
 
     }
-    .tablaanchuraMC{
 
-        width: 190%!important;
+    .tablaanchuraMC {
+
+        width: 190% !important;
     }
 }
 
@@ -341,10 +352,12 @@ filter: sepia(60%);
         padding-left: 1px !important;
 
     }
+
     .colPrimeraMarvel {
         margin-left: 0%;
 
     }
+
     .RowMC {
 
         margin-left: 1.5rem !important;
@@ -358,7 +371,7 @@ filter: sepia(60%);
         margin-left: -1%;
 
     }
-    
+
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -367,15 +380,17 @@ filter: sepia(60%);
 
 
     }
-    .tablaanchuraMC{
 
-        width: 100%!important;
+    .tablaanchuraMC {
+
+        width: 100% !important;
     }
-    
+
     .RowMC {
 
         margin-left: 1.5rem !important;
     }
+
     .DivFotoMC {
         margin: 0 !important
     }

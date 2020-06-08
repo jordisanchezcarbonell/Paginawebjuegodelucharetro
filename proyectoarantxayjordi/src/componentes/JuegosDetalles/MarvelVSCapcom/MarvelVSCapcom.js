@@ -55,7 +55,7 @@ class Child extends React.Component {
                     {this.props.elemento.SpecialMoves.map((Ataque, index) => (
                       <TableRow
                         key={Ataque.nombreAtaque}
-                        className="mx-5  rowSF5 "
+                        className="mx-5  rowSF5 MVCursor"
                       >
                         <TableCell
                           className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC tablaborderabajo "
@@ -103,7 +103,7 @@ class Child extends React.Component {
                     {this.props.elemento.SuperMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC nomostrarscrollBD tablaborderabajo"
+                          className="  MVCursor  py-2 colorFondoAtaquesMC  mifuenteataquesMVC nomostrarscrollBD tablaborderabajo"
                           scope="row"
                           component="td"
                           align="left"
@@ -147,7 +147,7 @@ class Child extends React.Component {
                     {this.props.elemento.AssistMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
                         <TableCell
-                          className="  py-2 colorFondoAtaquesMC mifuenteataquesMVC tablaborderabajo "
+                          className=" MVCursor py-2 colorFondoAtaquesMC mifuenteataquesMVC tablaborderabajo "
                           component="td"
                           scope="row"
                           align="left"
