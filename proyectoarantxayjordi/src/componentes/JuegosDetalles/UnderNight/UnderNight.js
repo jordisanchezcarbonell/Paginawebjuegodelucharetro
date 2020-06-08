@@ -38,8 +38,8 @@ class Child extends React.Component {
           </h3>
         </div>
         <Container className="PruebadefondoAtaquesUN">
-          <Row className="w-100  px-0 mx-0 prrr">
-            <Col className="col-md-5 w-100 margenes ">
+          <Row className="w-100  px-0 mx-0  prrr">
+            <Col className="col-md-5 w-100 margenes  ">
               <TableContainer className="fondoTablaUN  eliminarradius nomostrarscrollBD prrr ">
                 <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
                   Special Attack
@@ -370,7 +370,7 @@ class UnderNight extends React.Component {
           <div className="w-100 mt-4 ">
             <Container className="w-100 pt-1  ">
               <h3 className="TextoTituloUN   mx-auto">Character Select</h3>
-              <Row className=" w-100 stage RowUn  ">
+              <Row className=" w-100 stage RowUn  centrarelemento">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"
