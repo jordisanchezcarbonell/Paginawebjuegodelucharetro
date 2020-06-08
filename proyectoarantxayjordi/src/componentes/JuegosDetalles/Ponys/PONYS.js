@@ -97,7 +97,7 @@ class Child extends React.Component {
                   {this.props.elemento.SUPERATTACKS.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
-                        className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
+                        className="  py-2 colorFondoAtaquesPonys tablaborderabajo assa "
                         component="td"
                         scope="row"
                         align="left"
@@ -327,7 +327,7 @@ class PONYS extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
+          <Row className="NavbarPonys">
             <Col md="8" className="fondo2Ponys px-0">
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}

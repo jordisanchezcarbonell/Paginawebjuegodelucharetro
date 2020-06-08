@@ -149,6 +149,9 @@
 
     .TextoPersonajeTituloPonys {
         margin-top: 1vw !important;
+        font-size: 5vw!important;
+        text-align: center!important;
+        margin-left: 5%!important;
     }
 
     .tamañodelaiamgenpNY {
@@ -184,7 +187,144 @@
         margin-top: -2vw!important;
 
     }
+    .NavbarPonys{
+        display: none!important;
+    }
 }
+@media screen and (max-height: 1366px)  and (max-width:1024px ) {
+
+
+    .imgAtaquePN{
+         height: 4vw !important;
+    }
+    .colorFondoAtaquesPonys{
+
+        font-size: 2.7vw!important;
+    }
+    .TituloAtaquesPonys{
+
+        font-size: 4vw!important;
+
+    }
+
+}
+
+
+
+
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+
+    /*MotoG4 GalazyG5*/
+
+}
+
+/*pruebsssa*/
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .colorFondoAtaquesPonys{
+
+        font-size: 4.1vw!important;
+    }
+
+    .imgAtaquePN {
+        height: 6.6vw !important;
+
+    }
+
+    .TituloAtaquesPonys {
+        font-size: 6vw!important;
+
+    }
+
+ 
+}
+
+
+
+
+
+@media screen and (max-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .colorFondoAtaquesPonys{
+
+        font-size: 4.1vw!important;
+    }
+
+    .imgAtaquePN {
+        height: 6.6vw !important;
+
+    }
+
+    .TituloAtaquesPonys {
+        font-size: 5.5vw!important;
+
+    }
+
+
+ 
+}
+
+@media screen and (max-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+ 
+
+}
+
+
+
+
+@media screen and (max-height: 731px) and (max-width: 411px) {
+/*pixel2 */
+    .colorFondoAtaquesPonys{
+
+        font-size: 4.1vw!important;
+    }
+
+    .imgAtaquePN {
+        height: 4.1vw !important;
+
+    }
+
+    .TituloAtaquesPonys {
+        font-size: 5.5vw!important;
+
+    }
+
+}
+
+@media screen and (max-height: 823px) and (max-width: 411px) {
+
+    /*Pixel plus*/
+    .colorFondoAtaquesPonys{
+
+        font-size: 4.1vw!important;
+    }
+
+    .imgAtaquePN {
+        height: 6.6vw !important;
+
+    }
+
+    .TituloAtaquesPonys {
+        font-size: 5.5vw;
+
+    }
+
+
+   
+}
+
+
 
 .padinponys {
     padding-bottom: .5rem !important;
