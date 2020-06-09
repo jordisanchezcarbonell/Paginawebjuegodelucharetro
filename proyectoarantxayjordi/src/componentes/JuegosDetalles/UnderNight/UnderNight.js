@@ -37,7 +37,7 @@ class Child extends React.Component {
             {this.props.elemento.Nombre}
           </h3>
         </div>
-        <Container className="PruebadefondoAtaquesUN">
+        <Container className="PruebadefondoAtaquesUN tamañodeprueba">
           <Row className="w-100  px-0 mx-0   prrr">
             <Col className="col-md-5 w-100  pruebatablas margenes  ">
               <TableContainer className="fondoTablaUN UNAFU  eliminarradius nomostrarscrollBD prrr ">

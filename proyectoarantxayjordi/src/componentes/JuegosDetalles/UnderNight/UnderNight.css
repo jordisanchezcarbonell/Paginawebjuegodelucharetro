@@ -161,7 +161,9 @@
 
     }
 
-    .NombreAtaquesUN, .NombreAtaquesUN2,  .NombreAtaquesUN4{
+    .NombreAtaquesUN,
+    .NombreAtaquesUN2,
+    .NombreAtaquesUN4 {
         font-size: 3vw !important;
     }
 
@@ -235,18 +237,20 @@
         max-width: 100% !important;
 
     }
-.CONTAINERINFIT{
-    margin-bottom: -7vw!important;
+
+    .CONTAINERINFIT {
+        margin-bottom: -7vw !important;
 
 
-}
+    }
+
     .UNAFU {
-        width: 198% !important;
+        width: 188% !important;
     }
 
     .UNAFU2 {
-        margin-top: -10vw!important;
-        width: 245% !important;
+        margin-top: -10vw !important;
+        width: 232% !important;
     }
 
 
@@ -288,6 +292,9 @@
 
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
+    .tamañodeprueba {
+        width: 98% !important;
+    }
 
     /*MotoG4 GalazyG5*/
     .NombreAtaquesUN {
@@ -303,8 +310,7 @@
     }
 
     .prrr {
-        margin-left: -1rem !important;
-
+        margin-left: -0.5rem !important
     }
 
     .margenes {
@@ -315,6 +321,14 @@
     }
 
 
+    .UNAFU {
+        width: 169% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 128% !important;
+    }
 
 }
 
@@ -335,11 +349,19 @@
 
     .prrr {
 
-        margin-left: -13vw !important;
+        margin-left: 3vw !important;
         ;
 
     }
 
+    .UNAFU {
+        width: 135% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 118% !important;
+    }
 
 }
 
@@ -380,6 +402,15 @@
 
     }
 
+    .UNAFU {
+        width: 200% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 148% !important;
+    }
+
 }
 
 
@@ -397,12 +428,19 @@
 
     .prrr {
 
-        margin-left: 13vw !important;
+        margin-left: 3vw !important;
         ;
 
     }
 
+    .UNAFU {
+        width: 116% !important;
+    }
 
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 108% !important;
+    }
 
 }
 
@@ -426,21 +464,23 @@
         max-width: 100% !important;
 
     }
-.CONTAINERINFIT{
-    margin-bottom: -10vw!important;
+
+    .CONTAINERINFIT {
+        margin-bottom: -10vw !important;
 
 
-}
+    }
+
     .UNAFU {
         width: 210% !important;
     }
 
     .UNAFU2 {
-        width: 248% !important;
+        width: 246% !important;
     }
 }
 
-@media screen and (max-height: 812px) and (max-width: 375px) {
+@media screen and (min-height: 812px) and (max-width: 375px) {
 
     /*iphone X*/
     .passs {
@@ -456,15 +496,25 @@
 
     }
 
+    .UNAFU {
+        width: 112% !important;
+    }
+
+    .UNAFU2 {
+        width: 110% !important;
+    }
 }
 
 
 
 
-@media screen and (max-height: 731px) and (max-width: 411px) {
+@media screen and (max-height: 731px) and (min-width: 411px) {
     /*pixel2 */
 
 
+    .tamañodeprueba {
+        width: 98%;
+    }
 
     .passs {
         margin-left: -2vw !important;
@@ -498,9 +548,21 @@
 
     }
 
+    .UNAFU {
+        width: 212% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 148% !important;
+    }
+
+    .tamañodeprueba {
+        width: 98%;
+    }
 }
 
-@media screen and (max-height: 823px) and (max-width: 411px) {
+@media screen and (max-height: 823px) and (min-width: 411px) {
 
     /*Pixel plus*/
 
@@ -534,6 +596,15 @@
 
         min-height: 27vw !important;
 
+    }
+
+    .UNAFU {
+        width: 212% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 148% !important;
     }
 
 }
