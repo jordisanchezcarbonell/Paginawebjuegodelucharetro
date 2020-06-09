@@ -154,7 +154,7 @@ class SkullGirls extends React.Component {
                       </div>
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  mb-3 AnchoSG"
+                        className="TablaGeneral   padddingdetablasprueba mb-3 AnchoSG"
                       >
                         <Grid item xs={12}>
                           <Table>
@@ -222,7 +222,7 @@ class SkullGirls extends React.Component {
                       </div>
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  AnchoSG "
+                        className="TablaGeneral padddingdetablasprueba  AnchoSG "
                       >
                         <Table>
                           <TableBody className="bodySKULL">
@@ -283,7 +283,7 @@ class SkullGirls extends React.Component {
 
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral  AnchoSG "
+                        className="TablaGeneral padddingdetablasprueba  AnchoSG "
                       >
                         <Table>
                           <TableBody className="bodySKULL">
