@@ -128,13 +128,6 @@ class SkullGirls extends React.Component {
               <div className="Personajes w-100" key={personaje.Nombre}>
                 <Container className="w-100 ContainerSeparacion ">
                   <div className="contenedor">
-                    <Image
-                      src={require("./descarga1.png")}
-                      className="fotoNombre"
-                      alt="Descripcion Juego"
-                      fluid
-                    />
-
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
 
