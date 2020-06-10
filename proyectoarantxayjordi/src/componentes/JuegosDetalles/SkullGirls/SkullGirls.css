@@ -277,6 +277,10 @@ th {
     font-size: 2.5vh;
   }
 
+  .NombreDesc {
+    font-size: 2vw !important;
+  }
+
 
 }
 
@@ -555,5 +559,10 @@ th {
     padding-top: 11vw;
     width: 20vw;
   }
+
+  .NombreDesc {
+    font-size: 2vw !important;
+  }
+
 
 }
