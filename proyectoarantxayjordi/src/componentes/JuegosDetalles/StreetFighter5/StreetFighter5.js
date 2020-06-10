@@ -335,7 +335,7 @@ class StreetFighter5 extends React.Component {
           <div className="w-100 mt-4 mb-4 ">
             <Container className="w-100 mx-auto  ">
               <h3 className="LetraTituloSF mb-4">Character Select</h3>
-              <Row className=" w-100 stage  ml-4 ">
+              <Row className=" w-100 stage  ml-4  ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"

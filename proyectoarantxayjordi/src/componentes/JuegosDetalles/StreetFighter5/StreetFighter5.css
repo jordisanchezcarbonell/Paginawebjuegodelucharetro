@@ -485,8 +485,11 @@
         transform: skewX(0deg) !important;
     }
     .AnchoSF{
-        width: 170%!important;
+        width: 150%!important;
         margin-left: -15vw!important;
+    }
+    .RowSF{
+        margin-left: 7vw!important;
     }
 
 }
@@ -504,6 +507,9 @@
 }
 
 @media screen and (min-height: 736px) and (max-width: 414px) {
+    .RowSF{
+        margin-left: 1vw!important;
+    }
     .FotoSF {
 
         width: 20vw !important;
@@ -526,6 +532,9 @@
 
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
+    .RowSF{
+        margin-left: -1vw!important;
+    }
     /*iphone6/7*/
     .FotoSF {
 
@@ -544,8 +553,8 @@
     }
 
     .AnchoSF{
-        width: 170%!important;
-        margin-left: -16vw!important;
+        width: 150%!important;
+        margin-left: -14vw!important;
     }
 }
 
@@ -586,19 +595,43 @@
         margin-left:4vw!important;
     }
 }
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (max-height: 731px) and (min-width: 411px) {
+    .AnchoSF{
+        width:135%!important;
+        margin-left: -10vw!important;
+        margin-right: 0vw!important;
+
+    
+    }
+    .RowSF{
+        margin-left: 1vw!important;
+    }
+
+        .FotoSF {
+
+            width: 20vw !important;
+            min-height: 30vw !important;
+    
+            transform: skewX(0deg) !important;
+        }
+    
+        .FotoSF2 {
+    
+            width: 20vw !important;
+            min-height: 30vw !important;
+    
+            transform: skewX(0deg) !important;
+        }
+
+}
+@media screen and (min-height: 823px) and (max-width: 411px) {
    /*pixel xl*/
-
+   .RowSF{
+    margin-left: 1vw!important;
+}
    .AnchoSF{
-    width: 170%!important;
-    margin-left: -15vw!important;
-}
-
-
-}
-
-@media screen and (max-height: 823px) and (min-width: 411px) {
-    /*pixel xl*/
+    width: 150%!important;
+    margin-left: -15vw!important;}
     .FotoSF {
 
         width: 20vw !important;
@@ -614,7 +647,12 @@
 
         transform: skewX(0deg) !important;
     }
+
+
+
 }
+
+
 
 
 @media screen and (min-width: 1025px) {}
