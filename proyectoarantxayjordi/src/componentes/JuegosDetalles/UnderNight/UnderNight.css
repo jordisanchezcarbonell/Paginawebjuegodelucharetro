@@ -26,7 +26,7 @@
     .margenes {
         margin-bottom: 0rem !important;
         margin-right: 1rem !important;
-        margin-left: 1.5rem !important;
+        margin-left: 2.5rem !important;
 
     }
 
@@ -253,7 +253,7 @@
     }
 
     .UNAFU {
-        width: 185% !important;
+        width: 208% !important;
     }
 
     .UNAFU2 {
@@ -543,7 +543,7 @@ margin-left: -3vw;
     }
 
     .UNAFU {
-        width: 199% !important;
+        width: 214% !important;
         margin-right: 20vw !important;
         margin-left: 2.5vw !important;
     }
@@ -590,7 +590,7 @@ margin-left: -3vw;
 
 
 
-@media screen and (max-height: 731px) and (min-width: 411px) {
+@media screen and (max-height: 731px) and (max-width: 411px) {
     /*pixel2 */
 
 
