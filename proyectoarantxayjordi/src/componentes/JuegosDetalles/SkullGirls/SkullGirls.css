@@ -147,7 +147,7 @@ th {
 .centrado {
 
   font-family: 'PT Serif', serif;
-  font-size: 3vh;
+  font-size: 5vh;
   font-weight: bold;
   top: 50%;
   left: 50%;
@@ -157,7 +157,7 @@ th {
   box-sizing: border-box;
   width: 250%;
   margin-bottom: 3vh;
-  border-bottom: 3px solid red;
+  border-bottom: 3px solid black;
 
   position: relative;
   font-weight: bold;
@@ -503,12 +503,17 @@ th {
   .centrado {
     bottom: 9vh;
     font-size: 3.5vh;
+    
   }
 
   .imagenpaddin {
     padding-top: 11vw;
     width: 20vw;
   }
+
+
+
+
 
 }
 
@@ -547,11 +552,13 @@ th {
 @media screen and (min-width: 1025px) {
   .centrado {
     bottom: -4vh;
-    font-size: 3.5vh;
+    font-size: 5vh;
     box-sizing: border-box;
     width: 250%;
     margin-bottom: 3vh;
-    border-bottom: 3px solid red;
+    margin-top: 3vh;
+
+    border-bottom: 3px solid black;
 
   }
 
