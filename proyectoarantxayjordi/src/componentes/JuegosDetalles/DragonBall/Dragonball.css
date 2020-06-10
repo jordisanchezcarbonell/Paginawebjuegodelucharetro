@@ -440,6 +440,7 @@
 
 
     /*iphone X*/
+    
     .TextoPersonajeTituloBD {
         margin-left: 2vw !important;
 
@@ -476,10 +477,10 @@
     }
 
     .TablaUnqiqueBD {
-        margin-bottom: -36vw !important;
+        margin-bottom: 4vw !important;
         margin-top: -10vw !important;
-
     }
+
 
     .colorFondoAtaquesBD {
         font-size: 5vw !important;
@@ -587,13 +588,12 @@
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-        width: 90px !important;
+        width: 85px !important;
         height: 90px !important;
         cursor: pointer;
         min-height: 22vw !important;
 
     }
-
 
     .ContainerDB {
 
@@ -674,6 +674,11 @@
         margin-left: 1.2rem !important;
         width: auto !important;
     }
+    .TablaUnqiqueBD {
+        margin-bottom: 4vw !important;
+        margin-top: -10vw !important;
+    }
+
 
 }
 .navDB{
