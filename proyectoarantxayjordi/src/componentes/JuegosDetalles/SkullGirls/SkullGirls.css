@@ -152,9 +152,14 @@ th {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  bottom: -4vh;
+  font-size: 3.5vh;
+  box-sizing: border-box;
+  width: 250%;
+  margin-bottom: 3vh;
+  border-bottom: 3px solid red;
 
   position: relative;
-  bottom: 9vh;
   font-weight: bold;
   /**/
 }
@@ -267,7 +272,7 @@ th {
 
   /*MotoG4 GalazyG5*/
   .centrado {
-    bottom: 4.2vh;
+    bottom: -1vh;
   }
 
   .imagenpaddin {
@@ -284,10 +289,9 @@ th {
   }
 
   .centrado {
-    bottom: 7.2vh;
+    bottom: 3.5vh;
     font-size: 2.5vh;
   }
-
 
 
 }
@@ -303,7 +307,10 @@ th {
   }
 
   /*iphone5*/
-
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 3.5vh;
+  }
 
   .ContainerSeparacion {
 
@@ -327,7 +334,7 @@ th {
 
   /*iphone6/7/8*/
   .centrado {
-    bottom: 5.2vh;
+    bottom: 2.5vh;
     font-size: 2.5vh;
   }
 }
@@ -344,8 +351,8 @@ th {
 
   /*iphone6/7/8*/
   .centrado {
-    bottom: 4.2vh;
-    font-size: 2.5vh;
+    bottom: 0.5vh;
+    font-size: 3.5vh;
   }
 
   .ContainerSeparacion {
@@ -368,10 +375,9 @@ th {
 
 
   .centrado {
-    bottom: 3.5vh;
+    bottom: 0.5vh;
     font-size: 2.5vh;
   }
-
 
   .NavbarSkull {
 
@@ -421,6 +427,11 @@ th {
     width: 150% !important;
     overflow-x: auto;
   }
+
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 2.5vh;
+  }
 }
 
 @media screen and (max-height: 640px) and (min-width: 360px) {
@@ -435,7 +446,7 @@ th {
 
   /*MotoG4 GalazyG5*/
   .centrado {
-    bottom: 4.2vh;
+    bottom: 0.5vh;
     font-size: 2.5vh;
   }
 
@@ -470,6 +481,10 @@ th {
     display: none !important;
   }
 
+  .centrado {
+    bottom: 0.5vh;
+    font-size: 2.5vh;
+  }
 
 }
 
@@ -478,7 +493,7 @@ th {
 
 @media screen and (max-height: 1366px) and (min-width: 1024px) {
   .centrado {
-    bottom: 9vh;
+    bottom: 3vh;
     font-size: 3.5vh;
   }
 
@@ -530,6 +545,24 @@ th {
 
   .padddingdetablasprueba {
     margin-left: -92px !important;
+  }
+
+}
+
+@media screen and (min-width: 1025px) {
+  .centrado {
+    bottom: -4vh;
+    font-size: 3.5vh;
+    box-sizing: border-box;
+    width: 250%;
+    margin-bottom: 3vh;
+    border-bottom: 3px solid red;
+
+  }
+
+  .imagenpaddin {
+    padding-top: 11vw;
+    width: 20vw;
   }
 
 }
