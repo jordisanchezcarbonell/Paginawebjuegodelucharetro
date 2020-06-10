@@ -49,7 +49,7 @@ class Child extends React.Component {
             {this.props.elemento.Nombre}
           </h3>
         </div>
-        <Row className="w-100   justify-content-center">
+        <Row className="w-100   justify-content-center RowPonis">
           <Col className="col-md-5  w-100  ">
             <TableContainer className=" fondoTablaPonys margenesresponsive  mt-4   mb-2">
               <h3 className="TituloAtaquesPonys my-0 w-100">Unique Movement</h3>

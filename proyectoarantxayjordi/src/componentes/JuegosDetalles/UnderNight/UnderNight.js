@@ -32,7 +32,7 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
       >
         <div className="NombrePersonajeUN my-4  ">
-          <img className="w-100 fotoNombrePJUN" src={TituloPJ} alt="logo"></img>
+          <img className="fotoNombrePJUN" src={TituloPJ} alt="logo"></img>
           <h3 className="TextoPersonajeTituloUN">
             {this.props.elemento.Nombre}
           </h3>

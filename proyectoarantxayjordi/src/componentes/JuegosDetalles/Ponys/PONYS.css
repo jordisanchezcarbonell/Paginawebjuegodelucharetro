@@ -27,6 +27,7 @@
     float: none!important;
     margin-left: auto!important;
     margin-right: auto!important;*/
+
 .fondoTablaPonys {
 
     width: 99% !important;
@@ -193,6 +194,15 @@
         display: none !important;
     }
 }
+
+
+.RowPonis{
+    margin-left:1%!important;
+
+
+}
+
+
 
 @media screen and (max-height: 1366px) and (max-width:1024px) {
 

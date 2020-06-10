@@ -144,7 +144,7 @@
 
 
 
-@media screen and (max-height: 1366px) and (max-width:1024px) {
+@media screen and (min-height: 1366px) and (max-width:1024px) {
 
     .pUN {
         margin-left: -1rem !important;
@@ -245,7 +245,7 @@
     }
 
     .UNAFU {
-        width: 188% !important;
+        width: 185% !important;
     }
 
     .UNAFU2 {
@@ -287,9 +287,38 @@
         height: 1vw !important
     }
 
+    
+.divFOTOUN {
+
+    border: 3px solid black;
+    background: none;
+    margin-right: 1vw;
+
+}
+   
+
 }
 
+/* .divFOTOUN {
+        min-width: 20vw !important;
+        min-height: 27vw !important;
+        margin-right: 2vw !important;
+        border: 3px white solid !important;
 
+
+    }
+
+
+
+    .FotoUB {
+        border: white !important;
+
+        min-width: 22vw !important;
+
+        min-height: 27vw !important;
+
+    }
+*/
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
     .tamañodeprueba {
@@ -310,13 +339,13 @@
     }
 
     .prrr {
-        margin-left: -0.5rem !important
+        margin-left: 0vw !important
     }
 
     .margenes {
         margin-bottom: 0rem !important;
-        margin-right: 1rem !important;
-        margin-left: -1rem !important;
+        margin-right: 5vw !important;
+        margin-left:8vw!important;
 
     }
 
@@ -330,6 +359,20 @@
         width: 128% !important;
     }
 
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 12px !important;
+    }
+
+
+
+/*   
+    .fotoNombrePJUN {
+        height: 13vw !important;
+width: 92%!important;
+margin-left: -3vw;
+    }
+*/
 }
 
 /*pruebsssa*/
@@ -340,11 +383,11 @@
 */
     .containerUN {
         padding-right: 0px !important;
-        padding-left: 10px !important;
+        padding-left: 15px !important;
     }
 
     .passs {
-        margin-left: -12vw;
+        margin-left: -11vw;
     }
 
     .prrr {
@@ -393,17 +436,17 @@
 
 
     .passs {
-        margin-left: -2vw !important;
+        margin-left: 3vw !important;
     }
 
     .prrr {
 
-        margin-left: -13vw !important;
+        margin-left: -10vw !important;
 
     }
 
     .UNAFU {
-        width: 200% !important;
+        width: 148% !important;
     }
 
     .UNAFU2 {
@@ -428,12 +471,14 @@
 
     .prrr {
 
-        margin-left: 3vw !important;
+        margin-left: 1vw !important;
         ;
 
     }
 
     .UNAFU {
+        margin-left: -5vw !important;
+        ;
         width: 116% !important;
     }
 
@@ -441,11 +486,17 @@
         margin-top: -10vw !important;
         width: 108% !important;
     }
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+    }
 
 }
 
 @media screen and (max-width: 768px) and (min-height: 1024px) {
-
+    .NavbarUnder {
+        display: none !important;
+    }
     .passs {
         margin-left: 6vw !important;
         ;
@@ -473,9 +524,13 @@
 
     .UNAFU {
         width: 210% !important;
+        margin-right: 20vw!important;
+        margin-left: 1vw!important;
     }
 
     .UNAFU2 {
+        margin-left: 1vw!important;
+
         width: 246% !important;
     }
 }
@@ -492,7 +547,7 @@
     .margenes {
         margin-bottom: 0rem !important;
         margin-right: 1rem !important;
-        margin-left: 2rem !important;
+        margin-left: 1rem !important;
 
     }
 
@@ -562,18 +617,18 @@
     }
 }
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (max-height: 823px) and (max-width: 411px) {
 
     /*Pixel plus*/
 
     .passs {
-        margin-left: 6vw !important;
+        margin-left: 3vw !important;
         ;
     }
 
     .prrr {
 
-        margin-left: -13vw !important;
+        margin-left: -10vw !important;
         ;
 
     }
@@ -597,9 +652,16 @@
         min-height: 27vw !important;
 
     }
+    
+    .fotoNombrePJUN {
+        height: 13vw !important;
+width: 92%!important;
+margin-left: -3vw;
+    }
+
 
     .UNAFU {
-        width: 212% !important;
+        width: 148% !important;
     }
 
     .UNAFU2 {
