@@ -264,22 +264,6 @@ th {
 
 
 
-@media screen and (max-height: 640px) and (min-width: 360px) {
-  .NavbarSkull {
-
-    display: none !important;
-  }
-
-  /*MotoG4 GalazyG5*/
-  .centrado {
-    bottom: -1vh;
-  }
-
-  .imagenpaddin {
-    margin-right: 2vw;
-  }
-}
-
 @media screen and (max-width: 768px) and (min-height: 1024px) {
 
   .imagenpaddin {
@@ -371,7 +355,7 @@ th {
 }
 
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (max-height: 823px) and (max-width: 411px) {
 
 
   .centrado {
@@ -434,7 +418,7 @@ th {
   }
 }
 
-@media screen and (max-height: 640px) and (min-width: 360px) {
+@media screen and (max-height: 640px) and (max-width: 360px) {
   .NombreDesc {
     font-size: 5vw !important;
   }
@@ -462,6 +446,13 @@ th {
     width: 150% !important;
     overflow-x: auto;
   }
+
+
+  .imagenpaddin {
+    margin-right: 2vw;
+  }
+
+
 
 
 
