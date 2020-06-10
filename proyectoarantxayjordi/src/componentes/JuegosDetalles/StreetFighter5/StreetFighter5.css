@@ -595,7 +595,43 @@
         margin-left:4vw!important;
     }
 }
-@media screen and (max-height: 731px) and (min-width: 411px) {
+
+@media screen and (max-height: 579px) and (min-width: 1240px) {
+
+    .FotoSF {
+      min-width: 90px !important;
+       min-height: 10vw !important;
+        border-radius: 0 !important;
+        border: 2px white solid;
+        margin: 4px;
+        transform: skewX(15deg);
+    
+    
+        cursor: pointer;
+    
+    }
+    
+    .FotoSF2 {
+        width: 90px !important;
+        min-width: 5vw !important;
+        height: 10vw !important;
+        border-radius: 0 !important;
+        border: 2px white solid;
+        margin: 4px;
+        transform: skewX(-15deg);
+    
+    
+        cursor: pointer;
+    
+    }
+    
+
+}
+
+
+
+@media screen and (min-height: 731px) and (max-width: 411px) {
+    /*pixel2*/
     .AnchoSF{
         width:135%!important;
         margin-left: -10vw!important;
