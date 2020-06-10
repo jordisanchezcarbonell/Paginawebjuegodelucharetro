@@ -62,48 +62,55 @@
 
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
+
     /*motog4*/
-  .products{
-      margin-left: 7vw!important;
-  }  
-  .anchoGB{
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
 
 
-    width: 110%!important;
-    margin-left: -3vw!important;
-  }
+        width: 110% !important;
+        margin-left: -3vw !important;
+    }
 }
 
-@media screen and (max-height: 731px) and (min-width: 411px) {
-/*pixel2*/
-    .products{
-        margin-left: 7vw!important;
-    } 
-    .anchoGB{
+@media screen and (max-height: 731px) and (max-width: 411px) {
+
+    /*pixel2*/
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
 
 
-        width: 115%!important;
-        margin-left: -4vw!important;
-      } 
- 
+        width: 98% !important;
+        margin-left: 4vw !important;
+    }
+
 }
-.nombreAtaquesGB{
 
-    width: 36%!important;
+.nombreAtaquesGB {
 
-  }
+    width: 36% !important;
+
+}
+
 @media screen and (max-height: 823px) and (min-width: 411px) {
 
-    .products{
-        margin-left: 7vw!important;
-    } 
-    .anchoGB{
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
 
 
-        width: 120%!important;
-        margin-left: -5vw!important;
-      } 
-      
+        width: 99% !important;
+        margin-left: 2vw !important;
+    }
+
 
 
 }
@@ -111,17 +118,32 @@
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
 
-    .products{
-        margin-left: 7vw!important;
-    } 
-    .anchoGB{
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
 
 
-        width: 110%!important;
-        margin-left: -2vw!important;
-      } 
+        width: 110% !important;
+        margin-left: -2vw !important;
+    }
 
 }
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 98% !important;
+        margin-left: 3vw !important;
+    }
+}
+
 /*
 
 @media (min-width:360px) {
@@ -374,4 +396,20 @@
 .characterGB p {
     font-weight: 100;
     padding: 10px 0 10px 20px;
+}
+
+
+@media screen and (max-height: 579px) and (min-width: 1240px) {
+    .products {
+        margin-left: 7vw !important;
+    }
+
+    .anchoGB {
+
+
+        width: 81% !important;
+        margin-left: 1vw !important;
+        margin-right: 2vw !important;
+    }
+
 }
