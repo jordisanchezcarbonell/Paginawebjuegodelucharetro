@@ -391,7 +391,7 @@ class Dragonball extends React.Component {
                 ></img> */}
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD  DIVBD"
+                  className="navDB  col-md-6  borderBotBD  DIVBD"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {
@@ -425,7 +425,7 @@ class Dragonball extends React.Component {
                 </div>
 
                 <div
-                  className="nav nav-tabs col-md-6  borderBotBD DIVBD"
+                  className="navDB  col-md-6  borderBotBD DIVBD"
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {

@@ -330,7 +330,7 @@ class MarvelVSCapcom extends React.Component {
               <h3 className="LetraTituloMC  w-100 mb-4">Character Select</h3>
               <Row className=" w-100 stage  containerMV RowMC">
                 <div
-                  className="col-md-10 mx-auto nav borderBotBD   "
+                  className="col-md-10 mx-auto navMC borderBotBD   "
                   role="tablist"
                 >
                   {this.props.Juego.map((personaje, index) => {

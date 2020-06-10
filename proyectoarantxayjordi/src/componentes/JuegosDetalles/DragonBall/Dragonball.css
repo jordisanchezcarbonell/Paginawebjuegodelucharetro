@@ -242,7 +242,7 @@
 
     .ROWdb {
 
-        margin-left: 2rem !important;
+        margin-left: 1rem !important;
     }
 
     .ContainerDB {
@@ -327,7 +327,7 @@
 
     .ROWdb {
 
-        margin-left: 1rem !important;
+        margin-left: 2.7rem !important;
     }
 
     .ContainerDB {
@@ -427,12 +427,12 @@
 
     .ROWdb {
 
-        margin-left: 1rem !important;
+        margin-left: 1.5rem !important;
     }
 
     .ContainerDB {
 
-        margin-left: -0.8rem !important;
+        margin-left: -1.8rem !important;
     }
 }
 
@@ -505,7 +505,7 @@
 
     .ROWdb {
 
-        margin-left: 1rem !important;
+        margin-left: 1.5rem !important;
     }
 
 }
@@ -535,7 +535,7 @@
 
     .ROWdb {
 
-        margin-left: 3.5rem !important;
+        margin-left: 2.5rem !important;
     }
 
     .TextoPersonajeTituloBD {
@@ -658,7 +658,7 @@
 
     .ROWdb {
 
-        margin-left: 3.5rem !important;
+        margin-left: 2.5rem !important;
     }
 
 
@@ -669,10 +669,20 @@
     }
 
 }
-
+.navDB{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
 @media screen and (max-height: 568px) and (min-width: 320px) {
 
     /*iphone5*/
+    .LetraTituloBD{
+        padding-left: 12vw !important;
+
+    }
     .TextoPersonajeTituloBD {
         margin-left: 2vw !important;
 
@@ -744,12 +754,13 @@
 
     .ROWdb {
 
-        margin-left: 2rem !important;
+        margin-right: 0!important;
     }
 
     .DIVBD {
+        margin-right: 0!important;
 
-        margin-left: -1.2rem !important;
+        margin-left: 0rem !important;
 
     }
 

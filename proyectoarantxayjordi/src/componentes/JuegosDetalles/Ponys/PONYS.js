@@ -51,7 +51,7 @@ class Child extends React.Component {
         </div>
         <Row className="w-100   justify-content-center RowPonis">
           <Col className="col-md-5  w-100  ">
-            <TableContainer className=" fondoTablaPonys margenesresponsive  mt-4   mb-2">
+            <TableContainer className=" fondoTablaPonys margenesresponsive  mt-4   mb-2 AnchoPonys">
               <h3 className="TituloAtaquesPonys my-0 w-100">Unique Movement</h3>
 
               <Table className="nomostrarscrollBD ">
@@ -89,7 +89,7 @@ class Child extends React.Component {
               </Table>
             </TableContainer>
 
-            <TableContainer className=" fondoTablaPonys margenesresponsive ">
+            <TableContainer className=" fondoTablaPonys margenesresponsive  AnchoPonys">
               <h3 className="TituloAtaquesPonys my-0">Superattacks</h3>
 
               <Table className="nomostrarscrollBD">
@@ -129,7 +129,7 @@ class Child extends React.Component {
           </Col>
 
           <Col className="col-md-5  mb-4   ">
-            <TableContainer className=" fondoTablaPonys margenesresponsive mt-4   mb-2">
+            <TableContainer className=" fondoTablaPonys margenesresponsive mt-4   mb-2 AnchoPonys">
               <h3 className="TituloAtaquesPonys my-0">Magic Sytem</h3>
 
               <Table className="nomostrarscrollBD">
@@ -167,7 +167,7 @@ class Child extends React.Component {
               </Table>
             </TableContainer>
 
-            <TableContainer className=" fondoTablaPonys margenesresponsive mb-4">
+            <TableContainer className=" fondoTablaPonys margenesresponsive mb-4 AnchoPonys">
               <h3 className="TituloAtaquesPonys my-0">Specials</h3>
 
               <Table className="nomostrarscrollBD">
