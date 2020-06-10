@@ -3,6 +3,10 @@
 
 }
 
+.witdhgeneralSK {
+  width: 100%;
+}
+
 .DivGeneral {
   color: black;
   text-align: center;
@@ -360,6 +364,9 @@ th {
 
 
 @media screen and (max-height: 823px) and (max-width: 411px) {
+  .witdhgeneralSK {
+    width: 84% !important;
+  }
 
 
   .centrado {
@@ -403,6 +410,10 @@ th {
     display: none !important;
   }
 
+  .witdhgeneralSK {
+    width: 84% !important;
+  }
+
   .ContainerSeparacion {
 
     margin-left: 10vw !important;
@@ -436,6 +447,10 @@ th {
   .centrado {
     bottom: 0.5vh;
     font-size: 2.5vh;
+  }
+
+  .witdhgeneralSK {
+    width: 91% !important;
   }
 
   .ContainerSeparacion {
@@ -503,7 +518,7 @@ th {
   .centrado {
     bottom: 9vh;
     font-size: 3.5vh;
-    
+
   }
 
   .imagenpaddin {
@@ -547,6 +562,9 @@ th {
     margin-left: -92px !important;
   }
 
+  .witdhgeneralSK {
+    width: 89% !important;
+  }
 }
 
 @media screen and (min-width: 1025px) {
