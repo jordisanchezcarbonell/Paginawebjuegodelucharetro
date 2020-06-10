@@ -231,7 +231,7 @@ height: 90px!important;
     }
     .ROWdb {
 
-        margin-left: 0.3rem !important;
+        margin-left: 2rem !important;
     }
 
     .ContainerDB{
@@ -493,26 +493,94 @@ height: 90px!important;
 @media screen and (max-height: 731px) and (min-width: 411px) {
     /*pixel*/
     .TamañoTablaBD {
-        width: 107%!important;
-        overflow-x: auto;
+        width: 100%!important;
+ margin-left: 0vw!important;
+ margin-right: 30vw!important;
+
+    }
+    .ColDB2{
+        margin-top: -20vw!important;
     }
     .TextoPersonajeTituloBD {
         margin-left: 2vw!important;
     
     }
+    .ROWdb {
+
+        margin-left: 3.5rem !important;
+    }
+    .TextoPersonajeTituloBD {
+        margin-left: 2vw!important;
+    
+    }
+  
+        .mifuente {
+            font-size: 4vh !important;
+    
+        }
+    
+        .NavbarDB {
+            display: none !important;
+        }
+    
+        .LetraTituloBD {
+            font-size: 12vw !important;
+        }
+    
+    
+        .bolaDeDrac {
+            height: 8vw !important;
+        }
+    
+        .fondoTabla2BD {
+            margin-right: 0 !important;
+        }
+    
+    
+        .colorFondoAtaquesBD {
+            font-size: 5vw !important;
+        }
+    
+        .imgAtaqueBD {
+    
+            height: 5vw !important;
+        }
+    
+        .FotoBD,
+        .FotoBD2 {
+            border-radius: 0 !important;
+            min-width: 0vw !important;
+            transform: skewX(0deg) !important;
+    width: 90px!important;
+    height: 90px!important;
+            cursor: pointer;
+            min-height: 22vw !important;
+    
+        }
+
+      
+        .ContainerDB{
+
+            margin-left: 1.2rem!important;
+        }
+    
+
 }
 
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (min-height: 823px) and (max-width: 411px) {
 /*pixel xl*/
 .TextoPersonajeTituloBD {
     margin-left: 2vw!important;
 
 }
 .TamañoTablaBD {
-    width: 107%!important;
-    overflow-x: auto;
+    width: 118%!important;
+margin-left: -12vw!important;
+margin-right: 30vw!important;
+
 }
+
     .mifuente {
         font-size: 4vh !important;
 
@@ -559,7 +627,7 @@ height: 90px!important;
 
     .ROWdb {
 
-        margin-left: 1rem !important;
+        margin-left: 3.5rem !important;
     }
 
   
@@ -640,7 +708,7 @@ height: 80px!important;
 
 .ROWdb {
 
-    margin-left: 1rem !important;
+    margin-left: 2rem !important;
 }
 .DIVBD{
 

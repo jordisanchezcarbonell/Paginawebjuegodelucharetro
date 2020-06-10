@@ -101,7 +101,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6 ColDB1   colp">
+            <Col className="col-md-6 ColDB1  ColDB2  colp">
               <TableContainer className=" fondoTablaBD  mt-5 TamañoTablaBD">
                 <h3 className="mifuente TituloAtaquesBD   mt-3 my-0 w-100">
                   Special Moves
