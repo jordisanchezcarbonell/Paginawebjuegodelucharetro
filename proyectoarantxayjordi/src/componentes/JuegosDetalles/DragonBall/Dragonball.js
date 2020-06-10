@@ -384,7 +384,7 @@ class Dragonball extends React.Component {
           <div className="w-100 mt-4">
             <Container className="w-100  ">
               <h3 className="LetraTituloBD">Character Select</h3>
-              <Row className=" w-100 stage ROWdb ">
+              <Row className="  stage ROWdb ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3"

@@ -368,7 +368,7 @@ class UnderNight extends React.Component {
 
         <div className="DivBDFONDOUN ">
           <div className="w-100 mt-4 ">
-            <Container className="w-100 pt-1 containerUN ">
+            <Container className=" pt-1 containerUN ">
               <h3 className="TextoTituloUN   mx-auto">Character Select</h3>
               <Row className=" w-100 stage RowUn  centrarelemento">
                 {/* <img

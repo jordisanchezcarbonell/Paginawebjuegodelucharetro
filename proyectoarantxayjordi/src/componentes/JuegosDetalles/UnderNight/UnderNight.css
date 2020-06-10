@@ -13,6 +13,8 @@
 
 }
 
+
+
 .margenes {
     margin-bottom: 3rem !important;
     margin-right: 3rem !important;
@@ -32,6 +34,7 @@
 
         padding-right: 0px !important;
         padding-left: 0px !important;
+
     }
 
     .tablaInfinetUNDER {
@@ -216,7 +219,12 @@
 
 
 
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
 
+    }
 
 
 
@@ -287,15 +295,15 @@
         height: 1vw !important
     }
 
-    
-.divFOTOUN {
 
-    border: 3px solid black;
-    background: none;
-    margin-right: 1vw;
+    .divFOTOUN {
 
-}
-   
+        border: 3px solid black;
+        background: none;
+        margin-right: 1vw;
+
+    }
+
 
 }
 
@@ -345,28 +353,29 @@
     .margenes {
         margin-bottom: 0rem !important;
         margin-right: 5vw !important;
-        margin-left:8vw!important;
+        margin-left: 8vw !important;
 
     }
 
 
     .UNAFU {
-        width: 169% !important;
+        width: auto !important;
     }
 
     .UNAFU2 {
         margin-top: -10vw !important;
-        width: 128% !important;
+        width: auto !important;
     }
 
     .containerUN {
         padding-right: 0px !important;
         padding-left: 12px !important;
+        width: 93% !important;
     }
 
 
 
-/*   
+    /*   
     .fotoNombrePJUN {
         height: 13vw !important;
 width: 92%!important;
@@ -384,6 +393,8 @@ margin-left: -3vw;
     .containerUN {
         padding-right: 0px !important;
         padding-left: 15px !important;
+        width: 93% !important;
+
     }
 
     .passs {
@@ -446,12 +457,18 @@ margin-left: -3vw;
     }
 
     .UNAFU {
-        width: 148% !important;
+        width: 128% !important;
     }
 
     .UNAFU2 {
         margin-top: -10vw !important;
-        width: 148% !important;
+        width: 128% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
     }
 
 }
@@ -486,9 +503,11 @@ margin-left: -3vw;
         margin-top: -10vw !important;
         width: 108% !important;
     }
+
     .containerUN {
         padding-right: 0px !important;
         padding-left: 15px !important;
+        width: 93% !important;
     }
 
 }
@@ -497,6 +516,7 @@ margin-left: -3vw;
     .NavbarUnder {
         display: none !important;
     }
+
     .passs {
         margin-left: 6vw !important;
         ;
@@ -523,15 +543,22 @@ margin-left: -3vw;
     }
 
     .UNAFU {
-        width: 210% !important;
-        margin-right: 20vw!important;
-        margin-left: 1vw!important;
+        width: 199% !important;
+        margin-right: 20vw !important;
+        margin-left: 1vw !important;
     }
 
     .UNAFU2 {
-        margin-left: 1vw!important;
+        margin-left: 1vw !important;
 
-        width: 246% !important;
+        width: 236% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 93% !important;
+
     }
 }
 
@@ -552,7 +579,7 @@ margin-left: -3vw;
     }
 
     .UNAFU {
-        width: 112% !important;
+        width: 102% !important;
     }
 
     .UNAFU2 {
@@ -604,16 +631,22 @@ margin-left: -3vw;
     }
 
     .UNAFU {
-        width: 212% !important;
+        width: auto !important;
     }
 
     .UNAFU2 {
         margin-top: -10vw !important;
-        width: 148% !important;
+        width: auto !important;
     }
 
     .tamañodeprueba {
         width: 98%;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 12px !important;
+        width: 93% !important;
     }
 }
 
@@ -652,23 +685,28 @@ margin-left: -3vw;
         min-height: 27vw !important;
 
     }
-    
+
     .fotoNombrePJUN {
         height: 13vw !important;
-width: 92%!important;
-margin-left: -3vw;
+        width: 92% !important;
+        margin-left: -3vw;
     }
 
 
     .UNAFU {
-        width: 148% !important;
+        width: auto !important;
     }
 
     .UNAFU2 {
         margin-top: -10vw !important;
-        width: 148% !important;
+        width: auto !important;
     }
 
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 12px !important;
+        width: 93% !important;
+    }
 }
 
 
