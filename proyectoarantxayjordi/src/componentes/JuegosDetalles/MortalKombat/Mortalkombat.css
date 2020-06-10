@@ -91,7 +91,7 @@
 
 }
 
-@media screen and (max-height: 731px) and (min-width: 411px) {
+@media screen and (min-height: 731px) and (max-width: 411px) {
     /*pixel*/
  
 .AnchoMK{
