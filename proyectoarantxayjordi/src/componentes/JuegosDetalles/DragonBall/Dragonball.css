@@ -505,12 +505,19 @@
 
     .ROWdb {
 
-        margin-left: 1.5rem !important;
+        margin-left: 1rem !important;
+    }
+    .RowBDP{
+
+
+        margin-left: -10vw!important;
+        padding-left: 0!important;
+
     }
 
 }
 
-@media screen and (max-height: 731px) and (min-width: 411px) {
+@media screen and (min-height: 731px) and (max-width: 411px) {
 
     /*pixel*/
     .TamañoTablaBD {
@@ -795,11 +802,15 @@
         border-radius: 0 !important;
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
-        width: 100px !important;
-        height: 90px !important;
+        width: 90px !important;
+        height: 80px !important;
         cursor: pointer;
-        min-height: 22vw !important;
+        min-height: 18vw !important;
 
+    }
+    
+    .bolaDeDrac {
+        height: 4vw !important;
     }
 
 }
