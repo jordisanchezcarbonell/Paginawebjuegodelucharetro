@@ -440,7 +440,7 @@
 
 
     /*iphone X*/
-    
+
     .TextoPersonajeTituloBD {
         margin-left: 2vw !important;
 
@@ -508,11 +508,12 @@
 
         margin-left: 1rem !important;
     }
-    .RowBDP{
+
+    .RowBDP {
 
 
-        margin-left: -10vw!important;
-        padding-left: 0!important;
+        margin-left: -10vw !important;
+        padding-left: 0 !important;
 
     }
 
@@ -674,6 +675,7 @@
         margin-left: 1.2rem !important;
         width: auto !important;
     }
+
     .TablaUnqiqueBD {
         margin-bottom: 4vw !important;
         margin-top: -10vw !important;
@@ -681,20 +683,23 @@
 
 
 }
-.navDB{
+
+.navDB {
     display: flex;
     flex-wrap: wrap;
     padding-left: 0;
     margin-bottom: 0;
     list-style: none;
 }
+
 @media screen and (max-height: 568px) and (min-width: 320px) {
 
     /*iphone5*/
-    .LetraTituloBD{
+    .LetraTituloBD {
         padding-left: 12vw !important;
 
     }
+
     .TextoPersonajeTituloBD {
         margin-left: 2vw !important;
 
@@ -766,11 +771,11 @@
 
     .ROWdb {
 
-        margin-right: 0!important;
+        margin-right: 0 !important;
     }
 
     .DIVBD {
-        margin-right: 0!important;
+        margin-right: 0 !important;
 
         margin-left: 0rem !important;
 
@@ -799,7 +804,7 @@
 
     .ROWdb {
 
-        margin-left: 1rem !important;
+        margin-left: 6rem !important;
     }
 
     .FotoBD,
@@ -813,7 +818,7 @@
         min-height: 18vw !important;
 
     }
-    
+
     .bolaDeDrac {
         height: 4vw !important;
     }
