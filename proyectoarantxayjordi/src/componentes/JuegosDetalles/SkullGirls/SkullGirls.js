@@ -147,11 +147,11 @@ class SkullGirls extends React.Component {
                       </div>
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral   padddingdetablasprueba mb-3 AnchoSG"
+                        className="TablaGeneral  tablapruebraquetalmeva  padddingdetablasprueba mb-3 AnchoSG"
                       >
                         <Grid item xs={12}>
                           <Table>
-                            <TableBody className="bodySKULL">
+                            <TableBody className="bodySKULL ">
                               {personaje.Ataques.map((Ataque, index) => (
                                 <TableRow
                                   key={Ataque.nombreAtaque}
@@ -215,7 +215,7 @@ class SkullGirls extends React.Component {
                       </div>
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral padddingdetablasprueba  AnchoSG "
+                        className="TablaGeneral  tablapruebraquetalmeva padddingdetablasprueba  AnchoSG "
                       >
                         <Table>
                           <TableBody className="bodySKULL">
@@ -276,7 +276,7 @@ class SkullGirls extends React.Component {
 
                       <TableContainer
                         component={Paper}
-                        className="TablaGeneral padddingdetablasprueba  AnchoSG "
+                        className="TablaGeneral tablapruebraquetalmeva padddingdetablasprueba  AnchoSG "
                       >
                         <Table>
                           <TableBody className="bodySKULL">
