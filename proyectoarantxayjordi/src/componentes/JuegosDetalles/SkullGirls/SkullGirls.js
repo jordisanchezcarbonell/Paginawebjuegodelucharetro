@@ -112,7 +112,7 @@ class SkullGirls extends React.Component {
         </div>
         <div className="row rowGlobal ">
           <Container className="witdhgeneralSK ContainerSeparacion mt-4 ">
-            <div className=" contenedor ">
+            <div className=" contenedor contDEsc ">
               <h1 className="txtDescripcion ">Descripcion</h1>
               <Image
                 src={require("./header.png")}
@@ -126,7 +126,7 @@ class SkullGirls extends React.Component {
           {this.props.Juego.map((personaje) => {
             return (
               <div className="Personajes witdhgeneralSK" key={personaje.Nombre}>
-                <Container className="w-100 ContainerSeparacion ">
+                <Container className="w-100 ContainerSeparacion  Container2SK">
                   <div className="contenedor">
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
