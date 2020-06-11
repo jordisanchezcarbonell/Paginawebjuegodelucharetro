@@ -11,7 +11,7 @@
 
 }
 }
-@media screen and (max-height: 823px) and (max-width: 411px) {
+@media screen and (min-height: 823px) and (max-width: 411px) {
     /*pixel xl*/
 
     .AnchoMK{
@@ -45,7 +45,7 @@
         .AnchoMK{
     
     
-            width:230%!important ;
+            width:250%!important ;
             margin-left: 3vw!important;
         }
      
@@ -66,7 +66,7 @@
     .AnchoMK{
 
 
-        width:230%!important ;
+        width:250%!important ;
         margin-left: 3vw!important;
     }
  

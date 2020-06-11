@@ -365,9 +365,10 @@
     }
 }
 
-@media screen and (max-height: 1024px) and (min-width: 768px) {
+@media screen and (min-height: 1024px) and (max-width: 768px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
+
     }
 
     .DivSoulcal {
@@ -384,6 +385,15 @@
         width: 120vw !important;
 
     }
+    .fotoCharacterSOUL {
+        height: 10vw!important;
+        width: 70vw!important;
+
+        margin-top: -2vw!important;
+        margin-bottom: -5vw!important;
+    
+    }
+    
 }
 
 
