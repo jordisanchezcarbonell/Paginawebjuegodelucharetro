@@ -38,9 +38,9 @@ class Child extends React.Component {
           </h3>
         </div>
         <Container className="PruebadefondoAtaquesUN tamañodeprueba">
-          <Row className="w-100  px-0 mx-0   prrr">
-            <Col className="col-md-5 w-100  pruebatablas margenes margenesUn ">
-              <TableContainer className="fondoTablaUN UNAFU  eliminarradius nomostrarscrollBD prrr ">
+          <Row className="w-100  px-0 mx-0   prrr restarTOP">
+            <Col className="col-md-5 w-100  pruebatablas margenes  pUNDERA ">
+              <TableContainer className="fondoTablaUN UNAFU  eliminarradius nomostrarscrollBD prrr  AnchoUN">
                 <h3 className="TituloAtaquesUN  py-2 my-0 mb-2 ">
                   Special Attack
                   {/* <hr className="pruebalinea" />   my-0 */}
@@ -89,7 +89,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" UNAFU fondoTablaUN tablaInfinetUNDER mt-3  prrr CONTAINERINFIT">
+              <TableContainer className=" UNAFU fondoTablaUN tablaInfinetUNDER mt-3  prrr CONTAINERINFIT AnchoUN">
                 <h3 className="TituloAtaquesUN2 py-2 ">Infinite Worth</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -131,8 +131,8 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-5 w-100 margenes">
-              <TableContainer className="UNAFU2  fondoTablaUN fondoTablaBD px-0 mt-5 prrr">
+            <Col className="col-md-5 w-100 margenes pUNDERA">
+              <TableContainer className="UNAFU2  fondoTablaUN fondoTablaBD px-0 mt-5 prrr AnchoUN">
                 <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -174,7 +174,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className="  UNAFU2 fondoTablaUN fondoTablaUN  mt-3 mb-4  prrr">
+              <TableContainer className="  UNAFU2 fondoTablaUN fondoTablaUN  mt-3 mb-4  prrr AnchoUN">
                 <h3 className="TituloAtaquesUN4 py-2 ">Infinite Worth EXS</h3>
 
                 <Table className="nomostrarscroll">

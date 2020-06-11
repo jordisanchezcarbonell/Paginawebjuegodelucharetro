@@ -149,6 +149,57 @@
 
 
 @media screen and (min-height: 1366px) and (min-width:1024px) {
+    .puebaNombre{
+        font-size: 2vw!important;
+    }
+    .NavbarUnder{
+        display: none!important;
+    }
+    .passs {
+        margin-left: 6vw !important;
+        ;
+    }
+
+    .AnchoUN {
+
+        margin-left: 3vw !important;
+        ;
+
+    }
+.restarTOP{
+    margin-top: -3vw!important;
+}
+    .UNAFU {
+
+        margin-left: -3vw !important;
+        ;
+        width: 130% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 130% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 100% !important;
+    }
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+
 
     .pUN {
         margin-left: -1rem !important;
@@ -263,7 +314,7 @@
     }
 
 
-
+*/
 
 
 }
@@ -275,7 +326,13 @@
 
 
 @media screen and (min-width:1025px) {
+    .AnchoUN{
+    margin-left:3vw!important;
+    }
+    .restarTOP{
+        margin-top: -2vw!important;
 
+    }
     .NombreAtaquesUN,
     .NombreAtaquesUN2,
     .NombreAtaquesUN4 {
@@ -514,16 +571,72 @@ margin-left: -3vw;
 }
 
 @media screen and (max-width: 768px) and (min-height: 1024px) {
-    .NavbarUnder {
-        display: none !important;
+    .restarTOP{
+        margin-top: -3vw!important;
     }
-
+    .puebaNombre{
+        font-size: 2vw!important;
+    }
+    .NavbarUnder{
+        display: none!important;
+    }
     .passs {
         margin-left: 6vw !important;
         ;
     }
 
-    .prrr {
+    .AnchoUN {
+
+        margin-left: 1vw !important;
+        ;
+
+    }
+
+    .UNAFU {
+        margin-left: -5vw !important;
+        ;
+        width: 140% !important;
+    }
+
+    .UNAFU2 {
+        margin-top: -10vw !important;
+        width: 140% !important;
+    }
+
+    .containerUN {
+        padding-right: 0px !important;
+        padding-left: 15px !important;
+        width: 100% !important;
+    }
+
+    /*
+    
+    
+    
+    .pruebatablas {
+        flex: 0 0 41.666667% !important;
+        max-width: 100% !important;
+
+    }
+
+    
+    
+    
+    
+    @media (min-width: 768px)
+<style>
+.col-md-5 {
+    flex: 0 0 41.666667%;
+    /* max-width: 41.666667%; 
+}
+    
+    
+    
+    */
+   /*
+   
+   
+      .prrr {
 
         margin-left: 5vw !important;
         margin-right: 14vw !important;
@@ -531,19 +644,9 @@ margin-left: -3vw;
 
     }
 
-    .pruebatablas {
-        flex: 0 0 41.666667% !important;
-        max-width: 100% !important;
-
-    }
-
-    .CONTAINERINFIT {
-        margin-bottom: -10vw !important;
-
-
-    }
-
-    .UNAFU {
+   
+   
+   .UNAFU {
         width: 196% !important;
         margin-right: 20vw !important;
         margin-left: 2.5vw !important;
@@ -553,14 +656,9 @@ margin-left: -3vw;
         margin-left: 2vw !important;
 
         width: 244% !important;
-    }
+    }*/
 
-    .containerUN {
-        padding-right: 0px !important;
-        padding-left: 15px !important;
-        width: 93% !important;
-
-    }
+ 
 }
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
