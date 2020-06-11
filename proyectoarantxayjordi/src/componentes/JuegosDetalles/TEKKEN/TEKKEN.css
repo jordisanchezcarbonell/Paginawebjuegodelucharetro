@@ -120,7 +120,16 @@
         margin-left: 3vw !important;
     }
 }
+/*tamañodefectoTK*/
 
+@media screen and (min-width: 1025px) {
+
+    .tamañodefectoTK{
+
+margin-left: 1vw!important;
+
+    }
+}
 @media screen and (max-width: 1025px) {
     .LetraTituloTK {
 

@@ -130,7 +130,33 @@
     }
 
 }
+/*.tablaGBP1{
+    margin-left:3vw!important;
+    margin-right:-4vw!important;
 
+    padding:0!important;
+}
+.tablaGBP{
+    margin-right:-6vw!important;
+
+    padding:0!important;
+}*/
+@media screen and (min-width:1025px) {
+    .tablaGBP1{
+        margin-left:3vw!important;
+        margin-right:-4vw!important;
+    
+        padding:0!important;
+    }
+    .tablaGBP{
+        margin-right:-6vw!important;
+    
+        padding:0!important;
+    }
+
+
+
+}
 @media screen and (min-height: 736px) and (max-width: 414px) {
     .products {
         margin-left: 7vw !important;
@@ -201,6 +227,8 @@
     }
 }
 */
+
+
 
 .margenesGBPRUEBA {
     margin-top: 3rem;

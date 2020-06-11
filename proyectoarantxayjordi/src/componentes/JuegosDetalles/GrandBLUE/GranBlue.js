@@ -35,7 +35,7 @@ class Child extends React.Component {
         </div>
         <Container className="">
           <Row className="w-100  px-0 mx-0">
-            <Col className="col-md-6 w-100 mb-3">
+            <Col className="col-md-6 w-100 mb-3 tablaGBP1">
               <TableContainer
                 component={Paper}
                 className="fondoTablaGB  eliminarradius margenesGBPRUEBA anchoGB"
@@ -124,7 +124,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
             </Col>
-            <Col className="col-md-6">
+            <Col className="col-md-6 tablaGBP">
               <TableContainer className=" fondoTablaGB   margenesGBPRUEBA  anchoGB">
                 <h3 className="TituloAtaquesGB my-0">Sky bound Art</h3>
 
