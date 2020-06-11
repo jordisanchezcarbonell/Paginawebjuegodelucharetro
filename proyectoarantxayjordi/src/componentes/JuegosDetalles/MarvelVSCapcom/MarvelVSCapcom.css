@@ -58,7 +58,7 @@ filter: sepia(60%);
 .DIVCONTENEDORTABLAMVS {
     background-color: rgba(0, 0, 0, 0.555) !important;
     width: 100% !important;
-
+    margin-bottom: -1vw !important;
 }
 
 /*https://www.fightersgeneration.com/newspics/bg-red5.gif*/
@@ -304,6 +304,7 @@ filter: sepia(60%);
         margin-left: 4%;
 
     }
+
     .containerMV {
         padding-right: 0px !important;
         padding-left: 20px !important;

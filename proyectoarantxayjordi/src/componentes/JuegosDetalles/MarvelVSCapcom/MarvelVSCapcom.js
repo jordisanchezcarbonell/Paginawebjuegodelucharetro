@@ -317,7 +317,7 @@ class MarvelVSCapcom extends React.Component {
               ></img>
             </Col>
             <Col md="4" className="fondo2MC">
-              <h1 className="TextoTituloDB">{this.props.detalles.Nombre} </h1>
+              <h1 className="TextoTituloDB"></h1>
             </Col>
 
             <Col md="5" style={style}></Col>
