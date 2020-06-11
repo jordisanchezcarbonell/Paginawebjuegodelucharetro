@@ -329,6 +329,12 @@ th {
     bottom: 2.5vh;
     font-size: 2.5vh;
   }
+  
+  .ContainerSeparacion {
+
+    margin-left: 1vw !important;
+    
+  }
 }
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
@@ -382,7 +388,6 @@ th {
   .ContainerSeparacion {
 
     margin-left: 10vw !important;
-    width: 100% !important;
   }
 
   .AnchoSG {
@@ -417,7 +422,6 @@ th {
   .ContainerSeparacion {
 
     margin-left: 10vw !important;
-    width: 90% !important;
   }
 
   .AnchoSG {
@@ -456,7 +460,6 @@ th {
   .ContainerSeparacion {
 
     margin-left: 7vw !important;
-    width: 90% !important;
   }
 
   .AnchoSG {
