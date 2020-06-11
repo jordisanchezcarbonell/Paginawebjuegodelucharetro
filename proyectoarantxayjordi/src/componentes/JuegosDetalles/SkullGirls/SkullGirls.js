@@ -87,7 +87,7 @@ class SkullGirls extends React.Component {
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
-                className="fotoLogoPonys"
+                className="fotoSkulls"
                 height="110vw"
               ></img>
             </Col>
