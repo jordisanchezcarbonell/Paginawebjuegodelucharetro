@@ -58,16 +58,16 @@
   .AnchoKI {
 
     width: 150% !important;
-    margin-left: -15vw !important;
+    margin-left: -11vw !important;
   }
 
   .NombreKI {
-    margin-left: -14vw !important;
+    margin-left: -11vw !important;
 
   }
 
   .botonSpan {
-    margin-right: -6vw !important;
+    margin-right: -10vw !important;
   }
 
 }
@@ -75,54 +75,51 @@
 @media screen and (max-height: 640px) and (max-width: 360px) {
 
   /*MotoG4 GalazyG5*/
-  /* .AnchoKI{
+   .AnchoKI{
 
-    width: 120%!important;
-    margin-left: -3vw!important;
+    margin-left: 2vw!important;
   }
   .NombreKI{
-    margin-left: -3vw!important;
+    margin-left: 2vw!important;
 
   }
   .botonSpan{
-    margin-right: -11vw!important;
-  }*/
+    margin-right:-1vw!important;
+  }
 
 
 }
 
 @media screen and (max-height: 731px) and (max-width: 411px) {
   /*pixel*/
-  /*.AnchoKI{
+  .AnchoKI{
 
-    width: 130%!important;
+    margin-left: 2vw!important;
   }
   .NombreKI{
-    margin-left: -10vw!important;
+    margin-left: 2vw!important;
 
   }
   .botonSpan{
-    margin-right: -10vw!important;
+    margin-right:-1vw!important;
   }
-*/
 
 }
 
 @media screen and (max-height: 823px) and (min-width: 411px) {
   /*pixel xl*/
 
-  /*.AnchoKI{
+  .AnchoKI{
 
-    width: 130%!important;
+    margin-left: 2vw!important;
   }
   .NombreKI{
-    margin-left: -10vw!important;
+    margin-left: 2vw!important;
 
   }
   .botonSpan{
-    margin-right: -10vw!important;
+    margin-right:-1vw!important;
   }
-*/
 
 
 }
@@ -165,25 +162,84 @@
 
 }
 
+@media screen and  (max-height: 812px) {
+
+  .TituloDescripcionKI{
+    margin-top: -2vw!important;
+    
+    
+    }
+    
+    .LogoKiNav{
+      display: none;
+    }
 
 
+}
+.NavbarKI{
+
+  margin-bottom:-2vw!important;
+}
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+  .AnchoKI {
+
+    margin-left: 2vw !important;
+  }
+
+  .NombreKI {
+    margin-left: 2vw !important;
+
+  }
+
+  .botonSpan {
+    margin-right: 1 !important;
+  }
+
+}
 @media screen and (max-width: 768px) and (min-height: 1024px) {
 
   .AnchoKI {
 
     width: 150% !important;
-    margin-left: -15vw !important;
+    margin-left: -11vw !important;
   }
 
   .NombreKI {
-    margin-left: -14vw !important;
+    margin-left: -11vw !important;
 
   }
 
   .botonSpan {
-    margin-right: -5vw !important;
+    margin-right: -10vw !important;
   }
+  .LogoKiNav{
+  margin-left: 2vw!important;
+  }
+  .TextoTitulokI{
+
+    display: none!important;
+  }
+.Logo2KI{
+height: 10vw!important;
 }
+  .degraKI{
+
+    margin-left: -2vw!important;
+  }
+
+
+}
+/*.NavbarKI{
+margin-top: 1vw!important;
+margin-bottom: -6vw!important;
+
+
+}
+
+.LogoKiNav{
+  display: none;
+}*/
 
 @media screen and (max-width: 1024px) {
   .esconder {
@@ -217,7 +273,12 @@
     text-align: center !important;
 
   }
-
+  .NavbarKI{
+    margin-top: 1vw!important;
+    margin-bottom: -3vw!important;
+    
+    
+    }
 
 
   .centrarelemento {
@@ -225,8 +286,7 @@
   }
 
   .fotoLogoKI {
-    display: none !important;
-  }
+margin-top: -0.5vw!important;  }
 
   .ContainerKI {
     margin-right: 0 !important;

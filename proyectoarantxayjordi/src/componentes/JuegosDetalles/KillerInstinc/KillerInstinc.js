@@ -86,13 +86,13 @@ class KillerInstinc extends React.Component {
           </Modal.Footer>
         </Modal>
         <div>
-          <Row>
-            <Col md="3" className="fondo1">
+          <Row className="NavbarKI">
+            <Col md="3" className="fondo1 LogoKiNav">
               <h6> {this.props.detalles[0]}</h6>
               <img
                 src={process.env.PUBLIC_URL + this.props.detalles.Foto}
                 alt=""
-                className="fotoLogoKI"
+                className="fotoLogoKI  Logo2KI"
                 height="110vw"
               ></img>
             </Col>
@@ -100,7 +100,7 @@ class KillerInstinc extends React.Component {
               <img src={logo} className="TextoTitulokI" alt="imagen del logo" />
             </Col>
 
-            <Col md="5" style={style}></Col>
+            <Col md="5" className="degraKI" style={style}></Col>
 
             {/* {juegos.map((juego, index) => {
             return (
