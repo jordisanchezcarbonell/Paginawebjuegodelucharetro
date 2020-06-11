@@ -141,6 +141,18 @@
 }
 
 
+@media screen and (max-width:1024px) {
+
+    .NavbarUnder {
+        display: none !important;
+    }
+
+
+
+}
+
+
+
 
 
 
@@ -149,12 +161,14 @@
 
 
 @media screen and (min-height: 1366px) and (min-width:1024px) {
-    .puebaNombre{
-        font-size: 2vw!important;
+    .puebaNombre {
+        font-size: 2vw !important;
     }
-    .NavbarUnder{
-        display: none!important;
+
+    .NavbarUnder {
+        display: none !important;
     }
+
     .passs {
         margin-left: 6vw !important;
         ;
@@ -166,9 +180,11 @@
         ;
 
     }
-.restarTOP{
-    margin-top: -3vw!important;
-}
+
+    .restarTOP {
+        margin-top: -3vw !important;
+    }
+
     .UNAFU {
 
         margin-left: -3vw !important;
@@ -194,7 +210,7 @@
 
 
 
-/*
+    /*
 
 
 
@@ -326,13 +342,15 @@
 
 
 @media screen and (min-width:1025px) {
-    .AnchoUN{
-    margin-left:3vw!important;
+    .AnchoUN {
+        margin-left: 3vw !important;
     }
-    .restarTOP{
-        margin-top: -2vw!important;
+
+    .restarTOP {
+        margin-top: -2vw !important;
 
     }
+
     .NombreAtaquesUN,
     .NombreAtaquesUN2,
     .NombreAtaquesUN4 {
@@ -571,15 +589,18 @@ margin-left: -3vw;
 }
 
 @media screen and (max-width: 768px) and (min-height: 1024px) {
-    .restarTOP{
-        margin-top: -3vw!important;
+    .restarTOP {
+        margin-top: -3vw !important;
     }
-    .puebaNombre{
-        font-size: 2vw!important;
+
+    .puebaNombre {
+        font-size: 2vw !important;
     }
-    .NavbarUnder{
-        display: none!important;
+
+    .NavbarUnder {
+        display: none !important;
     }
+
     .passs {
         margin-left: 6vw !important;
         ;
@@ -633,7 +654,7 @@ margin-left: -3vw;
     
     
     */
-   /*
+    /*
    
    
       .prrr {
@@ -658,7 +679,7 @@ margin-left: -3vw;
         width: 244% !important;
     }*/
 
- 
+
 }
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
