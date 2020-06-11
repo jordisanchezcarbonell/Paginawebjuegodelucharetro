@@ -11,6 +11,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
+import { Link } from "react-router-dom";
 
 // get our fontawesome imports
 
@@ -24,6 +25,24 @@ class Child extends React.Component {
     this.myRef = React.createRef(); // Create a ref object
   }
 
+  showModal = (e, imagenes) => {
+    this.setState({
+      show: true,
+      elmento: e,
+      imagen: imagenes,
+    });
+
+    console.log(this.state.elemento);
+  };
+
+  state = {
+    show: false,
+    elmento: "",
+    imagen: "",
+  };
+  handleCloseModal = (e) => {
+    this.setState({ show: false });
+  };
   render() {
     return (
       <div
@@ -31,6 +50,30 @@ class Child extends React.Component {
         className="PruebadefondoAtaquesMC DIVCONTENEDORTABLAMVS "
         key={this.props.elemento.Nombre}
       >
+        <Modal show={this.state.show}>
+          <Modal.Header>
+            <Modal.Title>{this.state.elmento} </Modal.Title>
+          </Modal.Header>
+          <Modal.Body>
+            <img
+              className=""
+              variant="top"
+              src={process.env.PUBLIC_URL + this.state.imagen}
+              alt="Error"
+            />
+            <ReactPlayer
+              //Modificacion del tamaño del video.
+              width="100px"
+              height="100px"
+              url="https://www.youtube.com/watch?v=3IHJokjMpf0"
+            />
+          </Modal.Body>
+          <Modal.Footer>
+            <Button variant="secondary" onClick={this.handleCloseModal}>
+              Close
+            </Button>
+          </Modal.Footer>
+        </Modal>
         <div className=" enter mt-4 pROSF  ">
           <h3 className="TextoPersonajeTituloMC">
             {this.props.elemento.Nombre}
@@ -58,6 +101,12 @@ class Child extends React.Component {
                         className="mx-5  rowSF5 MVCursor"
                       >
                         <TableCell
+                          onClick={() =>
+                            this.showModal(
+                              Ataque.nombreAtaque,
+                              Ataque.Animacion[0]
+                            )
+                          }
                           className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC tablaborderabajo "
                           scope="row"
                           component="td"
@@ -107,6 +156,12 @@ class Child extends React.Component {
                           scope="row"
                           component="td"
                           align="left"
+                          onClick={() =>
+                            this.showModal(
+                              Ataque.nombreAtaque,
+                              Ataque.Animacion[0]
+                            )
+                          }
                         >
                           {Ataque.nombreAtaque}
                         </TableCell>
@@ -151,6 +206,12 @@ class Child extends React.Component {
                           component="td"
                           scope="row"
                           align="left"
+                          onClick={() =>
+                            this.showModal(
+                              Ataque.nombreAtaque,
+                              Ataque.Animacion[0]
+                            )
+                          }
                         >
                           {Ataque.nombreAtaque}
                         </TableCell>
@@ -180,6 +241,19 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
+              <Link
+                to={{
+                  pathname: "/BiografiaMarvelvsCapcom",
+                  state: {
+                    ALL: this.props.elemento,
+                  },
+                }}
+                className="btn-ki large ghostpulse "
+              >
+                <span className="botonSpan">
+                  <span>Biography &amp; Videos</span>
+                </span>
+              </Link>
             </Col>
           </Row>
         </Container>

@@ -16,6 +16,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 
 import ReactPlayer from "react-player";
+import { Link } from "react-router-dom";
 
 import logo from "./logo-ki.png";
 //AVER SI FUNCIOONA
@@ -120,7 +121,9 @@ class KillerInstinc extends React.Component {
           <div className="FondoDescripcionKI w-100 h-100 mt-4 ">
             <Row>
               <h1 className="TituloDescripcionKI mx-auto mt-3">Descripcion</h1>
-              <p className="mx-5 parrafodesc ">{this.props.detalles.Descripcion}</p>
+              <p className="mx-5 parrafodesc ">
+                {this.props.detalles.Descripcion}
+              </p>
             </Row>
           </div>
           {this.props.Juego.map((personaje) => {
@@ -163,7 +166,10 @@ class KillerInstinc extends React.Component {
                     </Col>
                     <Col className="pra pra2 w-100 col-md-6  centrarelemento">
                       <h1 className="NombreKI">{personaje.Nombre}</h1>
-                      <TableContainer component={Paper} className="T mb-3 AnchoKI">
+                      <TableContainer
+                        component={Paper}
+                        className="T mb-3 AnchoKI"
+                      >
                         <Table size="small">
                           <TableBody className="bodyKI">
                             {personaje.Ataques.map((Ataque, index) => (
@@ -213,9 +219,19 @@ class KillerInstinc extends React.Component {
                         align="right"
                         href="https://www.ultra-combo.com/characters/rash/"
                       >
-                        <span className="botonSpan">
-                          <span>Biography &amp; Videos</span>
-                        </span>
+                        <Link
+                          to={{
+                            pathname: "/BiografiaKiller",
+                            state: {
+                              ALL:personaje,
+                            },
+                          }}
+                          className="btn-ki large ghostpulse "
+                        >
+                          <span className="botonSpan">
+                            <span>Biography &amp; Videos</span>
+                          </span>
+                        </Link>
                       </a>
                     </Col>
                   </Row>

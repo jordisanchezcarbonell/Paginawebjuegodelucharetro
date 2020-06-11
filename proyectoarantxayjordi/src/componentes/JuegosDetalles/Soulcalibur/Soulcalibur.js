@@ -12,7 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import { animateScroll as scroll } from "react-scroll";
 import Image from "react-bootstrap/Image";
-
+import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
 
 //AVER SI FUNCIOONA
@@ -436,6 +436,19 @@ class Soulcalibur extends React.Component {
                                 src={process.env.PUBLIC_URL + personaje.Foto}
                                 alt="Error"
                               />
+                              <Link
+                                to={{
+                                  pathname: "/BiografiaSoul",
+                                  state: {
+                                    ALL: personaje,
+                                  },
+                                }}
+                                className="btn-ki large ghostpulse "
+                              >
+                                <span className="botonSpan">
+                                  <span>Biography &amp; Videos</span>
+                                </span>
+                              </Link>
                             </Col>
                           </Row>
                         </Container>

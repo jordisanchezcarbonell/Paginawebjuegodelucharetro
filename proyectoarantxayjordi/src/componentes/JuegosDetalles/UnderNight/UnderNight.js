@@ -13,7 +13,7 @@ import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 import TituloPJ from "./TituloPJ.png";
 // get our fontawesome imports
-
+import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
 
 //AVER SI FUNCIOONA
@@ -218,7 +218,21 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
+              <Link
+                to={{
+                  pathname: "/BiografiaUndernight",
+                  state: {
+                    ALL: this.props.elemento,
+                  },
+                }}
+                className="btn-ki large ghostpulse "
+              >
+                <span className="botonSpan">
+                  <span>Biography &amp; Videos</span>
+                </span>
+              </Link>
             </Col>
+            
           </Row>
         </Container>
       </div>

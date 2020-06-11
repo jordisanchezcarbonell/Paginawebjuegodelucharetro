@@ -13,7 +13,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 // get our fontawesome imports
-
+import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
 
 //AVER SI FUNCIOONA
@@ -102,6 +102,19 @@ class Child extends React.Component {
                 src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
                 alt="imagen personaje"
               ></img>
+              <Link
+                to={{
+                  pathname: "/BiografiaTekken",
+                  state: {
+                    ALL: this.props.elemento,
+                  },
+                }}
+                className="btn-ki large ghostpulse "
+              >
+                <span className="botonSpan">
+                  <span>Biography &amp; Videos</span>
+                </span>
+              </Link>
             </Col>
           </Row>
         </Container>

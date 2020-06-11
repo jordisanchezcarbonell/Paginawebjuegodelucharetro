@@ -11,11 +11,8 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-
+import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
-
-
-
 
 //AVER SI FUNCIOONA
 
@@ -24,7 +21,24 @@ class Child extends React.Component {
     super(props);
     this.myRef = React.createRef(); // Create a ref object
   }
+  showModal = (e, imagenes) => {
+    this.setState({
+      show: true,
+      elmento: e,
+      imagen: imagenes,
+    });
 
+    console.log(this.state.elemento);
+  };
+
+  state = {
+    show: false,
+    elmento: "",
+    imagen: "",
+  };
+  handleCloseModal = (e) => {
+    this.setState({ show: false });
+  };
   render() {
     const fondopersonaje = {
       backgroundImage:
@@ -44,6 +58,24 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
         className="mx-auto"
       >
+        <Modal show={this.state.show}>
+          <Modal.Header>
+            <Modal.Title>{this.state.elmento} </Modal.Title>
+          </Modal.Header>
+          <Modal.Body>
+            <img
+              className=""
+              variant="top"
+              src="https://wiki.gbl.gg/images/f/f2/TFH_Arizona_6A.png"
+              alt="Error"
+            />
+          </Modal.Body>
+          <Modal.Footer>
+            <Button variant="secondary" onClick={this.handleCloseModal}>
+              Close
+            </Button>
+          </Modal.Footer>
+        </Modal>
         <div className="fondonombrePnys">
           <h3 className="TextoPersonajeTituloPonys">
             {this.props.elemento.Nombre}
@@ -59,6 +91,12 @@ class Child extends React.Component {
                   {this.props.elemento.Uniquemovement.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
+                        onClick={() =>
+                          this.showModal(
+                            Ataque.nombreAtaque,
+                            Ataque.Animacion[0]
+                          )
+                        }
                         className="  py-2 colorFondoAtaquesPonys  nomostrarscrollBD tablaborderabajo"
                         scope="row"
                         component="td"
@@ -97,6 +135,12 @@ class Child extends React.Component {
                   {this.props.elemento.SUPERATTACKS.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
+                        onClick={() =>
+                          this.showModal(
+                            Ataque.nombreAtaque,
+                            Ataque.Animacion[0]
+                          )
+                        }
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo assa "
                         component="td"
                         scope="row"
@@ -137,6 +181,12 @@ class Child extends React.Component {
                   {this.props.elemento.MAGICSYSTEM.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
+                        onClick={() =>
+                          this.showModal(
+                            Ataque.nombreAtaque,
+                            Ataque.Animacion[0]
+                          )
+                        }
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
                         scope="row"
@@ -175,6 +225,12 @@ class Child extends React.Component {
                   {this.props.elemento.Specials.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
+                        onClick={() =>
+                          this.showModal(
+                            Ataque.nombreAtaque,
+                            Ataque.Animacion[0]
+                          )
+                        }
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
                         scope="row"
@@ -204,6 +260,19 @@ class Child extends React.Component {
                 </TableBody>
               </Table>
             </TableContainer>
+            <Link
+              to={{
+                pathname: "/BiografiaPonys",
+                state: {
+                  ALL: this.props.elemento,
+                },
+              }}
+              className="btn-ki large ghostpulse "
+            >
+              <span className="botonSpan">
+                <span>Biography &amp; Videos</span>
+              </span>
+            </Link>
           </Col>
         </Row>
       </div>
@@ -310,14 +379,8 @@ class PONYS extends React.Component {
             <img
               className="imgAtaque"
               variant="top"
-              src={process.env.PUBLIC_URL + this.state.imagen}
+              src="https://wiki.gbl.gg/w/File:TFH_Arizona_6A.png"
               alt="Error"
-            />
-            <ReactPlayer
-              //Modificacion del tamaño del video.
-              width="100px"
-              height="100px"
-              url="https://www.youtube.com/watch?v=3IHJokjMpf0"
             />
           </Modal.Body>
           <Modal.Footer>

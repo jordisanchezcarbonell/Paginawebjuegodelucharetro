@@ -13,6 +13,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import ReactPlayer from "react-player";
 import Grid from "@material-ui/core/Grid";
+import { Link } from "react-router-dom";
 
 //AVER SI FUNCIOONA
 class SkullGirls extends React.Component {
@@ -328,6 +329,19 @@ class SkullGirls extends React.Component {
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         alt="Error"
                       />
+                      <Link
+                        to={{
+                          pathname: "/BiografiaSkullGirl",
+                          state: {
+                            ALL: personaje,
+                          },
+                        }}
+                        className="btn-ki large ghostpulse "
+                      >
+                        <span className="botonSpan">
+                          <span>Biography &amp; Videos</span>
+                        </span>
+                      </Link>
                     </Col>
                   </Row>
                 </Container>

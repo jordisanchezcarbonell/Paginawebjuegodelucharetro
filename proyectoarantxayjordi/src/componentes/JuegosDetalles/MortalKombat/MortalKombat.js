@@ -12,7 +12,7 @@ import { withRouter } from "react-router-dom";
 import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
-
+import { Link } from "react-router-dom";
 // get our fontawesome imports
 
 import ReactPlayer from "react-player";
@@ -187,6 +187,19 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
+              <Link
+                to={{
+                  pathname: "/BiografiaMK",
+                  state: {
+                    ALL: this.props.elemento,
+                  },
+                }}
+                className="btn-ki large ghostpulse "
+              >
+                <span className="botonSpan">
+                  <span>Biography &amp; Videos</span>
+                </span>
+              </Link>
             </Col>
           </Row>
         </Container>
