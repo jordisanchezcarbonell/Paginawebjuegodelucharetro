@@ -324,7 +324,7 @@ class StreetFighter5 extends React.Component {
               ></img>
             </Col>
             <Col md="4" className="fondo2">
-              <h1 className="TextoTituloDB">{this.props.detalles.Nombre} </h1>
+              {/* <h1 className="TextoTituloDB">{this.props.detalles.Nombre} </h1> */}
             </Col>
 
             <Col md="5" style={style}></Col>
