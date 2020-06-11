@@ -48,7 +48,7 @@ class Child extends React.Component {
         </div>
         <Container className="ContainerDB pl-0 ">
           <Row className="w-100  px-0 mx-0 RowBDP">
-            <Col className="col-md-6 w-100 mb-5  ColDB1  ">
+            <Col className="col-md-6 w-100 mb-5  ColDB1 colUniDB ">
               <TableContainer
                 component={Paper}
                 className="fondoTablaBD  eliminarradius nomostrarscrollBD fondoTabla2BD TablaUnqiqueBD TamañoTablaBD "

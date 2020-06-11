@@ -794,7 +794,10 @@
 
         margin-left: 3rem !important;
     }
+    .ContainerDB {
 
+        margin-left:5vw !important;
+    }
 
 
 
@@ -804,7 +807,7 @@
 
     .ROWdb {
 
-        margin-left: 6rem !important;
+        margin-left: 2rem !important;
     }
 
     .FotoBD,
@@ -813,19 +816,24 @@
         min-width: 0vw !important;
         transform: skewX(0deg) !important;
         width: 90px !important;
-        height: 80px !important;
+        height: 40px !important;
         cursor: pointer;
-        min-height: 18vw !important;
+        min-height: 12vw !important;
 
     }
 
     .bolaDeDrac {
         height: 4vw !important;
     }
+    .ContainerDB {
+
+        margin-left:5vw !important;
+    }
 
 }
 
 @media screen and (min-width: 1025px) {
+ 
     .FotoMC {
         border: 2.5px rgb(219, 149, 18) solid;
 
@@ -837,7 +845,7 @@
     .ContainerDB {
 
         margin-right: auto !important;
-        margin-left: auto !important;
+        margin-left: 6vw !important;
 
     }
 
