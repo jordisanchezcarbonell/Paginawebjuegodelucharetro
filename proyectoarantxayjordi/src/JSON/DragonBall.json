@@ -1,10 +1,21 @@
 [
   {
     "Nombre": "Bardock",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Bardock (バーダック, Bādakku) is a low-class Saiyan warrior who is the biological father of Goku, who first appears in the 1990 TV special Dragon Ball Z: Bardock - The Father of Goku. He is as a playable character in Dragon Ball FighterZ, being the first downloadable character revealed in the game, being released on March 28, 2018 alongside Broly.",
 
+    "Animename": "Bardock",
+    "Manganame": "Burdock",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "1'80cm",
+    "Weight": "85 Kg",
+
+    "Personality": "Like most Saiyans from Universe 7, he is somewhat cocky, loves fighting, and will kill in cold blood. But compared to the cold-hearted and simple thoughts of his race, Bardock also happens to possess calm judgment and a measure of humanity. Due to his actions of saving his companions, which is rare for a Saiyan, he is greatly adored among a portion of the low-class warriors. He has a great sense of pride and independence as while most Saiyans have all been tamed by Frieza and his army, even King Vegeta, Bardock is the only one that maintains something of their pure nature and showed a willingness to challenge Frieza.",
     "Foto": "imagenes/DBZTODO/bardock.png",
     "Foto2": "imagenes/PersonajesBD/bardock.png",
+    "Combos": "https://www.youtube.com/watch?v=VlMh2OPXXY8",
+    "Combos2": "https://www.youtube.com/watch?v=pi9DwBc8yq0",
     "NormalAttacks": [
       {
         "nombreAtaque": "A body blow.",
@@ -188,10 +199,21 @@
   },
   {
     "Nombre": "Kid Buu",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Kid Buu (魔人ブウ （純粋）, Majin Bū (Junsui)) is the original, pure form of Majin Buu. He is a playable character in Dragon Ball FighterZ.",
     "Foto": "imagenes/DBZTODO/kid-buu.png",
-    "Foto2": "imagenes/PersonajesBD/kid-buu.jpg",
+    "Foto2": "imagenes/PersonajesBD/kid_buu.png",
 
+    "Animename": "Majin Buu",
+    "Manganame": "Djinn Boo (Viz Translation)",
+    "Raze": "Majin",
+    "Gender": "Male",
+
+    "Size": "1.41 cm",
+    "Weight": "45 Kg",
+
+    "Personality": "Kid Buu's personality is very similar to that of a very young spoiled, selfish child, in that he retains no form of compassion or remorse for any of his actions. Furthermore, due to his selfish and capricious personality and mind-set, he is incapable of developing empathy and comprehending the nature of his actions. It can also be said that Kid Buu is very similar to that of a low-functioning sociopath. Kid Buu is also, like a child, very unpredictable in his behavior and actions, sometimes randomly falling asleep during battle, or acting like a monkey by banging his chest with his fists",
+    "Combos": "https://www.youtube.com/watch?v=_7r_SnkdaLI",
+    "Combos2": "https://www.youtube.com/watch?v=MeWq8OzXplI",
     "NormalAttacks": [
       {
         "nombreAtaque": "A gut punch.",
@@ -395,10 +417,20 @@
 
   {
     "Nombre": "GT Goku",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Goku (GT) (孫悟空 (GT), Son Gokū (GT)) is an alternate version of Goku who appears in the Dragon Ball GT series. He is a playable character in Dragon Ball FighterZ as the third downloadable fighter of FighterZ Pass 2 and was released on May 9th, 2019, which is officially known as Goku Day in Japan.",
     "Foto": "imagenes/DBZTODO/kid-goku.png",
-    "Foto2": "imagenes/PersonajesBD/goku-gt.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku-gt.png",
+    "Animename": "Kakarot",
+    "Manganame": "Kakarot",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "1.41 cm",
+    "Weight": "45 Kg",
+
+    "Personality": "Goku is shown to suffer from severe trypanophobia, or the fear of medical needles, but this only occurs in the anime.[25] He showed his fear for them twice in Dragon Ball Z, and three times during Dragon Ball GT. The first time was after his battle with Vegeta, and when he was taken to Wukong Hospital. The second time he showed his fear of needles was after the fight with Captain Ginyu on Namek, while he was on his way to recover in a Medical Machine. In Dragon Ball GT, it was shown when Goku, Pan, and Trunks brought an injured boy to planet Pital. The second time, during his first battle against Baby Vegeta, he was blasted into Sogorugo Space, where he witnessed a hologram of Chi-Chi that threw a gigantic needle at him. Lastly, Goku showed his fear after learning from Pan that the four-star Dragon Ball was coming out of his forehead, worrying that he would need a shot.",
+    "Combos": "https://www.youtube.com/watch?v=Uvy5m7I3wRo",
+    "Combos2": "https://www.youtube.com/watch?v=kjKLgzCVrks",
     "NormalAttacks": [
       {
         "nombreAtaque": "A gut punch.",
@@ -608,10 +640,20 @@
 
   {
     "Nombre": "Adult Gohan",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Gohan (悟飯, Gohan) is the Saiyan/Human-hybrid son of Goku and Chichi. Two versions of this character exist. This article is on his adult variant.",
     "Foto": "imagenes/DBZTODO/gohan-adult.png",
-    "Foto2": "imagenes/PersonajesBD/gohan_adulto.jpg",
+    "Foto2": "imagenes/PersonajesBD/gohan_adulto.png",
+    "Animename": "Gohan",
+    "Manganame": "Son Gohan",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "176cm",
+    "Weight": "61 Kg",
+
+    "Personality": "as a child, Gohan is a shy and studious intellectual child who lacks the Saiyan fighting spirit, so he had to utilize his incredible half-breed Saiyan potential and emotional reserves to protect those he loves, becoming one of the most powerful Z Fighters. As an adult, he achieves his dream career of becoming a great scholar.",
+    "Combos": "https://www.youtube.com/watch?v=ikU-LoPEwFM",
+    "Combos2": "https://www.youtube.com/watch?v=yWXzvRpstpo",
     "NormalAttacks": [
       {
         "nombreAtaque": "Hitting shin kick",
@@ -797,10 +839,20 @@
 
   {
     "Nombre": "Cell",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Cell (セル Seru) is the ultimate creation of Dr. Gero, who came from a future timeline, designed using the genetics of the greatest fighters to have been present on Earth that the remote tracking device could track down; the result was a perfect warrior, possessing numerous favorable genetic traits and special abilities from Goku, Vegeta, Piccolo, Frieza and King Cold.",
     "Foto": "imagenes/DBZTODO/cell.png",
-    "Foto2": "imagenes/PersonajesBD/celula.jpg",
+    "Foto2": "imagenes/PersonajesBD/celula.png",
+    "Animename": "Cell",
+    "Manganame": "Cell",
+    "Raze": "Bio-Android",
+    "Gender": "Male",
 
+    "Size": "213cm",
+    "Weight": "80 Kg",
+
+    "Personality": "Cell has an original personality, with various other characters' personality traits added in; Gero's computer redesigned the weak aspects of the original personality, adding in the personalities of various different characters to make him the perfect weapon.[1] Throughout the Androids Arc, Cell's personality changes drastically with each transformation. At first, Cell's desire to complete his evolution by absorbing both Android 17 and Android 18 is what fuels him in his imperfect form. Upon reaching his final form, his eagerness to test the limits of his newfound power is what defines his character. Cell is unique among most villains of the series in that he is quite sophisticated. Because of his genetic composition from other warriors, he is able to psychologically manipulate those warriors and exploit their weaknesses to his advantage. He also found the Dragon Balls' reviving ability to be a nuisance, as evidenced by his relief when he learned that the Dragon Balls were rendered inert due to Piccolo and Kami's fusion.",
+    "Combos": "https://www.youtube.com/watch?v=rPVM8vLVKCE",
+    "Combos2": "https://www.youtube.com/watch?v=g0f90imiJ0Q",
     "NormalAttacks": [
       {
         "nombreAtaque": "Elbow strike.",
@@ -993,10 +1045,20 @@
   },
   {
     "Nombre": "Teen Gohan",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Son Gohan (孫そん悟ご飯はん Son Gohan) is a half-breed Saiyan and one of the most prominent characters in the Dragon Ball series. He is the elder son of the series' primary protagonist Goku and his wife Chi-Chi, the older brother of Goten, the husband of Videl and father to Pan. He is named after Goku's adoptive grandfather, Gohan.",
     "Foto": "imagenes/DBZTODO/gohan.png",
-    "Foto2": "imagenes/PersonajesBD/gohan_joven.jpg",
+    "Foto2": "imagenes/PersonajesBD/gohan_joven.png",
+    "Animename": "Gohan",
+    "Manganame": "Son Gohan",
+    "Raze": "1/2 Saiyan, 1/2 Human",
+    "Gender": "Male",
 
+    "Size": "141cm",
+    "Weight": "41 Kg",
+
+    "Personality": "As a child, Gohan is a shy and studious intellectual child who lacks the Saiyan fighting spirit, so he had to utilize his incredible half-breed Saiyan potential and emotional reserves to protect those he loves, becoming one of the most powerful Z Fighters. As an adult, he achieves his dream career of becoming a great scholar.",
+    "Combos": "https://www.youtube.com/watch?v=vodgqGBQNuQ",
+    "Combos2": "https://www.youtube.com/watch?v=1RsXV8NDJBs",
     "NormalAttacks": [
       {
         "nombreAtaque": "A gut punch",
@@ -1155,10 +1217,20 @@
   },
   {
     "Nombre": "Gogeta",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Gogeta (ゴジータ Gojīta), is the immensely powerful result of the Fusion Dance between Goku and Vegeta, whose power is said to be greater than both individuals combined. Gogeta a playable character in Dragon Ball FighterZ. He was first confirmed on January 27th, 2019, during the finals of the first Dragon Ball World Tour along with Broly (DBS) and later received a trailer during the EVO 2019 Event on August 3, 2019 alongside Janemba. Gogeta is the fifth downloadable fighter for FighterZ Pass 2 and was released on September 26, 2019.",
     "Foto": "imagenes/DBZTODO/gogeta.png",
-    "Foto2": "imagenes/PersonajesBD/gogeta.jpg",
+    "Foto2": "imagenes/PersonajesBD/gogeta.png",
+    "Animename": "Gogeta",
+    "Manganame": "Gogeta",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "175cm",
+    "Weight": "62 Kg",
+
+    "Personality": "Although made in a similar fashion, Gogeta's personality traits are different from those of Vegito, though it is impossible to tell which counterpart's personality is the dominant one or a composite of both Goku and Vegeta, but in terms of humor and a lesser tough attitude, Gogeta acts and uses catch phrases more similar to Goku.",
+    "Combos": "https://www.youtube.com/watch?v=7vu46I4015M",
+    "Combos2": "https://www.youtube.com/watch?v=YKAsn1PzlEU",
     "NormalAttacks": [
       {
         "nombreAtaque": "Does two quick jabs.",
@@ -1352,8 +1424,21 @@
   },
   {
     "Nombre": "Videl",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Videl is the daughter of Mr. Satan, the man who falsely took credit for defeating Cell and saving the Earth. Initially introduced as a classmate to Gohan, she later discovers that he's the Great Saiyaman and blackmails him into entering the 25th World Martial Arts Tournament along with teaching her how to fly. The two of them eventually sparks a sweet relationship, which results in marriage and in Videl giving birth to a child named Pan.",
     "Foto": "imagenes/DBZTODO/Videl.png",
+    "Foto2": "imagenes/PersonajesBD/Videl.png",
+
+    "Animename": "Videl",
+    "Manganame": "Videl",
+    "Raze": "Human",
+    "Gender": "Female",
+
+    "Size": "157cm",
+    "Weight": "47 Kg",
+
+    "Personality": "Initially, Videl is a tough, tomboyish character, raised with fame all around her. She's feisty and stubborn, much like Chi-Chi. Videl is quite perceptive as she had doubts about her father's claims of defeating Cell and correctly deduced that Gohan was both the mysterious Golden Fighter and Great Saiyaman, as well as ultimately coming to suspect that Gohan was the boy who fought Cell Games. She was also crafty enough to get Gohan to accidentally reveal he was Great Saiyaman, which she uses to blackmail him",
+    "Combos": "https://www.youtube.com/watch?v=ZTepGhAvH1U",
+    "Combos2": "https://www.youtube.com/watch?v=JO6fXAKu7sU",
     "NormalAttacks": [
       {
         "nombreAtaque": "Upward punch",
@@ -1539,10 +1624,20 @@
 
   {
     "Nombre": "Android 21",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Android 21 (人造人間２１号, Jinzōningen Nijūichi-Gō) is the main antagonist of the story mode for Dragon Ball FighterZ. She appears as an unlockable playable character in Dragon Ball FighterZ, where she can be unlocked by completing all the Story Mode Arcs. She fights in the form of a Bio-Android that was created from Majin Buu's cells, and is an original, new character design created by Akira Toriyama himself for this specific game.",
     "Foto": "imagenes/DBZTODO/android-21.png",
     "Foto2": "imagenes/PersonajesBD/androide_21.png",
+    "Animename": "Android 21",
+    "Manganame": "Android 21",
+    "Raze": "Bio-Android",
+    "Gender": "Female",
 
+    "Size": "157cm",
+    "Weight": "47 Kg",
+
+    "Personality": "As noted, this side of Android 21 is pure evil, having nothing but a desire to eat and gain more power, having a strong wanting to devour all the Z Warriors to satisfy her needs, and can be seen as near insanity. However, this does not cloud her thinking, as she is capable of making rational thoughts, and assesses the situation at hand. Sadistic and sociopathic, 21 will go to extreme lengths to gain the power she desires.",
+    "Combos": "https://www.youtube.com/watch?v=RunfAbdtQmI",
+    "Combos2": "https://www.youtube.com/watch?v=yG4tNMCOCWQ",
     "NormalAttacks": [
       {
         "nombreAtaque": "A downward hand swipe.",
@@ -1743,10 +1838,20 @@
 
   {
     "Nombre": "Vegeta",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Vegeta, the prince of the Saiyans, originally came to Earth in search of the Dragon Balls to grant himself immortality. He would be defeated by Goku, thus beginning a legendary rivalry between the two Saiyan warriors. Over time, Vegeta's wicked nature was tempered by his relationship to Goku, and in time, he became one of Earth's mightiest defenders. Even still, he remains ever proud, and continues to train with Goku to pursue even greater power in the hopes of surpassing his greatest rival.",
     "Foto": "imagenes/DBZTODO/vegeta.png",
-    "Foto2": "imagenes/PersonajesBD/vegeta.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegeta.png",
+    "Animename": "Vegeta",
+    "Manganame": "Vegeta",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "164cm",
+    "Weight": "56 Kg",
+
+    "Personality": "Vegeta is arrogant throughout the series and becomes bitter due to the abuse his race suffered at the hands of Frieza. Following the destruction of his homeworld Planet Vegeta, his hatred toward Frieza grows. His royalty seems to have bestowed upon him an inflated sense of superiority, holding himself above nearly everyone he encounters. He is immensely proud of his Saiyan heritage and believes his race to be the most powerful in the universe.",
+    "Combos": "https://www.youtube.com/watch?v=WJgy5x-BMe8",
+    "Combos2": "https://www.youtube.com/watch?v=UomVWTNtWeU",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick jab forward.",
@@ -1893,10 +1998,20 @@
 
   {
     "Nombre": "Gotenks",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Originally, the fusion technique was taught to the children to allow them to combat Majin Buu, and later on Super Buu, however it proved not to be quite enough. After the defeat of Kid Buu, Trunks and Goten occasionally fuse for various reasons, usually not by instruction. Gotenks is cocky and arrogant, and is a child through and through, always feeling the need to fight his foes with style and pizazz. He often performed things such as poses and speeches, and takes time thinking up ridiculously long names for basic attacks, ironically, wasting the short amount of time Gotenks can stay fused.",
     "Foto": "imagenes/DBZTODO/gotenks.png",
-    "Foto2": "imagenes/PersonajesBD/gotenks.jpg",
+    "Foto2": "imagenes/PersonajesBD/gotenks.png",
+    "Animename": "Gotenks",
+    "Manganame": "Gotenks",
+    "Raze": "1/2 Saiyan, 1/2 Human",
+    "Gender": "Male",
 
+    "Size": "157cm",
+    "Weight": "47 Kg",
+
+    "Personality": "Gotenks' personality is unique even though he shares personality traits of his creators, Goten and Trunks. Gotenks is known to be cocky, arrogant, and mischievous like Trunks, yet he acts playful and, occasionally, whiny like Goten.",
+    "Combos": "https://www.youtube.com/watch?v=ZTu_E9Z4jxw",
+    "Combos2": "https://www.youtube.com/watch?v=nnuNmJRtxiw",
     "NormalAttacks": [
       {
         "nombreAtaque": "A forward jab.",
@@ -2042,10 +2157,20 @@
 
   {
     "Nombre": "Goku Black",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Goku Black (ゴクウブラック, Gokū Burakku) is actually a Supreme Kai-in-training from Universe 10 named Zamasu takes it upon himself to purge mortals in his misguided effort to protect the multiverse. As part of this plan, he uses the Super Dragon Balls to switch bodies with Goku, combining the Saiyan hero's immense power with his own godly abilities (such as immortality) so he can carry out the genocide of all mortals as the dark savior, known as Goku Black. To do so, he enter an alternate future timeline to find alternate future-self, murdering the timeline's Gowasu as he did to his timeline's Gowasu, and able to convince his alternate-self to join his cause, known as Zero Mortal Plan.",
     "Foto": "imagenes/DBZTODO/goku-black.png",
-    "Foto2": "imagenes/PersonajesBD/goku-black.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku_black.png",
+    "Animename": "Goku Black",
+    "Manganame": "Goku Black",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "175cm",
+    "Weight": "62Kg",
+
+    "Personality": "Before acting on his dark impulses, as Zamasu, he was a calm and patient individual, willing to listen to his teacher's words. However, he long harbored an utter hatred for mortals, perceiving them as a blasphemy and the gods' greatest mistake. He also came to hate the gods as well for not doing anything about their mistake. After giving in to his desires, Zamasu mercilessly killed Gowasu as his first step down a dark path. Despite his cruel, aggressive, and certainly unsympathetic actions, even to his own kind, Zamasu feels perfectly vindicated, truly seeing no evil in his actions, after he scoured several timelines as proof that mortals are a corruption of existence as a whole that prevents it from becoming a true paradise.",
+    "Combos": "https://www.youtube.com/watch?v=rRQGJj7OCyo",
+    "Combos2": "https://www.youtube.com/watch?v=JGHU--YO1zQ",
     "NormalAttacks": [
       {
         "nombreAtaque": "Jab",
@@ -2208,11 +2333,21 @@
   },
 
   {
-    "Nombre": "Vegito",
-    "Descripcion": "PRUEBA",
+    "Nombre": "Vegetto",
+    "Descripcion": "When Majin Buu had all but destroyed the Earth, the only fighters left to stop him were Goku and Vegeta. However, neither was strong enough to oppose him. They used the earrings of the Supreme Kai, the Potara, to fuse as one. This gave them immense power. They defused after around an hour, as the fusion is not permanent if both parties are mortals. Later, Vegito would appear again to fight against the Fusion Zamasu. Potara against Potara, Vegito powered up to the power beyond that of the gods: Super Saiyan Blue.",
     "Foto": "imagenes/DBZTODO/vegetto.png",
-    "Foto2": "imagenes/PersonajesBD/vegetto.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegetto.png",
+    "Animename": "Vegerotto",
+    "Manganame": "Vegetto",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "175cm",
+    "Weight": "62Kg",
+
+    "Personality": "Vegito's personality is a mixture of both Goku and Vegeta's characteristics. He exhibits Vegeta's cockiness and inclination for taunting others, and enjoys toying with enemies, but is not as serious, having inherited Goku's easygoing, cheerful nature. He possesses both Vegeta's strategic and analytical mind along with Goku's combat ingenuity and creativity, making him that much more efficient. Despite appearing cocky, he in fact retains Goku's benevolence and empathy. Being a whole new entity, he refers to his counterparts as separate people as they would address each other. During his fight with Super Buu, Vegito also showed signs of having sense of humor, such as after Buu transformed Vegito into candy, Vegito claimed he wasn't no ordinary candy, but a jawbreaker and the strongest candy there is.",
+    "Combos": "https://www.youtube.com/watch?v=DyPr6PaK9xw",
+    "Combos2": "https://www.youtube.com/watch?v=JGHU--YO1zQ",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick flurry of kicks.",
@@ -2374,10 +2509,20 @@
 
   {
     "Nombre": "Base Vegeta",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Vegeta came to Earth with the heartless Nappa when the two elites heard of the Dragon Balls over Raditz's scouter. In search of immortality, they rushed to the planet to fulfill their wish. During this time, Goku rushed back from otherworld to defend the planet. However, Krillin, Tien, Yamcha, Piccolo, Chiaotzu, and the young Gohan were forced to fight off the Saiyan threat until their friend arrived. Unfortunately, Yamcha, Tien, Piccolo, and Chiaotzu were dead by the time Goku arrived. After one of the most famous showdowns in anime history, Goku, Krillin, and Gohan just barely managed to send Vegeta packing after using all of their combined strength.",
     "Foto": "imagenes/DBZTODO/base-vegeta.png",
-    "Foto2": "imagenes/PersonajesBD/vegeta.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegeta_base.png",
+    "Animename": "Vegeta",
+    "Manganame": "Vegeta",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "164cm",
+    "Weight": "56Kg",
+
+    "Personality": "Vegeta is arrogant throughout the series and becomes bitter due to the abuse his race suffered at the hands of Frieza. Following the destruction of his homeworld Planet Vegeta, his hatred toward Frieza grows. His royalty seems to have bestowed upon him an inflated sense of superiority, holding himself above nearly everyone he encounters. He is immensely proud of his Saiyan heritage and believes his race to be the most powerful in the universe. Despite this, even as an antagonist, he did not act as an ordinary Saiyan, being even crueler and prideful thanks to Frieza's influence. As the Prince of a demolished Planet Vegeta, Vegeta is initially introduced as an unrepentant villain. Judging from his evil intentions before joining the Z Fighters, Vegeta has been consistently characterized as extremely arrogant, vengeful, and at times, cold. Many of Vegeta's early heroic acts are because of self-interest or revenge, although he later settles down and grows fond of Earth as his home, raising a family with Bulma.",
+    "Combos": "https://www.youtube.com/watch?v=sy-w7PIgZYY",
+    "Combos2": "https://www.youtube.com/watch?v=a7W_JlatLBA",
     "NormalAttacks": [
       {
         "nombreAtaque": "A forward jab.",
@@ -2531,8 +2676,18 @@
     "Nombre": "Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku.png",
-    "Foto2": "imagenes/PersonajesBD/goku.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku.png",
+    "Animename": "Kakaroto",
+    "Manganame": "Kakaroto",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "175cm",
+    "Weight": "75Kg",
+
+    "Personality": "Originally as an infant Saiyan, Goku was very timid, constantly crying for attention. Goku was then programmed with intense hostility to carry out his mission of eradicating all sentient life on Earth. When found by Grandpa Gohan, he was unruly and aggressive, wanting nothing to do with the elder, although this was seemingly only when worked up as when initially found by Gohan, he quickly took a liking to the old man. However, after the head injury that caused him to lose his instinctual aggression, Goku became well-known for his energetic and caring personality traits he inherited from his mother Gine. ",
+    "Combos": "https://www.youtube.com/watch?v=z68Cpf0-3eE",
+    "Combos2": "https://www.youtube.com/watch?v=8BtaHENzFS0",
     "NormalAttacks": [
       {
         "nombreAtaque": "A short jab.",
@@ -2685,10 +2840,20 @@
   },
   {
     "Nombre": "Android 16",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Originally created by Dr. Gero for the express purpose of killing Goku, Android 16 would go on to become his ally instead during Cell's rampage. Developing a fondness for nature and animals, he would fight to protect the birds and the forests from Cell. He was destroyed by Cell, playing a part in helping Gohan awaken to the state of Super Saiyan 2 before Cell snuffed him out. Now, however, he has reappeared and is helping Android 21... But why?",
     "Foto": "imagenes/DBZTODO/android-16.png",
     "Foto2": "imagenes/PersonajesBD/Numero_16.png",
+    "Animename": "Android 16",
+    "Manganame": "Android 16",
+    "Raze": "Android",
+    "Gender": "Male",
 
+    "Size": "215cm",
+    "Weight": "181 Kg",
+
+    "Personality": "Despite his intimidating size, monotone dialogue, and seemingly dangerous appearance, Android 16 is calm, friendly, and embraces nature and humanity. He does not tolerate evil and described Cell as an existence whose purpose is to destroy life, especially nature and animals (as Cell is the true evil destroying android that posed a destructive intention to the Earth and its inhabitants of the present timeline, not himself, 17 and 18).",
+    "Combos": "https://www.youtube.com/watch?v=LVGqYBUAbAw",
+    "Combos2": "https://www.youtube.com/watch?v=v_X1I-h7Yg4",
     "NormalAttacks": [
       {
         "nombreAtaque": "A standing jab.",
@@ -2859,10 +3024,20 @@
 
   {
     "Nombre": "Trunks",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "In the future, a pair of androids created by Dr. Gero ravaged the Earth. Trunks, the son of Vegeta and Bulma, went back in time in the hopes of changing history so that the devastation he grew up with would be averted. Even though he would not be able to change the history he came from, he would help Goku and his allies fight against Cell to protect the history of this new timeline, then return to his own time to save the Earth from the androids of his own timeline, restoring peace to the world until the arrival of Goku Black...",
     "Foto": "imagenes/DBZTODO/trunks.png",
-    "Foto2": "imagenes/PersonajesBD/trunks.jpg",
+    "Foto2": "imagenes/PersonajesBD/trunks.png",
+    "Animename": "Trunks",
+    "Manganame": "Trunks",
+    "Raze": "1/2 Saiyan, 1/2 Human",
+    "Gender": "Male",
 
+    "Size": "170 cm",
+    "Weight": "60  Kg",
+
+    "Personality": "In his later years, Trunks adopts a personality similar to his future counterpart's. During and in between his battles at the World Martial Arts Tournament, he acts just like his father does, calm when he fights and insulting his opponents. However, he does not act like this during his battle with Goten, either because he is his best friend or due to the possibility he could lose. Despite his occasional childish antics, Trunks is highly intelligent for his age. Due to his maternal side of the family being scientists, he also possesses a significantly huge amount of knowledge about biological and science-related knowledge from a young age, as demonstrated in Dragon Ball Z: Bio-Broly, when he correctly identifies what the Culture Tank equipment is used for at age eight, as well as correctly defining two-thirds of what biotechnology is (the only thing he was not able to answer was what genetic engineering is).",
+    "Combos": "https://www.youtube.com/watch?v=HXww9OctIiA",
+    "Combos2": "https://www.youtube.com/watch?v=Thg1apaQT-o",
     "NormalAttacks": [
       {
         "nombreAtaque": "Hitting shin kick",
@@ -3048,10 +3223,20 @@
 
   {
     "Nombre": "Piccolo",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Piccolo (ピッコロ, Pikkoro) is a Namekian warrior who is the reincarnation of King Piccolo. Originally bitter enemies with Goku, he eventually became one of the Z fighters as his heart softened. Together he and Piccolo joined forces to form the Z-Fighters. In FighterZ, Piccolo and the Z-Fighters battle the villainous Android 21 to save the Earth. He is often put on teams for his powerful combos, devastating attacks, fantastic assist, and extendable arms that can grab foes.",
     "Foto": "imagenes/DBZTODO/piccolo.png",
-    "Foto2": "imagenes/PersonajesBD/piccolo.jpg",
+    "Foto2": "imagenes/PersonajesBD/piccolo.png",
+    "Animename": "Pikkoro",
+    "Manganame": "Pikkoro",
+    "Raze": "Demonic Namekian",
+    "Gender": "Male",
 
+    "Size": "226 cm",
+    "Weight": "116 Kg",
+
+    "Personality": "Throughout the franchise, regardless of Piccolo's allegiance, his general demeanor has always been stern, if not grumpy, with an indifferent attitude towards others. Piccolo rarely smiles and enjoys solitude. Piccolo is frequently seen meditating in quiet places and drinking thawed ice water in the north area.[4] However, he shows a noticeable cockiness when fighting. He can also be very confrontational toward people, showing very direct and honest opinions about a situation or an individual. Piccolo is known for his very precise and efficient methods in battle and likewise is shown to be very analytical and tactical in battle, able to see through his opponent's skills and weaknesses to devise effective strategies for victory. In the Baby Saga, Baby openly acknowledged Piccolo as one of the most brilliant fighters in the galaxy.",
+    "Combos": "https://www.youtube.com/watch?v=yzZY-dMspd8",
+    "Combos2": "https://www.youtube.com/watch?v=zVgAjTwrTj8",
     "NormalAttacks": [
       {
         "nombreAtaque": "Leading hand",
@@ -3213,10 +3398,20 @@
   },
   {
     "Nombre": "Fused Zamasu",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Zamasu (Fused) (ザマス (合体), Zamasu (Gattai)) is a fused form of the union between Goku Black and Zamasu through the Potara earrings. He is the third downloadable playable fighter announced in Dragon Ball FighterZ and was released on May 31, 2018 alongside Vegito.",
     "Foto": "imagenes/DBZTODO/zamas.png",
     "Foto2": "imagenes/PersonajesBD/zamas.jpg",
+    "Animename": "Zamasu",
+    "Manganame": "Zamas",
+    "Raze": "Core Person ",
+    "Gender": "Male",
 
+    "Size": "226 cm",
+    "Weight": "116 Kg",
+
+    "Personality": "Generally, Zamasu is shown to be a very calm and methodical person, as shown in combat when carefully perceiving his opponent's attack style and seamlessly countering in a fluid manner. While a man who cares for the development and prosperity of the universe, Zamasu often questioned the worth of mortals, not trusting in their ability to handle conflict as they were prone to commence war in a repeated cycle and not understanding that mortal life was key to the prosperity of the universe. He unfortunately possessed a questionable sense of justice believing that it would be more just to kill them off to keep them from making the same mistakes. He also did not agree with how the Kais would not be more directly involved in mortals' actions like the Gods of Destruction.[2] In the manga, he is even shown to scoff at the idea that mortals can be trusted to handle important matters, let alone rival the might of gods whom he viewed as the ultimate lifeforms.",
+    "Combos": "https://www.youtube.com/watch?v=SqCmYR9Wkm8 ",
+    "Combos2": "https://www.youtube.com/watch?v=qkwz4sKEY3Y",
     "NormalAttacks": [
       {
         "nombreAtaque": "Energy blade-infused ",
@@ -3371,9 +3566,20 @@
   },
   {
     "Nombre": "Blue Goku",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "After attaining the power of the Super Saiyan God during his fight with Beerus, Goku started to train with the God of Destruction to expand upon his powers. The end result of his training is a new level of power, the Super Saiyan God Super Saiyan: a blue-haired super form that combines the Super Saiyan God and a Super Saiyan, the likes of which represents the greatest height of fighting prowess yet attainable by Saiyans exclusively.",
     "Foto": "imagenes/DBZTODO/goku-ssb.png",
     "Foto2": "imagenes/PersonajesBD/goku-ssb.png",
+    "Animename": "Goku",
+    "Manganame": "Goku",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "175 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Originally as an infant Saiyan, Goku was very timid, constantly crying for attention. Goku was then programmed with intense hostility to carry out his mission of eradicating all sentient life on Earth. When found by Grandpa Gohan, he was unruly and aggressive, wanting nothing to do with the elder, although this was seemingly only when worked up as when initially found by Gohan, he quickly took a liking to the old man. However, after the head injury that caused him to lose his instinctual aggression, Goku became well-known for his energetic and caring personality traits he inherited from his mother Gine. ",
+    "Combos": "https://www.youtube.com/watch?v=3nQyVVpTAAA",
+    "Combos2": "https://www.youtube.com/watch?v=3WgsJachDxU",
 
     "NormalAttacks": [
       {
@@ -3520,10 +3726,20 @@
   },
   {
     "Nombre": "Kefla",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "In the Tournament of Power, Kale and Caulifla use the Potara Earrings to fused into Kefla as a last resort in their fight against Goku. According to Vados, Kefla's power consists of both Caulifla and Kale's power multiplied tens times over.",
     "Foto": "imagenes/DBZTODO/Kefla.png",
     "Foto2": "imagenes/PersonajesBD/Kefla.png",
+    "Animename": "Kefla",
+    "Manganame": "Kefla",
+    "Raze": "Saiyan",
+    "Gender": "Female",
 
+    "Size": "175 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Despite being a fusion of Caulifla and Kale, Kefla's personality is seemingly only identical to Caulifla's, likely because Kale is shy and subservient to Caulifla in general. After being born, Kefla remarks she feels great, displaying Caulifla's overbearing confidence. She also appears to be possessing the Universe 7 Saiyans' desires to fight even stronger opponents and becoming stronger herself. During her initial scuffle with Goku, Kefla also displays Caulifla's cocky attitude, calling Super Saiyan God Goku's attacks lame. Her overall confidence in such abilities also has Kefla believe she can beat Goku, even if he is in his blue form.",
+    "Combos": "https://www.youtube.com/watch?v=XK9uNS8PcUw",
+    "Combos2": "https://www.youtube.com/watch?v=U5Fdq3N2jYw",
     "NormalAttacks": [
       {
         "nombreAtaque": "Throws a punch forward.",
@@ -3696,10 +3912,20 @@
   },
   {
     "Nombre": "Super Broly",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Broly (ブロリー Burorī) is the son of Paragus and the misguided main antagonist of Dragon Ball Super: Broly. He is the latest of the Legendary Super Saiyans, a demonic Saiyan warrior who appears every thousand years. Because of his extreme power, he was stranded on the planet Vampa by King Vegeta, where he was raised by his father until rescued years later by the Frieza Force.",
     "Foto": "imagenes/DBZTODO/super-broly.png",
     "Foto2": "imagenes/PersonajesBD/broly.png",
+    "Animename": "Kefla",
+    "Manganame": "Kefla",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "300 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "This incarnation of Broly is very different from his counterpart. While his counterpart was an outright psychotic man with a split personality disorder that would randomly turn him into a maniacal killer, this Broly developed a more sane personality due to his relatively less tragic background. Due to his upbringing on an inhospitable planet living only with his father and no other sentient being, Broly is a quiet fellow with little social skills or manners. His limited education has left him somewhat naïve to normal society, showing a noticeable childlike fascination with the various comforts and advances it has to offer, particularly eating better quality food (curiously though, he is aware of how to operate a shower stall onboard Frieza's ship). While his social skills aren't well-developed, Broly's intuition is quite acute. He's able to sense when someone is agitating a comrade and visibly reflects their anger, as seen when he defended Cheelai from a sleazy soldier and when Paragus saw Vegeta, Broly's rage boiled over.",
+    "Combos": "https://www.youtube.com/watch?v=i6-88CIE8_A",
+    "Combos2": "https://www.youtube.com/watch?v=x2__DwzKZ9g",
     "NormalAttacks": [
       {
         "nombreAtaque": "Performs a jab at a downward angle",
@@ -3877,10 +4103,20 @@
   },
   {
     "Nombre": "Tien",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Tien Shinhan (天テン津シン飯ハン Tenshinhan) is a disciplined, reclusive and heavily devoted martial artist, and one of the strongest Earthlings within the Dragon Ball universe. He also possesses a few non-human traits due to being descended from the Three-Eyed People. He was originally a student of the Crane School who desired revenge against Goku for defeating his mentor, Mercenary Tao, but realized he was on the wrong side with the help of Master Roshi. He battles alongside the other Z Fighters against major threats to the Earth surface, often courageously engaging enemies far more powerful than himself.[9] However, he spends most of his time training with his lifelong best friend, Chiaotzu.",
     "Foto": "imagenes/DBZTODO/tien.png",
-    "Foto2": "imagenes/PersonajesBD/tenshinhan.jpg",
+    "Foto2": "imagenes/PersonajesBD/tenshinhan.png",
+    "Animename": "Tien Shinhan",
+    "Manganame": "Tenshinhan",
+    "Raze": "Human",
+    "Gender": "Male",
 
+    "Size": "187 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Tien Shinhan was originally a cold-hearted and ruthless warrior, never caring for anyone's life with the exception of his fellow students and mentors. This brutality can be plainly seen when he crushes Yamcha's and another fighter's leg during the 22nd World Martial Arts Tournament. However, he finds a lifelong best friend in Chiaotzu, for whom he cares deeply, and vice-versa. He highly idolized his mentor Mercenary Tao and desired to be a famous assassin like him. Due to Master Roshi's and Goku's consolations, he changed his demeanor and became one of the most respected warriors on the planet. Before he transitioned to the good side, he planned to kill Goku during the World Martial Arts Tournament as he was seen as a threat to himself and his cohorts.",
+    "Combos": "https://www.youtube.com/watch?v=77ARxAk8dJI",
+    "Combos2": "https://www.youtube.com/watch?v=mvbKwiIGCCI",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick finger jab.",
@@ -4051,10 +4287,20 @@
   },
   {
     "Nombre": "Hit",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Hit (ヒット Hitto), renowned as Never-Miss Hit (百発百中のヒット Hyappatsu-hyakuchū no Hitto, lit. Hit the Infallible) and as the Legendary Hitman (伝説の殺し屋 Densetsu no Koroshi-ya, lit. Legendary Assassin) is the legendary assassin of Universe 6. In addition, he also later on becomes the leader for Team Universe 6.",
     "Foto": "imagenes/DBZTODO/hit.png",
-    "Foto2": "imagenes/PersonajesBD/hit.jpg",
+    "Foto2": "imagenes/PersonajesBD/hit.png",
+    "Animename": "Hit",
+    "Manganame": "Hit",
+    "Raze": "Human",
+    "Gender": "Male",
 
+    "Size": "193  cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Hit is stoic and composed, constantly appearing emotionless and indifferent to most events. An expert in his craft, Hit shows great confidence and fortitude in any challenge presented before him. Hit also seems to be quite confident in his abilities. Showing a very no-nonsense attitude, he is straight to the point and speaks no more than necessary. To which, Hit will carry out his contracts, no matter whom his targets may be, nor can he be bribed or convinced to turn away from the assignment. More to his unwavering commitment and resolve, even when at a disadvantage, Hit refuses to back down from the challenge, choosing to face the opponent head-on, as noted by Cabba. The only instances in which Hit has ever shown fear of anything, are when Champa, the God of Destruction of Universe 6, was determined on destroying him, but even then he was not willing to go down without a fight and during the Tournament of Power when Jiren was able of blocking his attack with his glare even while trapped in Hit's Cage of Time and of breaking free of it much to Hit's shock. Stemming from his antisocial nature, he apparently is somewhat ignorant of certain forms of showing respect, as he was slightly surprised when Goku bows to him. At the same time, he is a very astute and intuitive individual, constantly perceiving the situation at hand, determining how best to handle it.",
+    "Combos": "https://www.youtube.com/watch?v=oCJQf_6CwQc",
+    "Combos2": "https://www.youtube.com/watch?v=CyQfNo7l26o",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick pressure point jab.",
@@ -4227,7 +4473,18 @@
     "Nombre": "Base Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/base-goku.png",
-    "Foto2": "imagenes/PersonajesBD/goku_base.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku_base.png",
+    "Animename": "Kakarot",
+    "Manganame": "Kakarot",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "1.41 cm",
+    "Weight": "45 Kg",
+
+    "Personality": "Goku is shown to suffer from severe trypanophobia, or the fear of medical needles, but this only occurs in the anime.[25] He showed his fear for them twice in Dragon Ball Z, and three times during Dragon Ball GT. The first time was after his battle with Vegeta, and when he was taken to Wukong Hospital. The second time he showed his fear of needles was after the fight with Captain Ginyu on Namek, while he was on his way to recover in a Medical Machine. In Dragon Ball GT, it was shown when Goku, Pan, and Trunks brought an injured boy to planet Pital. The second time, during his first battle against Baby Vegeta, he was blasted into Sogorugo Space, where he witnessed a hologram of Chi-Chi that threw a gigantic needle at him. Lastly, Goku showed his fear after learning from Pan that the four-star Dragon Ball was coming out of his forehead, worrying that he would need a shot.",
+    "Combos": "https://www.youtube.com/watch?v=z68Cpf0-3eE",
+    "Combos2": "https://www.youtube.com/watch?v=8BtaHENzFS0",
 
     "NormalAttacks": [
       {
@@ -4423,10 +4680,20 @@
   },
   {
     "Nombre": "Yamcha",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Yamcha (ヤムチャ Yamucha) is a main protagonist in the Dragon Ball manga and in the anime Dragon Ball, and later a supporting protagonist in Dragon Ball Z and Dragon Ball Super, with a few appearances in Dragon Ball GT. He is a former boyfriend of Bulma and the lifelong best friend of Puar.",
     "Foto": "imagenes/DBZTODO/yamcha.png",
     "Foto2": "imagenes/PersonajesBD/yamcha.png",
+    "Animename": "Yamcha",
+    "Manganame": "Yamcha",
+    "Raze": "Human",
+    "Gender": "Male",
 
+    "Size": "183 cm",
+    "Weight": "68 Kg",
+
+    "Personality": "Yamcha is originally characterized as a deadly warrior, who fears nothing but talking to women. After befriending Goku and the others, his personality remains mostly the same, but becomes very caring and considerate of the people he protects. He is showcased as a courageous warrior who strives to be the best, but is unable to reach this status, a fact that appears to plague him. He has a great network of information, recognizing Goku's Power Pole as Grandpa Gohan's during their first fight.",
+    "Combos": "https://www.youtube.com/watch?v=9bFTWmbKgeM",
+    "Combos2": "https://www.youtube.com/watch?v=Q0BWHGoXNe0",
     "NormalAttacks": [
       {
         "nombreAtaque": "Backhanded jab.",
@@ -4580,9 +4847,18 @@
   },
   {
     "Nombre": "Janemba",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Janemba (ジャネンバ Janenba) is the main antagonist in the movie Dragon Ball Z: Fusion Reborn, and he appears in several other Dragon Ball media. He is a demon of pure evil and great power. Janemba is the living definition of evil.[4]",
     "Foto": "imagenes/DBZTODO/janemba.png",
     "Foto2": "imagenes/PersonajesBD/janemba.png",
+    "Animename": "Janemba",
+    "Manganame": "Janemba",
+    "Raze": "Evil Energy",
+    "Gender": "Male",
+
+    "Size": "183 cm",
+    "Weight": "68 Kg",
+
+    "Personality": "Like many Dragon Ball villains, Janemba is a destructive and aggressive monster who seems to have little motivation other than sadistic pleasure and lust for anarchy. In his first form, he appears more childlike and innocent but becomes much less so in his second one.",
     "Combos": "http://www.youtube.com/watch?v=EGiABIMCTZg",
     "Combos2": "http://www.youtube.com/watch?v=3qSL9HoQGQM",
 
@@ -4779,10 +5055,20 @@
   },
   {
     "Nombre": "Frieza",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Frieza (フリーザ Furīza) is the emperor of Universe 7, who controlled his own imperial army and is feared for his ruthlessness and power. He is the descendant of Chilled, the second son of King Cold, the younger brother of Cooler, and the father of Kuriza. Frieza is the catalyst antagonist of the entire franchise, as it is his actions that led to Goku arriving on Earth. He has made several comebacks since his fight with Goku on Namek, including multiple invasions of Earth. Recently, he has been chosen to represent Universe 7 as the tenth member of Team Universe 7 for the Tournament of Power as a replacement for Good Buu. This makes him the most recurring villain of the Dragon Ball series. After the events of the Tournament of Power, he is revived and recovers his title as Emperor of Universe 7.",
     "Foto": "imagenes/DBZTODO/frieza.png",
     "Foto2": "imagenes/PersonajesBD/freezer.png",
+    "Animename": "Frieza",
+    "Manganame": "Freeza",
+    "Raze": "Frieza Race",
+    "Gender": "Male",
 
+    "Size": "158  cm",
+    "Weight": "68 Kg",
+
+    "Personality": "Frieza is an evil being who relishes in pain, death, destruction, fear, and power. Though unlike most primary antagonists, Frieza displays a civilized and refined demeanor, talking with a regal and eloquent nature. In the Japanese versions, he even utilizes the Keigo dialect, which utilizes extremely respectful and formal phraseology. He tends to handle most situations with a methodical approach. He commonly utilizes dark humor, making twisted jokes and tasteless mockery of his foes before killing them. Frieza is fully aware of his reputation for brutality, and makes no effort to deny it, but rather revels in it as evidenced by his introduction to the Namekians. Likewise, he has shown great anger at the idea of his cruel deeds being undone, such as the revival of all his previous victims from the Dragon Balls. ",
+    "Combos": "https://www.youtube.com/watch?v=a9E25iZCiBw",
+    "Combos2": "https://www.youtube.com/watch?v=a9E25iZCiBw",
     "NormalAttacks": [
       {
         "nombreAtaque": "A short-ranged body blow.",
@@ -4936,8 +5222,21 @@
   },
   {
     "Nombre": "Cooler",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Cooler (クウラ Kūra, Coora) is the titular main antagonist in the movie Dragon Ball Z: Cooler's Revenge and an emulation of him acts as the main antagonist in Dragon Ball Z: The Return of Cooler. He is the older brother of Frieza and the eldest son of King Cold. Like his brother, he can push his body through transformations. Also, like Frieza, Cooler possesses a biomechanical incarnation, but this is gained from merging with the Big Gete Star.",
     "Foto": "imagenes/DBZTODO/cooler.png",
+    "Foto2": "imagenes/PersonajesBD/cooler.png",
+
+    "Animename": "Cooler",
+    "Manganame": "Cooler",
+    "Raze": "Frieza Race",
+    "Gender": "Male",
+
+    "Size": "183 cm",
+    "Weight": "68 Kg",
+
+    "Personality": "Cooler's personality is quite similar to that of his younger brother and his father, though with a few noticeable differences. Like Frieza, Cooler handles problems in an intellectual and serious manner. Though, unlike his brother, Cooler is not consumed by his ego and is less likely to underestimate his opponents, as seen when he acknowledged that Goku was still alive despite taking a direct hit from his Darkness Eye Beam, due to the latter managing to utilize a counterattack against him, and thus ordered his subordinates to search for and kill him, and in the English dub also deliberately refuses to use the easy solution of ensuring Goku's death by blowing up the Earth specifically in order to make sure he had confirmed Goku's death with his own eyes despite his preference of blowing it up.",
+    "Combos": "https://www.youtube.com/watch?v=U7JY_YrC5kw",
+    "Combos2": "https://www.youtube.com/watch?v=HmEzvGrg4JQ",
     "NormalAttacks": [
       {
         "nombreAtaque": "A 12-6 elbow.",
@@ -5117,10 +5416,20 @@
   },
   {
     "Nombre": "Broly",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Broly was born on Planet Vegeta on the same day as Goku with an inordinate power level of 10,000. During his time in the maternity ward, he was constantly tormented by the sound of Goku's crying from the neighboring incubator, instilling in him a deep-rooted resentment toward Goku. Due to his incredible power, King Vegeta saw Broly as a potential threat to his rule and ordered him to be executed, which resulted in him being stabbed in the heart and left for dead alongside his father, Paragus, who attempted to persuade the king to spare his son.",
     "Foto": "imagenes/DBZTODO/broly.png",
-    "Foto2": "imagenes/PersonajesBD/broly.jpg",
+    "Foto2": "imagenes/PersonajesBD/brolys.png",
+    "Animename": "Broly",
+    "Manganame": "Broly",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "274 cm",
+    "Weight": "229 Kg",
+
+    "Personality": "When first seen, Broly is seen as a rather docile and harmless-looking Saiyan (uncharacteristic of a majority of the Saiyan race). However, Broly has an unpredictable dual nature, as indicated in Paragus's flashback, when he briefly wakes up and calmly asks what Paragus is up to, only to end up going into a screaming fit when realizing that Paragus is about to place the mind-control crown on his head. Once shifting into his more aggressive state, Broly demonstrates his love of fighting and brutality just like the typical Saiyan, but on a far more destructive level. This violent and maniacal side of him seemingly stemmed from both his extraordinary power that he never properly learned to control as well as the traumatic events of his birth, causing his frenzies to happen more frequently and last longer as he grew and these eventually led him to gouge out his father's left eye.",
+    "Combos": "https://www.youtube.com/watch?v=x2__DwzKZ9g",
+    "Combos2": "https://www.youtube.com/watch?v=i6-88CIE8_A",
     "NormalAttacks": [
       {
         "nombreAtaque": "A straightforward jab.",
@@ -5274,10 +5583,21 @@
   },
   {
     "Nombre": "Jiren",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Jiren (ジレン Jiren), also known as Jiren The Gray (灰色のジレン Haiiro no Jiren), is a member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power. An extraordinary powerful being, Jiren is considered to be one of the strongest mortals in all of the multiverse, outclassing even Destroyer Gods.",
     "Foto": "imagenes/DBZTODO/Jiren.png",
     "Foto2": "imagenes/PersonajesBD/Jiren.png",
 
+    "Animename": "Jiren",
+    "Manganame": "Jiren",
+    "Raze": "Jiren's race",
+    "Gender": "Male",
+
+    "Size": "274 cm",
+    "Weight": "229 Kg",
+
+    "Personality": "Jiren is a man who devotes everything to justice and never acts for selfish reasons; he lives to protect Universe 11, even stating that he would leave the tournament while it was happening in order to return there if any problem arose in the 48 minutes of the tournament. When Top tells Jiren to participate in the Tournament of Power, he initially refuses to enter - as while it is his duty to protect Universe 11, he will not cause the destruction of other universes to save his own. He will never kill any villains he defeats and instead captures them. Even more, he shows disgust towards those who actively kill and do not follow justice. ",
+    "Combos": "https://www.youtube.com/watch?v=9_Tu8_zFL_I",
+    "Combos2": "https://www.youtube.com/watch?v=S6PxZzbiOn0",
     "NormalAttacks": [
       {
         "nombreAtaque": "A short jab.",
@@ -5445,10 +5765,21 @@
   },
   {
     "Nombre": "Android 18",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Android 18 (人造人間１８号 Jinzōningen Jū Hachi-Gō, lit. Artificial Human No. 18), originally named Lazuli (ラズリ Razuri)[4] when she was an ordinary human, is the twin sister of Android 17 and Dr. Gero's eighteenth android creation, designed to serve Gero's vendetta against Goku. While her interests do not initially deviate from this expectation, her curiosity to activate Android 16, in spite of Gero's orders not to do so, leads Android 17 to take it upon himself to murder Gero. Eventually, Android 18 becomes a member of the Z Fighters, as well as the wife of Krillin and the mother of their daughter Marron.",
     "Foto": "imagenes/DBZTODO/android-18.png",
-    "Foto2": "imagenes/PersonajesBD/androide_18.jpg",
+    "Foto2": "imagenes/PersonajesBD/androide_18.png",
 
+    "Animename": "Android 18",
+    "Manganame": "Android 18",
+    "Raze": "Human",
+    "Gender": "Female",
+
+    "Size": "167 cm",
+    "Weight": "106 Kg",
+
+    "Personality": "Like her brother, Android 18 usually displays a cool and confident character, especially in battle, although her sarcastic humor is the most prominent trait of her personality. This is demonstrated when Goku takes notice of her assembly with the Dragon Team at the 25th World Martial Arts Tournament, leading to the retort Look, he noticed. How cute. (in Japanese she says Took you a while idiot!), as well as saying Spare me when Krillin reveals to Goku that not only have they married, but also had a child. Shortly after this, she is asked by the World Tournament Announcer if her real name is legitimately No. 18, to which she responds My father was pretty dull (in Japanese, she replies That it doesn't matter before tossing the number at the World Tournament Announcer). Although she isn't characterized for this, 18 can be very curious if she is really interested in something, to the point of activating her comrade Android 16, and wondering what present she will give to her husband Krillin during a dispute of a wish with the others using the Dragon Balls. ",
+    "Combos": "https://www.youtube.com/watch?v=3HVmj87Im_M",
+    "Combos2": "https://www.youtube.com/watch?v=tgqVefHplJk",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick shin kick.",
@@ -5601,10 +5932,20 @@
   },
   {
     "Nombre": "Beerus",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Beerus (ビルス Birusu) is the God of Destruction of Universe 7. He is accompanied by his martial arts teacher and attendant, Whis. Beerus' twin brother is Champa, the God of Destruction of Universe 6.",
     "Foto": "imagenes/DBZTODO/beerus.png",
     "Foto2": "imagenes/PersonajesBD/beerus.png",
+    "Animename": "Beerus",
+    "Manganame": "Beerus",
+    "Raze": "Beerus' Race",
+    "Gender": "Male",
 
+    "Size": "167 cm",
+    "Weight": "106 Kg",
+
+    "Personality": "Beerus is powerful, yet lazy and playful (like most cats). His similarities to cat-like behavior also display in his love for long sleep sessions and how he grooms himself. Beerus is always in a bad mood when he wakes up from his deep slumber, but becomes less grumpy the more awake he is. Similar to many cats, he likes to display dominance, and will claim whatever he desires to have without much consideration for how it will affect others. He is also a gourmet, and his planet is stocked with fish and other sorts of food.[7] While he is a fearsome god, his cat-like gestures and his variety of facial expressions separate him from the more malevolent antagonists in the series.[8] He has a very indifferent behavior toward death, being the God of Destruction, and cares little to none about death and the billions, possibly trillions of lives he has taken over the years he has been the God of Destruction. He often uses the threat of destroying Earth as a means to get what he wants or as a simple warning to Whis and the other Z fighters.",
+    "Combos": "https://www.youtube.com/watch?v=Z4pGwroUbAg",
+    "Combos2": "https://www.youtube.com/watch?v=QBdfGZ2Z6Ys",
     "NormalAttacks": [
       {
         "nombreAtaque": "A finger flick.",
@@ -5756,10 +6097,20 @@
   },
   {
     "Nombre": "Majin Buu",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Majin Buu is an ancient creature who brought the universe to its knees before being sealed away on Earth, only to be unleashed by the wicked wizard Babidi. While highly dangerous, Buu was also as innocent as a newborn babe, a fact that Mr. Satan used to help reform him and transform him into a protector of Earth who is friendly to all around him, especially if they come to him with gifts of candy.",
     "Foto": "imagenes/DBZTODO/majin-buu.png",
-    "Foto2": "imagenes/PersonajesBD/majin_buu.jpg",
+    "Foto2": "imagenes/PersonajesBD/majin_buu.png",
+    "Animename": "Majin Buu",
+    "Manganame": "Majin Buu",
+    "Raze": "Majin",
+    "Gender": "Male",
 
+    "Size": "167 cm",
+    "Weight": "106 Kg",
+
+    "Personality": "Although he is one of the most powerful entities in Dragon Ball , Majin Buu is often playful and childish, revealing he destroys things for fun simply from old instructions from his master, stopping once told what he was doing was wrong thanks to the Grand Supreme Kai's personality showing in him. Though he is playful and silly, his evil side is readily apparent, especially shown when his eyes widen, and steam shoots out of the holes on his body. ",
+    "Combos": "https://www.youtube.com/watch?v=uCSKlqM56SA",
+    "Combos2": "https://www.youtube.com/watch?v=6P67MrVTYso",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick jab with his leading hand.",
@@ -5919,10 +6270,20 @@
   },
   {
     "Nombre": "Captain Ginyu",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Ginyu (ギニュー Ginyū), referred to as Captain Ginyu (ギニュー隊長 Ginyū-taichō) by his subordinates, is the strict but loyal captain of the elite mercenary platoon, the eponymous Ginyu Force. Ginyu is an honorable, yet merciless fighter who constantly strikes poses. He possesses the ability to swap bodies.",
     "Foto": "imagenes/DBZTODO/ginyu.png",
-    "Foto2": "imagenes/PersonajesBD/ginyu.jpg",
+    "Foto2": "imagenes/PersonajesBD/ginyu.png",
+    "Animename": "Ginyū",
+    "Manganame": "Ginyū",
+    "Raze": "Ginyu's race mutant",
+    "Gender": "Male",
 
+    "Size": "200  cm",
+    "Weight": "106 Kg",
+
+    "Personality": "While very arrogant and merciless in battle, Ginyu has displayed a strong sense of honor in combat and prefers fairness in his battles, as shown when he refused to break Goku's neck due to Jeice interfering in their fight, and even threatening to kill Jeice if he did it again. Goku takes note of this and insinuates that Ginyu may not be all bad and even capable of redemption.",
+    "Combos": "https://www.youtube.com/watch?v=UNit-70ajKg",
+    "Combos2": "https://www.youtube.com/watch?v=SAxJAuv1iXI",
     "NormalAttacks": [
       {
         "nombreAtaque": "A knifehand swipe.",
@@ -6054,9 +6415,20 @@
   },
   {
     "Nombre": "Blue Vegeta",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Not to be outdone by Goku, Vegeta has trained alongside his Saiyan rival under the tutelage of Whis, the God of Destruction Beerus's attendant. Both he and Goku have attained the power of the Super Saiyan God Super Saiyan. Super Saiyan Blue.",
     "Foto": "imagenes/DBZTODO/vegeta-ssb.png",
-    "Foto2": "imagenes/PersonajesBD/vegetta_SSB.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegetta_SSB.png",
+    "Animename": "Blue Vegeta",
+    "Manganame": "Blue Vegeta",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "164 cm",
+    "Weight": "56 Kg",
+
+    "Personality": "Vegeta then explains to Frieza that he can't afford to let Goku be killed because it's because of him that he pursues the path to power (and also due to his friendship with him, but due to his pride, he would never admit such to Frieza) and tells Goku that he is naive for thinking this outcome wouldn't happen. Vegeta then kicks Goku toward the location of Krillin, Gohan, and others and protects him from Frieza's Death Beam by deflecting it towards Sorbet, killing him in the process. Vegeta then proceeds to fight Frieza in Goku's place and, to everyone's (except Goku's) surprise, he too, turns into a Super Saiyan Blue, which Goku explains that this power is purely his own. Vegeta revels in scaring Frieza and proclaims that he will send Frieza back to Hell and easily dominates over the exhausted Golden Frieza until he reverts into his Final form. He was about to kill Frieza with a Big Bang Attack until Frieza uses his Earth Breaker technique to blow up the Earth and that in turn, kills Vegeta and everyone else on the planet, except all of those shielded by Beerus and Whis.",
+    "Combos": "https://www.youtube.com/watch?v=Sx4DgshZA1Q",
+    "Combos2": "https://www.youtube.com/watch?v=g1BsZamfN7A",
 
     "NormalAttacks": [
       {
@@ -6217,10 +6589,20 @@
   },
   {
     "Nombre": "Android 17",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Android 17 (人造じんぞう人間にんげん１７号ごう Jinzōningen Jū Nana-Gō, lit. Artificial Human No. 17), Lapis (ラピス Rapisu) when he was an ordinary human,[2] is the twin brother of Android 18 and Dr. Gero's seventeenth android creation, designed to serve Gero's vendetta against Goku. Despite his interests not initially deviating from this expectation, Android 17 takes it upon himself to kill Dr. Gero, who is uncooperative with Android 18's curiosity in activating Android 16 and deemed inferior by 17.",
     "Foto": "imagenes/DBZTODO/android-17.png",
-    "Foto2": "imagenes/PersonajesBD/androide_17.jpg",
+    "Foto2": "imagenes/PersonajesBD/androide_17.png",
+    "Animename": "Android 17",
+    "Manganame": "Android 17",
+    "Raze": "Android",
+    "Gender": "Male",
 
+    "Size": "164 cm",
+    "Weight": "56 Kg",
+
+    "Personality": "Initially a reckless anarchist, Android 17 later reveals himself to be little more than a rebel without a cause. He finds joy in causing panic and acts on whims. Most of his choices during his initial appearance were motivated by what he simply called The Game, referring to their quest to find and exterminate Goku.",
+    "Combos": "https://www.youtube.com/watch?v=0GGkxI2XOO0",
+    "Combos2": "https://www.youtube.com/watch?v=EPrUNCr1Kvg",
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick jab with his leading hand.",
@@ -6367,10 +6749,20 @@
   },
   {
     "Nombre": "Krillin",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Krillin had a brief rivalry with Goku when they first met and trained under Master Roshi, but they quickly became lifelong best friends.[9] One of the most powerful and talented martial artists on Earth, Krillin is courageous, faithful, and good-natured. He is a prominent Z Fighter, despite usually being overpowered by the major enemies. His short stature and baldness (with the exception of when he grows out his hair in the Majin Buu Saga onwards, although he occasionally shaves his head in several sagas in Dragon Ball Super) aid him in his ability to provide comic relief during tense moments. During the latter half of Dragon Ball Z, he largely retires from fighting, opting to settle down with his family instead, becoming the husband of Android 18 and the father of Marron. However, he returns to his lifestyle as a warrior later on in Dragon Ball Super.",
     "Foto": "imagenes/DBZTODO/krillin.png",
-    "Foto2": "imagenes/PersonajesBD/krilin.jpg",
+    "Foto2": "imagenes/PersonajesBD/krilin.png",
+    "Animename": "Krillin",
+    "Manganame": "Kuririn",
+    "Raze": "Human",
+    "Gender": "Male",
 
+    "Size": "153 cm",
+    "Weight": "45 Kg",
+
+    "Personality": "Originally a jealous and selfish person, Krillin did not respect rules when confronted with Roshi's training. After a short arch-rivalry between the two (years later, Krillin even admits that he hated Goku at first), he becomes Goku's best friend and his selfish and jealous personality becomes more kind-hearted and generous (although he still has slight selfish and jealous traits after his reform). Krillin is often used as comic relief or cannon fodder by the author. As the most prominent full-blooded human character in the Dragon Ball series, Krillin also represents a sense of normalcy to Goku and Gohan, as well as often being the most identifiable. Often when things in the Dragon World turn bizarre, it is left to Krillin to shake his head in disbelief and crack a joke.",
+    "Combos": "https://www.youtube.com/watch?v=ojKEXZI4uZg",
+    "Combos2": "https://www.youtube.com/watch?v=j7XxklptvJE",
     "NormalAttacks": [
       {
         "nombreAtaque": "A short-ranged jab.",
@@ -6537,10 +6929,20 @@
   },
   {
     "Nombre": "Nappa",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Nappa (ナッパ Nappa) is a mid-class Saiyan warrior from Planet Vegeta, and Vegeta's partner in combat. Prior to the destruction of Planet Vegeta, Nappa was the general of the Saiyan Army and aid/partner to the young prince, Vegeta. After his race's demise, he, along with Vegeta and Raditz, worked as soldiers directly under Frieza, which led him to Earth.",
     "Foto": "imagenes/DBZTODO/nappa.png",
-    "Foto2": "imagenes/PersonajesBD/nappa.jpg",
+    "Foto2": "imagenes/PersonajesBD/nappa.png",
+    "Animename": "Nappa",
+    "Manganame": "Nappa",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "193 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Nappa has quite a destructive personality and loves demolition to an extreme level. When arriving on Earth, the first thing he asks Vegeta is if he can destroy a town. When taking time off to wait for Goku, Vegeta allows him to destroy as many things and places as he wants (in the anime only), as long as he does not waste enough energy to break a sweat. Nappa proceeds to demolish an entire Navy fleet division as well as an aerial raid, smashing through many jets and helicopters before leveling a slew of ships. Despite this, however, he usually congratulates his victims when they utilize attacks that come close to killing him, as evidenced when he congratulates Tien Shinhan on his use on a Spirit Tri-Beam that shattered his Battle Armor, citing that, had his aim been better, it would have severely injured him.",
+    "Combos": "https://www.youtube.com/watch?v=0hMmZjxIWRI",
+    "Combos2": "https://www.youtube.com/watch?v=ebh34hycgZc",
     "NormalAttacks": [
       {
         "nombreAtaque": "A downward punch.",
@@ -6686,10 +7088,20 @@
   },
   {
     "Nombre": "Goku Ultra Instinct",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Pushed to his limits during the Tournament of Power, Goku tapped into this powerful mental state in order to battle Jiren, a technique of such strength that not even a God of Destruction could rival it: Ultra Instinct. Through repeated use, Goku manages to complete the form, allowing him to lead his Universe in standing a chance against Jiren. With his mind and body separated, Goku becomes fast enough to swiftly evade incoming attacks, while fighting purely on instinct alone.",
     "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
-    "Foto2": "imagenes/PersonajesBD/Goku_UltraInstinct.jpg",
+    "Foto2": "imagenes/PersonajesBD/Goku_UltraInstinct.png",
+    "Animename": "Goku",
+    "Manganame": "Goku",
+    "Raze": "Saiyan",
+    "Gender": "Male",
 
+    "Size": "175 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Goku and Vegeta spar with Whis who dodges them with ease even causing the two to ram into each other by mistake, Goku watches as Vegeta has a turn attacking Whis on his own and then proceeds to attack once Vegeta has been downed, tapping into the power of Super Saiyan God as he does so though is still unable to hit the angel. Goku and Vegeta then continue their assault, though it soon ends and Whis reveals that he has marked their outfits with his symbol. He then explains the principles of Ultra Instinct to them and points out there flaws. Beerus then interrupts, firing a ki blast in anger, much to the shock of Goku and Vegeta.",
+    "Combos": "https://www.youtube.com/watch?v=SrG36nQcmpw",
+    "Combos2": "https://www.youtube.com/watch?v=ewbCeTJ0PxA",
     "NormalAttacks": [
       {
         "nombreAtaque": "Does a mid-level jab.",

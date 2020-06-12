@@ -30,12 +30,16 @@ class BiografiaDragonBall extends React.Component {
   handleCloseModal = (e) => {
     this.setState({ show: false });
   };
-
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   render() {
     const detalles = this.props.location.state.ALL;
 
     return (
       <div className="BioDivTotalBD">
+        <button onClick={this.props.history.goBack}>Back</button>
+
         <h1 className="BioTitulocolor"> {detalles.Nombre}</h1>
 
         <div>
@@ -49,8 +53,20 @@ class BiografiaDragonBall extends React.Component {
               />
             </Col>
             <Col className="col-md-5  BIOCentrarColDivBD">
-              <h1 className="BiotituloBD"> Biografia</h1>
+              <h1 className="BiotituloBD"> Biography</h1>
               <h6 className="BioDescBD"> {detalles.Descripcion}</h6>
+              <h1 className="BiotituloBD"> Personality</h1>
+              <h6 className="BioDescBD"> {detalles.Personality}</h6>
+              <h1 className="BiotituloBD"> Characteristics </h1>
+              <h6 className="BioDescBD">
+                <p>Anime name: </p>
+                {detalles.Animename}
+              </h6>
+              <h6 className="BioDescBD"> Manga name: {detalles.Manganame}</h6>
+              <h6 className="BioDescBD"> Raze: {detalles.Raze}</h6>
+              <h6 className="BioDescBD"> Gender: {detalles.Gender}</h6>
+              <h6 className="BioDescBD"> Size: {detalles.Size}</h6>
+              <h6 className="BioDescBD"> Weight: {detalles.Weight}</h6>
             </Col>
           </Row>
           <div className="">
