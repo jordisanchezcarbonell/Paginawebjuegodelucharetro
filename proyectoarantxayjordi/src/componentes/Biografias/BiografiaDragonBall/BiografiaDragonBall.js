@@ -4,6 +4,7 @@ import "./BiografiaDragonBall.css";
 
 import { withRouter } from "react-router-dom";
 import { Container, Row, Col } from "reactstrap";
+import ResponsivePlayer from "../../video/ResponsivePlayer";
 
 class BiografiaDragonBall extends React.Component {
   constructor(props, context) {
@@ -35,34 +36,34 @@ class BiografiaDragonBall extends React.Component {
 
     return (
       <div className="BioDivTotalBD">
-        <h1 className="BioNombreBD"> {detalles.Nombre}</h1>
+        <h1 className="BioTitulocolor"> {detalles.Nombre}</h1>
 
+        <div>
+          <Row className="BioImgyBio">
+            <Col className="col-md-5">
+              <img
+                className="BioImgBD"
+                variant="top"
+                src={process.env.PUBLIC_URL + detalles.Foto2}
+                alt="Error"
+              />
+            </Col>
+            <Col className="col-md-5  BIOCentrarColDivBD">
+              <h1 className="BiotituloBD"> Biografia</h1>
+              <h6 className="BioDescBD"> {detalles.Descripcion}</h6>
+            </Col>
+          </Row>
+          <div className="">
+            <h1 className="BIOtitulocombosBD"> Combos</h1>
+            <div>
+              <Col className="col-md-5 ">
+                <ResponsivePlayer url={detalles.Combos} />
 
-<div > 
-        <Row  className="BioImgyBio">
-        <Col className="col-md-5">
-        <img
-          className="BioImgBD"
-          variant="top"
-          src={process.env.PUBLIC_URL + detalles.Foto2}
-          alt="Error"
-        />
-        </Col>
-        <Col  className="col-md-5  BIOCentrarColDivBD">
-        <h1 className="BiotituloBD"> Biografia</h1>
-        <h6 className="BioDescBD"> {detalles.Descripcion}</h6>
-        </Col>
-        </Row>
-        <Row  className="BioImgyBio">
-
-        <h1 className="BIOtitulocombosBD"> Combos</h1>
-
-
-
-        </Row>
+                <ResponsivePlayer url={detalles.Combos2} />
+              </Col>
+            </div>
+          </div>
         </div>
-        
-
       </div>
     );
   }

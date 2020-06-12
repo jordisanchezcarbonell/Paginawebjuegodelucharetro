@@ -1,6 +1,4 @@
 [
-
-
   {
     "Nombre": "Marvel vs Capcom",
     "Descripcion": "Street Fighter III: 3rd Strike - Fight for the Future (ストリートファイターⅢ サードストライク sutorīto faitā Ⅲ sādo sutoraiku?) es la tercer entrega de la saga Street Fighter III, publicada en el año 1999. Siendo una secuela del videojuego Street Fighter III: 2nd Impact, continua la utilización dentro de la serie del parry system, comandos de lanzamientos y ataques por encima de la altura de la cabeza.",
@@ -23,14 +21,10 @@
           "imagenes/PonysPequeños/pom.png",
           "imagenes/PonysPequeños/tianhuo.png",
           "imagenes/PonysPequeños/velvet.png"
-
-
-
-
-
         ]
-    
-  }]},
+      }
+    ]
+  },
   {
     "Nombre": "Killer Instinct",
     "Descripcion": "The story of Killer Instinct places us in a polluted world, where governments lack power and it is the large multinationals that exercise control, of all the most powerful is called Ultratech that is dedicated to the manufacture of weapons, Ultratech creates a tournament that he called Killer Instinct to test his weapons and in case it was not enough the company released Eyedol a demon from another dimension as final test, the fighter who defeated him had as a prize what he wanted ....",

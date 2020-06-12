@@ -4,7 +4,7 @@
     "Descripcion": "LA MEJOOOOR",
 
     "Foto": "imagenes/DBZTODO/bardock.png",
-    "Foto2":"imagenes/PersonajesBD/bardock.png",
+    "Foto2": "imagenes/PersonajesBD/bardock.png",
     "NormalAttacks": [
       {
         "nombreAtaque": "A body blow.",
@@ -190,7 +190,7 @@
     "Nombre": "Kid Buu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/kid-buu.png",
-    "Foto2":"imagenes/PersonajesBD/kid-buu.jpg",
+    "Foto2": "imagenes/PersonajesBD/kid-buu.jpg",
 
     "NormalAttacks": [
       {
@@ -397,7 +397,7 @@
     "Nombre": "GT Goku",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/kid-goku.png",
-    "Foto2":"imagenes/PersonajesBD/goku-gt.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku-gt.jpg",
 
     "NormalAttacks": [
       {
@@ -610,7 +610,7 @@
     "Nombre": "Adult Gohan",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/gohan-adult.png",
-    "Foto2":"imagenes/PersonajesBD/gohan_adulto.jpg",
+    "Foto2": "imagenes/PersonajesBD/gohan_adulto.jpg",
 
     "NormalAttacks": [
       {
@@ -799,7 +799,7 @@
     "Nombre": "Cell",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/cell.png",
-    "Foto2":"imagenes/PersonajesBD/celula.jpg",
+    "Foto2": "imagenes/PersonajesBD/celula.jpg",
 
     "NormalAttacks": [
       {
@@ -995,7 +995,7 @@
     "Nombre": "Teen Gohan",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/gohan.png",
-    "Foto2":"imagenes/PersonajesBD/gohan_joven.jpg",
+    "Foto2": "imagenes/PersonajesBD/gohan_joven.jpg",
 
     "NormalAttacks": [
       {
@@ -1157,7 +1157,7 @@
     "Nombre": "Gogeta",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/gogeta.png",
-    "Foto2":"imagenes/PersonajesBD/gogeta.jpg",
+    "Foto2": "imagenes/PersonajesBD/gogeta.jpg",
 
     "NormalAttacks": [
       {
@@ -1541,8 +1541,7 @@
     "Nombre": "Android 21",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/android-21.png",
-    "Foto2":"imagenes/PersonajesBD/androide_21.png",
-
+    "Foto2": "imagenes/PersonajesBD/androide_21.png",
 
     "NormalAttacks": [
       {
@@ -1746,7 +1745,7 @@
     "Nombre": "Vegeta",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/vegeta.png",
-    "Foto2":"imagenes/PersonajesBD/vegeta.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegeta.jpg",
 
     "NormalAttacks": [
       {
@@ -1896,8 +1895,7 @@
     "Nombre": "Gotenks",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/gotenks.png",
-    "Foto2":"imagenes/PersonajesBD/gotenks.jpg",
-
+    "Foto2": "imagenes/PersonajesBD/gotenks.jpg",
 
     "NormalAttacks": [
       {
@@ -2046,8 +2044,7 @@
     "Nombre": "Goku Black",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku-black.png",
-    "Foto2":"imagenes/PersonajesBD/goku-black.jpg",
-
+    "Foto2": "imagenes/PersonajesBD/goku-black.jpg",
 
     "NormalAttacks": [
       {
@@ -2214,7 +2211,7 @@
     "Nombre": "Vegito",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/vegetto.png",
-    "Foto2":"imagenes/PersonajesBD/vegetto.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegetto.jpg",
 
     "NormalAttacks": [
       {
@@ -2379,8 +2376,7 @@
     "Nombre": "Base Vegeta",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/base-vegeta.png",
-    "Foto2":"imagenes/PersonajesBD/vegeta.jpg",
-
+    "Foto2": "imagenes/PersonajesBD/vegeta.jpg",
 
     "NormalAttacks": [
       {
@@ -2535,7 +2531,7 @@
     "Nombre": "Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku.png",
-    "Foto2":"imagenes/PersonajesBD/goku.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku.jpg",
 
     "NormalAttacks": [
       {
@@ -2691,7 +2687,7 @@
     "Nombre": "Android 16",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/android-16.png",
-    "Foto2":"imagenes/PersonajesBD/Numero_16.png",
+    "Foto2": "imagenes/PersonajesBD/Numero_16.png",
 
     "NormalAttacks": [
       {
@@ -2865,8 +2861,7 @@
     "Nombre": "Trunks",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/trunks.png",
-    "Foto2":"imagenes/PersonajesBD/trunks.jpg",
-
+    "Foto2": "imagenes/PersonajesBD/trunks.jpg",
 
     "NormalAttacks": [
       {
@@ -3055,7 +3050,7 @@
     "Nombre": "Piccolo",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/piccolo.png",
-    "Foto2":"imagenes/PersonajesBD/piccolo.jpg",
+    "Foto2": "imagenes/PersonajesBD/piccolo.jpg",
 
     "NormalAttacks": [
       {
@@ -3220,7 +3215,7 @@
     "Nombre": "Fused Zamasu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/zamas.png",
-    "Foto2":"imagenes/PersonajesBD/zamas.jpg",
+    "Foto2": "imagenes/PersonajesBD/zamas.jpg",
 
     "NormalAttacks": [
       {
@@ -3378,7 +3373,7 @@
     "Nombre": "Blue Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku-ssb.png",
-    "Foto2":"imagenes/PersonajesBD/goku-ssb.png",
+    "Foto2": "imagenes/PersonajesBD/goku-ssb.png",
 
     "NormalAttacks": [
       {
@@ -3527,7 +3522,7 @@
     "Nombre": "Kefla",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/Kefla.png",
-    "Foto2":"imagenes/PersonajesBD/Kefla.png",
+    "Foto2": "imagenes/PersonajesBD/Kefla.png",
 
     "NormalAttacks": [
       {
@@ -3703,7 +3698,7 @@
     "Nombre": "Super Broly",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/super-broly.png",
-    "Foto2":"imagenes/PersonajesBD/broly.png",
+    "Foto2": "imagenes/PersonajesBD/broly.png",
 
     "NormalAttacks": [
       {
@@ -3884,7 +3879,7 @@
     "Nombre": "Tien",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/tien.png",
-    "Foto2":"imagenes/PersonajesBD/tenshinhan.jpg",
+    "Foto2": "imagenes/PersonajesBD/tenshinhan.jpg",
 
     "NormalAttacks": [
       {
@@ -4058,7 +4053,7 @@
     "Nombre": "Hit",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/hit.png",
-    "Foto2":"imagenes/PersonajesBD/hit.jpg",
+    "Foto2": "imagenes/PersonajesBD/hit.jpg",
 
     "NormalAttacks": [
       {
@@ -4232,7 +4227,7 @@
     "Nombre": "Base Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/base-goku.png",
-    "Foto2":"imagenes/PersonajesBD/goku_base.jpg",
+    "Foto2": "imagenes/PersonajesBD/goku_base.jpg",
 
     "NormalAttacks": [
       {
@@ -4430,7 +4425,7 @@
     "Nombre": "Yamcha",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/yamcha.png",
-    "Foto2":"imagenes/PersonajesBD/yamcha.png",
+    "Foto2": "imagenes/PersonajesBD/yamcha.png",
 
     "NormalAttacks": [
       {
@@ -4565,7 +4560,7 @@
         "nombreAtaque": "Spirit Ball ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.ng",
 
           "imagenes/ImagenesAtaqueDB/M.png"
         ]
@@ -4587,7 +4582,9 @@
     "Nombre": "Janemba",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/janemba.png",
-    "Foto2":"imagenes/PersonajesBD/janemba.png",
+    "Foto2": "imagenes/PersonajesBD/janemba.png",
+    "Combos": "http://www.youtube.com/watch?v=EGiABIMCTZg",
+    "Combos2": "http://www.youtube.com/watch?v=3qSL9HoQGQM",
 
     "NormalAttacks": [
       {
@@ -4784,7 +4781,7 @@
     "Nombre": "Frieza",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/frieza.png",
-    "Foto2":"imagenes/PersonajesBD/freezer.png",
+    "Foto2": "imagenes/PersonajesBD/freezer.png",
 
     "NormalAttacks": [
       {
@@ -5122,7 +5119,7 @@
     "Nombre": "Broly",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/broly.png",
-    "Foto2":"imagenes/PersonajesBD/broly.jpg",
+    "Foto2": "imagenes/PersonajesBD/broly.jpg",
 
     "NormalAttacks": [
       {
@@ -5279,7 +5276,7 @@
     "Nombre": "Jiren",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/Jiren.png",
-    "Foto2":"imagenes/PersonajesBD/Jiren.png",
+    "Foto2": "imagenes/PersonajesBD/Jiren.png",
 
     "NormalAttacks": [
       {
@@ -5450,7 +5447,7 @@
     "Nombre": "Android 18",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/android-18.png",
-    "Foto2":"imagenes/PersonajesBD/androide_18.jpg",
+    "Foto2": "imagenes/PersonajesBD/androide_18.jpg",
 
     "NormalAttacks": [
       {
@@ -5606,7 +5603,7 @@
     "Nombre": "Beerus",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/beerus.png",
-    "Foto2":"imagenes/PersonajesBD/beerus.png",
+    "Foto2": "imagenes/PersonajesBD/beerus.png",
 
     "NormalAttacks": [
       {
@@ -5761,7 +5758,7 @@
     "Nombre": "Majin Buu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/majin-buu.png",
-    "Foto2":"imagenes/PersonajesBD/majin_buu.jpg",
+    "Foto2": "imagenes/PersonajesBD/majin_buu.jpg",
 
     "NormalAttacks": [
       {
@@ -5924,7 +5921,7 @@
     "Nombre": "Captain Ginyu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/ginyu.png",
-    "Foto2":"imagenes/PersonajesBD/ginyu.jpg",
+    "Foto2": "imagenes/PersonajesBD/ginyu.jpg",
 
     "NormalAttacks": [
       {
@@ -6059,7 +6056,7 @@
     "Nombre": "Blue Vegeta",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/vegeta-ssb.png",
-    "Foto2":"imagenes/PersonajesBD/vegetta_SSB.jpg",
+    "Foto2": "imagenes/PersonajesBD/vegetta_SSB.jpg",
 
     "NormalAttacks": [
       {
@@ -6222,7 +6219,7 @@
     "Nombre": "Android 17",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/android-17.png",
-    "Foto2":"imagenes/PersonajesBD/androide_17.jpg",
+    "Foto2": "imagenes/PersonajesBD/androide_17.jpg",
 
     "NormalAttacks": [
       {
@@ -6372,7 +6369,7 @@
     "Nombre": "Krillin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/krillin.png",
-    "Foto2":"imagenes/PersonajesBD/krilin.jpg",
+    "Foto2": "imagenes/PersonajesBD/krilin.jpg",
 
     "NormalAttacks": [
       {
@@ -6542,7 +6539,7 @@
     "Nombre": "Nappa",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/nappa.png",
-    "Foto2":"imagenes/PersonajesBD/nappa.jpg",
+    "Foto2": "imagenes/PersonajesBD/nappa.jpg",
 
     "NormalAttacks": [
       {
@@ -6691,7 +6688,7 @@
     "Nombre": "Goku Ultra Instinct",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
-    "Foto2":"imagenes/PersonajesBD/Goku_UltraInstinct.jpg",
+    "Foto2": "imagenes/PersonajesBD/Goku_UltraInstinct.jpg",
 
     "NormalAttacks": [
       {

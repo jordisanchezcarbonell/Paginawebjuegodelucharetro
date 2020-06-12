@@ -4,7 +4,7 @@
     "Descripcion": "Ryu .",
     "Foto": "imagenes/ponys2/arizona.png",
     "Foto2": "imagenes/ponys2/arizonaResponsive.png",
-    "Foto3":"imagenes/ponys/ARIZONA.png",
+    "Foto3": "imagenes/ponys/ARIZONA.png",
     "fondo": "imagenes/ponys2/wallarizona.jpg",
 
     "Uniquemovement": [
@@ -107,7 +107,7 @@
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/ponys2/velvet.png",
     "Foto2": "imagenes/ponys2/velvetResponsive.png",
-    "Foto3":"imagenes/ponys/VELVET.png",
+    "Foto3": "imagenes/ponys/VELVET.png",
 
     "fondo": "imagenes/ponys2/wallvelvet.jpg",
 
@@ -206,8 +206,7 @@
     "Foto": "imagenes/ponys2/oleander.png",
     "Foto2": "imagenes/ponys2/oleanderResponsive.png",
     "fondo": "imagenes/ponys2/FondoWoodlans.png",
-    "Foto3":"imagenes/ponys/OLEANDER.png",
-
+    "Foto3": "imagenes/ponys/OLEANDER.png",
 
     "Uniquemovement": [
       {
@@ -303,8 +302,7 @@
     "Foto": "imagenes/ponys2/paprika.png",
     "Foto2": "imagenes/ponys2/paprikaResponsive.png",
     "fondo": "imagenes/ponys2/FondoAlpake.png",
-    "Foto3":"imagenes/ponys/PAPRIKA.png",
-
+    "Foto3": "imagenes/ponys/PAPRIKA.png",
 
     "Uniquemovement": [
       {
@@ -405,8 +403,7 @@
     "Foto": "imagenes/ponys2/pom.png",
     "Foto2": "imagenes/ponys2/pomResponsive.png",
     "fondo": "imagenes/ponys2/FondoBaaah.png",
-    "Foto3":"imagenes/ponys/POM.png",
-
+    "Foto3": "imagenes/ponys/POM.png",
 
     "Uniquemovement": [
       {
@@ -503,8 +500,7 @@
     "Foto": "imagenes/ponys2/tianhuo.png",
     "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
     "fondo": "imagenes/ponys2/FondoHuoshan.png",
-    "Foto3":"imagenes/ponys/TIANHUO.png",
-
+    "Foto3": "imagenes/ponys/TIANHUO.png",
 
     "Uniquemovement": [
       {
