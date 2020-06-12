@@ -95,13 +95,6 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-            </Col>
-            <Col className="col-md-6 w-100 mb-5 mr-5 escondersi ">
-              <img
-                className="FOTOTK2 my-1 mt-5 "
-                src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
-                alt="imagen personaje"
-              ></img>
               <Link
                 to={{
                   pathname: "/BiografiaTekken",
@@ -115,6 +108,13 @@ class Child extends React.Component {
                   <span>Biography &amp; Videos</span>
                 </span>
               </Link>
+            </Col>
+            <Col className="col-md-6 w-100 mb-5 mr-5 escondersi ">
+              <img
+                className="FOTOTK2 my-1 mt-5 "
+                src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
+                alt="imagen personaje"
+              ></img>
             </Col>
           </Row>
         </Container>

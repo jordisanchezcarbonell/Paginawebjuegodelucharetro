@@ -226,7 +226,7 @@ class KillerInstinc extends React.Component {
                               ALL:personaje,
                             },
                           }}
-                          className="btn-ki large ghostpulse "
+                          className="btn-ki large ghosq"
                         >
                           <span className="botonSpan">
                             <span>Biography &amp; Videos</span>

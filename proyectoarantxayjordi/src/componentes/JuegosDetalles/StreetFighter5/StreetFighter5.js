@@ -143,7 +143,6 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-
               <TableContainer className=" fondoTablaSF  mt-2 mb-4 AnchoSF">
                 <h3 className="TituloAtaquesSF mifuenteSF my-0">
                   Critical Art
@@ -199,7 +198,7 @@ class Child extends React.Component {
                 <span className="botonSpan">
                   <span>Biography &amp; Videos</span>
                 </span>
-              </Link>
+              </Link>{" "}
             </Col>
           </Row>
         </Container>

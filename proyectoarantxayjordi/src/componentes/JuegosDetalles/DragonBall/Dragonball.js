@@ -146,7 +146,6 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-
               <TableContainer className=" fondoTablaBD   mt-3 TamañoTablaBD ">
                 <h3 className="mifuente TituloAtaquesBD  mt-3 my-0">
                   Sky bound Art
@@ -191,7 +190,6 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-
               <TableContainer className=" fondoTablaBD  mt-4  mb-4 TamañoTablaBD">
                 <h3 className="mifuente TituloAtaquesBD  mt-3 my-0">
                   Super Sky boundArt
@@ -236,19 +234,21 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-              <Link
-                to={{
-                  pathname: "/BiografiaDragonBall",
-                  state: {
-                    ALL: this.props.elemento,
-                  },
-                }}
-                className="btn-ki large ghostpulse "
-              >
-                <span className="botonSpan">
-                  <span>Biography &amp; Videos</span>
-                </span>
-              </Link>
+              <Col className="col-md-6">
+                <Link
+                  to={{
+                    pathname: "/BiografiaDragonBall",
+                    state: {
+                      ALL: this.props.elemento,
+                    },
+                  }}
+                  className="btn-ki large ghostpulse "
+                >
+                  <span className="botonSpan">
+                    <span>Biography &amp; Videos</span>
+                  </span>
+                </Link>
+              </Col>{" "}
             </Col>
           </Row>
         </Container>
