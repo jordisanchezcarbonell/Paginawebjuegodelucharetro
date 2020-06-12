@@ -1,11 +1,60 @@
 .BioTitulocolor{
     color: black;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+font-family: "BioLetraBD";
+font-size: 5vw;
 }
 .BioImgyBio{
 
 background-color: rgba(0, 0, 0, 0.274);
+border:4px black solid;
+border-radius: 30px;
+width: 80%;
+margin-left: auto!important;
+margin-right: auto!important;
 
 }
 .BioDivTotalBD{
     background-color: chocolate;
+   
+
+}
+.BioImgBD{
+    height: 40vw;
+}
+
+.BIOCentrarColDivBD{
+    margin-left: auto!important;
+margin-right: auto!important;
+}
+.BiotituloBD{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+margin-right: auto;
+ 
+    color: black;
+font-size: 3vw;
+border-bottom: 2px black solid;
+width: 70%;
+
+}
+.BioDescBD{
+
+    color: black;
+
+}
+
+.BIOtitulocombosBD{
+    margin-left: auto;
+margin-right: auto;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vw;
+}
+@font-face {
+    font-family: "BioLetraBD";
+    src: url(LeviReBrushed.ttf);
+
 }

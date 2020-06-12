@@ -39,23 +39,29 @@ class BiografiaDragonBall extends React.Component {
 
 
 <div > 
-        <Row className="BioImgyBio">
+        <Row  className="BioImgyBio">
         <Col className="col-md-5">
         <img
-          className="BioPersonajeBD"
+          className="BioImgBD"
           variant="top"
           src={process.env.PUBLIC_URL + detalles.Foto2}
           alt="Error"
         />
         </Col>
-        <Col  className="col-md-5">
-        <h1 className="titulocolor"> Biografia</h1>
-        <h6 className="BioTitulocolor"> {detalles.Descripcion}</h6>
+        <Col  className="col-md-5  BIOCentrarColDivBD">
+        <h1 className="BiotituloBD"> Biografia</h1>
+        <h6 className="BioDescBD"> {detalles.Descripcion}</h6>
         </Col>
+        </Row>
+        <Row  className="BioImgyBio">
+
+        <h1 className="BIOtitulocombosBD"> Combos</h1>
+
+
+
         </Row>
         </div>
         
-        <h1 className="titulocolor"> Combos</h1>
 
       </div>
     );
