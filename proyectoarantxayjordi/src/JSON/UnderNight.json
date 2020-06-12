@@ -3,6 +3,9 @@
     "Nombre": "Vatista",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/UNDERRECORTADO/Story-vat0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Vatista.png",
+
+    
     "SpecialAttack": [
       {
         "nombreAtaque": "Lumen Stella (AIRE OK,HOLD)",
@@ -92,6 +95,8 @@
     "Nombre": "Phonon",
     "Descripcion": "Ryu .",
     "Foto": "imagenes/UNDERRECORTADO/Story-pho00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/phonon.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Sliding Affliction (Air OK) ",
@@ -173,6 +178,8 @@
     "Nombre": "Hilda",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-hil00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Hilda.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Skewer (Air OK) ",
@@ -286,6 +293,8 @@
     "Nombre": "Byakuya",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-bya00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/byakuya.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "How Shall I Cook You?",
@@ -358,6 +367,8 @@
     "Nombre": "Gordeau",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-gor0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Gordeau.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Mortal Slide",
@@ -463,6 +474,8 @@
     "Nombre": "Waldstein",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-wal0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Waldstein.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Eisen Nagel",
@@ -546,6 +559,8 @@
     "Nombre": "Hyde",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-hyd0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Hyde.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Black Orbiter",
@@ -643,6 +658,8 @@
     "Nombre": "Wagner",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-wag00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/wagner.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Kugel Blitz",
@@ -749,6 +766,8 @@
     "Nombre": "Orie",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-ori00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Orie.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Divine Thrust",
@@ -830,6 +849,8 @@
     "Nombre": "Eltnum",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-elt00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/eltnum.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Hollow Point",
@@ -945,6 +966,8 @@
     "Nombre": "Merkava",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-mer0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Merkava.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "I, Drill Through",
@@ -1041,6 +1064,8 @@
     "Nombre": "Chaos",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-cha00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/chaos.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Slither Up(HOLD) (Air OK)",
@@ -1135,6 +1160,8 @@
     "Nombre": "Seth",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-se0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Seth.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Captive Segment (Air OK)",
@@ -1237,6 +1264,8 @@
     "Nombre": "Nanase",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-nan00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/nanase.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Chasing le Reve",
@@ -1336,6 +1365,8 @@
     "Nombre": "Akatsuki",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-aka00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/akatsuki.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Blitz Shot (Air OK)",
@@ -1408,6 +1439,8 @@
     "Nombre": "Carmine",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-car0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Carmine.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Spin! (Air OK)",
@@ -1492,6 +1525,8 @@
     "Nombre": "Yuzuriha",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-yu0.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Yuzuriha.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Battoujutsu Ni no Kata: Saki(Air OK)",
@@ -1567,6 +1602,8 @@
     "Nombre": "Mika",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-mika00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/Mika.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Mika's Missile(Air OK)",
@@ -1655,6 +1692,8 @@
     "Nombre": "Linne",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/UNDERRECORTADO/Story-lnd00.png",
+    "Foto2": "imagenes/PersonajesUnderNight/linne.png",
+
     "SpecialAttack": [
       {
         "nombreAtaque": "Sky Fangs",

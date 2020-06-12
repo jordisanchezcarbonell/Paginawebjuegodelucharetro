@@ -1,3 +1,92 @@
 .titulocolor{
     color: black;
 }
+
+
+.BioDivTotalSoul{
+
+
+
+background: 100%;
+background: url(./bg_deco_contents.png) bottom repeat-x, url(./bg_deco_contents.png)   top repeat-x,  url(./fondo.png) top center no-repeat!important;
+
+
+
+width: 100%;
+background-color: rgba(2, 2, 1, 0.712);
+padding-bottom: 20px;
+min-width: 100%;
+height: 100%;
+min-height: 100%!important;
+}
+
+
+
+
+
+  
+
+
+
+
+
+.BioNombreSoul{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
+    color: white;
+    font-family: "BioLetraPonys";
+
+    font-size: 5vw;
+
+}
+.BiotituloSoul{
+
+    font-family: "BioLetraPonys";  
+      margin-left: auto;
+margin-right: auto;
+ 
+    color: white;
+font-size: 3vw;
+border-bottom: 2px white solid;
+width: 70%;
+}
+
+.BioDesSoul{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 1vw;
+
+}
+.BioNavbarSoul{
+
+    margin-left: auto;
+    margin-right: auto;
+padding-bottom: 1vw;
+}
+
+
+.BIOtitulocombosSoul{
+    margin-left: auto;
+margin-right: auto;
+    color: white;
+    font-family: "BioLetraPonys";    font-size: 3vw;
+}
+
+.BioImgSoul{
+    height: 30vw;
+
+}
+
+.BIOCentrarColDivSoul{
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-left: auto!important;
+margin-right: auto!important;
+}
+
+.BioImgySoul{
+    width: 80%;
+    margin-left: auto!important;
+margin-right: auto!important;
+
+}

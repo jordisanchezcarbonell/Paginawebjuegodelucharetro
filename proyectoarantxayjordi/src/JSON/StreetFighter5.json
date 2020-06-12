@@ -3,6 +3,8 @@
     "Nombre": "G",
     "Descripcion": "Ryu",
     "Foto": "imagenes/SF5/g2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/G.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Wild President",
@@ -89,6 +91,8 @@
     "Nombre": "Urien",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/urien2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Urien.png",
+    
     "UniqueMoves": [
       {
         "nombreAtaque": "Quarrel Punch",
@@ -177,6 +181,8 @@
     "Nombre": "Akuma",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/akuma2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Akuma.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Tenmakujinkyaku",
@@ -274,6 +280,8 @@
     "Nombre": "Karin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/karin2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Karin.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Tsumujigari",
@@ -352,6 +360,8 @@
     "Nombre": "Ibuki",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ibuki2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ibuki.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Agemen",
@@ -414,6 +424,8 @@
     "Nombre": "M. Bison",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/mbison2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/bison.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Psycho Blast",
@@ -482,6 +494,8 @@
     "Nombre": "Rashid",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/rashid2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Rashid.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Flap Spin",
@@ -546,6 +560,8 @@
     "Nombre": "Guile",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/guile2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Guile.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Knee Bazooka",
@@ -607,6 +623,8 @@
     "Nombre": "Chun-Li",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/chun-li2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/ChunLi-.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Tsuitotsuken",
@@ -665,6 +683,8 @@
     "Nombre": "Necalli",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/necalli2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Necalli.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Opening Dagger ",
@@ -724,6 +744,8 @@
     "Nombre": "Cammy",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/cammy2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Cammy.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Knee Bullet",
@@ -780,6 +802,8 @@
     "Nombre": "Gill",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/gill2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Gill.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Cryo Drop Elbow",
@@ -836,6 +860,8 @@
     "Nombre": "Poison",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/poison2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Poison.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Whiplash",
@@ -896,6 +922,8 @@
     "Nombre": "Menat",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/menat2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Menat.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Divine Retribution",
@@ -954,6 +982,8 @@
     "Nombre": "Kolin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/kolin2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Kolin.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Blizzard Heel",
@@ -1010,6 +1040,8 @@
     "Nombre": "Zeku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/zeku2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Zeku.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Nouten Wari",
@@ -1060,6 +1092,8 @@
     "Nombre": "Birdie",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/birdie2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Birdie.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Bull Drop",
@@ -1172,6 +1206,8 @@
     "Nombre": "Abigail",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/abigail2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Abigail.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Abi Hammer",
@@ -1230,6 +1266,8 @@
     "Nombre": "Laura",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/laura2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Laura.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Step Elbow",
@@ -1287,6 +1325,8 @@
     "Nombre": "Lucia",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/lucia2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Lucia.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Elbow Crush",
@@ -1346,6 +1386,8 @@
     "Nombre": "Kage",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/kage2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Kage.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Zugaihasatsu",
@@ -1421,6 +1463,8 @@
     "Nombre": "Balrog",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/balrog2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Balrog.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Under Impact",
@@ -1482,6 +1526,8 @@
     "Nombre": "Dhalsim",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/dhaslim2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Dhalsim.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Drill Kick",
@@ -1553,6 +1599,8 @@
     "Nombre": "Sagat",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/sagat.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Sagat.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Tiger Heavy Elbow",
@@ -1616,6 +1664,8 @@
     "Nombre": "R. Mika",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/rmika2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Mika.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Lady Mika",
@@ -1679,6 +1729,8 @@
     "Nombre": "Blanka",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/blanka2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Blanka.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Rock Crusher",
@@ -1748,6 +1800,8 @@
     "Nombre": "Sakura",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/sakura2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Sakura.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Floral Kick",
@@ -1812,6 +1866,8 @@
     "Nombre": "Cody",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/cody2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Cody.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Hammer Kick",
@@ -1876,6 +1932,8 @@
     "Nombre": "Ed",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ed2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ed.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Psycho Spark",
@@ -1910,6 +1968,8 @@
     "Nombre": "Ken",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ken2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ken.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Inazuma Kick",
@@ -1975,6 +2035,8 @@
     "Nombre": "Juri",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/juri2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Juri.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Korenzan",
@@ -2032,6 +2094,8 @@
     "Nombre": "F.A.N.G",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/fang2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/FANG.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Senpukuga",
@@ -2092,6 +2156,8 @@
     "Nombre": "Falke",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/falke2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Falke.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Psycho Spitze",
@@ -2142,6 +2208,8 @@
     "Nombre": "Honda",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ehonda2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/EHonda.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Harai-Geri",
@@ -2201,6 +2269,8 @@
     "Nombre": "Ryu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/ryu2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Ryu.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Axe Kick",
@@ -2266,6 +2336,8 @@
     "Nombre": "Zangief",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/zangief2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Zangief.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Knee Hammer",
@@ -2332,6 +2404,8 @@
     "Nombre": "Alex",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/alex2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Alex.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Chop",
@@ -2391,6 +2465,8 @@
     "Nombre": "Nash",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/nash2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Nash.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Knee Bazooka",
@@ -2447,6 +2523,8 @@
     "Nombre": "Vega",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/SF5/vega2.jpg",
+    "Foto2": "imagenes/PersonajesStreetFighterV/Vega.png",
+
     "UniqueMoves": [
       {
         "nombreAtaque": "Mercury Shard",

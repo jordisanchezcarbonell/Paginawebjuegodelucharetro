@@ -1,3 +1,106 @@
-.titulocolor{
+
+.BioDivTotalTK{
+
+
     color: black;
+    text-align: center;
+    position: relative;
+    background: url(https://static.bandainamcoent.eu/high/tekken/tekken-7/06-characters/t7_characters_background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 3vw;
+  
 }
+
+
+.BioEspTopTK{
+
+    padding-top:2vw;
+}
+.BioNombreTK{
+    color: white;
+  
+
+    font-size: 5vw;
+
+    width: 20%;
+    text-align: center;
+    border-top: 2px white solid;
+    border-bottom: 2px white solid;
+    text-transform: uppercase; 
+    font-size: 3vw;
+
+    margin-bottom: 1.5vw;
+margin-right:auto ;
+    margin-left: auto;
+
+}
+.BioImgyBioTK{
+
+background-color: rgba(14, 13, 13, 0.705);
+border:4px black solid;
+border-radius: 30px;
+width: 80%;
+margin-left: auto!important;
+margin-right: auto!important;
+
+
+}
+
+.BioImgTK{
+
+    height: 35vw;
+    padding-bottom: 0vw!important;
+
+}
+
+.BIOCentrarColDivTK{
+    margin-left: auto;
+margin-right: auto;
+}
+.BiotituloTK{
+        margin-left: auto;
+        font-weight: 600;
+margin-right: auto;
+ 
+    color: white;
+font-size: 3vw;
+border-bottom: 2px white solid;
+width: 70%;
+padding-bottom: 1vw;
+
+}
+.BioDescTK{
+
+    color: white;
+
+}
+
+.BIOtitulocombosTK{
+    color: white;
+  
+
+    font-size: 5vw;
+
+    width: 15%;
+    text-align: center;
+    border-bottom: 2px white solid;
+    font-weight: 600;
+    font-size: 3vw;
+    margin-right:auto ;
+    margin-left: auto;
+    margin-bottom: 1.5vw;
+padding-top: 1vw;
+}
+
+
+
+  
+
+
+
+
+
+

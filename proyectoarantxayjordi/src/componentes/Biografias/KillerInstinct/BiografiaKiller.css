@@ -1,3 +1,63 @@
-.titulocolor{
-    color: black;
+
+.BioNombreKI{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
+    color: white;
+    font-family: "LetraKiBio";
+    font-size: 5vw;
+
+}
+.BiotituloKI{
+
+    font-family: "LetraKiBio";
+          margin-left: auto;
+margin-right: auto;
+ 
+    color: white;
+font-size: 3vw;
+border-bottom: 2px white solid;
+width: 70%;
+}
+
+.BioDesKI{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 1vw;
+
+}
+
+
+
+.BIOtitulocombosKI{
+    margin-left: auto;
+margin-right: auto;
+    color: white;
+    font-family: "LetraKiBio";    
+    font-size: 3vw;
+}
+
+.BioImgKI{
+    height: 30vw;
+
+}
+
+.BIOCentrarColDivKI{
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-left: auto!important;
+margin-right: auto!important;
+}
+
+.BioImgyBioKI{
+    width: 80%;
+    margin-left: auto!important;
+margin-right: auto!important;
+
+}
+
+
+@font-face {
+    font-family: "LetraKiBio";
+    src: url(American.otf);
+
 }

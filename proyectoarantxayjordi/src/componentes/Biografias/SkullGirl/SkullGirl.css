@@ -1,3 +1,78 @@
-.titulocolor{
+
+.BioDivTotalSG{
+
+
     color: black;
+    text-align: center;
+    position: relative;
+    background: url(http://skullgirls.com/wp-content/themes/skullgirls/images/background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  
 }
+
+
+
+.BioNombreSG{
+    color: white;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: "LetraSkullBio";
+    font-size: 5vw;
+}
+.BioImgyBioSG{
+
+background-color: rgba(216, 203, 203, 0.589);
+border:4px white solid;
+border-radius: 30px;
+width: 80%;
+margin-left: auto!important;
+margin-right: auto!important;
+
+}
+
+.BioImgSG{
+    height: 35vw;
+    padding-top: 1vw!important;
+    padding-bottom: 1vw!important;
+
+}
+
+.BIOCentrarColDivSG{
+    margin-left: auto;
+margin-right: auto;
+}
+.BiotituloSG{
+    font-family: "LetraSkullBio";
+        margin-left: auto;
+margin-right: auto;
+ 
+    color: black;
+font-size: 3vw;
+border-bottom: 2px black solid;
+width: 70%;
+
+}
+.BioDescSG{
+
+    color: black;
+
+}
+
+.BIOtitulocombosSG{
+    margin-left: auto;
+margin-right: auto;
+    color: white;
+    font-family: "LetraSkullBio";
+        font-size: 3vw;
+}
+
+
+@font-face {
+    font-family: "LetraSkullBio";
+    src: url("SelznickRemixNF.otf");
+  }
+  

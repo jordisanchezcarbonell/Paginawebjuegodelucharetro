@@ -44,14 +44,16 @@ class BiografiaPnys extends React.Component {
 
     return (
       <div className="BioDivTotalPonys">
-        <Row>
+        <Row >
+          <div className="BioNavbarPonys">
           {arrayponys.FotosPersonajePonys[0].Foto2.map((imagenes, index) => (
             <img
               key={index}
-              className="imgAtaquesBD"
+              className="BioimgPonysSelect"
               src={process.env.PUBLIC_URL + imagenes}
             />
           ))}
+          </div>
         </Row>
         <div style={({ width: "100%" }, fondopersonaje)}>
           <h1 className="BioNombrePonys"> {detalles.Nombre}</h1>

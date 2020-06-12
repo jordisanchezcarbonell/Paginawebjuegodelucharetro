@@ -1314,6 +1314,8 @@
     "Descripcion": "Eagle",
     "Foto": "imagenes/KITODO/eagle-foto.png",
     "Fondo": "imagenes/KITODO/thunder-fondo.jpg",
+        "Fondo2": "imagenes/Kifondos/arbiter.jpg",
+
     "Runa": "imagenes/KITODO/arbiter-runa.png",
     "Ataques": [
       {
