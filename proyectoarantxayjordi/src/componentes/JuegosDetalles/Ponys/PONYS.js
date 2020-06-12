@@ -265,6 +265,7 @@ class Child extends React.Component {
                 pathname: "/BiografiaPonys",
                 state: {
                   ALL: this.props.elemento,
+                  todo:this.props.todo
                 },
               }}
               className="btn-ki large ghostpulse "
@@ -453,7 +454,7 @@ class PONYS extends React.Component {
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (
-              <Child elemento={this.state.objetoPersonaje} />
+              <Child elemento={this.state.objetoPersonaje} todo={ this.props.detalles}/>
             )}
           </div>
         </div>

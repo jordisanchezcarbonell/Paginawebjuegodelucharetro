@@ -35,7 +35,7 @@ class BiografiaDragonBall extends React.Component {
 
     return (
       <div className="BioDivTotalBD">
-        <h1 className="BioTitulocolor"> {detalles.Nombre}</h1>
+        <h1 className="BioNombreBD"> {detalles.Nombre}</h1>
 
 
 <div > 

@@ -1,3 +1,63 @@
-.titulocolor{
-    color: black;
+
+@font-face {
+    font-family: "BioLetraPonys";
+    src: url(steelfish\ rg.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+
+.BioNombrePonys{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
+    color: white;
+    font-family: "BioLetraPonys";
+
+    font-size: 5vw;
+
+}
+.BiotituloPonys{
+
+    font-family: "BioLetraPonys";  
+      margin-left: auto;
+margin-right: auto;
+ 
+    color: white;
+font-size: 3vw;
+border-bottom: 2px white solid;
+width: 70%;
+}
+
+.BioDesPonys{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 1vw;
+
+}
+
+.BIOtitulocombosPonys{
+    margin-left: auto;
+margin-right: auto;
+    color: white;
+    font-family: "BioLetraPonys";    font-size: 3vw;
+}
+
+.BioImgPonys{
+    height: 30vw;
+
+}
+
+.BIOCentrarColDivPonys{
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-left: auto!important;
+margin-right: auto!important;
+}
+
+.BioImgyPonys{
+    width: 80%;
+    margin-left: auto!important;
+margin-right: auto!important;
+
 }
