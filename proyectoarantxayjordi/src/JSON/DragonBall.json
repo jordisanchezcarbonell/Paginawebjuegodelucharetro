@@ -4,6 +4,7 @@
     "Descripcion": "LA MEJOOOOR",
 
     "Foto": "imagenes/DBZTODO/bardock.png",
+    "Foto2":"imagenes/PersonajesBD/bardock.png",
     "NormalAttacks": [
       {
         "nombreAtaque": "A body blow.",
@@ -189,6 +190,8 @@
     "Nombre": "Kid Buu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/kid-buu.png",
+    "Foto2":"imagenes/PersonajesBD/kid-buu.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A gut punch.",
@@ -394,6 +397,8 @@
     "Nombre": "GT Goku",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/kid-goku.png",
+    "Foto2":"imagenes/PersonajesBD/goku-gt.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A gut punch.",
@@ -605,6 +610,8 @@
     "Nombre": "Adult Gohan",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/gohan-adult.png",
+    "Foto2":"imagenes/PersonajesBD/gohan_adulto.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Hitting shin kick",
@@ -792,6 +799,8 @@
     "Nombre": "Cell",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/cell.png",
+    "Foto2":"imagenes/PersonajesBD/celula.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Elbow strike.",
@@ -986,6 +995,8 @@
     "Nombre": "Teen Gohan",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/gohan.png",
+    "Foto2":"imagenes/PersonajesBD/gohan_joven.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A gut punch",
@@ -1146,6 +1157,8 @@
     "Nombre": "Gogeta",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/gogeta.png",
+    "Foto2":"imagenes/PersonajesBD/gogeta.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Does two quick jabs.",
@@ -1528,6 +1541,8 @@
     "Nombre": "Android 21",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/android-21.png",
+    "Foto2":"imagenes/PersonajesBD/androide_21.png",
+
 
     "NormalAttacks": [
       {
@@ -1731,6 +1746,8 @@
     "Nombre": "Vegeta",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/vegeta.png",
+    "Foto2":"imagenes/PersonajesBD/vegeta.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick jab forward.",
@@ -1879,6 +1896,8 @@
     "Nombre": "Gotenks",
     "Descripcion": "LA MEJOOOOR",
     "Foto": "imagenes/DBZTODO/gotenks.png",
+    "Foto2":"imagenes/PersonajesBD/gotenks.jpg",
+
 
     "NormalAttacks": [
       {
@@ -2027,6 +2046,8 @@
     "Nombre": "Goku Black",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku-black.png",
+    "Foto2":"imagenes/PersonajesBD/goku-black.jpg",
+
 
     "NormalAttacks": [
       {
@@ -2193,6 +2214,8 @@
     "Nombre": "Vegito",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/vegetto.png",
+    "Foto2":"imagenes/PersonajesBD/vegetto.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick flurry of kicks.",
@@ -2356,6 +2379,8 @@
     "Nombre": "Base Vegeta",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/base-vegeta.png",
+    "Foto2":"imagenes/PersonajesBD/vegeta.jpg",
+
 
     "NormalAttacks": [
       {
@@ -2510,6 +2535,8 @@
     "Nombre": "Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku.png",
+    "Foto2":"imagenes/PersonajesBD/goku.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A short jab.",
@@ -2664,6 +2691,8 @@
     "Nombre": "Android 16",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/android-16.png",
+    "Foto2":"imagenes/PersonajesBD/Numero_16.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A standing jab.",
@@ -2836,6 +2865,8 @@
     "Nombre": "Trunks",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/trunks.png",
+    "Foto2":"imagenes/PersonajesBD/trunks.jpg",
+
 
     "NormalAttacks": [
       {
@@ -3024,6 +3055,8 @@
     "Nombre": "Piccolo",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/piccolo.png",
+    "Foto2":"imagenes/PersonajesBD/piccolo.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Leading hand",
@@ -3187,6 +3220,8 @@
     "Nombre": "Fused Zamasu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/zamas.png",
+    "Foto2":"imagenes/PersonajesBD/zamas.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Energy blade-infused ",
@@ -3343,6 +3378,8 @@
     "Nombre": "Blue Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/goku-ssb.png",
+    "Foto2":"imagenes/PersonajesBD/goku-ssb.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A straight jab forward.",
@@ -3490,6 +3527,8 @@
     "Nombre": "Kefla",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/Kefla.png",
+    "Foto2":"imagenes/PersonajesBD/Kefla.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Throws a punch forward.",
@@ -3664,6 +3703,8 @@
     "Nombre": "Super Broly",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/super-broly.png",
+    "Foto2":"imagenes/PersonajesBD/broly.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Performs a jab at a downward angle",
@@ -3843,6 +3884,8 @@
     "Nombre": "Tien",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/tien.png",
+    "Foto2":"imagenes/PersonajesBD/tenshinhan.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick finger jab.",
@@ -4015,6 +4058,8 @@
     "Nombre": "Hit",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/hit.png",
+    "Foto2":"imagenes/PersonajesBD/hit.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick pressure point jab.",
@@ -4187,6 +4232,8 @@
     "Nombre": "Base Goku",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/base-goku.png",
+    "Foto2":"imagenes/PersonajesBD/goku_base.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A  straight punch.",
@@ -4383,6 +4430,8 @@
     "Nombre": "Yamcha",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/yamcha.png",
+    "Foto2":"imagenes/PersonajesBD/yamcha.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Backhanded jab.",
@@ -4538,6 +4587,8 @@
     "Nombre": "Janemba",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/janemba.png",
+    "Foto2":"imagenes/PersonajesBD/janemba.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A downward punch.",
@@ -4733,6 +4784,8 @@
     "Nombre": "Frieza",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/frieza.png",
+    "Foto2":"imagenes/PersonajesBD/freezer.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A short-ranged body blow.",
@@ -5069,6 +5122,8 @@
     "Nombre": "Broly",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/broly.png",
+    "Foto2":"imagenes/PersonajesBD/broly.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A straightforward jab.",
@@ -5224,6 +5279,8 @@
     "Nombre": "Jiren",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/Jiren.png",
+    "Foto2":"imagenes/PersonajesBD/Jiren.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A short jab.",
@@ -5393,6 +5450,8 @@
     "Nombre": "Android 18",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/android-18.png",
+    "Foto2":"imagenes/PersonajesBD/androide_18.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick shin kick.",
@@ -5547,6 +5606,8 @@
     "Nombre": "Beerus",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/beerus.png",
+    "Foto2":"imagenes/PersonajesBD/beerus.png",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A finger flick.",
@@ -5700,6 +5761,8 @@
     "Nombre": "Majin Buu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/majin-buu.png",
+    "Foto2":"imagenes/PersonajesBD/majin_buu.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick jab with his leading hand.",
@@ -5861,6 +5924,8 @@
     "Nombre": "Captain Ginyu",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/ginyu.png",
+    "Foto2":"imagenes/PersonajesBD/ginyu.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A knifehand swipe.",
@@ -5994,6 +6059,8 @@
     "Nombre": "Blue Vegeta",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/vegeta-ssb.png",
+    "Foto2":"imagenes/PersonajesBD/vegetta_SSB.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Does a jab with his leading fist.",
@@ -6155,6 +6222,8 @@
     "Nombre": "Android 17",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/android-17.png",
+    "Foto2":"imagenes/PersonajesBD/androide_17.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A quick jab with his leading hand.",
@@ -6303,6 +6372,8 @@
     "Nombre": "Krillin",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/krillin.png",
+    "Foto2":"imagenes/PersonajesBD/krilin.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A short-ranged jab.",
@@ -6471,6 +6542,8 @@
     "Nombre": "Nappa",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/nappa.png",
+    "Foto2":"imagenes/PersonajesBD/nappa.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "A downward punch.",
@@ -6618,6 +6691,8 @@
     "Nombre": "Goku Ultra Instinct",
     "Descripcion": "PRUEBA",
     "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
+    "Foto2":"imagenes/PersonajesBD/Goku_UltraInstinct.jpg",
+
     "NormalAttacks": [
       {
         "nombreAtaque": "Does a mid-level jab.",

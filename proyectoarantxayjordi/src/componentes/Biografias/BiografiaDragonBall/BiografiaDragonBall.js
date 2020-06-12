@@ -3,6 +3,7 @@ import React from "react";
 import "./BiografiaDragonBall.css";
 
 import { withRouter } from "react-router-dom";
+import { Container, Row, Col } from "reactstrap";
 
 class BiografiaDragonBall extends React.Component {
   constructor(props, context) {
@@ -33,15 +34,29 @@ class BiografiaDragonBall extends React.Component {
     const detalles = this.props.location.state.ALL;
 
     return (
-      <div>
-        <h1 className="titulocolor"> {detalles.Nombre}</h1>
+      <div className="BioDivTotalBD">
+        <h1 className="BioTitulocolor"> {detalles.Nombre}</h1>
+
+
+<div > 
+        <Row className="BioImgyBio">
+        <Col className="col-md-5">
         <img
-          className="imgAtaque"
+          className="BioPersonajeBD"
           variant="top"
-          src={process.env.PUBLIC_URL + detalles.Foto}
+          src={process.env.PUBLIC_URL + detalles.Foto2}
           alt="Error"
         />
-        <h1 className="titulocolor"> Dragonball</h1>
+        </Col>
+        <Col  className="col-md-5">
+        <h1 className="titulocolor"> Biografia</h1>
+        <h6 className="BioTitulocolor"> {detalles.Descripcion}</h6>
+        </Col>
+        </Row>
+        </div>
+        
+        <h1 className="titulocolor"> Combos</h1>
+
       </div>
     );
   }

@@ -1,3 +1,11 @@
-.titulocolor{
+.BioTitulocolor{
     color: black;
+}
+.BioImgyBio{
+
+background-color: rgba(0, 0, 0, 0.274);
+
+}
+.BioDivTotalBD{
+    background-color: chocolate;
 }
