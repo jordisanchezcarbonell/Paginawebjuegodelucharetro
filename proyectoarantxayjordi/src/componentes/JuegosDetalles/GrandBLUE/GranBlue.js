@@ -209,20 +209,20 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
+              <Link
+                to={{
+                  pathname: "/BiografiaGranBlue",
+                  state: {
+                    ALL: this.props.elemento,
+                  },
+                }}
+                className="btn-ki large ghostpulse "
+              >
+                <span className="botonSpan">
+                  <span>Biography &amp; Videos</span>
+                </span>
+              </Link>
             </Col>
-            <Link
-              to={{
-                pathname: "/BiografiaGranBlue",
-                state: {
-                  ALL: this.props.elemento,
-                },
-              }}
-              className="btn-ki large ghostpulse "
-            >
-              <span className="botonSpan">
-                <span>Biography &amp; Videos</span>
-              </span>
-            </Link>
           </Row>
         </Container>
       </div>
