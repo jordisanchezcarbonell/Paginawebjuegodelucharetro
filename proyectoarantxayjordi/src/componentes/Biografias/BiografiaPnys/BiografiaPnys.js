@@ -8,9 +8,6 @@ import { Container, Row, Col } from "reactstrap";
 class BiografiaPnys extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(this.props.location.state.ALL);
-    console.log("hijo");
-    console.log(this.props.location.state.todo);
   }
 
   state = {
@@ -34,7 +31,6 @@ class BiografiaPnys extends React.Component {
   render() {
     const detalles = this.props.location.state.ALL;
     const arrayponys = this.props.location.state.todo;
-    console.log(arrayponys.FotosPersonajePonys[0].Foto2[0]);
     const fondopersonaje = {
       backgroundImage: "url(" + process.env.PUBLIC_URL + detalles.fondo + ")",
       WebkitBackgroundSize: "cover",
@@ -54,7 +50,6 @@ class BiografiaPnys extends React.Component {
               key={index}
               className="imgAtaquesBD"
               src={process.env.PUBLIC_URL + imagenes}
-              fluid
             />
           ))}
         </Row>
