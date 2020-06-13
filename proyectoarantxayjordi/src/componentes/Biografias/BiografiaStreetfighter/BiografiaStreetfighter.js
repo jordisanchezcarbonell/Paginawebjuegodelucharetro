@@ -45,10 +45,10 @@ class BiografiaStreetfighter extends React.Component {
 
     return (
       <div className="BioDivTotalSF">
-         <h1 className="BioTitulocolor"> {detalles.Nombre}</h1>
+         <h1 className="BioNombreSF"> {detalles.Nombre}</h1>
 
 <div>
-  <Row className="BioImgyBio">
+  <Row className="BioImgyBioSF">
     <Col className="col-md-5">
       <img
         className="BioImgSF"
