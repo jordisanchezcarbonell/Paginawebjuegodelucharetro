@@ -4,6 +4,10 @@ import "./SkullGirl.css";
 
 import { withRouter } from "react-router-dom";
 import { Container, Row, Col } from "reactstrap";
+import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import ResponsivePlayer from "../../video/ResponsivePlayer";
+
 
 class SkullGirl extends React.Component {
   constructor(props, context) {
@@ -41,6 +45,13 @@ class SkullGirl extends React.Component {
 
         <div>
           <Row className="BioImgyBioSG">
+          <div className="DivIconSkull">
+            <FontAwesomeIcon
+              className="iconoSkull"
+              icon={faArrowLeft}
+              onClick={this.props.history.goBack}
+            />
+          </div>
             <Col className="col-md-5">
               <img
                 className="BioImgSG"
@@ -50,14 +61,30 @@ class SkullGirl extends React.Component {
               />
             </Col>
             <Col className="col-md-5  BIOCentrarColDivSG">
-              <h1 className="BiotituloSG"> Biografia</h1>
+              <h1 className="BiotituloSG"> Biography</h1>
               <h6 className="BioDescSG"> {detalles.Descripcion}</h6>
+
+              <h1 className="BiotituloSG"> History</h1>
+              <h6 className="BioDescSG"> {detalles.History}</h6>
+            
+              <h1 className="BiotituloSG"> Characteristics </h1>
+              <h6 className="BioDescSG"><strong>Likes:  </strong> {detalles.Likes}</h6>
+              <h6 className="BioDescSG"><strong>Not Like: </strong> {detalles.NotLike}</h6>
+              <h6 className="BioDescSG"><strong>Anime name: </strong> {detalles.Animename}</h6>
+              <h6 className="BioDescSG"> <strong>Gender: </strong> {detalles.Gender}</h6>
+              <h6 className="BioDescSG"> <strong>Size: </strong> {detalles.Size}</h6>
+              <h6 className="BioDescSG"><strong> Weight: </strong> {detalles.Weight}</h6>
             </Col>
           </Row>
           <div className="">
             <h1 className="BIOtitulocombosSG"> Combos</h1>
-            <div>
+            <div className="derechaBD">
+            <ResponsivePlayer className="video" url={detalles.Combos} />
+       
               
+            </div>
+            <div className="izqBD">
+            <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
         </div>

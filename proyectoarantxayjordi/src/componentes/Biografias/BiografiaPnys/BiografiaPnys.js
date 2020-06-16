@@ -44,10 +44,12 @@ class BiografiaPnys extends React.Component {
       color: "black",
       backgroundPosition: "center center",
       backgroundAttachment: "fixed",
+      backgroundColor: "black",
+
     };
 
     return (
-      <div className="BioDivTotalPonys">
+      <div   style={({ width: "100%" }, fondopersonaje)}>
         {/*
         <Row >
           <div className="BioNavbarPonys">
@@ -63,19 +65,21 @@ class BiografiaPnys extends React.Component {
           
         </Row>
          */}
-        <div style={({ width: "100%" }, fondopersonaje)}>
-          <div>
-            <FontAwesomeIcon
-              className="iconoBD"
-              icon={faArrowLeft}
-              onClick={this.props.history.goBack}
-            />
-          </div>
+        <div  className="BioDivTotalPonys" >
+      
           <h1 className="BioNombrePonys"> {detalles.Nombre}</h1>
 
           <div>
             <Row className="BioImgyPonys">
+            <div className="DivIconPonys">
+            <FontAwesomeIcon
+              className="iconoPonys"
+              icon={faArrowLeft}
+              onClick={this.props.history.goBack}
+            />
+          </div>
               <Col className="col-md-4">
+            
                 <img
                   className="BioImgPonys"
                   variant="top"
@@ -91,8 +95,12 @@ class BiografiaPnys extends React.Component {
             <Row className="BioImgyBioPonys">
               <h1 className="BIOtitulocombosPonys"> Combos</h1>
             </Row>
+            <div className="derechaPnys">
             <ResponsivePlayer className="video" url={detalles.Combos} />
+            </div>
+            <div className="izqPnys">
             <ResponsivePlayer className="video" url={detalles.Combos2} />
+            </div>
           </div>
         </div>
       </div>

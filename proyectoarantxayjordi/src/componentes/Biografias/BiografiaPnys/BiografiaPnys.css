@@ -28,6 +28,9 @@ margin-right: auto;
 font-size: 3vw;
 border-bottom: 2px white solid;
 width: 70%;
+margin-bottom: 1vw;
+margin-top: 1vw;
+
 }
 
 .BioDesPonys{
@@ -49,8 +52,31 @@ padding-bottom: 1vw;
 margin-right: auto;
     color: white;
     font-family: "BioLetraPonys";    font-size: 3vw;
-}
+    border-bottom: 3px white solid;
+    width: 10%;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
 
+
+}
+.DivIconPonys{
+
+background-color: rgba(0, 0, 0, 0.568);
+height: 4vw;
+padding-top: 1vw;
+padding-right: 1vw;
+}
+.BioDivTotalPonys{
+    background-color: rgba(235, 228, 228, 0.246);
+}
+.iconoPonys{
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top:-0.5vw;
+    padding-top: -1vw;
+    cursor:pointer;
+}
 .BioImgPonys{
     height: 30vw;
 
@@ -66,5 +92,18 @@ margin-right: auto!important;
     width: 80%;
     margin-left: auto!important;
 margin-right: auto!important;
+
+}
+
+.derechaPnys{
+    width: 50vw!important;
+    float: right;
+
+margin-right: 9vw!important;
+}
+.izqPnys{
+    width: 50vw!important;
+    margin-left: 4vw!important;
+
 
 }

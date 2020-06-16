@@ -1,3 +1,17 @@
+.iconoSkull{
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top:-0.5vw;
+    padding-top: -1vw;
+    cursor:pointer;
+}
+.DivIconSkull{
+
+    height: 4vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+    }
 
 .BioDivTotalSG{
 
@@ -44,6 +58,8 @@ margin-right: auto!important;
 .BIOCentrarColDivSG{
     margin-left: auto;
 margin-right: auto;
+padding-bottom: 1vw;
+
 }
 .BiotituloSG{
     font-family: "LetraSkullBio";
@@ -59,10 +75,15 @@ width: 70%;
 .BioDescSG{
 
     color: black;
+    font-size: 0.95vw;
 
 }
 
 .BIOtitulocombosSG{
+    border-bottom: 2px white solid;
+    width: 20%;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
     margin-left: auto;
 margin-right: auto;
     color: white;
