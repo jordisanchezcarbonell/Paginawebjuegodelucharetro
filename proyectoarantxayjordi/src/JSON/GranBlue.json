@@ -1,8 +1,17 @@
 [
   {
     "Nombre": "Ferry",
-    "Descripcion": "Ryu .",
+    "Descripcion": "Nearly hidden by the swirling mists of her tiny island, Ferry offers up a lonely prayer. Please grant the lost souls of this place eternal rest. Please grant your blessings to the courageous yet weak life that departs this island for an uncertain future.",
+    "Race":"Erune",
+    "Atributo":"Light",
+    "Height":"145cm",
+    "Hobby":"Walk around the (Kirinoshima) Museum",
+    "Like":"Family, sister",
+    "Bad":"Other people, scary story",
     "Foto": "imagenes/GRANDBLUETODO/ferry.jpg",
+    "Foto2": "imagenes/GrandBlue/ferry.png",
+    "Fondo": "imagenes/GrandBlue/charabg_ferry.jpg",
+
     "UniqueAction": [
       {
         "nombreAtaque": "Ein Ball",
@@ -86,8 +95,16 @@
 
   {
     "Nombre": "Katalina",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Lyria's bodyguard, and a girl with a mysterious past. She has let fly a banner of rebellion against the Empire, and is by turn Lyria's loyal retainer and her loving older sister.",
+    "Race":"Human",
+    "Atributo":"Water",
+    "Height":"169 cm",
+    "Hobby":"Sword collection",
+    "Like":"Cute things, small animals",
+    "Bad":"Insects, cooking",
     "Foto": "imagenes/GRANDBLUETODO/katalina.jpg",
+    "Foto2": "imagenes/GrandBlue/katalina.png",
+    "Fondo": "imagenes/GrandBlue/charabg_katalina.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Light Wall",
@@ -144,8 +161,16 @@
   },
   {
     "Nombre": "Metera",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "She flits through the sky; her erratic nature evident in her sudden swoops and frenzied whirls. Her magic bow and powers of flight could not be bottled up within her village, so she dashed off into the vast sky in search of excitement and color.",
+    "Race":"Erune",
+    "Atributo":"Wind",
+    "Height":"169 cm",
+    "Hobby":"Fashionable and looking for your favorite cocktail",
+    "Like":"Flying, stimulating, thrilling",
+    "Bad":"Bored, old customs, troublesome",
     "Foto": "imagenes/GRANDBLUETODO/metera.jpg",
+    "Foto2": "imagenes/GrandBlue/metera.png",
+    "Fondo": "imagenes/GrandBlue/charabg_metera.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Zephyr",
@@ -213,8 +238,16 @@
 
   {
     "Nombre": "Lancelot",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Noble and strong, this youth leads the Order of the White Dragons. He risks his life to save his motherland from the crises that beset it, and his bravery and skill have earned the love of his men. His valor and his twin swords will carve a future for his homeland.",
+    "Race":"Human",
+    "Atributo":"Water",
+    "Height":"179 cm",
+    "Hobby":"Collecting weapons, studying martial arts",
+    "Like":"Training",
+    "Bad":"Clean up the room",
     "Foto": "imagenes/GRANDBLUETODO/lancelot.jpg",
+    "Foto2": "imagenes/GrandBlue/lancelot.png",
+    "Fondo": "imagenes/GrandBlue/charabg_lancelot.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Wirbelwind",
@@ -283,8 +316,16 @@
   },
   {
     "Nombre": "Gran",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Gran is the male protagonist of Granblue Fantasy. His female counterpart is Djeeta. Looking for his missing father, he embarks on a journey to Estalucia with Lyria, her guardian Katalina and his childhood companion Vyrn.",
+    "Race":"Human",
+    "Atributo":"Water",
+    "Height":"179 cm",
+    "Hobby":"Collecting weapons, studying martial arts",
+    "Like":"Training",
+    "Bad":"Clean up the room",
     "Foto": "imagenes/GRANDBLUETODO/gran.jpg",
+    "Foto2": "imagenes/GrandBlue/gran.png",
+    "Fondo": "imagenes/GrandBlue/charabg_gran.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Power Raise",
@@ -342,8 +383,16 @@
   },
   {
     "Nombre": "Zooey",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The world is in the midst of impending jeopardy—a disaster that only this arbitrator's true form can stop. But will her excessive empathy for the people interfere with her duty?",
+    "Race":"Primal",
+    "Atributo":"Light",
+    "Height":"157 cm",
+    "Hobby":"Learning something",
+    "Like":"Human, world, pie",
+    "Bad":"Chaos",
     "Foto": "imagenes/GRANDBLUETODO/zooey.jpg",
+    "Foto2": "imagenes/GrandBlue/zooey.png",
+    "Fondo": "imagenes/GrandBlue/charabg_zooey.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Convergence",
@@ -436,7 +485,15 @@
   {
     "Nombre": "Djeeta",
     "Descripcion": "PRUEBA",
+    "Race":"Primal",
+    "Atributo":"Light",
+    "Height":"157 cm",
+    "Hobby":"Learning something",
+    "Like":"Human, world, pie",
+    "Bad":"Chaos",
     "Foto": "imagenes/GRANDBLUETODO/djeeta.jpg",
+    "Foto2": "imagenes/GrandBlue/djeeta.png",
+    "Fondo": "imagenes/GrandBlue/charabg_djeeta.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Overdrive Surge",
@@ -500,9 +557,17 @@
     ]
   },
   {
-    "Nombre": "Beelzebubn",
-    "Descripcion": "PRUEBA",
+    "Nombre": "Beelzebub",
+    "Descripcion": "A mysterious figure cloaked in black. He is wrapped up in Lucifer's fate and seems to have connections to Lucilius, but his true intentions are unknown.",
+    "Race":"Astral",
+    "Atributo":"Unknown",
+    "Height":"188 cm",
+    "Hobby":"Unknown",
+    "Like":"Unknown",
+    "Bad":"Unknown",
     "Foto": "imagenes/GRANDBLUETODO/beelzebub.jpg",
+    "Foto2": "imagenes/GrandBlue/beelzebub.png",
+    "Fondo": "imagenes/GrandBlue/charabg_beelzebub.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Shadowstep",
@@ -584,8 +649,16 @@
   },
   {
     "Nombre": "Percival",
-    "Descripcion": "PRUEBA",
+    "Descripcion": " This young emperor of flame burns with a quiet intensity as he pursues the utopia he dreams of—a land without war, where the weak can find succor. He crosses the skies in search of allies who share his noble dream.",
+    "Race":"Human",
+    "Atributo":"Fire",
+    "Height":"180cm",
+    "Hobby":"Finding a talented vassal",
+    "Like":"Those who have good royal roads and hearts",
+    "Bad":"A person who has a bad morale",
     "Foto": "imagenes/GRANDBLUETODO/percival.jpg",
+    "Foto2": "imagenes/GrandBlue/percival.png",
+    "Fondo": "imagenes/GrandBlue/charabg_percival.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "X-Seele",
@@ -651,8 +724,16 @@
   },
   {
     "Nombre": "Charlotta",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "This Holy Knight has a sacred pledge in her heart, and an oversized weapon in her hand. As the leader of the highly praised Order of Holy Knights, her character is unimpeachable. Her sole worry is the fact that she is not growing.",
+    "Race":"Harvin",
+    "Atributo":"Water",
+    "Height":"90cm",
+    "Hobby":"Training",
+    "Like":"Children lunch, high places, tall people",
+    "Bad":"Steps, general items placed on shelves",
     "Foto": "imagenes/GRANDBLUETODO/charlotta.jpg",
+    "Foto2": "imagenes/GrandBlue/charlotta.png",
+    "Fondo": "imagenes/GrandBlue/charabg_charlotta.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "König Schild",
@@ -720,8 +801,16 @@
   },
   {
     "Nombre": "Zeta",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Zeta is a Fire-attribute character (Light-attribute in her Summer Version) that appears in Granblue Fantasy. She is voiced by Kana Hanazawa.",
+    "Race":"Human",
+    "Atributo":"Fire",
+     "Height":"159cm",
+    "Hobby":"Search for weaknesses of Bazaraga",
+    "Like":"Quarrel",
+    "Bad":"Scholar, researcher",
     "Foto": "imagenes/GRANDBLUETODO/zeta.jpg",
+    "Foto2": "imagenes/GrandBlue/zeta.png",
+    "Fondo": "imagenes/GrandBlue/charabg_zeta.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Signo Drive",
@@ -798,8 +887,16 @@
   },
   {
     "Nombre": "Lowain",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "This free-spirited youth had a run-in with fate, and her name was Katalina. With Cupid's arrow firmly lodged in his heart and his two best buddies by his side, he set off after her. The troublesome trio are certainly boisterous, but there's never a dull moment when they're around.",
+    "Race":"Erune",
+    "Atributo":"Dark",
+     "Height":"176cm",
+    "Hobby":"Part time job",
+    "Like":"Being with a friend",
+    "Bad":"Savings, savings",
     "Foto": "imagenes/GRANDBLUETODO/lowain.jpg",
+    "Foto2": "imagenes/GrandBlue/lowain.png",
+    "Fondo": "imagenes/GrandBlue/charabg_lowain.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Don't Mind If I Do",
@@ -868,8 +965,16 @@
 
   {
     "Nombre": "Narmaya",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "This well-forged blader advances toward ultimate strength with a single-minded, half-maniacal determination. But the distant ruler of the heavens has yet to pay her heed.",
+    "Race":"Draph",
+    "Atributo":"Dark",
+     "Height":"134cm",
+    "Hobby":"Training, Hinataboko",
+    "Like":"Children",
+    "Bad":"Meditation (to fall asleep)",
     "Foto": "imagenes/GRANDBLUETODO/narmaya.jpg",
+    "Foto2": "imagenes/GrandBlue/narmaya.png",
+    "Fondo": "imagenes/GrandBlue/charabg_narmaya.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Butterfly Effect",
@@ -959,8 +1064,16 @@
   },
   {
     "Nombre": "Soriz",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Soriz, after half a century of work, came to believe that the only weapon to be trusted is the body. In between harsh, rock-smashing training sessions, he can see paradise extend before him.",
+    "Race":"Human",
+    "Atributo":"Earth",
+     "Height":"178cm",
+    "Hobby":"Training, reading (muffy books)",
+    "Like":"Onechan",
+    "Bad":"Crappy man",
     "Foto": "imagenes/GRANDBLUETODO/soriz.jpg",
+    "Foto2": "imagenes/GrandBlue/soriz.png",
+    "Fondo": "imagenes/GrandBlue/charabg_soriz.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Muscle Fury",
@@ -1038,8 +1151,16 @@
   },
   {
     "Nombre": "Ladiva",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The real strength of this burly duelist comes not from her unrivaled brawn, but from her tender heart. She's just bursting with affection for all living things, and she never stops cherishing each and every creature within arms' reach.",
+    "Race":"Draph",
+    "Atributo":"Earth",
+     "Height":"202cm",
+    "Hobby":"General housework (especially cooking), knitting, physical training",
+    "Like":"Love, pretty things in general, kids",
+    "Bad":"Dark face, vulgar guy",
     "Foto": "imagenes/GRANDBLUETODO/ladiva.jpg",
+    "Foto2": "imagenes/GrandBlue/ladiva.png",
+    "Fondo": "imagenes/GrandBlue/charabg_ladiva.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Love Grapple",
@@ -1123,8 +1244,16 @@
   },
   {
     "Nombre": "Vaseraga",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "He was unable to banish the shadows clinging to him, dyeing him the color of the abyss. As he struggled, he committed sin after sin until everything he cared about was taken from him. Finally forced to acknowledge his fall, he picked up a great scythe and donned ominous armor. The day of this wounded lion's redemption is still far off.",
+    "Race":"Draph",
+    "Atributo":"Dark",
+     "Height":"215cm",
+    "Hobby":"Drinking strong liquor",
+    "Like":"Physical strength test",
+    "Bad":"Remember the old days",
     "Foto": "imagenes/GRANDBLUETODO/vaseraga.jpg",
+    "Foto2": "imagenes/GrandBlue/vaseraga.png",
+    "Fondo": "imagenes/GrandBlue/charabg_vaseraga.jpg",
     "UniqueAction": [
       {
         "nombreAtaque": "Soul Forge",
