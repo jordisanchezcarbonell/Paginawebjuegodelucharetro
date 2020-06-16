@@ -1,12 +1,13 @@
 [
   {
     "Nombre": "ARIZONA",
-    "Descripcion": "Ryu .",
+    "Descripcion": "Prairie born ‘n raised, Arizona is the youngest daughter of Texas and Minnesota, Head Bull and Cow of her cattlekind clan.Despite her small size, she’s incredibly strong. Though lacking in experience, she’s undeterred by obstacles. Many older folks underestimate Arizona, but few are more dependable or trustworthy. When called to action, her powerful headbucks and quaking stomps send opponents flying, then she reels ’em back in with her trusty lasso.Arizona was the only one among cattlekind with courage enough to answer the Council’s call in search of Foenum’s Champion, knowing full well what dangers she faced. Thrust into the wider outside world, Arizona tries to make sense of it all (or decides not to care) while she charges headfirst into the fray.",
     "Foto": "imagenes/ponys2/arizona.png",
     "Foto2": "imagenes/ponys2/arizonaResponsive.png",
     "Foto3": "imagenes/ponys/ARIZONA.png",
     "fondo": "imagenes/ponys2/wallarizona.jpg",
-
+    "Combos": "https://www.youtube.com/watch?v=og4Jr-jmdGA",
+    "Combos2": "https://www.youtube.com/watch?v=DHX8UoPQp1s",
     "Uniquemovement": [
       {
         "nombreAtaque": "RUN",
@@ -104,13 +105,14 @@
   },
   {
     "Nombre": "VELVET",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Velvet enjoys premiere status as a member of Reine City‘s ruling elite, the peak of modern civilization at the center of the world, high in the frozen north. She is the daughter of Jarl Stronghoof Hoofstrong, whose family line has been passed down his family line for generations.No deer in Reine is Velvet’s equal in the practice of Winter Magic, in form nor in function. She is perfection personified, supremacy symbolized. Those who dare challenge her will be left with nothing but a cold shoulder.A grand tournament was held in Reine City to determine who was most fit to answer the Council’s call and become Foenum’s Champion. Velvet trounced all opposition without so much as breaking a sweat. Haven’t heard the news? Well, you’re forgiven for now. Can’t rightly blame someone for living under a rock. You’ll see… soon enough.",
     "Foto": "imagenes/ponys2/velvet.png",
     "Foto2": "imagenes/ponys2/velvetResponsive.png",
     "Foto3": "imagenes/ponys/VELVET.png",
 
     "fondo": "imagenes/ponys2/wallvelvet.jpg",
-
+    "Combos": "https://www.youtube.com/watch?v=MaYxxISZ7pU",
+    "Combos2": "https://www.youtube.com/watch?v=hV499HNxBg8",
     "Uniquemovement": [
       {
         "nombreAtaque": "SLIDE",
@@ -202,12 +204,13 @@
   },
   {
     "Nombre": "OLEANDER",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Oleander, the great granddaughter of Divine Oracle Amaryllis, sensed the return of Predator-kind 13 years before the first actual sighting. Her masters in the Order of the Horn saw no need to take action, as always, urging her to trust that the power of Light Magic would keep Foenum safe.Frustrated and desperate, she took matters upon herself. She began studying from a book of Dark Magic and eventually forged a pact with the demon trapped inside it. The evidence of her blasphemous act manifested over time as her coat began to turn a darker shade. Despite condemnation from those around her, Oleander is determined to prove that Dark Magic can be used to do good.With the aid of her demonic companion FHTNG TH§ ¿NSP§KBL? (Fred for short), Oleander may steal energy from her opponents, eventually amassing enough to temporarily loosen Fred’s bindings so he may fight alongside her. But can she really control Fred, or will she discover the reason for his imprisonment after it’s already too late…?",
     "Foto": "imagenes/ponys2/oleander.png",
     "Foto2": "imagenes/ponys2/oleanderResponsive.png",
     "fondo": "imagenes/ponys2/FondoWoodlans.png",
     "Foto3": "imagenes/ponys/OLEANDER.png",
-
+    "Combos": "https://www.youtube.com/watch?v=KqPJXQiX2MY",
+    "Combos2": "https://www.youtube.com/watch?v=eyUFymSDP0w",
     "Uniquemovement": [
       {
         "nombreAtaque": "DOOM CLAW",
@@ -298,12 +301,13 @@
   },
   {
     "Nombre": "PAPRIKA",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "High in the Huacaya Mountains, alpaca roam though inhospitable wilderness as their ancestors have since the dawn of time. The harsh, barren environment leaves little room for any pursuits other than raw survival.But there is one among them who eschews their sober, serious attitude. Her name is Paprika, and she’s brimming with vigorous affection. Some say she aims to fill the world with love the land never had for her, but whatever her reasons, she feels compelled to share all she has and more, whether you’re willing or not.Paprika is a basket case and a whole bag of tricks, tossing a variety of gifts and zipping around the stage faster than anyone is able to keep track of. Crushing embraces and surprising kisses make for some of her deadliest techniques. Once she decides you’re the love of her life, there can be no escape.",
     "Foto": "imagenes/ponys2/paprika.png",
     "Foto2": "imagenes/ponys2/paprikaResponsive.png",
     "fondo": "imagenes/ponys2/FondoAlpake.png",
     "Foto3": "imagenes/ponys/PAPRIKA.png",
-
+    "Combos": "https://www.youtube.com/watch?v=wv5YyxBHztw",
+    "Combos2": "https://www.youtube.com/watch?v=KfEZC-UixsU",
     "Uniquemovement": [
       {
         "nombreAtaque": "RUN",
@@ -399,12 +403,13 @@
 
   {
     "Nombre": "POM",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Sheeple are a democratic society. Upholding the will of the masses (or the flock in this case), is among their most core values. Problem is, all Sheep will vote in favor of the very first suggestion any Sheep happens to make. Pom made the mistake of suggesting that they should respond to the Council’s call for a Champion at all, and ended up being voted in as Champion herself.Sheep Dogs, the only large predators in Foenum with instincts to protect ungulates rather than eat them, live among the Sheep and keep them safe from harm. Occasionally a pack may choose to spend most of their time around one particular Sheep over another, and Pom has found herself in the company of a rather large one as of late. Perhaps they see a burning potential building inside her… because despite her desperate cries to return to her soft, grassy homeland, they continue to urge her along.",
     "Foto": "imagenes/ponys2/pom.png",
     "Foto2": "imagenes/ponys2/pomResponsive.png",
     "fondo": "imagenes/ponys2/FondoBaaah.png",
     "Foto3": "imagenes/ponys/POM.png",
-
+    "Combos": "https://www.youtube.com/watch?v=k62u-_7IXuE",
+    "Combos2": "https://www.youtube.com/watch?v=acRXxEOPpjo",
     "Uniquemovement": [
       {
         "nombreAtaque": "AIR DASH",
@@ -496,12 +501,13 @@
   },
   {
     "Nombre": "TIANHUO",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Longma of the Huoshan Empire are few in number but carry extraordinary heritage: half-dragon, half-horse. They believe they embody the best traits of both: peaceful minds and hardy bodies from the ungulates, iron wills and the strength to fight from the predators.The road to perfect balance is a often described as more of a tightrope. Sway too far in one direction or the other, and you could send yourself tumbling. Tianhuo’s ruthless ambition to purge herself of all weakness had manifested as cruelty to others in the past, but in the years since she has self-reformed. Now she serves as Captain of the Guard in service to Her Royal Highness the Longestma, Empress of Huoshan.",
     "Foto": "imagenes/ponys2/tianhuo.png",
     "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
     "fondo": "imagenes/ponys2/FondoHuoshan.png",
     "Foto3": "imagenes/ponys/TIANHUO.png",
-
+    "Combos": "https://www.youtube.com/watch?v=dji1aPLh4c0",
+    "Combos2": "https://www.youtube.com/watch?v=f6-kh1YTSs8",
     "Uniquemovement": [
       {
         "nombreAtaque": "AIR DASH",

@@ -4,7 +4,9 @@ import "./BiografiaPnys.css";
 
 import { withRouter } from "react-router-dom";
 import { Container, Row, Col } from "reactstrap";
-
+import ResponsivePlayer from "../../video/ResponsivePlayer";
+import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 class BiografiaPnys extends React.Component {
   constructor(props, context) {
     super(props);
@@ -15,7 +17,9 @@ class BiografiaPnys extends React.Component {
     elmento: "",
     imagen: "",
   };
-
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   showModal = (e, imagenes) => {
     this.setState({
       show: true,
@@ -44,8 +48,10 @@ class BiografiaPnys extends React.Component {
 
     return (
       <div className="BioDivTotalPonys">
+        {/*
         <Row >
           <div className="BioNavbarPonys">
+      
           {arrayponys.FotosPersonajePonys[0].Foto2.map((imagenes, index) => (
             <img
               key={index}
@@ -54,8 +60,17 @@ class BiografiaPnys extends React.Component {
             />
           ))}
           </div>
+          
         </Row>
+         */}
         <div style={({ width: "100%" }, fondopersonaje)}>
+          <div>
+            <FontAwesomeIcon
+              className="iconoBD"
+              icon={faArrowLeft}
+              onClick={this.props.history.goBack}
+            />
+          </div>
           <h1 className="BioNombrePonys"> {detalles.Nombre}</h1>
 
           <div>
@@ -76,6 +91,8 @@ class BiografiaPnys extends React.Component {
             <Row className="BioImgyBioPonys">
               <h1 className="BIOtitulocombosPonys"> Combos</h1>
             </Row>
+            <ResponsivePlayer className="video" url={detalles.Combos} />
+            <ResponsivePlayer className="video" url={detalles.Combos2} />
           </div>
         </div>
       </div>

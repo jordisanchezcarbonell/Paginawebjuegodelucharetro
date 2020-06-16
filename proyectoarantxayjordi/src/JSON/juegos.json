@@ -16,11 +16,12 @@
       {
         "Foto2": [
           "imagenes/PonysPequeños/arizona.png",
+                    "imagenes/PonysPequeños/velvet.png",
+
           "imagenes/PonysPequeños/oleander.png",
           "imagenes/PonysPequeños/paprika.png",
           "imagenes/PonysPequeños/pom.png",
-          "imagenes/PonysPequeños/tianhuo.png",
-          "imagenes/PonysPequeños/velvet.png"
+          "imagenes/PonysPequeños/tianhuo.png"
         ]
       }
     ]

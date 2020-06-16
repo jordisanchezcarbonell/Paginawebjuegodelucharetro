@@ -20,6 +20,7 @@ class Child extends React.Component {
   constructor(props) {
     super(props);
     this.myRef = React.createRef(); // Create a ref object
+    console.log(props);
   }
   showModal = (e, imagenes) => {
     this.setState({
@@ -265,7 +266,9 @@ class Child extends React.Component {
                 pathname: "/BiografiaPonys",
                 state: {
                   ALL: this.props.elemento,
-                  todo:this.props.todo
+                  todo: this.props.todo,
+
+                  madrugada: this.props.achu,
                 },
               }}
               className="btn-ki large ghostpulse "
@@ -454,7 +457,11 @@ class PONYS extends React.Component {
               </Row>
             </Container>
             {this.state.mostrarsegundoelemnto && (
-              <Child elemento={this.state.objetoPersonaje} todo={ this.props.detalles}/>
+              <Child
+                elemento={this.state.objetoPersonaje}
+                todo={this.props.detalles}
+                achu={this.props.Juego}
+              />
             )}
           </div>
         </div>
