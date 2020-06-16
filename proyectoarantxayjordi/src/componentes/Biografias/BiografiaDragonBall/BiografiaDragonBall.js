@@ -5,6 +5,8 @@ import "./BiografiaDragonBall.css";
 import { withRouter } from "react-router-dom";
 import { Container, Row, Col } from "reactstrap";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
+import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class BiografiaDragonBall extends React.Component {
   constructor(props, context) {
@@ -38,12 +40,16 @@ class BiografiaDragonBall extends React.Component {
 
     return (
       <div className="BioDivTotalBD">
-        <button onClick={this.props.history.goBack}>Back</button>
+
+
 
         <h1 className="BioNombreBD"> {detalles.Nombre}</h1>
 
-        <div>
+        <div className="DivIconoBD">
           <Row className="BioImgyBioBD">
+          <div>
+    <FontAwesomeIcon className="iconoBD" icon={faArrowLeft}  onClick={this.props.history.goBack} />
+  </div>
             <Col className="col-md-5">
               <img
                 className="BioImgBD"
@@ -69,7 +75,7 @@ class BiografiaDragonBall extends React.Component {
         
           <div className="">
             <h1 className="BIOtitulocombosBD"> Combos</h1>
-            <div className="derecha">
+            <div className="derechaBD">
             <ResponsivePlayer className="video" url={detalles.Combos} />
               {/* <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos} />
@@ -79,7 +85,7 @@ class BiografiaDragonBall extends React.Component {
               </Col> */}
               
             </div>
-            <div className="izq">
+            <div className="izqBD">
             <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
