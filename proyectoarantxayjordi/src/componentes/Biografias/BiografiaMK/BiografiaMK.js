@@ -38,11 +38,14 @@ class BiografiaMK extends React.Component {
         <img
           className="imgAtaque"
           variant="top"
-          src={process.env.PUBLIC_URL + detalles.Foto}
+          src={process.env.PUBLIC_URL + detalles.Foto2}
           alt="Error"
         />
         <h1 className="titulocolor"> MK</h1>
       </div>
+
+
+      
     );
   }
 }
