@@ -1,10 +1,16 @@
 [
   {
     "Nombre": "Sonya",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Decorated officer of the Special Forces. Sonya braved the Mortal Kombat tournament, defended Earthrealm, and rescued her partner, Jax Briggs. Serious to a fault, she never takes time for personal leave, preferring to remain vigilant until all realms are safe from conquest.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Sonya-blade.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Sonya-blade.png",
+    "RealName":"Sonya A. Blade",
+    "Gender":"Female",
+    "Species":"Human",
+    
+"Combos": "https://www.youtube.com/watch?v=khscN6RsgCo",
+    "Combos2": "https://www.youtube.com/watch?v=xqMXlRuX6MQ",
     "KomboAttacks": [
       {
         "nombreAtaque": "Advanced Warfare",
@@ -157,10 +163,17 @@
   },
   {
     "Nombre": "Joker",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Unpredictable, violent and incredibly dangerous, The Joker is chaos personified. He’s killed a Robin, crippled Batgirl and tortured and murdered countless people throughout the DC universe. And now, he’s the latest Kombatant to join in Mortal Kombat.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Joker.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Joker.png",
+
+    "RealName": "Unknown",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=4lbHe7aVyzY",
+    "Combos2": "https://www.youtube.com/watch?v=T-x5VcWwlDE",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Jester Of Genocide",
@@ -304,9 +317,15 @@
   },
   {
     "Nombre": "Liu Kang",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Shaolin monk and Champion of Earthrealm. Liu Kang was an orphan adopted and trained in the arts of kombat by the Shaolin order. He honored them by defeating Shang Tsung in Mortal Kombat and saving Earthrealm as the Chosen One, a title that weighs heavy on his shoulders.",
     "Foto1": "imagenes/PersonajesMortalKombat11/liu_kang.png",
     "Foto2": "imagenes/PersonajesCortadosMk11/liu_kang.png",
+
+    "RealName": "Liu Kang",
+    "Gender": "Male",
+    "Species": "1st Timeline: Zombie/Spirit ,2nd Timeline: God (formerly Human/Revenant)",
+    "Combos": "https://www.youtube.com/watch?v=dz5dOMkxm2w",
+    "Combos2": "https://www.youtube.com/watch?v=UZY5RZjpy9s",
     "KomboAttacks": [
       {
         "nombreAtaque": "Total Distruction",
@@ -454,10 +473,16 @@
   },
   {
     "Nombre": "Cetrion",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Elder Goddess of Virtue, Guardian of Life. When Shinnok threatened to conquer the Elder Gods, Cetrion cast him into the Netherrealm. Her blessings answer the prayers of warriors battling against darkness. But at times, the heroic virtues she upholds are at odds with her quest for universal balance.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Cetrion.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Cetrion.png",
+
+    "RealName": "Cetrion",
+    "Gender": "Female",
+    "Species": "Elder God",
+    "Combos": "https://www.youtube.com/watch?v=jg_2CK1BLRc",
+    "Combos2": "https://www.youtube.com/watch?v=fW9C8bJgFAo",
     "KomboAttacks": [
       {
         "nombreAtaque": "Total Distruction",
@@ -605,10 +630,17 @@
   },
   {
     "Nombre": "Geras",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "An artificial construct, built by Kronika, he faithfully serves her goal of restarting time and rewriting history. By Kronika’s design, Geras exists as a fixed point in time. Every time Geras is killed he is reborn, each time becoming more resilient against the manner of his death.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Geras.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Geras.png",
+
+    "RealName": "Geras",
+    "Gender": "Male",
+    "Species": "Artificial Construct",
+    "Combos": "https://www.youtube.com/watch?v=sXTAEYL9ixk",
+    "Combos2": "https://www.youtube.com/watch?v=qvK08hmFDhY",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Without Beginning ",
@@ -765,10 +797,17 @@
   },
   {
     "Nombre": "Jacqui Briggs",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Cyber-enhanced officer of the Special Forces. Jax Briggs lost both arms in the line of duty, but he came back to the battlefield twice as strong thanks to cybernetic upgrades. Even with that power, Jax’s sacrifices burden him. He soldiers onward, honorbound to protect Earthrealm.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Jacqui.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Jacqui.png",
+
+    "RealName": "Jackson Briggs",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=BV42hgfhZu4",
+    "Combos2": "https://www.youtube.com/watch?v=COC_Z4EC5KQ",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Kranked  ",
@@ -909,10 +948,16 @@
   },
   {
     "Nombre": "Spawn",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Al Simmons, once the U.S. government’s greatest soldier and most effective assassin, was mercilessly executed by his own men. Resurrected from the ashes of his own grave in a flawed agreement with the powers of darkness, Simmons is reborn as a creature from the depths of Hell. A Hellspawn. Now he is thrust into the world of Mortal Kombat, where he will fight for supremacy against all Kombatants.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Spawn.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Spawn.png",
+
+    "RealName": "Albert Francis Simmons",
+    "Gender": "Male",
+    "Species": "Immortal Hellspawn (formerly Human)",
+    "Combos": "https://www.youtube.com/watch?v=QicLmU915cg",
+    "Combos2": "https://www.youtube.com/watch?v=ENMiwLi5sEU",
     "KomboAttacks": [
       {
         "nombreAtaque": "Back From Hell  ",
@@ -1056,10 +1101,16 @@
   },
   {
     "Nombre": "Erron Black",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The best shot in Texas left home to seek adventure and excitement in Outworld with Kano and the Black Dragon. Outworld turned out to be the playground of Erron’s ultraviolent dreams. He decided to make his home there as the deadliest outlander in Outworld.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Erron_black.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Erron_black.png",
+
+    "RealName": "Erron Black",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=6Hrx-VZK_9k",
+    "Combos2": "https://www.youtube.com/watch?v=Pxqdc_aMGk4",
     "KomboAttacks": [
       {
         "nombreAtaque": "High Noon  ",
@@ -1210,10 +1261,16 @@
   },
   {
     "Nombre": "Cassie Cage",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The offspring of Johnny Cage and Sonya Blade laid the smackdown on Shinnok a few years back, but even that wasn’t enough to escape the shadow of her legendary parents. Whenever Cassie isn’t defending Earthrealm, she’s fighting to prove worthy of their legacy.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Cassie.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Cassie.png",
+
+    "RealName": "Cassandra Carlton Cage",
+    "Gender": "Female",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=irMOcZFWcCI",
+    "Combos2": "https://www.youtube.com/watch?v=7yNKroc4YKw",
     "KomboAttacks": [
       {
         "nombreAtaque": "Double Down  ",
@@ -1361,10 +1418,16 @@
   },
   {
     "Nombre": "Jade",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Stealth assassin and Imperial Bodyguard. Jade’s family traded her to Shao Kahn as a child. Though he was the only parent and master she ever knew, Jade refused his orders to kill her closest friend, Kitana. The Emperor turned against Jade. Now she vows to end his reign.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Jade.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Jade.png",
+
+    "RealName": "Jade ",
+    "Gender": "Female",
+    "Species": "1st Timeline: Edenian,2nd Timeline: Revenant",
+    "Combos": "https://www.youtube.com/watch?v=5rUptMmuS5M",
+    "Combos2": "https://www.youtube.com/watch?v=6o8jzYgle6k",
     "KomboAttacks": [
       {
         "nombreAtaque": "Simple Seduction  ",
@@ -1511,10 +1574,17 @@
   },
   {
     "Nombre": "Jonhy Cage",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "B-list celebrity, recipient of no acting awards. Following a string of lowbrow direct-to- VHS sequels to Ninja Mime , Johnny Cage’s career peaked at the age of 28. Now, he fights against all odds to save Earthrealm and prove that he’s an even braver hero in real life than on the silver screen.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Johnny_cage.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Johnny_cage.png",
+
+    "RealName": "Jonathan Carlton ",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=csNpPG5VVps",
+    "Combos2": "https://www.youtube.com/watch?v=-4V1gPm4jo4",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Stand-In",
@@ -1659,10 +1729,16 @@
   },
   {
     "Nombre": "Scorpion",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Grandmaster Scorpion of the Shirai Ryu. Driven by rage, Hanzo Hasashi went through Hell and back to avenge his family and clan, never resting until he cut down their murderer, Quan Chi. Now he leads a reborn Shirai Ryu, avenging those who cannot avenge themselves.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Scorpion.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Scorpion.png",
+
+    "RealName": "Hanzo Hasashi ",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=9dNeDQxLnek",
+    "Combos2": "https://www.youtube.com/watch?v=VezGh6T0AAc",
     "KomboAttacks": [
       {
         "nombreAtaque": "The Damned ",
@@ -1810,10 +1886,16 @@
   },
   {
     "Nombre": "Terminathor",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The Terminator T-800 from “Terminator: Dark Fate” is a cyborg assassin, sent back in time from a post-apocalyptic future. He is nearly indestructible and possesses superior technology, fighting skills and artificial intelligence making him the ultimate killing machine.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Terminator.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Terminator.png",
+
+    "RealName": "Cyberdyne Systems T-800 Model 101",
+    "Gender": "Male",
+    "Species": "Model T-800",
+    "Combos": "https://www.youtube.com/watch?v=-E1TS063fXw",
+    "Combos2": "https://www.youtube.com/watch?v=VezGh6T0AAc",
     "KomboAttacks": [
       {
         "nombreAtaque": "Security Threat  ",
@@ -1960,10 +2042,16 @@
   },
   {
     "Nombre": "Shang Tsung",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Soul Sorcerer and historic host of the Mortal Kombat. Born in Earthrealm, Shang Tsung’s relentless pursuit of powerful magic led him to Outworld, where Shao Kahn offered him a dark power that no sorcerer on Earthrealm could. Shang Tsung pledged his eternal loyalty to Shao Kahn in exchange for this evil magic, but he is no faithful servant. He dreams of the day his sorcery will overtake Shao Kahn’s, and he’ll pay any price to get there.",
     "Foto1": "imagenes/PersonajesMortalKombat11/shang_tsung.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/shang_tsung.png",
+
+    "RealName": "Shang Tsung",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=V2X25tbaaKI",
+    "Combos2": "https://www.youtube.com/watch?v=WuYD0IAIXYs",
     "KomboAttacks": [
       {
         "nombreAtaque": "Soul Stain  ",
@@ -2103,10 +2191,16 @@
   },
   {
     "Nombre": "Noob Saibot",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Shadow of the Netherrealm. In life, Noob Saibot was known as Sub-Zero. Unjustly murdered by Scorpion, he was resurrected by Quan Chi and granted power over darkness, but as Quan Chi’s slave. Now, Quan Chi is dead. Noob Saibot is finally free to reclaim the honor that was stolen from him.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Noob_saibot.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Noob_saibot.png",
+
+    "RealName": "Bi-Han",
+    "Gender": "Male",
+    "Species": "Wraith",
+    "Combos": "https://www.youtube.com/watch?v=E7_uuDeY6gA",
+    "Combos2": "https://www.youtube.com/watch?v=JC6o1fOjpbQ",
     "KomboAttacks": [
       {
         "nombreAtaque": "Creeping Shadow   ",
@@ -2251,10 +2345,16 @@
   },
   {
     "Nombre": "Skarlet",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Blood mage and Imperial Bodyguard. Skarlet was a starving wretch before Shao Kahn anointed her in blood. Reborn by his sorcery with an insatiable bloodlust and the power to feed it, her crimson cravings are rivaled by her desire for Shao Kahn’s praise. She is his deadliest, most faithful creation.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Skarlet.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Skarlet.png",
+
+    "RealName": "Skarlet",
+    "Gender": "Female",
+    "Species": "Outworlder/Genetic Experiment",
+    "Combos": "https://www.youtube.com/watch?v=FvV47HblTtU",
+    "Combos2": "https://www.youtube.com/watch?v=b2lJzSBVJj0",
     "KomboAttacks": [
       {
         "nombreAtaque": "Redrum   ",
@@ -2392,10 +2492,16 @@
   },
   {
     "Nombre": "Kabal",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Fleet-footed Black Dragon enforcer. Kabal’s sprinting speed is only outpaced by his greed. He was a rookie cop until Kano tempted him to sell out his police department for cash money and a spot in the Black Dragon. Kabal has run down anyone who's crossed Kano ever since.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Kabal.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kabal.png",
+
+      "RealName": "Kabal",
+    "Gender": "Male",
+    "Species": "1st Timeline: Human,2nd Timeline: Revenant",
+    "Combos": "https://www.youtube.com/watch?v=9T8lAWK8lEE",
+    "Combos2": "https://www.youtube.com/watch?v=rzlKZLWOD80",
     "KomboAttacks": [
       {
         "nombreAtaque": "Last Breath   ",
