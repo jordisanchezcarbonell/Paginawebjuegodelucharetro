@@ -1,3 +1,88 @@
-.titulocolor{
+.BioNombreMvsC{
     color: black;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+font-family: "BioLetraMvsC";
+font-size: 5vw;
+}
+.BioImgyBioMvsC{
+
+background-color: rgba(0, 0, 0, 0.274);
+border:4px black solid;
+border-radius: 30px;
+width: 80%;
+margin-left: auto!important;
+margin-right: auto!important;
+padding-bottom: 1vw;
+padding-top: 1vw;
+
+}
+.BioDivTotalMvsC{
+    background-color: chocolate;
+   
+
+}
+.BioImgMvsC{
+    height: 40vw;
+}
+
+.BIOCentrarColDivMvsC{
+    margin-left: auto!important;
+margin-right: auto!important;
+}
+.BiotituloMvsC{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: auto;
+margin-right: auto;
+ 
+    color: black;
+font-size: 3vw;
+border-bottom: 2px black solid;
+width: 70%;
+
+}
+.BioDescMvsC{
+
+    color: black;
+
+}
+.iconoMvsC{
+    color: black;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top:-0.5vw;
+    padding-top: -1vw;
+    cursor:pointer;
+
+}
+.DivIconoMvsC{
+
+    width: 100%;
+}
+.BIOtitulocombosMvsC{
+    margin-left: auto;
+margin-right: auto;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vw;
+    border-bottom: 2px black solid;
+    width: 20%;
+    margin-top: 2vw;
+
+    margin-bottom: 2vw;
+}
+
+
+.derechaMvsC{
+    width: 50vw!important;
+    float: right;
+
+margin-right: 9vw!important;
+}
+.izqMvsC{
+    width: 50vw!important;
+    margin-left: 4vw!important;
+
+
 }
