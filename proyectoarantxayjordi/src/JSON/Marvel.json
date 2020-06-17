@@ -2877,11 +2877,11 @@
   },
   {
     "Nombre": "Ken",
-    "Descripcion": "PRUEBA",
-    "NombreReal":"Akuma",
+    "Descripcion": "He is the only child of a wealthy family in the United States. When Ken was a boy, his father asked his friend, the teacher Gouken, to accept his young son as his student in the dojo, in an attempt to discipline him. It was there that he met who would be his best friend and his most bitter rival, Ryu. Under Gouken's supervision, Ken had no problem adapting to the hard training imposed by his sensei or reaching Ryu's skill level, despite the fact that Ryu had been training in the dojo for a while. During the events of the first Street Fighter video game, Ken was in the United States, participating and winning in the National Championship of martial arts in that country, while Ryu beat Sagat in the final round of the World Warrior tournament.",
+    "NombreReal":"Ken Masters",
     "Genero":"Male ",
-    "Armas":"Shun Goku Satsu, Ansatsuken infused with Satsui no Hado",
-    "Afiliacion":"AntiHero",
+    "Armas":"Ansatsuken",
+    "Afiliacion":"Hero",
     "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Ken.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ken.jpg",
@@ -2961,7 +2961,12 @@
   },
   {
     "Nombre": "Ryu",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Ryu was an orphaned child, without the knowledge of who his parents were or if they are still alive. When he was a very young child, he was adopted by a man named Gouken and started living with him, as well as learning an ingrained martial art originally as an art of murder. When Ryu was about 23 years old, Gouken thought he was willing to travel the world to test his skills against the best fighters in the world. With this, Ryu and Ken headed off to fight in the first World Warrior tournament.",
+    "NombreReal":"Ryu",
+    "Genero":"Male ",
+    "Armas":"Ansatsuken",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Ryu.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ryu.jpg",
     "SpecialMoves": [
@@ -3032,7 +3037,12 @@
   },
   {
     "Nombre": "Charlie",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Charlie is first mentioned by name in the story of the Street Fighter II (1991) video game, where he is the deceased warmate of Guile, one of the characters available in that video game. Before the events of the video game, Charlie would have died at the hands of M. Bison, although the exact circumstances are not clear (in the western location, he is said to have been captured during a mission and later died in an attempt to escape). In that video game, Guile entered the World Warrior tournament with the purpose of avenging the death of his fallen friend. In the Super Street Fighter II Turbo video game, a scene is shown of Guile visiting Charlie's grave.",
+    "NombreReal":"Charlie Nash",
+    "Genero":"Male ",
+    "Armas":"Strength, Acrobatics",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Charlie.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Charlie.jpg",
     "SpecialMoves": [
@@ -3108,7 +3118,12 @@
   },
   {
     "Nombre": "M.Bison",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Specific data on M. Bison is unknown, although he is known to be the creator of the Shadaloo criminal organization. Although his organization is concentrated in Thailand and for a long time it was thought that his nationality was Thai, Capcom has not wanted to confirm his true homeland, in the Street Fighter IV video game again hiding his nationality. However, he is said to have fallen to Guile and Charlie (Nash), taking the latter with him.",
+    "NombreReal":"Mike Bison",
+    "Genero":"Male ",
+    "Armas":"Psycho Power",
+    "Afiliacion":"Villain",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/M_bison.jpg",
     "Foto2": "imagenes/PersonajesMVsC/M.Bison.jpg",
     "SpecialMoves": [
@@ -3199,7 +3214,12 @@
   },
   {
     "Nombre": "Captain America",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Sole recipient of the Super-Soldier Serum. His deep love for his country and his incomparable sense of justice make him one of the most respected heroes. He has long been the leader of the Avengers, an organization dedicated to preserving peace in the world.",
+    "NombreReal":"Steven 'Steve' Rogers",
+    "Genero":"Male ",
+    "Armas":"Vibranium, super-soldier serum",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Captain_America.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captitan_America.jpg",
     "SpecialMoves": [
@@ -3270,7 +3290,12 @@
   },
   {
     "Nombre": "Hulk",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "A true scientific genius, his body absorbed high doses of gamma radiation during an atomic test. As a consequence of this, when rage or negative emotions take hold of him, he transforms into Hulk, a green colored monster of superhuman strength.",
+    "NombreReal":"Dr. Robert Bruce Banner",
+    "Genero":"Male ",
+    "Armas":"Potentially unlimited strength",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Hulk.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Hulk.jpg",
     "SpecialMoves": [
@@ -3343,7 +3368,12 @@
   },
   {
     "Nombre": "Jin",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Jin's father (Ken Saotome) belonged to a unit, he died in an accident a year before the start of Cyberbots. To honor his memory, Jin seeks to become the best living VA pilot and wants to prove himself through the VA battle circuit. He begins to question his father's death after the SOMBRA meeting for the first time. Jin's mood ranges from calm to anger in seconds, but he's still a good guy. He is also a friend of Gawain Murdock. Jin has appearances in the Marvel vs. Saga. Capcom and Tech Romancer (1998) as an available character. Its main mechanism is BX-02 Blodia.",
+    "NombreReal":"Jin Saotome",
+    "Genero":"Male",
+    "Armas":"Various energy attacks, Blodia",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Jin.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Jin.jpg",
     "SpecialMoves": [
@@ -3414,7 +3444,12 @@
   },
   {
     "Nombre": "Jill",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "A team of experts specializing in close combat and the use of firearms, and a pianist who memorized every Beethoven sonata, Jill Valentine was a member of the Alpha team at STARS, a special unit of the Raccoon City Police Department that was it set out to deal with terrorism and the increase in cases of violent and serious crime.",
+    "NombreReal":"Jill Valentine",
+    "Genero":"Female",
+    "Armas":"Different firearms, super-human, agility and strength",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Jill.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Jill.jpg",
     "SpecialMoves": [
@@ -3487,7 +3522,12 @@
   },
   {
     "Nombre": "Felicia",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Felicia was raised by a Catholic nun named Rose. When Rose died, Felicia left her town in hopes of being a musical star. During his travels, he met many other catgirls of his kind. With his new friends, he set out for his dream of being on stage. Finally, she and her friends started a musical with Felicia being the main star.",
+    "NombreReal":"Felicia",
+    "Genero":"Female",
+    "Armas":"Claws, Feline Agility",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Felicia.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Felicia.jpg",
     "SpecialMoves": [
@@ -3568,7 +3608,12 @@
   },
   {
     "Nombre": "Morrigan",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "A succubus or demonic creature with the ability to seduce men. Known for her voluptuous physique and provocative role models, she is the head of the Aensland House, one of Makai's three main houses. She often leaves her chores to go in search of new adventures. Although Demitri seems to carry that role, it is often suggested and implied that Morrigan is the main character in the Darkstalkers saga, due to his importance in the overall story, as well as his multiple appearances outside of his own video game saga. She can even be considered the protagonist or a kind of anti-hero, because despite her appearance and demonic nature, she is not someone evil.",
+    "NombreReal":"Morrigan Aensland",
+    "Genero":"Female",
+    "Armas":"Various Succubus Powers, Wing Manipulation, and Magic Energy",
+    "Afiliacion":"Neutral",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Morrigan.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Morrigan.jpg",
     "SpecialMoves": [
@@ -3649,7 +3694,12 @@
   },
   {
     "Nombre": "Zangief",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "As the greatest professional wrestling fighter in the Soviet Union, Zangief was contacted by a man known as Erai Hito (lit. 'Great Man') to represent his country in the second World Warrior tournament. This individual clearly resembles ex-Soviet Union leader and president Mikhail Gorbachev.",
+    "NombreReal":"Zangief",
+    "Genero":"Male",
+    "Armas":"Various professional wrestling movements",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Zangief.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Zangief.jpg",
     "SpecialMoves": [
@@ -3714,7 +3764,12 @@
   },
   {
     "Nombre": "Amingo",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The only official information about Amingo's character is that he is looking for a mysterious spirit that blows through his land and causes the destruction of all the plant life he touches. He teams up with heroes and villains to defeat Abyss.",
+    "NombreReal":"Amingo",
+    "Genero":"Male",
+    "Armas":"Elastic body and invokes plants",
+    "Afiliacion":"Hero/Neutral",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Amingo.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Amingo.jpg",
     "SpecialMoves": [
@@ -3777,7 +3832,12 @@
   },
   {
     "Nombre": "Chun-Li",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "In the Street Fighter saga, Chun-Li was an Interpol investigator who had been searching for clues to her father's recent death. She befriends a former teacher of hers and her father's friend, Gen, who gives her a clue as to who may have killed her father, the mysterious Shadaloo crime syndicate. Upon finding her leader, M. Bison, she demands that she tell her father what happened. To her surprise, M. Bison was much stronger than she imagined, so he flew away, laughing at her and telling her that if he attacked him again, he would kill her just as he did with his father. With tears in his eyes, Chun-Li swore revenge.",
+    "NombreReal":"Chun-Li",
+    "Genero":"Female",
+    "Armas":"Kenpo chino, Chi",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Chun-li.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Chun-li.jpg",
     "SpecialMoves": [
@@ -3848,7 +3908,12 @@
   },
   {
     "Nombre": "Hayato",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Abandoned on the streets of Neo Tokyo as a child, Hayato Kanzaki was taken into a foster home, owned by a loving caretaker. As she grew older, she realized that the caregiver was in debt, and she wanted to clarify that as a means of paying her for her kindness. Unable to find any kind of job, Hayato was forced to become a bounty hunter-a line of work that he despised and knew would go against his fierce sense of justice.",
+    "NombreReal":"Hayato Kanzaki",
+    "Genero":"Male",
+    "Armas":"Sword of Energy",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Hayato.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Hayato.jpg",
     "SpecialMoves": [
@@ -3921,7 +3986,12 @@
   },
   {
     "Nombre": "Sabretooth",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Although he is believed to have suffered an abusive childhood from his father, who, disgusted by the boy's mutant nature, he was frequently beaten in chains in the dark basement of his home. As an adult, Creed took the name Sabretooth, and by the 1910s he was known by this name in a small community on the Canadian border where he intimidated almost everyone. One of the few exceptions was a young man named Logan, who Sabretooth felt had superhuman abilities similar to his own. She hated the love that existed between Logan and a young indigenous girl named Silver Fox, Sabretooth brutally assaulted her and apparently also raped her for dead. Logan was enraged forcing Sabretooth into a pitched battle, which ended with Sabretooth victorious. Silver Fox unknowingly survived the attack and soon withdrew from the community.",
+    "NombreReal":"Victor Creed",
+    "Genero":"Male",
+    "Armas":"Wild strength and agility",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Sabretooth.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sabretooth.jpg",
     "SpecialMoves": [
@@ -3988,7 +4058,12 @@
   },
   {
     "Nombre": "Shuma-Gorath",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Although its true origins are unknown, before the arrival of the Celestials' First Host, Shuma-Gorath ruled Earth and ordered human sacrifices, until the time-traveling sorcerer Sise-Neg banished him. He managed to return and establish himself as a god during the Hybrid Era, again demanding bloody sacrifices, but he killed those who sought his favor. Eventually, Crom's power imprisoned him inside a mountain. Even from that prison, he could interact with Conan the Barbarian, Kulan Gath, and many others, before Crom banished him back to his original dimension.",
+    "NombreReal":"Shuma-Gorath",
+    "Genero":"Male",
+    "Armas":"Magic, project energy, change shape, teleportation",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Shuma-Gorath.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Shuma-Gorath.png",
     "SpecialMoves": [
@@ -4054,7 +4129,12 @@
   },
   {
     "Nombre": "Thanos",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Thanos was born on Saturn's moon Titan, a world believed to be uninhabited but actually home to an advanced branch of humanity. Thanos was satisfied by the world in peace, and they left to begin their conquest mission. On his travels, he encountered the entity known as Death and fell in love with her. He soon devoted all his energies to pleasing her, and eventually became her servant. Wishing to be his equal, he searched for the Infinity Stones, six stones of great power that would give him control of the universe. When he finally obtained all six gems and placed them in his Infinity Gauntlet, he gained unlimited power. To impress Death, he extinguishes half the life in the universe, and it took the combined strength of many superheroes to finally stop him. It was stripped of the Latticework, and placed on an uninhabited planet where it could do no harm. He had already escaped, and it is only a matter of time before he threatens the universe, in the name of Death once again.",
+    "NombreReal":"Thanos",
+    "Genero":"Male",
+    "Armas":"Superhuman attributes, immortality, reality manipulation with the Infinity Gauntlet",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Thanos.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Thanos.jpg",
     "SpecialMoves": [
@@ -4122,7 +4202,12 @@
   },
   {
     "Nombre": "Dan",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Go Hibiki, Dan's father, was a kung-fu practitioner who challenged Sagat, the Thai champion of muay thai. It was Go who left Sagat one-eyed and he, enraged, brutally defeated him, who thought he had already defeated Sagat. Go would later die from the wounds.",
+    "NombreReal":"Dan Hibiki",
+    "Genero":"Male",
+    "Armas":"Saikyo Karate",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Dan.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dan.jpg",
 
@@ -4201,7 +4286,12 @@
   },
   {
     "Nombre": "Kobun",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Servbots are adorable little robots created by Tron to fulfill his orders. They behave like children and love and adore Tron like a mother, however strict he may be with them. There are forty Servbots and they help Tron and the rest of the Bonne family in everything, from fighting to housework. Despite their small size, they can be very powerful fighters and are vital to the success of the Bonne family as pirates. Servbots also like to eat spaghetti, curries, and coffee.",
+    "NombreReal":"Servbot / Kobun",
+    "Genero":"Male(Robot)",
+    "Armas":"Common Objects",
+    "Afiliacion":"Villain(Neutral)",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Kobun.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Kobun.jpg",
     "SpecialMoves": [
