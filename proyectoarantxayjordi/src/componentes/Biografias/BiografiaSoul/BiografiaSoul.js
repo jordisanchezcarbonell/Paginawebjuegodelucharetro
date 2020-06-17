@@ -4,6 +4,9 @@ import "./BiografiaSoul.css";
 import { Container, Row, Col } from "reactstrap";
 
 import { withRouter } from "react-router-dom";
+import ResponsivePlayer from "../../video/ResponsivePlayer";
+import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 class BiografiaSoul extends React.Component {
   constructor(props, context) {
@@ -17,7 +20,9 @@ class BiografiaSoul extends React.Component {
     elmento: "",
     imagen: "",
   };
-
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   showModal = (e, imagenes) => {
     this.setState({
       show: true,
@@ -35,8 +40,14 @@ class BiografiaSoul extends React.Component {
 
     return (
       <div className="BioDivTotalSoul">
-       
-        <div >
+        <div>
+          <div>
+            <FontAwesomeIcon
+              className="iconoBD"
+              icon={faArrowLeft}
+              onClick={this.props.history.goBack}
+            />
+          </div>
           <h1 className="BioNombreSoul"> {detalles.Nombre}</h1>
 
           <div>
@@ -52,11 +63,42 @@ class BiografiaSoul extends React.Component {
               <Col className="col-md-4  BIOCentrarColDivSoul">
                 <h1 className="BiotituloSoul"> Biografia</h1>
                 <h6 className="BioDesSoul"> {detalles.Descripcion}</h6>
+                <h1 className="BiotituloSoul"> Personality</h1>
+                <h6 className="BioDesSoul"> {detalles.Personality}</h6>
+                <h1 className="BiotituloSoul"> Characteristics </h1>
+                <h6 className="BioDesSoul">
+                  <strong>Real name: </strong> {detalles.RealName}
+                </h6>
+                <h6 className="BioDesSoul">
+                  <strong> Gender: </strong>
+                  {detalles.Gender}
+                </h6>
+                <h6 className="BioDesSoul">
+                  <strong>Height: </strong> {detalles.Height}
+                </h6>
+                <h6 className="BioDesSoul">
+                  <strong>Weight: </strong> {detalles.Weight}
+                </h6>
+                <h6 className="BioDesSoul">
+                  <strong> Weaponname: </strong> {detalles.Weaponname}
+                </h6>
               </Col>
             </Row>
-            <Row className="BioImgyBioSoul">
+            <div className="">
               <h1 className="BIOtitulocombosSoul"> Combos</h1>
-            </Row>
+              <div className="derechaBD">
+                <ResponsivePlayer className="video" url={detalles.Combos} />
+                {/* <Col className="col-md-5 ">
+                <ResponsivePlayer url={detalles.Combos} />
+                </Col>
+                <Col className="col-md-5 ">
+                <ResponsivePlayer url={detalles.Combos2} />
+              </Col> */}
+              </div>
+              <div className="izqBD">
+                <ResponsivePlayer className="video" url={detalles.Combos2} />
+              </div>
+            </div>
           </div>
         </div>
       </div>
