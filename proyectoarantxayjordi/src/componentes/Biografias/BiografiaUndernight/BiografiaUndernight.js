@@ -18,7 +18,9 @@ class BiografiaUndernight extends React.Component {
     elmento: "",
     imagen: "",
   };
-
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   showModal = (e, imagenes) => {
     this.setState({
       show: true,
