@@ -1,8 +1,12 @@
 [
   {
     "Nombre": "Sentinel",
-    "Descripcion": "LA MEJOOOOR",
-
+    "Descripcion": "Sentinel (lit. Sentinel) is a series of mutant hunting robots developed and mass produced by a scientist who considered mutants a threat to humanity. He will unhesitatingly carry out the orders given to him.",
+    "NombreReal":"COTA-94",
+    "Genero":"Male (robot)",
+    "Armas":"Varied armament, self-repair",
+    "Afiliacion":"Neutral",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Sentinel.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sentinel.jpg",
     "SpecialMoves": [
@@ -74,7 +78,12 @@
   },
   {
     "Nombre": "Storm",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Ororo's mother, N'Daré, is the princess of a tribe in Kenya and the descendant of a long line of white-haired, blue-eyed African witches priestesses and a natural gift for witchcraft. N'Daré falls in love and marries American photojournalist David Munroe. They move to Harlem in uptown New York City, where she becomes pregnant by Ororo and gives birth to him, then leaving for Egypt during the Suez Crisis, where they are killed in a failed aircraft attack and leave Ororo behind. , six years old, an orphan. There, her violent claustrophobia also sets in as a result of being buried under tons of rubble after that attack. She then becomes a skilled thief in Cairo under the benign Achmed El-Gibár and wanders the Serengeti when she becomes a young woman. There, he meets the witch priestess, Ainet, who becomes his surrogate mother. Soon after, her weather power manifests and she is worshiped as a goddess before being recruited by Professor X for the X-Men.",
+    "NombreReal":"Ororo Iqadi Munroe",
+    "Genero":"Female",
+    "Armas":"Climate manipulation, control over the elements",
+    "Afiliacion":"X-men",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Storm.jpg",
 
     "Foto2": "imagenes/PersonajesMVsC/Storm.jpg",
@@ -143,7 +152,12 @@
   },
   {
     "Nombre": "Cable",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Nathan Summers' birth was carefully orchestrated by geneticist Mister Sinister. He knew that the DNA of the Summers family was one of the purest among mutants. In a certain generation, the Summers family would bring to the world one of the most powerful warriors, which they planned to use against their eternal rival, the eternal mutant known as Apocalypse. He then followed closely and manipulated the life of young Scott Summers, aka Cyclops, one of the X-Men. Mister Sinister knew that Ciclops was in love with his partner Jean Gray, and this suited him, since the DNA of the Gray family was also quite pure. But soon after, Jean Gray apparently died consumed by the power of Phoenix. Mister Sinister fixed the situation by creating Madelyne Pryor, a Jean Gray clone. He managed to get Cyclops to meet Pryor, fall in love with her, get married, and eventually father a son, little Nathan Summers.",
+    "NombreReal":"Nathan Christopher Charles Summers",
+    "Genero":"Male",
+    "Armas":"Telepathy, telekinesis, futuristic weaponry, and bionic body parts",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Cable.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cable.jpg",
     "SpecialMoves": [
@@ -219,7 +233,12 @@
   },
   {
     "Nombre": "Magneto",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Magneto (born Max Eisenhardt) was a German Jew in the Auschwitz concentration camp, his experiences there were the basis of his action in the following decades. He was a friend of Charles Xavier (around that time he discovered his mutant power of magnetism) who would later become the founder of the X-Men, but they separated their ways due to their ideologies that were too different. Some time later, he formed the Brotherhood of Mutants as a mutant supremacy group that repeatedly conflicted with the X-Men, but sometimes fought alongside them against a greater threat.",
+    "NombreReal":"Max Eisenhardt (alias Erik Magnus Lensherr)",
+    "Genero":"Male",
+    "Armas":"Can manipulate magnetism and metal at will",
+    "Afiliacion":"X-men",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Magneto.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Magneto.jpg",
     "SpecialMoves": [
@@ -292,7 +311,12 @@
   },
   {
     "Nombre": "Cyclops",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "When Scott was a boy and living in Anchorage, Alaska, his father, the oldest in the US Army Christopher Summers (aka Corsair), planned a flight with his family on his Havilland Mosquito plane. They were attacked by an alien spacecraft Shi'ar, which was exploring the earth. When the plane fell into flames, his parents launched it, along with his younger brother Alex (Havok), by parachute, hoping to save them. Unfortunately, the parachute catches fire and Scott hits his head on the ground when he lands, causing his future inability to control his optical rays, as well as his prolonged amnesia in relation to his childhood. Scott and Alex left their parents for dead and entered an orphanage. Scott did not see Alex again until he became an adult.",
+    "NombreReal":"Scott Summers",
+    "Genero":"Male",
+    "Armas":"Optical rays",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Cyclops.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cyclops.jpg",
 
@@ -390,7 +414,12 @@
   },
   {
     "Nombre": "Iron Man",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Captured by a terrorist group in a war-torn region, he created a combat suit to escape. After improving this suit, he became Iron Man, and since then he is dedicated to safeguarding world peace.",
+    "NombreReal":"Anthony Edward Stark",
+    "Genero":"Male",
+    "Armas":"High-tech armor",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Iron_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iron-Man.jpg",
     "SpecialMoves": [
@@ -452,7 +481,12 @@
   },
   {
     "Nombre": "War Machine",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "A warrior equipped with high-tech armor, War Machine defeats its opponents with a powerful variety of futuristic weapons. Rhodes was Stark's assistant in the design and development of the MPI-2100 combat suit, a technological marvel that combined armor, heavy weaponry, and fluid movement for infantry troops. Seeing his vast arsenal, the suit was appropriately known as the War Machine, which is very much like Iron Man's.",
+    "NombreReal":"James Rupert Rhodes",
+    "Genero":"Male",
+    "Armas":"Armor armor",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel Comics",
     "Foto": "imagenes/MvsC2/War_Machine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/War_machine.jpg",
     "SpecialMoves": [
@@ -530,7 +564,12 @@
   },
   {
     "Nombre": "Doctor Doom",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Born as a gypsy boy, Victor von Doom's mother was killed by the demon Mephisto, who had made a pact with him to ensure that his son would one day rule. Some time later, her father, a doctor, was unable to cure the Queen of Latveria. Fearing the king's wrath towards him and his son, Victor's father took him and desperately fled into a cold forest, where he eventually froze to death. Victor vowed that he would avenge his parents by all necessary means, including science and magic. He received a scholarship to Empire State University, where he became a roommate of Reed Richards, who would later become Mister Fantastic of the Fantastic Four group.",
+    "NombreReal":"Victor von Doom",
+    "Genero":"Male",
+    "Armas":"Projection of energy and mystical powers",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Doctor_Doom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
     "SpecialMoves": [
@@ -609,7 +648,12 @@
   },
   {
     "Nombre": "Strider",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Hiryu is a ninja-style warrior who must defeat a legendary being known as Grandmaster Meio. Meio has observed Earth from his abode in a distant galaxy, and has created a space station (known as The Third Moon), between Earth and its original moon, to rule the earth and continue observation ... The year is 2048. Armed with a Cypher (a sharp blade, wielded similarly to a metal cutting plasma generating tonfa) called the Falchion, Hiryu must travel around the world (including the Amazon jungle) to find and destroy the evil being.",
+    "NombreReal":"Hiryu",
+    "Genero":"Male",
+    "Armas":"Cypher plasma sword and other weapons",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Strider.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
     "SpecialMoves": [
@@ -689,7 +733,12 @@
   },
   {
     "Nombre": "Spiral",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Spiral's real name is Rita Wayword, a Ricochet Rita, a stunt specialist who befriended Longshot when she first appeared on Earth. The story of how Rita became Spiral is a paradox: Rita was attacked for her evil and future self that led her to meet Longshot and fall in love with him. When Longshot attempted to return to his home dimension, the Mojoverse, the beloved Rita went with her boyfriend, only to see Longshot fail and be captured alongside him by the evil dimension lord, Mojo. Longshot was immediately erased by the mind to forget everything about Rita, while Rita had a much worse fate.",
+    "NombreReal":"Rita Wayword",
+    "Genero":"Female",
+    "Armas":"Teleportation, ability to summon swords, six arms",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Spiral.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiral.jpg",
     "SpecialMoves": [
@@ -771,7 +820,12 @@
   },
   {
     "Nombre": "Dhalsim",
-    "Descripcion": "LA MEJOOOOR",
+    "Descripcion": "Dhalsim is a yoga teacher living in India with his wife Sally and son Datta. She has dedicated her entire life to achieving balance between body and mind through yoga and meditation, allowing her to perform incredible movements, such as expelling fire through her mouth, stretching her limbs, reading minds or sensing the evil. His people were very poor and suffered from many diseases, so he needed to earn money quickly to save him. He thought that a quick way to win it was the World Warrior tournament, but that went against one of his principles, which was not to physically hurt others. After much meditation, he decided that fighting was the way to save his people and so he entered the tournament.",
+    "NombreReal":"Dhalsimm",
+    "Genero":"Male",
+    "Armas":"Extreme Flexibility and Fire Handling",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Dhalsim.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dhalsim.jpg",
     "SpecialMoves": [
@@ -849,7 +903,12 @@
   },
   {
     "Nombre": "Blackheart",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Blackheart was created out of the accumulation of hatred and evil in a place called Christ's Crown in New York. Son of the demon Mephisto, he explored the nature of evil under his father's tutelage. He faced Daredevil and Spider-Man trying to corrupt them. Mephisto and Blackheart once led Daredevil to hell, torturing him, yet he managed to endure and overcome them. Other minor Blackheart clashes have been some inhumans. In an attempt to reveal himself against his father, Blackheart, he tried to recruit and failed, those who walked the line between good and evil, Wolverine, Punisher, and Ghost Rider.",
+    "NombreReal":"Blackheart",
+    "Genero":"Male",
+    "Armas":"Summoning, elemental manipulation",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Blackheart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Blackheart.jpg",
     "SpecialMoves": [
@@ -908,7 +967,12 @@
   },
   {
     "Nombre": "Psylocke",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Being the daughter of a wealthy British family, Elisabeth Braddock discovered that she had the mutant ability to read the minds of others. Her talent led her to join the X-Men, where she learned to amplify and control her abilities. A terrible accident in Japan left her close to death, and through an ancient ritual her mind was set on the body of Kwannon, an expert ninja who also possessed limited paranormal abilities. It took him a while to get used to his new body, but he found the physical abilities he possessed. His mental powers had also increased, and he had the ability to form a (psychic blade), which is used to neutralize opponents without causing any physical damage. The rest of the X-Men had to adjust to their new look, but he is once again a trusted member of the group.",
+    "NombreReal":"Elizabeth (Betsy) Braddock",
+    "Genero":"Female",
+    "Armas":"Psionic energy manipulation",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Psylocke.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Psylocke.jpg",
     "SpecialMoves": [
@@ -975,7 +1039,12 @@
   },
   {
     "Nombre": "Captain Commando",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "It originally appeared in Capcom's video game instruction manuals during the developer's early days of production in the mid-1980s, thanking the player for purchasing the video game. In that previous version, he had no glasses, wore two large medallions with the letter C around his neck, and brandished a pistol in each hand. Finally he was given a beat 'em up game of his own with his current design in 1991 (simply called Captain Commando); However, the video game was not as successful as expected among avid arcade players, and Captain Commando was replaced as Capcom's official mascot character by other characters from his other much more popular video games, such as Mega Man and Street Fighter II. , when they became fashionable.",
+    "NombreReal":"Captain Commando",
+    "Genero":"Male",
+    "Armas":"Power suit",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Captain_Commando.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
     "SpecialMoves": [
@@ -1053,7 +1122,12 @@
   },
   {
     "Nombre": "Tron Bonne",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "At just fourteen years old, Tron is the mechanical genius of the Bonne family, possessing an IQ of 180. She is in charge of building and maintaining all of the Bonnes family's mechanical devices, including the family's airship, Gesellschaft, their loyal Servbots and even the ships they pilot, Drache and Hornisse. She is known for piloting machines like Gustaff, Ferdinand, and Jagd Krabbe in battle. He has always wanted to go on missions and adventures like his older brother Teisel, but he never had a chance until Teath and Glyde kidnapped Teisel and Bon. After rescuing Teisel and Bon from Loath's clutches, Tron has since acted as Teisel's 'right hand' in all the Bonne family adventures. In addition to her older brother Teisel, she has a younger brother, Bon.",
+    "NombreReal":"Tron Bonne",
+    "Genero":"Female",
+    "Armas":"Robot controlled by her, Servot",
+    "Afiliacion":"Neutral",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Tron_Bonne.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
     "SpecialMoves": [
@@ -1124,7 +1198,12 @@
   },
   {
     "Nombre": "Ruby Heart",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "She is a French-speaking pirate who owns Partenaire, the flying ship that is responsible for taking the heroes of Marvel and Capcom into battle. Ruby Heart is searching for the mysterious sphere that final boss Abyss owns. Once Ruby Heart finally gets the orb, she doesn't seem too happy with it, and throws it into the ocean.",
+    "NombreReal":"Ruby Heart",
+    "Genero":"Female",
+    "Armas":"Spell book, an anchor, fly in a blue or orange fireball.",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Ruby_Heart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
     "SpecialMoves": [
@@ -1202,7 +1281,12 @@
   },
   {
     "Nombre": "Omega Red",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Arkady Rossovich was a young Russian who was subjected to government tests during the first days of the Cold War. Soviet scientists were trying to create a deadly supersoldier, perhaps in response to Germany's Red Skull and America's Captain America. Arkady was endowed with stupendous strength and endurance, and was equipped with two carbonadium coils that retract within his arms. Unfortunately, the tests also required him to drain the life force of others to remain active.",
+    "NombreReal":"Arkady Gregorivich Rossovich",
+    "Genero":"Male",
+    "Armas":"Mechanical tentacles.",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Omega_red.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Omega_red.jpg",
     "SpecialMoves": [
@@ -1268,7 +1352,12 @@
   },
   {
     "Nombre": "Colossus",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Peter Rasputin was born on a Soviet collective farm called the Ust-Ordynski Collective near Lake Baikal in Siberia. There he lived with his mother Alexandra, Nikolai's father, and his sister, Illyana. His older brother, Mikhail, had been a Russian cosmonaut and had apparently died in an accident of Peter's superhuman rocket powers manifesting during adolescence, while saving his sister from an out-of-control tractor. At first, Pedro was content simply to use these powers to help the people of the community, however he was soon contacted by Professor Xavier Charles Xavier, the founder of the X-Men. Xavier recruited a new X-Men team to rescue the original team, most of whom had been captured by the sensitive island mutant Krakoa.",
+    "NombreReal":"Piotr (Peter) Nikolaevich Rasputin",
+    "Genero":"Male",
+    "Armas":"Super Strength, Iron Skin.",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Colossus.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Colossus.jpg",
     "SpecialMoves": [
@@ -1319,7 +1408,12 @@
   },
   {
     "Nombre": "Juggernaut",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Cain Marko, is the only child of the marriage of Kurtis Marko and his first wife Marjory. His mother died when he was just a child, and his father married in second nuptials with the widow Sharon Xavier, who was the wife of Brian Xavier, one of the best friends of Kurtis, whom he vilely betrayed and caused his death. Thus, Cain became stepbrother of Charles Xavier, Sharon's only son. The jealousy that Cain felt towards Charles from the first moment he met him took root over the years. Charles was always the star of the family, relegating Cain to a second term. The situation worsened when, when his parents died, it was Charles who inherited the family fortune, for which Cain swore revenge.",
+    "NombreReal":"Cain Marko",
+    "Genero":"Male",
+    "Armas":"Super Strength and Endurance",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Juggernaut.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Juggernaut.jpg",
     "SpecialMoves": [
@@ -1384,7 +1478,12 @@
   },
   {
     "Nombre": "Rogue",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Rogue (Anne Marie) is a member of X-Men. More than most mutants, Rogue considers his powers to be a curse. She involuntarily absorbs memories, physical strength, and, in the case of people with superpowers, the abilities of anyone she touches. Raised by her aunt Carrie after the tragedy that affected her parents, young Anna Marie ran away from home and was welcomed by Mystique and Destiny whom Rogue came to regard as her surrogate parents. Rogue's mutant power first manifested itself in her teens when she kissed Cody Robbins. His mind was filled with his memories, and he fell into a permanent coma. Finally realizing that he could not live safely among normal people, Rogue began to participate in the criminal efforts of his adoptive mother and joined the Mystique terrorist Brotherhood of Devilish Mutants. On her first mission, an inexperienced Rogue clashed with Ms. Marvel (Carol Danvers) and permanently absorbed memories and powers of the heroine, such as super-strength and flying.",
+    "NombreReal":"Anna Marie",
+    "Genero":"Female",
+    "Armas":"Absorbing vital energy and powers, super strength, fly.",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Rogue.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Rogue.jpg",
     "SpecialMoves": [
@@ -1446,7 +1545,12 @@
   },
   {
     "Nombre": "Cammy",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "It was created by the Shadaloo organization using M. Bison's DNA. His mission would be to become a host to the spirit of M. Bison in the event that his original body died. Trained as a prototype soldier, Cammy became Shadaloo's deadliest agent, being known by the code name 'Killer Bee'.However, Cammy began to become more self-aware and freed herself from the influence of M. Bison. Rebelling against Shadaloo, using the Psycho Drive he tried to free the rest of the Dolls. Vega, the Spanish ninja assassin, was sent to liquidate her, but with the impossibility of hurting such a beautiful woman, Vega decided to let her live. It is said that he himself was the one who left an amnesiac Cammy in front of the offices of the British MI6.",
+    "NombreReal":"Cammy White",
+    "Genero":"Female",
+    "Armas":"Acrobatic fighting style.",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Cammy.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cammy.jpg",
     "SpecialMoves": [
@@ -1524,7 +1628,12 @@
   },
   {
     "Nombre": "Mega Man",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Mega Man, originally called Rockman in Japan, is a video game character created by Akira Kitamura and is the main character in what has been called the 'Classic Saga' of Mega Man developed by Capcom since 1987. Since then, it has become one of the company's main original characters and continues to be one of the most recognizable icons in the video game industry. Having appeared on many video game systems from the Nintendo Entertainment System platform, Mega Man has had a very diverse audience of gamers, and his video games continue to evolve with the ever-changing hardware demands of more modern video game systems. The fictional universe of the Mega Man saga can be divided into seven categories, each with different variations and incarnations of the same heroic robot boy. Although 'Mega Man' or 'Rock Man' is usually the name used to describe only the original Mega Man from the Classic Saga, it may also be used less specifically to describe the series of fictional works of Mega Man, or the group of adherent of homonymous main characters within these.",
+    "NombreReal":"Mega Man",
+    "Genero":"Male (robot)",
+    "Armas":"Mega Buster, a variable weapon system and various energy attacks.",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Mega_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Mega_man.jpg",
     "SpecialMoves": [
@@ -1609,7 +1718,12 @@
   },
   {
     "Nombre": "Guile",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Guile is a Major in the United States Air Force, a talented pilot and fighter with a great sense of duty and justice. Together with his friends he fights the forces of evil. Within the Street Fighter saga world, the main threat he has to face is the fearsome Shadaloo crime syndicate, led by the evil dictator M. Bison. He is married to Julia, Eliza's older sister, Ken's wife, and together they have a daughter named Amy.",
+    "NombreReal":"William F. Guile",
+    "Genero":"Male ",
+    "Armas":"Considerable strength, speed, and physical prowess. Ability to use sonic energy.",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Guile.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Guile.jpg",
     "SpecialMoves": [
@@ -1682,7 +1796,12 @@
   },
   {
     "Nombre": "Anakaris",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Anticipating his death and rebirth, Anakaris creates a pyramid and a sanctuary for his recovery. Five thousand years later, it revived when Pyron invaded Earth. In order to rule his kingdom once again, he mustered an immense fighting power against the others and then traveled five thousand years back in time. When his kingdom became threatened again, he returned to fight once more.",
+    "NombreReal":"Anakaris",
+    "Genero":"Male ",
+    "Armas":"Manipulation of his body, curses.",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Anakaris.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Anakaris.png",
     "SpecialMoves": [
@@ -1786,7 +1905,12 @@
   },
   {
     "Nombre": "Silver Samurai",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Kenuichio Harada is the illegitimate son of Shingen Yashida. He is a Japanese mutant with the power to charge almost anything, especially his katana, with mutant energy (described as a tachyon field) allowing him to slice up any known substance except adamantium. He also sports a suit based on traditional samurai armor. It is made of silver metal, hence its name.",
+    "NombreReal":"Kenuichio Harada",
+    "Genero":"Male ",
+    "Armas":"Katana loaded to cut whatever",
+    "Afiliacion":"Villain",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Silver_Samurai.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Silver_samurai.jpg",
     "SpecialMoves": [
@@ -1871,7 +1995,12 @@
   },
   {
     "Nombre": "Marrow",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "As a girl, Sarah was one of the underground morlocks they inhabit. When Callisto, leader of the Morlocks, kidnapped the X-Man Angel to be her husband, Sarah met the captive Angel. Sarah believes that Angel was beautiful. He would become a cult idol for her. When the Marauders decimated the Morlock community, Sarah was also personally saved by Gambit, who was not yet known to the X-Men. Years later, most of the surviving Morlocks (including Sarah) were reportedly killed by Mikhail Rasputin, even though they were actually brought into another dimension. There, Mikhail had established a citadel for himself on top of a massive hill. The Darwinian social philosophy of 'survival of the fittest' was the only thing that governs society. If someone could reach the top of the hill they consider themselves 'fit' and worthy of being part of Gene Nation.",
+    "NombreReal":"Sarah",
+    "Genero":"Female ",
+    "Armas":"Control over your bone structure",
+    "Afiliacion":"Neutral",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Marrow.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Marrow.jpg",
     "SpecialMoves": [
@@ -1943,7 +2072,12 @@
   },
   {
     "Nombre": "Gambit",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Abandoned at birth due to his flaming red eyes, the boy who would soon become Remy LeBeau was found and raised by the New Orleans Thieves Guild, who referred to him as 'Le Diable Blanc' (the white devil). They trained him in the ways of robbery. One day at the age of ten, the still-nameless boy was caught trying to grab the pocket of Jean-Luc LeBeau, the so-called Patriarch of the Guild. He took the boy off the streets and took him to his own family, naming him Remy Etienne LeBeau.",
+    "NombreReal":"Remy LeBeau",
+    "Genero":"Male ",
+    "Armas":"The transfer of kinetic energy in objects",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Gambit.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Gambit.jpg",
     "SpecialMoves": [
@@ -2025,7 +2159,12 @@
   },
   {
     "Nombre": "Iceman",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Bobby Drake was born with the mutant power to freeze moisture in the air. When that power appeared in his adolescence, his parents proposed that he keep it a secret because otherwise it would bring him problems. One day Bobby was walking with his girlfriend Judy Harmon and was attacked by a town thug named Rocky Beasely and his gang. To save his girlfriend, Bobby froze Rocky in a block of ice, thus revealing his power to the entire town. Everyone wanted to attack him but the sheriff saved him from it.",
+    "NombreReal":"Robert 'Bobby' Louis Drake",
+    "Genero":"Male ",
+    "Armas":"Ice handling",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Iceman.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iceman.jpg",
     "SpecialMoves": [
@@ -2081,7 +2220,12 @@
   },
   {
     "Nombre": "Spiderman",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "He was originally just a common high school teenager named Peter Parker, who lived with his Uncle Ben and Aunt May, due to the fact that his parents died when Peter was young. He was very smart, however he was also a bit physically weak and some of his teammates made fun of him. One day Peter's life was forever changed when he went to a public display of nuclear waste management. A spider was caught in the radiation and Peter was bitten by it. Then Peter discovered that he had arachnid powers, which included improved strength, improved agility, and the ability to hold on to walls.",
+    "NombreReal":"Peter Benjamin Parker",
+    "Genero":"Male ",
+    "Armas":"Various arachnid skills",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Spiderman.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiderman.jpg",
     "SpecialMoves": [
@@ -2161,7 +2305,12 @@
   },
   {
     "Nombre": "Wolverine - Bone",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "In the 1800s, Wolverine was a sick and wealthy boy named James Howlett. Her two best friends were a young girl named Rose who acted as her babysitter, and a boy nicknamed 'dog' Logan, who was the son of the Howlett family gardener, who had an amazing resemblance to James as an adult. Dog's father was jealous of his son's wealth, and physically abused Dog until he was no longer friends with James. Dog heard and cut the throat of James' new cub, causing James's father to shoot Dog's. Seeking revenge, Dog and his father broke into his farm with weapons and assassinated Mr. Howlett. The trauma of the situation activated James's latent mutation, causing the bone claws to pop out from between his knuckles. In blind fury, he stabbed and killed Dog's father. James fled, and Rose followed him. His life was ruined, James's mother grabbed a gun on the ground and committed suicide. James and Rose fled, eventually finding work at a wooden mill, where James took Logan's name after the man he killed. They stayed there for years, and Logan, who was nicknamed 'Wolverine' for his work, fell in love with Rose, who was becoming engaged to the owner of the mill. Finally, his grandfather, who was on his deathbed, decided that he wanted to see his grandson, and he sent Dog to go find him. Dog and Logan fought after following him down, and Rose was caught in the crossfire, accidentally being killed by Logan.",
+    "NombreReal":"James Maxwell Howlett 'Logan'",
+    "Genero":"Male ",
+    "Armas":"Adamantium Bones and Claws, Advanced Healing Factor",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Wolverine_Bone.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
     "SpecialMoves": [
@@ -2222,6 +2371,11 @@
   {
     "Nombre": "Wolverine - Claw",
     "Descripcion": "PRUEBA",
+    "NombreReal":"James Maxwell Howlett 'Logan'",
+    "Genero":"Male ",
+    "Armas":"Adamantium Bones and Claws, Advanced Healing Factor",
+    "Afiliacion":"Hero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Wolverine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
     "SpecialMoves": [
@@ -2304,7 +2458,12 @@
   },
   {
     "Nombre": "Venom",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Venom is the alias of the humiliated journalist Eddie Brock when he joins the Klyntarian alien symbiote who first joined Spider-Man when he first came to Earth. Being one of Spider-Man's most dangerous enemies, and sometimes a valuable ally, Venom is capable of anything Spider-Man can do, only stronger. Worse yet, he is completely invisible to his Arachnid Sense, giving him the element of surprise in each of his encounters, and he can also use deadly methods to stop crime unlike Spidey. Venom here uses his symbiote body to form tendrils and attack, as well as cobwebs.",
+    "NombreReal":"Edward Charles Allan Brock",
+    "Genero":"Male ",
+    "Armas":"Spider-Man powers, shape-shifting, super strength",
+    "Afiliacion":"Antihero",
+    "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Venom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Venom.jpg",
     "SpecialMoves": [
@@ -2364,7 +2523,12 @@
   },
   {
     "Nombre": "B.B. Hood",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Profession BB Hood was founded by hordes of Makai creatures that had already flowed into the human world. Many of these creatures have already won the interest of humans, be it scientific prejudice, or simple curiosity. Useful elements for decoration, materials that do not exist in the human world (for example, the liquid and blood of their internal organs) are of great interest, especially for biological weapons research and such. A 'Darkhunter' is a job that was born to satisfy the demand of these clients.",
+    "NombreReal":"Baby Bonnie Hood",
+    "Genero":"Female ",
+    "Armas":"Large arsenal of weapons",
+    "Afiliacion":"Neutral",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/BB_hood.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Bb_hood.jpg",
     "SpecialMoves": [
@@ -2453,7 +2617,12 @@
   },
   {
     "Nombre": "Sakura",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Sakura was not one of the initial Street Fighters inserted into the Marvel Universe, but would arrive during the second event in the Marvel Super Heroes vs. video game. Street Fighter. Even without mastering her own fighting style, she felt the most disoriented as a result of being in a different universe, and found that her fighting ability had been slightly altered. Unable to control the direction of her 'Hadokens', she saw herself throwing them up. However, he was thrilled to see that he could also shoot it while it was airborne towards the ground. But that was not the end of the oddities that was found.",
+    "NombreReal":"Sakura Kasugano",
+    "Genero":"Female ",
+    "Armas":"Imitation of karate Ansatsuken",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Sakura.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sakura.jpg",
     "SpecialMoves": [
@@ -2524,7 +2693,12 @@
   },
   {
     "Nombre": "Sonson",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "The moment the ancient Abyss wakes up from his torpor, the village where Sonson lives is suddenly afflicted with a strange disease. With his grandfather's inherited Ru Yi Bang cane by hand, SonSon ventures outside to discover the source behind this unknown disease. During the final sequence back home on Ruby Heart's ship, she can be seen on board happily hanging out alongside Marrow.",
+    "NombreReal":"SonSon",
+    "Genero":"Female ",
+    "Armas":"Ru Yi Bang (walking stick that changes size and shape), Speed",
+    "Afiliacion":"Hero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Sonson.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sonson.jpg",
     "SpecialMoves": [
@@ -2602,7 +2776,12 @@
   },
   {
     "Nombre": "Akuma",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Akuma (called Gouki originally in Japan) was trained by Goutetsu together with his brother Gouken. Goutetsu taught them Ansatsuken (lit. 'killer fist') in karate along with a mix of judo and koppo. As the brothers progressed under Goutetsu's teachings, a controversy arose over Ansatsuken's ture nature of karate and the route to mastering it. Gouken did not accept the violent nature of his martial art and abandoned Goutetsu and his own dojo. Akuma continued to use the art as it was originally intended to be, killing. In order to learn 'Shun Goku Satsu', Akuma did not hug the Satsui Hadou (increased intention to kill). After embracing Satsui No Hadou, Akuma gave up any compassion he held towards other humans and lost all of his humanity, addiction, realizes limits as a fighter could be expanded, and left Goutetsu guidance to form alone on an island known as Gokuento.",
+    "NombreReal":"Akuma",
+    "Genero":"Male ",
+    "Armas":"Shun Goku Satsu, Ansatsuken infused with Satsui no Hado",
+    "Afiliacion":"AntiHero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Akuma.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Akuma.jpg",
     "SpecialMoves": [
@@ -2699,6 +2878,11 @@
   {
     "Nombre": "Ken",
     "Descripcion": "PRUEBA",
+    "NombreReal":"Akuma",
+    "Genero":"Male ",
+    "Armas":"Shun Goku Satsu, Ansatsuken infused with Satsui no Hado",
+    "Afiliacion":"AntiHero",
+    "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Ken.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ken.jpg",
     "SpecialMoves": [
