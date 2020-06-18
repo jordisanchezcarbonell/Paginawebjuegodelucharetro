@@ -40,8 +40,23 @@
     background-size: cover;
 }
 
+.DivIconSoul {
 
+    background-color: rgba(0, 0, 0, 0.568);
+    height: 4vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
+    margin-top: -2vw;
+}
 
+.iconoSoul {
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top: -0.5vw;
+    padding-top: -1vw;
+    cursor: pointer;
+}
 
 
 

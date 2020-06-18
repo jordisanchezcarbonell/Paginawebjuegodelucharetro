@@ -41,19 +41,18 @@ class BiografiaSoul extends React.Component {
     return (
       <div className="BioDivTotalSoul">
         <div>
-    
           <h1 className="BioNombreSoul"> {detalles.Nombre}</h1>
 
           <div>
             <Row className="BioImgySoul">
-            <div className="DivIconSoul">
-            <FontAwesomeIcon
-              className="iconoSoul"
-              icon={faArrowLeft}
-              onClick={this.props.history.goBack}
-            />
-          </div>
-              <Col className="col-md-5">
+              <div className="DivIconSoul">
+                <FontAwesomeIcon
+                  className="iconoSoul"
+                  icon={faArrowLeft}
+                  onClick={this.props.history.goBack}
+                />
+              </div>
+              <Col className="col-md-4">
                 <img
                   className="BioImgSoul"
                   variant="top"
