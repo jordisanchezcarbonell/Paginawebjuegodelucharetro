@@ -20,7 +20,9 @@ class BiografiaMarvelvsCapcom extends React.Component {
     elmento: "",
     imagen: "",
   };
-
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   showModal = (e, imagenes) => {
     this.setState({
       show: true,
@@ -38,16 +40,17 @@ class BiografiaMarvelvsCapcom extends React.Component {
 
     return (
       <div className="BioDivTotalMvsC">
-
-
-
         <h1 className="BioNombreMvsC"> {detalles.Nombre}</h1>
 
         <div className="DivIconoMvsC">
           <Row className="BioImgyBioMvsC">
-          <div>
-    <FontAwesomeIcon className="iconoMvsC" icon={faArrowLeft}  onClick={this.props.history.goBack} />
-  </div>
+            <div>
+              <FontAwesomeIcon
+                className="iconoMvsC"
+                icon={faArrowLeft}
+                onClick={this.props.history.goBack}
+              />
+            </div>
             <Col className="col-md-5">
               <img
                 className="BioImgMvsC"
@@ -56,7 +59,7 @@ class BiografiaMarvelvsCapcom extends React.Component {
                 alt="Error"
               />
             </Col>
-{/* 
+            {/* 
             "NombreReal":"Servbot / Kobun",
     "Genero":"Male(Robot)",
     "Armas":"Common Objects",
@@ -66,31 +69,43 @@ class BiografiaMarvelvsCapcom extends React.Component {
               <h1 className="BiotituloMvsC"> Biography</h1>
               <h6 className="BioDescMvsC"> {detalles.Descripcion}</h6>
               <h1 className="BiotituloMvsC"> Characteristics </h1>
-              <h6 className="BioDescMvsC"><strong>Real Name: </strong> {detalles.NombreReal}</h6>
-              <h6 className="BioDescMvsC"><strong> Gender:  </strong>{detalles.Genero}</h6>
-              <h6 className="BioDescMvsC"> <strong>Attack: </strong> {detalles.Armas}</h6>
-              <h6 className="BioDescMvsC"> <strong>Affiliation: </strong> {detalles.Afiliacion}</h6>
-              <h6 className="BioDescMvsC"> <strong>Universe: </strong> {detalles.Universo}</h6>
+              <h6 className="BioDescMvsC">
+                <strong>Real Name: </strong> {detalles.NombreReal}
+              </h6>
+              <h6 className="BioDescMvsC">
+                <strong> Gender: </strong>
+                {detalles.Genero}
+              </h6>
+              <h6 className="BioDescMvsC">
+                {" "}
+                <strong>Attack: </strong> {detalles.Armas}
+              </h6>
+              <h6 className="BioDescMvsC">
+                {" "}
+                <strong>Affiliation: </strong> {detalles.Afiliacion}
+              </h6>
+              <h6 className="BioDescMvsC">
+                {" "}
+                <strong>Universe: </strong> {detalles.Universo}
+              </h6>
             </Col>
           </Row>
-        
+
           <div className="">
             <h1 className="BIOtitulocombosMvsC"> Combos</h1>
             <div className="derechaMvsC">
-            <ResponsivePlayer className="video" url={detalles.Combos} />
+              <ResponsivePlayer className="video" url={detalles.Combos} />
               {/* <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos} />
                 </Col>
                 <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos2} />
               </Col> */}
-              
             </div>
             <div className="izqMvsC">
-            <ResponsivePlayer className="video" url={detalles.Combos2} />
+              <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
-
         </div>
       </div>
     );

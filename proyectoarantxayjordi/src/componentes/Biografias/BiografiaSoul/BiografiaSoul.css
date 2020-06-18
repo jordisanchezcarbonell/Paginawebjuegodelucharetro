@@ -1,36 +1,41 @@
-.titulocolor{
+.titulocolor {
     color: black;
 }
 
 
-.BioDivTotalSoul{
+.BioDivTotalSoul {
 
 
 
-background: 100%;
-background: url(./bg_deco_contents.png) bottom repeat-x, url(./bg_deco_contents.png)   top repeat-x,  url(./fondo.png) top center no-repeat!important;
+    background: 100%;
+    background: url(./bg_deco_contents.png) bottom repeat-x, url(./bg_deco_contents.png) top repeat-x, url(./fondo.png) fixed !important;
 
 
 
-width: 100%;
-background-color: rgba(2, 2, 1, 0.712);
-padding-bottom: 20px;
-min-width: 100%;
-height: 100%;
-min-height: 100%!important;
+    width: 100%;
+    background-color: rgba(2, 2, 1, 0.712);
+    padding-bottom: 20px;
+    min-width: 100%;
+    height: 100%;
+    min-height: 100% !important;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 
 
 
 
-  
 
 
 
 
 
-.BioNombreSoul{
+
+.BioNombreSoul {
     padding-top: 2vw;
     padding-bottom: 2vw;
 
@@ -40,53 +45,56 @@ min-height: 100%!important;
     font-size: 5vw;
 
 }
-.BiotituloSoul{
 
-    font-family: "BioLetraPonys";  
-      margin-left: auto;
-margin-right: auto;
- 
+.BiotituloSoul {
+
+    font-family: "BioLetraPonys";
+    margin-left: auto;
+    margin-right: auto;
+
     color: white;
-font-size: 3vw;
-border-bottom: 2px white solid;
-width: 70%;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
 }
 
-.BioDesSoul{
+.BioDesSoul {
     font-family: 'Times New Roman', Times, serif;
     color: white;
     font-size: 1vw;
 
 }
-.BioNavbarSoul{
+
+.BioNavbarSoul {
 
     margin-left: auto;
     margin-right: auto;
-padding-bottom: 1vw;
+    padding-bottom: 1vw;
 }
 
 
-.BIOtitulocombosSoul{
+.BIOtitulocombosSoul {
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
     color: white;
-    font-family: "BioLetraPonys";    font-size: 3vw;
+    font-family: "BioLetraPonys";
+    font-size: 3vw;
 }
 
-.BioImgSoul{
+.BioImgSoul {
     height: 30vw;
 
 }
 
-.BIOCentrarColDivSoul{
+.BIOCentrarColDivSoul {
     background-color: rgba(0, 0, 0, 0.664);
-    margin-left: auto!important;
-margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
-.BioImgySoul{
+.BioImgySoul {
     width: 80%;
-    margin-left: auto!important;
-margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
 }
