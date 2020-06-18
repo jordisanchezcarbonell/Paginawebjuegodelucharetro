@@ -1,3 +1,121 @@
-.titulocolor{
-    color: black;
+.DivBioMK{
+    text-align: center;
+    position: relative;
+    background: url(https://cdn-prod.mortalkombat.com/static/roster-bg.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    width: 100% !important;
+
+}
+.BioDivTotalMK{
+    background-color: rgba(235, 228, 228, 0.068);
+}
+@font-face {
+    font-family: "BioLetraMK";
+    src: url(Kombat11-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+.BioNombreMK{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+
+    color: white;
+    font-family: "BioLetraMK";
+
+    font-size: 5vw;
+
+}
+.BiotituloMK{
+
+    font-family: "BioLetraMK";  
+      margin-left: auto;
+margin-right: auto;
+ 
+    color: white;
+font-size: 3vw;
+border-bottom: 2px white solid;
+width: 70%;
+margin-bottom: 1vw;
+margin-top: 1vw;
+
+}
+
+.BioDesMK{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 1vw;
+
+}
+.BioNavbarMK{
+
+    margin-left: auto;
+    margin-right: auto;
+padding-bottom: 1vw;
+}
+
+
+.BIOtitulocombosMK{
+    margin-left: auto;
+margin-right: auto;
+    color: white;
+    font-family: "BioLetraMK";    font-size: 3vw;
+    border-bottom: 3px white solid;
+    width: 15%;
+    margin-bottom: 2vw;
+    margin-top: 4vw;
+
+
+}
+.DivIconMK{
+
+background-color: rgba(0, 0, 0, 0.568);
+height: 4vw;
+padding-top: 1vw;
+padding-right: 1vw;
+}
+
+.iconoMK{
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top:-0.5vw;
+    padding-top: -1vw;
+    cursor:pointer;
+}
+.BioImgMK{
+    height: 35vw;
+    margin-right: -6vw;
+
+}
+
+.BIOCentrarColDivMK{
+    background-color: rgba(0, 0, 0, 0.664);
+    margin-left: auto!important;
+margin-right: auto!important;
+}
+
+.BioImgyMK{
+    width: 80%;
+    margin-left: auto!important;
+margin-right: auto!important;
+
+}
+
+.derechaMK{
+    width: 50vw!important;
+    float: right;
+
+margin-right: 9vw!important;
+}
+.izqMK{
+    width: 50vw!important;
+    margin-left: 4vw!important;
+
+
 }
