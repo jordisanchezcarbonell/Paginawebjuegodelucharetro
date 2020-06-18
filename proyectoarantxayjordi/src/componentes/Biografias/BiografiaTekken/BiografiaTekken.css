@@ -1,5 +1,4 @@
-
-.BioDivTotalTK{
+.BioDivTotalTK {
 
 
     color: black;
@@ -11,17 +10,18 @@
     -o-background-size: cover;
     background-size: cover;
     padding-bottom: 3vw;
-  
+
 }
 
 
-.BioEspTopTK{
+.BioEspTopTK {
 
-    padding-top:2vw;
+    padding-top: 2vw;
 }
-.BioNombreTK{
+
+.BioNombreTK {
     color: white;
-  
+
 
     font-size: 5vw;
 
@@ -29,58 +29,76 @@
     text-align: center;
     border-top: 2px white solid;
     border-bottom: 2px white solid;
-    text-transform: uppercase; 
+    text-transform: uppercase;
     font-size: 3vw;
 
     margin-bottom: 1.5vw;
-margin-right:auto ;
+    margin-right: auto;
     margin-left: auto;
 
 }
-.BioImgyBioTK{
 
-background-color: rgba(14, 13, 13, 0.705);
-border:4px black solid;
-border-radius: 30px;
-width: 80%;
-margin-left: auto!important;
-margin-right: auto!important;
+.BioImgyBioTK {
+
+    background-color: rgba(14, 13, 13, 0.705);
+    border: 4px white solid;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
 
 }
 
-.BioImgTK{
+.margenesTK {
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+}
+
+.iconoTK {
+    color: white;
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    padding-top: -1vw;
+    cursor: pointer;
+
+}
+
+.BioImgTK {
 
     height: 35vw;
-    padding-bottom: 0vw!important;
+    padding-bottom: 0vw !important;
 
 }
 
-.BIOCentrarColDivTK{
+.BIOCentrarColDivTK {
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
 }
-.BiotituloTK{
-        margin-left: auto;
-        font-weight: 600;
-margin-right: auto;
- 
-    color: white;
-font-size: 3vw;
-border-bottom: 2px white solid;
-width: 70%;
-padding-bottom: 1vw;
 
-}
-.BioDescTK{
+.BiotituloTK {
+    margin-left: auto;
+    font-weight: 600;
+    margin-right: auto;
 
     color: white;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
+    padding-bottom: 1vw;
 
 }
 
-.BIOtitulocombosTK{
+.BioDescTK {
+
     color: white;
-  
+
+}
+
+.BIOtitulocombosTK {
+    color: white;
+
 
     font-size: 5vw;
 
@@ -89,18 +107,8 @@ padding-bottom: 1vw;
     border-bottom: 2px white solid;
     font-weight: 600;
     font-size: 3vw;
-    margin-right:auto ;
+    margin-right: auto;
     margin-left: auto;
     margin-bottom: 1.5vw;
-padding-top: 1vw;
+    padding-top: 1vw;
 }
-
-
-
-  
-
-
-
-
-
-

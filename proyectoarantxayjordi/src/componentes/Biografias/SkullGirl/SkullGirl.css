@@ -1,19 +1,20 @@
-.iconoSkull{
+.iconoSkull {
     color: white;
     font-size: 3vw;
     margin-left: 1vw;
-    margin-top:-0.5vw;
+    margin-top: -0.5vw;
     padding-top: -1vw;
-    cursor:pointer;
+    cursor: pointer;
 }
-.DivIconSkull{
+
+.DivIconSkull {
 
     height: 4vw;
     padding-top: 1vw;
     padding-right: 1vw;
-    }
+}
 
-.BioDivTotalSG{
+.BioDivTotalSG {
 
 
     color: black;
@@ -24,12 +25,12 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  
+
 }
 
 
 
-.BioNombreSG{
+.BioNombreSG {
     color: white;
     padding-top: 1vw;
     padding-bottom: 1vw;
@@ -37,63 +38,77 @@
     font-family: "LetraSkullBio";
     font-size: 5vw;
 }
-.BioImgyBioSG{
 
-background-color: rgba(216, 203, 203, 0.589);
-border:4px white solid;
-border-radius: 30px;
-width: 80%;
-margin-left: auto!important;
-margin-right: auto!important;
+.BioImgyBioSG {
+
+    background-color: rgba(216, 203, 203, 0.589);
+    border: 4px white solid;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
 }
 
-.BioImgSG{
+.BioImgSG {
     height: 35vw;
-    padding-top: 1vw!important;
-    padding-bottom: 1vw!important;
+    padding-top: 1vw !important;
+    padding-bottom: 1vw !important;
 
 }
 
-.BIOCentrarColDivSG{
+.BIOCentrarColDivSG {
     margin-left: auto;
-margin-right: auto;
-padding-bottom: 1vw;
+    margin-right: auto;
+    padding-bottom: 1vw;
 
 }
-.BiotituloSG{
+
+.BiotituloSG {
     font-family: "LetraSkullBio";
-        margin-left: auto;
-margin-right: auto;
- 
+    margin-left: auto;
+    margin-right: auto;
+
     color: black;
-font-size: 3vw;
-border-bottom: 2px black solid;
-width: 70%;
+    font-size: 3vw;
+    border-bottom: 2px black solid;
+    width: 70%;
 
 }
-.BioDescSG{
+
+.BiotituloSG2 {
+    font-family: "LetraSkullBio";
+    margin-left: auto;
+    margin-right: auto;
+
+    color: black;
+    font-size: 3vw;
+    border-bottom: 2px black solid;
+    width: 20%;
+
+}
+
+.BioDescSG {
 
     color: black;
     font-size: 0.95vw;
 
 }
 
-.BIOtitulocombosSG{
+.BIOtitulocombosSG {
     border-bottom: 2px white solid;
     width: 20%;
     margin-top: 2vw;
     margin-bottom: 2vw;
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
     color: white;
     font-family: "LetraSkullBio";
-        font-size: 3vw;
+    font-size: 3vw;
 }
 
 
 @font-face {
     font-family: "LetraSkullBio";
     src: url("SelznickRemixNF.otf");
-  }
-  
+}
