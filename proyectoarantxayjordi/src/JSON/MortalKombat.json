@@ -2,14 +2,13 @@
   {
     "Nombre": "Sonya",
     "Descripcion": "Decorated officer of the Special Forces. Sonya braved the Mortal Kombat tournament, defended Earthrealm, and rescued her partner, Jax Briggs. Serious to a fault, she never takes time for personal leave, preferring to remain vigilant until all realms are safe from conquest.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Sonya-blade.png",
-
+    "Foto1": "imagenes/PersonajesMortalKombat11/Sonya.png",
     "Foto2": "imagenes/PersonajesCortadosMk11/Sonya-blade.png",
-    "RealName":"Sonya A. Blade",
-    "Gender":"Female",
-    "Species":"Human",
-    
-"Combos": "https://www.youtube.com/watch?v=khscN6RsgCo",
+    "RealName": "Sonya A. Blade",
+    "Gender": "Female",
+    "Species": "Human",
+
+    "Combos": "https://www.youtube.com/watch?v=khscN6RsgCo",
     "Combos2": "https://www.youtube.com/watch?v=xqMXlRuX6MQ",
     "KomboAttacks": [
       {
@@ -2497,7 +2496,7 @@
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kabal.png",
 
-      "RealName": "Kabal",
+    "RealName": "Kabal",
     "Gender": "Male",
     "Species": "1st Timeline: Human,2nd Timeline: Revenant",
     "Combos": "https://www.youtube.com/watch?v=9T8lAWK8lEE",
@@ -2811,7 +2810,6 @@
     "Combos": "https://www.youtube.com/watch?v=O7SvrI42Cd4",
     "Combos2": "https://www.youtube.com/watch?v=ZwYJ0fXn05I",
 
-    
     "KomboAttacks": [
       {
         "nombreAtaque": "Chinese Ninja Warrior  ",
@@ -2965,7 +2963,6 @@
     "Combos": "https://www.youtube.com/watch?v=tIwroNDGAbE",
     "Combos2": "https://www.youtube.com/watch?v=7iFSH5hvr4A",
 
-
     "KomboAttacks": [
       {
         "nombreAtaque": "Fist Fury  ",
@@ -3111,8 +3108,7 @@
 
     "Combos": "https://www.youtube.com/watch?v=COC_Z4EC5KQ",
     "Combos2": "https://www.youtube.com/watch?v=I0Vtx9u7-J4",
- 
- 
+
     "KomboAttacks": [
       {
         "nombreAtaque": "The Briggs  ",
@@ -3559,8 +3555,7 @@
 
     "Combos": "https://www.youtube.com/watch?v=T-_8ZldbKuI",
     "Combos2": "https://www.youtube.com/watch?v=yrJ2d7XSjRg",
- 
- 
+
     "KomboAttacks": [
       {
         "nombreAtaque": "You Will Die   ",
@@ -4600,16 +4595,15 @@
   {
     "Nombre": "Shao Kahn",
     "Descripcion": "Emperor of Outworld. For millennia, Shao Kahn dominated the realms, rapidly expanding his Empire by conquest. But when he set out to claim Earthrealm, he was blocked by the rules of Mortal Kombat. Deterred but determined, Shao Kahn demands absolute victory.",
-    "RealName":"Shao Kahn",
-    "Gender":"Male",
-    "Species":"Immortal",
+    "RealName": "Shao Kahn",
+    "Gender": "Male",
+    "Species": "Immortal",
     "Foto1": "imagenes/PersonajesMortalKombat11/Shao_Kahn.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Shao_Kahn.png",
 
     "Combos": "https://www.youtube.com/watch?v=0rtmyJPdkUU",
     "Combos2": "https://www.youtube.com/watch?v=XPShKGSFyr8",
-
 
     "KomboAttacks": [
       {
@@ -4906,7 +4900,6 @@
 
     "Combos": "https://www.youtube.com/watch?v=OCykeKVA-BQ",
     "Combos2": "https://www.youtube.com/watch?v=RRg1VBP5GuY",
-
 
     "KomboAttacks": [
       {

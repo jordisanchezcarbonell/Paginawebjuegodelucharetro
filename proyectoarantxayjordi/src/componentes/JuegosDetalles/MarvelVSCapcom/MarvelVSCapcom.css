@@ -9,6 +9,30 @@
 
 
 
+.btn-MVC {
+    margin-bottom: 2vw !important;
+}
+
+.btn-MVC.large2>span {
+    font-family: "FontT";
+    text-align: center;
+    padding: 2vw 0.2vw !important;
+    display: inline-block;
+    font-size: 1.5vw !important;
+
+}
+
+.btn-MVC.large2>span>span {
+    min-width: 32.59452vw;
+    margin: 1px 50px !important;
+    margin-top: 0 !important;
+    padding: 16px !important;
+    line-height: 2vw;
+    padding: 5px;
+    color: white;
+    background-repeat: repeat;
+    border: 2px solid #a78d50;
+}
 
 .DIVcolorear {
     position: relative;
