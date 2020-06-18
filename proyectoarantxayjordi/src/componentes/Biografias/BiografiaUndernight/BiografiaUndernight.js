@@ -43,6 +43,13 @@ class BiografiaUndernight extends React.Component {
 
           <div>
             <Row className="BioImgyBioUN">
+              <div>
+                <FontAwesomeIcon
+                  className="iconoUnder"
+                  icon={faArrowLeft}
+                  onClick={this.props.history.goBack}
+                />
+              </div>
               <Col className="col-md-5">
                 <img
                   className="BioImgUN"
