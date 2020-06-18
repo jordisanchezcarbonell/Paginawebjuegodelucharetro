@@ -2,13 +2,16 @@
   {
     "Nombre": "Sentinel",
     "Descripcion": "Sentinel (lit. Sentinel) is a series of mutant hunting robots developed and mass produced by a scientist who considered mutants a threat to humanity. He will unhesitatingly carry out the orders given to him.",
-    "NombreReal":"COTA-94",
-    "Genero":"Male (robot)",
-    "Armas":"Varied armament, self-repair",
-    "Afiliacion":"Neutral",
-    "Universo":"Marvel",
+    "NombreReal": "COTA-94",
+    "Genero": "Male (robot)",
+    "Armas": "Varied armament, self-repair",
+    "Afiliacion": "Neutral",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Sentinel.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sentinel.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=L_XAy97iYuY",
+    "Combos2": "https://www.youtube.com/watch?v=-uVmK4B78IM",
     "SpecialMoves": [
       {
         "nombreAtaque": "Rocket Punch",
@@ -79,14 +82,16 @@
   {
     "Nombre": "Storm",
     "Descripcion": "Ororo's mother, N'Daré, is the princess of a tribe in Kenya and the descendant of a long line of white-haired, blue-eyed African witches priestesses and a natural gift for witchcraft. N'Daré falls in love and marries American photojournalist David Munroe. They move to Harlem in uptown New York City, where she becomes pregnant by Ororo and gives birth to him, then leaving for Egypt during the Suez Crisis, where they are killed in a failed aircraft attack and leave Ororo behind. , six years old, an orphan. There, her violent claustrophobia also sets in as a result of being buried under tons of rubble after that attack. She then becomes a skilled thief in Cairo under the benign Achmed El-Gibár and wanders the Serengeti when she becomes a young woman. There, he meets the witch priestess, Ainet, who becomes his surrogate mother. Soon after, her weather power manifests and she is worshiped as a goddess before being recruited by Professor X for the X-Men.",
-    "NombreReal":"Ororo Iqadi Munroe",
-    "Genero":"Female",
-    "Armas":"Climate manipulation, control over the elements",
-    "Afiliacion":"X-men",
-    "Universo":"Marvel",
+    "NombreReal": "Ororo Iqadi Munroe",
+    "Genero": "Female",
+    "Armas": "Climate manipulation, control over the elements",
+    "Afiliacion": "X-men",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Storm.jpg",
 
     "Foto2": "imagenes/PersonajesMVsC/Storm.jpg",
+    "Combos": "https://www.youtube.com/watch?v=2AU8aBwp-mo",
+    "Combos2": "https://www.youtube.com/watch?v=NMEVIf5i784",
 
     "SpecialMoves": [
       {
@@ -153,13 +158,17 @@
   {
     "Nombre": "Cable",
     "Descripcion": "Nathan Summers' birth was carefully orchestrated by geneticist Mister Sinister. He knew that the DNA of the Summers family was one of the purest among mutants. In a certain generation, the Summers family would bring to the world one of the most powerful warriors, which they planned to use against their eternal rival, the eternal mutant known as Apocalypse. He then followed closely and manipulated the life of young Scott Summers, aka Cyclops, one of the X-Men. Mister Sinister knew that Ciclops was in love with his partner Jean Gray, and this suited him, since the DNA of the Gray family was also quite pure. But soon after, Jean Gray apparently died consumed by the power of Phoenix. Mister Sinister fixed the situation by creating Madelyne Pryor, a Jean Gray clone. He managed to get Cyclops to meet Pryor, fall in love with her, get married, and eventually father a son, little Nathan Summers.",
-    "NombreReal":"Nathan Christopher Charles Summers",
-    "Genero":"Male",
-    "Armas":"Telepathy, telekinesis, futuristic weaponry, and bionic body parts",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Nathan Christopher Charles Summers",
+    "Genero": "Male",
+    "Armas": "Telepathy, telekinesis, futuristic weaponry, and bionic body parts",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Cable.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cable.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=X1UWwG6QD1g",
+    "Combos2": "https://www.youtube.com/watch?v=YPY6bAgY5FQ",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Viper Beam",
@@ -234,13 +243,15 @@
   {
     "Nombre": "Magneto",
     "Descripcion": "Magneto (born Max Eisenhardt) was a German Jew in the Auschwitz concentration camp, his experiences there were the basis of his action in the following decades. He was a friend of Charles Xavier (around that time he discovered his mutant power of magnetism) who would later become the founder of the X-Men, but they separated their ways due to their ideologies that were too different. Some time later, he formed the Brotherhood of Mutants as a mutant supremacy group that repeatedly conflicted with the X-Men, but sometimes fought alongside them against a greater threat.",
-    "NombreReal":"Max Eisenhardt (alias Erik Magnus Lensherr)",
-    "Genero":"Male",
-    "Armas":"Can manipulate magnetism and metal at will",
-    "Afiliacion":"X-men",
-    "Universo":"Marvel",
+    "NombreReal": "Max Eisenhardt (alias Erik Magnus Lensherr)",
+    "Genero": "Male",
+    "Armas": "Can manipulate magnetism and metal at will",
+    "Afiliacion": "X-men",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Magneto.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Magneto.jpg",
+    "Combos": "https://www.youtube.com/watch?v=QPit7zJgtFc",
+    "Combos2": "https://www.youtube.com/watch?v=hqDmldR2Ewc",
     "SpecialMoves": [
       {
         "nombreAtaque": "E-M Disruptor",
@@ -312,13 +323,16 @@
   {
     "Nombre": "Cyclops",
     "Descripcion": "When Scott was a boy and living in Anchorage, Alaska, his father, the oldest in the US Army Christopher Summers (aka Corsair), planned a flight with his family on his Havilland Mosquito plane. They were attacked by an alien spacecraft Shi'ar, which was exploring the earth. When the plane fell into flames, his parents launched it, along with his younger brother Alex (Havok), by parachute, hoping to save them. Unfortunately, the parachute catches fire and Scott hits his head on the ground when he lands, causing his future inability to control his optical rays, as well as his prolonged amnesia in relation to his childhood. Scott and Alex left their parents for dead and entered an orphanage. Scott did not see Alex again until he became an adult.",
-    "NombreReal":"Scott Summers",
-    "Genero":"Male",
-    "Armas":"Optical rays",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Scott Summers",
+    "Genero": "Male",
+    "Armas": "Optical rays",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Cyclops.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cyclops.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=MytdqqjwvLw",
+    "Combos2": "https://www.youtube.com/watch?v=BM7s1guF0Tc",
 
     "SpecialMoves": [
       {
@@ -415,13 +429,17 @@
   {
     "Nombre": "Iron Man",
     "Descripcion": "Captured by a terrorist group in a war-torn region, he created a combat suit to escape. After improving this suit, he became Iron Man, and since then he is dedicated to safeguarding world peace.",
-    "NombreReal":"Anthony Edward Stark",
-    "Genero":"Male",
-    "Armas":"High-tech armor",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Anthony Edward Stark",
+    "Genero": "Male",
+    "Armas": "High-tech armor",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Iron_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iron-Man.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=vpYdEjvAg3k",
+    "Combos2": "https://www.youtube.com/watch?v=kWKBkR8a9w4",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Unibeam",
@@ -482,13 +500,16 @@
   {
     "Nombre": "War Machine",
     "Descripcion": "A warrior equipped with high-tech armor, War Machine defeats its opponents with a powerful variety of futuristic weapons. Rhodes was Stark's assistant in the design and development of the MPI-2100 combat suit, a technological marvel that combined armor, heavy weaponry, and fluid movement for infantry troops. Seeing his vast arsenal, the suit was appropriately known as the War Machine, which is very much like Iron Man's.",
-    "NombreReal":"James Rupert Rhodes",
-    "Genero":"Male",
-    "Armas":"Armor armor",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel Comics",
+    "NombreReal": "James Rupert Rhodes",
+    "Genero": "Male",
+    "Armas": "Armor armor",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel Comics",
     "Foto": "imagenes/MvsC2/War_Machine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/War_machine.jpg",
+    "Combos": "https://www.youtube.com/watch?v=Sl3GR8qOpuA",
+    "Combos2": "https://www.youtube.com/watch?v=YWGOb6bN6mI",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Shoulder Cannon",
@@ -565,13 +586,17 @@
   {
     "Nombre": "Doctor Doom",
     "Descripcion": "Born as a gypsy boy, Victor von Doom's mother was killed by the demon Mephisto, who had made a pact with him to ensure that his son would one day rule. Some time later, her father, a doctor, was unable to cure the Queen of Latveria. Fearing the king's wrath towards him and his son, Victor's father took him and desperately fled into a cold forest, where he eventually froze to death. Victor vowed that he would avenge his parents by all necessary means, including science and magic. He received a scholarship to Empire State University, where he became a roommate of Reed Richards, who would later become Mister Fantastic of the Fantastic Four group.",
-    "NombreReal":"Victor von Doom",
-    "Genero":"Male",
-    "Armas":"Projection of energy and mystical powers",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Victor von Doom",
+    "Genero": "Male",
+    "Armas": "Projection of energy and mystical powers",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Doctor_Doom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=zNOZlVLwAs4",
+    "Combos2": "https://www.youtube.com/watch?v=7nExyr4cWnM",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Plasma Beam",
@@ -649,13 +674,16 @@
   {
     "Nombre": "Strider",
     "Descripcion": "Hiryu is a ninja-style warrior who must defeat a legendary being known as Grandmaster Meio. Meio has observed Earth from his abode in a distant galaxy, and has created a space station (known as The Third Moon), between Earth and its original moon, to rule the earth and continue observation ... The year is 2048. Armed with a Cypher (a sharp blade, wielded similarly to a metal cutting plasma generating tonfa) called the Falchion, Hiryu must travel around the world (including the Amazon jungle) to find and destroy the evil being.",
-    "NombreReal":"Hiryu",
-    "Genero":"Male",
-    "Armas":"Cypher plasma sword and other weapons",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Hiryu",
+    "Genero": "Male",
+    "Armas": "Cypher plasma sword and other weapons",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Strider.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
+    "Combos": "https://www.youtube.com/watch?v=RZTRWjFD6pU",
+    "Combos2": "https://www.youtube.com/watch?v=haQkDEPaigg",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Ame no Murakumo",
@@ -734,13 +762,17 @@
   {
     "Nombre": "Spiral",
     "Descripcion": "Spiral's real name is Rita Wayword, a Ricochet Rita, a stunt specialist who befriended Longshot when she first appeared on Earth. The story of how Rita became Spiral is a paradox: Rita was attacked for her evil and future self that led her to meet Longshot and fall in love with him. When Longshot attempted to return to his home dimension, the Mojoverse, the beloved Rita went with her boyfriend, only to see Longshot fail and be captured alongside him by the evil dimension lord, Mojo. Longshot was immediately erased by the mind to forget everything about Rita, while Rita had a much worse fate.",
-    "NombreReal":"Rita Wayword",
-    "Genero":"Female",
-    "Armas":"Teleportation, ability to summon swords, six arms",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Rita Wayword",
+    "Genero": "Female",
+    "Armas": "Teleportation, ability to summon swords, six arms",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Spiral.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiral.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=e49wlKUd7Eo",
+    "Combos2": "https://www.youtube.com/watch?v=uMLrSArJ9zA",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Dancing Sword",
@@ -821,13 +853,17 @@
   {
     "Nombre": "Dhalsim",
     "Descripcion": "Dhalsim is a yoga teacher living in India with his wife Sally and son Datta. She has dedicated her entire life to achieving balance between body and mind through yoga and meditation, allowing her to perform incredible movements, such as expelling fire through her mouth, stretching her limbs, reading minds or sensing the evil. His people were very poor and suffered from many diseases, so he needed to earn money quickly to save him. He thought that a quick way to win it was the World Warrior tournament, but that went against one of his principles, which was not to physically hurt others. After much meditation, he decided that fighting was the way to save his people and so he entered the tournament.",
-    "NombreReal":"Dhalsimm",
-    "Genero":"Male",
-    "Armas":"Extreme Flexibility and Fire Handling",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Dhalsimm",
+    "Genero": "Male",
+    "Armas": "Extreme Flexibility and Fire Handling",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Dhalsim.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dhalsim.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=XyNmLbM9yCQ",
+    "Combos2": "https://www.youtube.com/watch?v=GjiiH8RTlzk",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Yoga Fire",
@@ -904,13 +940,17 @@
   {
     "Nombre": "Blackheart",
     "Descripcion": "Blackheart was created out of the accumulation of hatred and evil in a place called Christ's Crown in New York. Son of the demon Mephisto, he explored the nature of evil under his father's tutelage. He faced Daredevil and Spider-Man trying to corrupt them. Mephisto and Blackheart once led Daredevil to hell, torturing him, yet he managed to endure and overcome them. Other minor Blackheart clashes have been some inhumans. In an attempt to reveal himself against his father, Blackheart, he tried to recruit and failed, those who walked the line between good and evil, Wolverine, Punisher, and Ghost Rider.",
-    "NombreReal":"Blackheart",
-    "Genero":"Male",
-    "Armas":"Summoning, elemental manipulation",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Blackheart",
+    "Genero": "Male",
+    "Armas": "Summoning, elemental manipulation",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Blackheart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Blackheart.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=QDinMC3_v0o",
+    "Combos2": "https://www.youtube.com/watch?v=vsx8hZG5PKQ",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Inferno",
@@ -968,13 +1008,17 @@
   {
     "Nombre": "Psylocke",
     "Descripcion": "Being the daughter of a wealthy British family, Elisabeth Braddock discovered that she had the mutant ability to read the minds of others. Her talent led her to join the X-Men, where she learned to amplify and control her abilities. A terrible accident in Japan left her close to death, and through an ancient ritual her mind was set on the body of Kwannon, an expert ninja who also possessed limited paranormal abilities. It took him a while to get used to his new body, but he found the physical abilities he possessed. His mental powers had also increased, and he had the ability to form a (psychic blade), which is used to neutralize opponents without causing any physical damage. The rest of the X-Men had to adjust to their new look, but he is once again a trusted member of the group.",
-    "NombreReal":"Elizabeth (Betsy) Braddock",
-    "Genero":"Female",
-    "Armas":"Psionic energy manipulation",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Elizabeth (Betsy) Braddock",
+    "Genero": "Female",
+    "Armas": "Psionic energy manipulation",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Psylocke.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Psylocke.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=U9rUfoi0vrQ",
+    "Combos2": "https://www.youtube.com/watch?v=CTcLRCQwf_c",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Psi-Blast",
@@ -1040,13 +1084,16 @@
   {
     "Nombre": "Captain Commando",
     "Descripcion": "It originally appeared in Capcom's video game instruction manuals during the developer's early days of production in the mid-1980s, thanking the player for purchasing the video game. In that previous version, he had no glasses, wore two large medallions with the letter C around his neck, and brandished a pistol in each hand. Finally he was given a beat 'em up game of his own with his current design in 1991 (simply called Captain Commando); However, the video game was not as successful as expected among avid arcade players, and Captain Commando was replaced as Capcom's official mascot character by other characters from his other much more popular video games, such as Mega Man and Street Fighter II. , when they became fashionable.",
-    "NombreReal":"Captain Commando",
-    "Genero":"Male",
-    "Armas":"Power suit",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Captain Commando",
+    "Genero": "Male",
+    "Armas": "Power suit",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Captain_Commando.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captain_Commando.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=zGM0LSmngyg",
+    "Combos2": "https://www.youtube.com/watch?v=AS5xdG6ainE",
     "SpecialMoves": [
       {
         "nombreAtaque": "Captain Fire",
@@ -1123,13 +1170,16 @@
   {
     "Nombre": "Tron Bonne",
     "Descripcion": "At just fourteen years old, Tron is the mechanical genius of the Bonne family, possessing an IQ of 180. She is in charge of building and maintaining all of the Bonnes family's mechanical devices, including the family's airship, Gesellschaft, their loyal Servbots and even the ships they pilot, Drache and Hornisse. She is known for piloting machines like Gustaff, Ferdinand, and Jagd Krabbe in battle. He has always wanted to go on missions and adventures like his older brother Teisel, but he never had a chance until Teath and Glyde kidnapped Teisel and Bon. After rescuing Teisel and Bon from Loath's clutches, Tron has since acted as Teisel's 'right hand' in all the Bonne family adventures. In addition to her older brother Teisel, she has a younger brother, Bon.",
-    "NombreReal":"Tron Bonne",
-    "Genero":"Female",
-    "Armas":"Robot controlled by her, Servot",
-    "Afiliacion":"Neutral",
-    "Universo":"Capcom",
+    "NombreReal": "Tron Bonne",
+    "Genero": "Female",
+    "Armas": "Robot controlled by her, Servot",
+    "Afiliacion": "Neutral",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Tron_Bonne.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Tron_Bonne.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=pnLD233ThH4",
+    "Combos2": "https://www.youtube.com/watch?v=ejK1NVz967I",
     "SpecialMoves": [
       {
         "nombreAtaque": "Beacon Bomb",
@@ -1199,13 +1249,17 @@
   {
     "Nombre": "Ruby Heart",
     "Descripcion": "She is a French-speaking pirate who owns Partenaire, the flying ship that is responsible for taking the heroes of Marvel and Capcom into battle. Ruby Heart is searching for the mysterious sphere that final boss Abyss owns. Once Ruby Heart finally gets the orb, she doesn't seem too happy with it, and throws it into the ocean.",
-    "NombreReal":"Ruby Heart",
-    "Genero":"Female",
-    "Armas":"Spell book, an anchor, fly in a blue or orange fireball.",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Ruby Heart",
+    "Genero": "Female",
+    "Armas": "Spell book, an anchor, fly in a blue or orange fireball.",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Ruby_Heart.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ruby_Heart.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=bOxFPO9tuu8",
+    "Combos2": "https://www.youtube.com/watch?v=A9IyWLBcOfw",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Cheval Seller",
@@ -1282,13 +1336,16 @@
   {
     "Nombre": "Omega Red",
     "Descripcion": "Arkady Rossovich was a young Russian who was subjected to government tests during the first days of the Cold War. Soviet scientists were trying to create a deadly supersoldier, perhaps in response to Germany's Red Skull and America's Captain America. Arkady was endowed with stupendous strength and endurance, and was equipped with two carbonadium coils that retract within his arms. Unfortunately, the tests also required him to drain the life force of others to remain active.",
-    "NombreReal":"Arkady Gregorivich Rossovich",
-    "Genero":"Male",
-    "Armas":"Mechanical tentacles.",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Arkady Gregorivich Rossovich",
+    "Genero": "Male",
+    "Armas": "Mechanical tentacles.",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Omega_red.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Omega_red.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=C7PkFPC5g1Q",
+    "Combos2": "https://www.youtube.com/watch?v=amMdj804DA8",
     "SpecialMoves": [
       {
         "nombreAtaque": "Carbnadium Coil",
@@ -1353,13 +1410,16 @@
   {
     "Nombre": "Colossus",
     "Descripcion": "Peter Rasputin was born on a Soviet collective farm called the Ust-Ordynski Collective near Lake Baikal in Siberia. There he lived with his mother Alexandra, Nikolai's father, and his sister, Illyana. His older brother, Mikhail, had been a Russian cosmonaut and had apparently died in an accident of Peter's superhuman rocket powers manifesting during adolescence, while saving his sister from an out-of-control tractor. At first, Pedro was content simply to use these powers to help the people of the community, however he was soon contacted by Professor Xavier Charles Xavier, the founder of the X-Men. Xavier recruited a new X-Men team to rescue the original team, most of whom had been captured by the sensitive island mutant Krakoa.",
-    "NombreReal":"Piotr (Peter) Nikolaevich Rasputin",
-    "Genero":"Male",
-    "Armas":"Super Strength, Iron Skin.",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Piotr (Peter) Nikolaevich Rasputin",
+    "Genero": "Male",
+    "Armas": "Super Strength, Iron Skin.",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Colossus.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Colossus.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=4jCQqxAC85A",
+    "Combos2": "https://www.youtube.com/watch?v=L2BeR60Db74",
     "SpecialMoves": [
       {
         "nombreAtaque": "Giant Swing",
@@ -1409,13 +1469,17 @@
   {
     "Nombre": "Juggernaut",
     "Descripcion": "Cain Marko, is the only child of the marriage of Kurtis Marko and his first wife Marjory. His mother died when he was just a child, and his father married in second nuptials with the widow Sharon Xavier, who was the wife of Brian Xavier, one of the best friends of Kurtis, whom he vilely betrayed and caused his death. Thus, Cain became stepbrother of Charles Xavier, Sharon's only son. The jealousy that Cain felt towards Charles from the first moment he met him took root over the years. Charles was always the star of the family, relegating Cain to a second term. The situation worsened when, when his parents died, it was Charles who inherited the family fortune, for which Cain swore revenge.",
-    "NombreReal":"Cain Marko",
-    "Genero":"Male",
-    "Armas":"Super Strength and Endurance",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Cain Marko",
+    "Genero": "Male",
+    "Armas": "Super Strength and Endurance",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Juggernaut.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Juggernaut.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=26nqTXB1lLw",
+    "Combos2": "https://www.youtube.com/watch?v=wKB8-bEQTig",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Juggernaut Punch",
@@ -1479,13 +1543,17 @@
   {
     "Nombre": "Rogue",
     "Descripcion": "Rogue (Anne Marie) is a member of X-Men. More than most mutants, Rogue considers his powers to be a curse. She involuntarily absorbs memories, physical strength, and, in the case of people with superpowers, the abilities of anyone she touches. Raised by her aunt Carrie after the tragedy that affected her parents, young Anna Marie ran away from home and was welcomed by Mystique and Destiny whom Rogue came to regard as her surrogate parents. Rogue's mutant power first manifested itself in her teens when she kissed Cody Robbins. His mind was filled with his memories, and he fell into a permanent coma. Finally realizing that he could not live safely among normal people, Rogue began to participate in the criminal efforts of his adoptive mother and joined the Mystique terrorist Brotherhood of Devilish Mutants. On her first mission, an inexperienced Rogue clashed with Ms. Marvel (Carol Danvers) and permanently absorbed memories and powers of the heroine, such as super-strength and flying.",
-    "NombreReal":"Anna Marie",
-    "Genero":"Female",
-    "Armas":"Absorbing vital energy and powers, super strength, fly.",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Anna Marie",
+    "Genero": "Female",
+    "Armas": "Absorbing vital energy and powers, super strength, fly.",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Rogue.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Rogue.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=qiLFJ0C7xAs",
+    "Combos2": "https://www.youtube.com/watch?v=NWQgCpnw748",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Repeating Punches",
@@ -1546,13 +1614,17 @@
   {
     "Nombre": "Cammy",
     "Descripcion": "It was created by the Shadaloo organization using M. Bison's DNA. His mission would be to become a host to the spirit of M. Bison in the event that his original body died. Trained as a prototype soldier, Cammy became Shadaloo's deadliest agent, being known by the code name 'Killer Bee'.However, Cammy began to become more self-aware and freed herself from the influence of M. Bison. Rebelling against Shadaloo, using the Psycho Drive he tried to free the rest of the Dolls. Vega, the Spanish ninja assassin, was sent to liquidate her, but with the impossibility of hurting such a beautiful woman, Vega decided to let her live. It is said that he himself was the one who left an amnesiac Cammy in front of the offices of the British MI6.",
-    "NombreReal":"Cammy White",
-    "Genero":"Female",
-    "Armas":"Acrobatic fighting style.",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Cammy White",
+    "Genero": "Female",
+    "Armas": "Acrobatic fighting style.",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Cammy.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Cammy.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=JJeDxiHhnUw",
+    "Combos2": "https://www.youtube.com/watch?v=XFt9LrH3s5c",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Axle Spin Knuckle",
@@ -1629,13 +1701,17 @@
   {
     "Nombre": "Mega Man",
     "Descripcion": "Mega Man, originally called Rockman in Japan, is a video game character created by Akira Kitamura and is the main character in what has been called the 'Classic Saga' of Mega Man developed by Capcom since 1987. Since then, it has become one of the company's main original characters and continues to be one of the most recognizable icons in the video game industry. Having appeared on many video game systems from the Nintendo Entertainment System platform, Mega Man has had a very diverse audience of gamers, and his video games continue to evolve with the ever-changing hardware demands of more modern video game systems. The fictional universe of the Mega Man saga can be divided into seven categories, each with different variations and incarnations of the same heroic robot boy. Although 'Mega Man' or 'Rock Man' is usually the name used to describe only the original Mega Man from the Classic Saga, it may also be used less specifically to describe the series of fictional works of Mega Man, or the group of adherent of homonymous main characters within these.",
-    "NombreReal":"Mega Man",
-    "Genero":"Male (robot)",
-    "Armas":"Mega Buster, a variable weapon system and various energy attacks.",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Mega Man",
+    "Genero": "Male (robot)",
+    "Armas": "Mega Buster, a variable weapon system and various energy attacks.",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Mega_Man.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Mega_man.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=PcOLyMXFJbA",
+    "Combos2": "https://www.youtube.com/watch?v=gWAP99EkAqk",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Weapon Activation",
@@ -1719,13 +1795,17 @@
   {
     "Nombre": "Guile",
     "Descripcion": "Guile is a Major in the United States Air Force, a talented pilot and fighter with a great sense of duty and justice. Together with his friends he fights the forces of evil. Within the Street Fighter saga world, the main threat he has to face is the fearsome Shadaloo crime syndicate, led by the evil dictator M. Bison. He is married to Julia, Eliza's older sister, Ken's wife, and together they have a daughter named Amy.",
-    "NombreReal":"William F. Guile",
-    "Genero":"Male ",
-    "Armas":"Considerable strength, speed, and physical prowess. Ability to use sonic energy.",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "William F. Guile",
+    "Genero": "Male ",
+    "Armas": "Considerable strength, speed, and physical prowess. Ability to use sonic energy.",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Guile.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Guile.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=XRa13avzGGM",
+    "Combos2": "https://www.youtube.com/watch?v=N6ZW0iRzow0",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Sonic Boom",
@@ -1797,13 +1877,16 @@
   {
     "Nombre": "Anakaris",
     "Descripcion": "Anticipating his death and rebirth, Anakaris creates a pyramid and a sanctuary for his recovery. Five thousand years later, it revived when Pyron invaded Earth. In order to rule his kingdom once again, he mustered an immense fighting power against the others and then traveled five thousand years back in time. When his kingdom became threatened again, he returned to fight once more.",
-    "NombreReal":"Anakaris",
-    "Genero":"Male ",
-    "Armas":"Manipulation of his body, curses.",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Anakaris",
+    "Genero": "Male ",
+    "Armas": "Manipulation of his body, curses.",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Anakaris.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Anakaris.png",
+
+    "Combos": "https://www.youtube.com/watch?v=SlH4HZn6NkE",
+    "Combos2": "https://www.youtube.com/watch?v=4CnRUvASiNA",
     "SpecialMoves": [
       {
         "nombreAtaque": "Miira Drop",
@@ -1906,13 +1989,17 @@
   {
     "Nombre": "Silver Samurai",
     "Descripcion": "Kenuichio Harada is the illegitimate son of Shingen Yashida. He is a Japanese mutant with the power to charge almost anything, especially his katana, with mutant energy (described as a tachyon field) allowing him to slice up any known substance except adamantium. He also sports a suit based on traditional samurai armor. It is made of silver metal, hence its name.",
-    "NombreReal":"Kenuichio Harada",
-    "Genero":"Male ",
-    "Armas":"Katana loaded to cut whatever",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Kenuichio Harada",
+    "Genero": "Male ",
+    "Armas": "Katana loaded to cut whatever",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Silver_Samurai.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Silver_samurai.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=sr48tCToBto",
+    "Combos2": "https://www.youtube.com/watch?v=V_fAsWsBnts",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Shuriken (Air)",
@@ -1996,13 +2083,16 @@
   {
     "Nombre": "Marrow",
     "Descripcion": "As a girl, Sarah was one of the underground morlocks they inhabit. When Callisto, leader of the Morlocks, kidnapped the X-Man Angel to be her husband, Sarah met the captive Angel. Sarah believes that Angel was beautiful. He would become a cult idol for her. When the Marauders decimated the Morlock community, Sarah was also personally saved by Gambit, who was not yet known to the X-Men. Years later, most of the surviving Morlocks (including Sarah) were reportedly killed by Mikhail Rasputin, even though they were actually brought into another dimension. There, Mikhail had established a citadel for himself on top of a massive hill. The Darwinian social philosophy of 'survival of the fittest' was the only thing that governs society. If someone could reach the top of the hill they consider themselves 'fit' and worthy of being part of Gene Nation.",
-    "NombreReal":"Sarah",
-    "Genero":"Female ",
-    "Armas":"Control over your bone structure",
-    "Afiliacion":"Neutral",
-    "Universo":"Marvel",
+    "NombreReal": "Sarah",
+    "Genero": "Female ",
+    "Armas": "Control over your bone structure",
+    "Afiliacion": "Neutral",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Marrow.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Marrow.jpg",
+    "Combos": "https://www.youtube.com/watch?v=fDS4RU27FMY",
+    "Combos2": "https://www.youtube.com/watch?v=mCu78x3SufU",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Bonerang",
@@ -2073,13 +2163,16 @@
   {
     "Nombre": "Gambit",
     "Descripcion": "Abandoned at birth due to his flaming red eyes, the boy who would soon become Remy LeBeau was found and raised by the New Orleans Thieves Guild, who referred to him as 'Le Diable Blanc' (the white devil). They trained him in the ways of robbery. One day at the age of ten, the still-nameless boy was caught trying to grab the pocket of Jean-Luc LeBeau, the so-called Patriarch of the Guild. He took the boy off the streets and took him to his own family, naming him Remy Etienne LeBeau.",
-    "NombreReal":"Remy LeBeau",
-    "Genero":"Male ",
-    "Armas":"The transfer of kinetic energy in objects",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Remy LeBeau",
+    "Genero": "Male ",
+    "Armas": "The transfer of kinetic energy in objects",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Gambit.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Gambit.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=EPIqmzTX-pA",
+    "Combos2": "https://www.youtube.com/watch?v=RUUcnFjO0T4",
     "SpecialMoves": [
       {
         "nombreAtaque": "Kinetic Card",
@@ -2160,13 +2253,17 @@
   {
     "Nombre": "Iceman",
     "Descripcion": "Bobby Drake was born with the mutant power to freeze moisture in the air. When that power appeared in his adolescence, his parents proposed that he keep it a secret because otherwise it would bring him problems. One day Bobby was walking with his girlfriend Judy Harmon and was attacked by a town thug named Rocky Beasely and his gang. To save his girlfriend, Bobby froze Rocky in a block of ice, thus revealing his power to the entire town. Everyone wanted to attack him but the sheriff saved him from it.",
-    "NombreReal":"Robert 'Bobby' Louis Drake",
-    "Genero":"Male ",
-    "Armas":"Ice handling",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Robert 'Bobby' Louis Drake",
+    "Genero": "Male ",
+    "Armas": "Ice handling",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Iceman.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Iceman.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=krPUaBQw_g4",
+    "Combos2": "https://www.youtube.com/watch?v=XxouMNFY8IE",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Ice Beam",
@@ -2221,13 +2318,17 @@
   {
     "Nombre": "Spiderman",
     "Descripcion": "He was originally just a common high school teenager named Peter Parker, who lived with his Uncle Ben and Aunt May, due to the fact that his parents died when Peter was young. He was very smart, however he was also a bit physically weak and some of his teammates made fun of him. One day Peter's life was forever changed when he went to a public display of nuclear waste management. A spider was caught in the radiation and Peter was bitten by it. Then Peter discovered that he had arachnid powers, which included improved strength, improved agility, and the ability to hold on to walls.",
-    "NombreReal":"Peter Benjamin Parker",
-    "Genero":"Male ",
-    "Armas":"Various arachnid skills",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Peter Benjamin Parker",
+    "Genero": "Male ",
+    "Armas": "Various arachnid skills",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Spiderman.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Spiderman.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=LH6L6X002wM",
+    "Combos2": "https://www.youtube.com/watch?v=l5d2kyqL75s",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Web Ball",
@@ -2306,13 +2407,17 @@
   {
     "Nombre": "Wolverine - Bone",
     "Descripcion": "In the 1800s, Wolverine was a sick and wealthy boy named James Howlett. Her two best friends were a young girl named Rose who acted as her babysitter, and a boy nicknamed 'dog' Logan, who was the son of the Howlett family gardener, who had an amazing resemblance to James as an adult. Dog's father was jealous of his son's wealth, and physically abused Dog until he was no longer friends with James. Dog heard and cut the throat of James' new cub, causing James's father to shoot Dog's. Seeking revenge, Dog and his father broke into his farm with weapons and assassinated Mr. Howlett. The trauma of the situation activated James's latent mutation, causing the bone claws to pop out from between his knuckles. In blind fury, he stabbed and killed Dog's father. James fled, and Rose followed him. His life was ruined, James's mother grabbed a gun on the ground and committed suicide. James and Rose fled, eventually finding work at a wooden mill, where James took Logan's name after the man he killed. They stayed there for years, and Logan, who was nicknamed 'Wolverine' for his work, fell in love with Rose, who was becoming engaged to the owner of the mill. Finally, his grandfather, who was on his deathbed, decided that he wanted to see his grandson, and he sent Dog to go find him. Dog and Logan fought after following him down, and Rose was caught in the crossfire, accidentally being killed by Logan.",
-    "NombreReal":"James Maxwell Howlett 'Logan'",
-    "Genero":"Male ",
-    "Armas":"Adamantium Bones and Claws, Advanced Healing Factor",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "James Maxwell Howlett 'Logan'",
+    "Genero": "Male ",
+    "Armas": "Adamantium Bones and Claws, Advanced Healing Factor",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Wolverine_Bone.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=r7ag_wHNpm8",
+    "Combos2": "https://www.youtube.com/watch?v=a3Fm-4_FdRg",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Berserker Barrage",
@@ -2370,14 +2475,18 @@
   },
   {
     "Nombre": "Wolverine - Claw",
-    "Descripcion": "PRUEBA",
-    "NombreReal":"James Maxwell Howlett 'Logan'",
-    "Genero":"Male ",
-    "Armas":"Adamantium Bones and Claws, Advanced Healing Factor",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "Descripcion": "In the 1800s, Wolverine was a sick and wealthy boy named James Howlett. Her two best friends were a young girl named Rose who acted as her babysitter, and a boy nicknamed 'dog' Logan, who was the son of the Howlett family gardener, who had an amazing resemblance to James as an adult. Dog's father was jealous of his son's wealth, and physically abused Dog until he was no longer friends with James. Dog heard and cut the throat of James' new cub, causing James's father to shoot Dog's. Seeking revenge, Dog and his father broke into his farm with weapons and assassinated Mr. Howlett. The trauma of the situation activated James's latent mutation, causing the bone claws to pop out from between his knuckles. In blind fury, he stabbed and killed Dog's father. James fled, and Rose followed him. His life was ruined, James's mother grabbed a gun on the ground and committed suicide. James and Rose fled, eventually finding work at a wooden mill, where James took Logan's name after the man he killed. They stayed there for years, and Logan, who was nicknamed 'Wolverine' for his work, fell in love with Rose, who was becoming engaged to the owner of the mill. Finally, his grandfather, who was on his deathbed, decided that he wanted to see his grandson, and he sent Dog to go find him. Dog and Logan fought after following him down, and Rose was caught in the crossfire, accidentally being killed by Logan.",
+    "NombreReal": "James Maxwell Howlett 'Logan'",
+    "Genero": "Male ",
+    "Armas": "Adamantium Bones and Claws, Advanced Healing Factor",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Wolverine.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Wolverine.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=IFN3NRVIv4Y",
+    "Combos2": "https://www.youtube.com/watch?v=a3Fm-4_FdRg",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Berserker Barrage",
@@ -2459,13 +2568,16 @@
   {
     "Nombre": "Venom",
     "Descripcion": "Venom is the alias of the humiliated journalist Eddie Brock when he joins the Klyntarian alien symbiote who first joined Spider-Man when he first came to Earth. Being one of Spider-Man's most dangerous enemies, and sometimes a valuable ally, Venom is capable of anything Spider-Man can do, only stronger. Worse yet, he is completely invisible to his Arachnid Sense, giving him the element of surprise in each of his encounters, and he can also use deadly methods to stop crime unlike Spidey. Venom here uses his symbiote body to form tendrils and attack, as well as cobwebs.",
-    "NombreReal":"Edward Charles Allan Brock",
-    "Genero":"Male ",
-    "Armas":"Spider-Man powers, shape-shifting, super strength",
-    "Afiliacion":"Antihero",
-    "Universo":"Marvel",
+    "NombreReal": "Edward Charles Allan Brock",
+    "Genero": "Male ",
+    "Armas": "Spider-Man powers, shape-shifting, super strength",
+    "Afiliacion": "Antihero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Venom.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Venom.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=9x4IO9eZbL4",
+    "Combos2": "https://www.youtube.com/watch?v=qeMOzQ9_QAw",
     "SpecialMoves": [
       {
         "nombreAtaque": "Venom Fang",
@@ -2524,13 +2636,17 @@
   {
     "Nombre": "B.B. Hood",
     "Descripcion": "Profession BB Hood was founded by hordes of Makai creatures that had already flowed into the human world. Many of these creatures have already won the interest of humans, be it scientific prejudice, or simple curiosity. Useful elements for decoration, materials that do not exist in the human world (for example, the liquid and blood of their internal organs) are of great interest, especially for biological weapons research and such. A 'Darkhunter' is a job that was born to satisfy the demand of these clients.",
-    "NombreReal":"Baby Bonnie Hood",
-    "Genero":"Female ",
-    "Armas":"Large arsenal of weapons",
-    "Afiliacion":"Neutral",
-    "Universo":"Capcom",
+    "NombreReal": "Baby Bonnie Hood",
+    "Genero": "Female ",
+    "Armas": "Large arsenal of weapons",
+    "Afiliacion": "Neutral",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/BB_hood.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Bb_hood.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=A6uOaroV-ac",
+    "Combos2": "https://www.youtube.com/watch?v=-PCuiqFt88E",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Smile & Missile",
@@ -2618,13 +2734,16 @@
   {
     "Nombre": "Sakura",
     "Descripcion": "Sakura was not one of the initial Street Fighters inserted into the Marvel Universe, but would arrive during the second event in the Marvel Super Heroes vs. video game. Street Fighter. Even without mastering her own fighting style, she felt the most disoriented as a result of being in a different universe, and found that her fighting ability had been slightly altered. Unable to control the direction of her 'Hadokens', she saw herself throwing them up. However, he was thrilled to see that he could also shoot it while it was airborne towards the ground. But that was not the end of the oddities that was found.",
-    "NombreReal":"Sakura Kasugano",
-    "Genero":"Female ",
-    "Armas":"Imitation of karate Ansatsuken",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Sakura Kasugano",
+    "Genero": "Female ",
+    "Armas": "Imitation of karate Ansatsuken",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Sakura.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sakura.jpg",
+    "Combos": "https://www.youtube.com/watch?v=A6pTOtSisUY",
+    "Combos2": "https://www.youtube.com/watch?v=82TiF5RBhM0",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Shouoken",
@@ -2694,13 +2813,16 @@
   {
     "Nombre": "Sonson",
     "Descripcion": "The moment the ancient Abyss wakes up from his torpor, the village where Sonson lives is suddenly afflicted with a strange disease. With his grandfather's inherited Ru Yi Bang cane by hand, SonSon ventures outside to discover the source behind this unknown disease. During the final sequence back home on Ruby Heart's ship, she can be seen on board happily hanging out alongside Marrow.",
-    "NombreReal":"SonSon",
-    "Genero":"Female ",
-    "Armas":"Ru Yi Bang (walking stick that changes size and shape), Speed",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "SonSon",
+    "Genero": "Female ",
+    "Armas": "Ru Yi Bang (walking stick that changes size and shape), Speed",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Sonson.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sonson.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=7AgmAmjFpaY",
+    "Combos2": "https://www.youtube.com/watch?v=IHikCKtlD-Y",
     "SpecialMoves": [
       {
         "nombreAtaque": "Shienbu",
@@ -2777,13 +2899,17 @@
   {
     "Nombre": "Akuma",
     "Descripcion": "Akuma (called Gouki originally in Japan) was trained by Goutetsu together with his brother Gouken. Goutetsu taught them Ansatsuken (lit. 'killer fist') in karate along with a mix of judo and koppo. As the brothers progressed under Goutetsu's teachings, a controversy arose over Ansatsuken's ture nature of karate and the route to mastering it. Gouken did not accept the violent nature of his martial art and abandoned Goutetsu and his own dojo. Akuma continued to use the art as it was originally intended to be, killing. In order to learn 'Shun Goku Satsu', Akuma did not hug the Satsui Hadou (increased intention to kill). After embracing Satsui No Hadou, Akuma gave up any compassion he held towards other humans and lost all of his humanity, addiction, realizes limits as a fighter could be expanded, and left Goutetsu guidance to form alone on an island known as Gokuento.",
-    "NombreReal":"Akuma",
-    "Genero":"Male ",
-    "Armas":"Shun Goku Satsu, Ansatsuken infused with Satsui no Hado",
-    "Afiliacion":"AntiHero",
-    "Universo":"Capcom",
+    "NombreReal": "Akuma",
+    "Genero": "Male ",
+    "Armas": "Shun Goku Satsu, Ansatsuken infused with Satsui no Hado",
+    "Afiliacion": "AntiHero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Akuma.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Akuma.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=2kep_wU0hVE",
+    "Combos2": "https://www.youtube.com/watch?v=4TG1CQKTcYo",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Fireball",
@@ -2878,13 +3004,16 @@
   {
     "Nombre": "Ken",
     "Descripcion": "He is the only child of a wealthy family in the United States. When Ken was a boy, his father asked his friend, the teacher Gouken, to accept his young son as his student in the dojo, in an attempt to discipline him. It was there that he met who would be his best friend and his most bitter rival, Ryu. Under Gouken's supervision, Ken had no problem adapting to the hard training imposed by his sensei or reaching Ryu's skill level, despite the fact that Ryu had been training in the dojo for a while. During the events of the first Street Fighter video game, Ken was in the United States, participating and winning in the National Championship of martial arts in that country, while Ryu beat Sagat in the final round of the World Warrior tournament.",
-    "NombreReal":"Ken Masters",
-    "Genero":"Male ",
-    "Armas":"Ansatsuken",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Ken Masters",
+    "Genero": "Male ",
+    "Armas": "Ansatsuken",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Ken.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ken.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=zUy2YjHarZ0",
+    "Combos2": "https://www.youtube.com/watch?v=S_CqAd4PpNQ",
     "SpecialMoves": [
       {
         "nombreAtaque": "Hadouken",
@@ -2962,13 +3091,17 @@
   {
     "Nombre": "Ryu",
     "Descripcion": "Ryu was an orphaned child, without the knowledge of who his parents were or if they are still alive. When he was a very young child, he was adopted by a man named Gouken and started living with him, as well as learning an ingrained martial art originally as an art of murder. When Ryu was about 23 years old, Gouken thought he was willing to travel the world to test his skills against the best fighters in the world. With this, Ryu and Ken headed off to fight in the first World Warrior tournament.",
-    "NombreReal":"Ryu",
-    "Genero":"Male ",
-    "Armas":"Ansatsuken",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Ryu",
+    "Genero": "Male ",
+    "Armas": "Ansatsuken",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Ryu.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Ryu.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=Pa5Vfb4r7qg",
+    "Combos2": "https://www.youtube.com/watch?v=WkgeLgT5VGw",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Hadouken",
@@ -3038,13 +3171,16 @@
   {
     "Nombre": "Charlie",
     "Descripcion": "Charlie is first mentioned by name in the story of the Street Fighter II (1991) video game, where he is the deceased warmate of Guile, one of the characters available in that video game. Before the events of the video game, Charlie would have died at the hands of M. Bison, although the exact circumstances are not clear (in the western location, he is said to have been captured during a mission and later died in an attempt to escape). In that video game, Guile entered the World Warrior tournament with the purpose of avenging the death of his fallen friend. In the Super Street Fighter II Turbo video game, a scene is shown of Guile visiting Charlie's grave.",
-    "NombreReal":"Charlie Nash",
-    "Genero":"Male ",
-    "Armas":"Strength, Acrobatics",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Charlie Nash",
+    "Genero": "Male ",
+    "Armas": "Strength, Acrobatics",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Charlie.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Charlie.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=CKmtqdSZLcc",
+    "Combos2": "https://www.youtube.com/watch?v=XRa13avzGGM",
     "SpecialMoves": [
       {
         "nombreAtaque": "Sonic Boom",
@@ -3119,13 +3255,17 @@
   {
     "Nombre": "M.Bison",
     "Descripcion": "Specific data on M. Bison is unknown, although he is known to be the creator of the Shadaloo criminal organization. Although his organization is concentrated in Thailand and for a long time it was thought that his nationality was Thai, Capcom has not wanted to confirm his true homeland, in the Street Fighter IV video game again hiding his nationality. However, he is said to have fallen to Guile and Charlie (Nash), taking the latter with him.",
-    "NombreReal":"Mike Bison",
-    "Genero":"Male ",
-    "Armas":"Psycho Power",
-    "Afiliacion":"Villain",
-    "Universo":"Capcom",
+    "NombreReal": "Mike Bison",
+    "Genero": "Male ",
+    "Armas": "Psycho Power",
+    "Afiliacion": "Villain",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/M_bison.jpg",
     "Foto2": "imagenes/PersonajesMVsC/M.Bison.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=sxmroKwIwf4",
+    "Combos2": "https://www.youtube.com/watch?v=In4rBhzCmcY",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Psycho Shot",
@@ -3215,13 +3355,16 @@
   {
     "Nombre": "Captain America",
     "Descripcion": "Sole recipient of the Super-Soldier Serum. His deep love for his country and his incomparable sense of justice make him one of the most respected heroes. He has long been the leader of the Avengers, an organization dedicated to preserving peace in the world.",
-    "NombreReal":"Steven 'Steve' Rogers",
-    "Genero":"Male ",
-    "Armas":"Vibranium, super-soldier serum",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Steven 'Steve' Rogers",
+    "Genero": "Male ",
+    "Armas": "Vibranium, super-soldier serum",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Captain_America.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Captitan_America.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=Zk_F1HiMDkw",
+    "Combos2": "https://www.youtube.com/watch?v=PVQy_qOjaL4",
     "SpecialMoves": [
       {
         "nombreAtaque": "Shield slash",
@@ -3291,13 +3434,16 @@
   {
     "Nombre": "Hulk",
     "Descripcion": "A true scientific genius, his body absorbed high doses of gamma radiation during an atomic test. As a consequence of this, when rage or negative emotions take hold of him, he transforms into Hulk, a green colored monster of superhuman strength.",
-    "NombreReal":"Dr. Robert Bruce Banner",
-    "Genero":"Male ",
-    "Armas":"Potentially unlimited strength",
-    "Afiliacion":"Hero",
-    "Universo":"Marvel",
+    "NombreReal": "Dr. Robert Bruce Banner",
+    "Genero": "Male ",
+    "Armas": "Potentially unlimited strength",
+    "Afiliacion": "Hero",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Hulk.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Hulk.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=JZEh13GxvvM",
+    "Combos2": "https://www.youtube.com/watch?v=siZR2nuIleQ",
     "SpecialMoves": [
       {
         "nombreAtaque": "Gamma Slam",
@@ -3369,13 +3515,17 @@
   {
     "Nombre": "Jin",
     "Descripcion": "Jin's father (Ken Saotome) belonged to a unit, he died in an accident a year before the start of Cyberbots. To honor his memory, Jin seeks to become the best living VA pilot and wants to prove himself through the VA battle circuit. He begins to question his father's death after the SOMBRA meeting for the first time. Jin's mood ranges from calm to anger in seconds, but he's still a good guy. He is also a friend of Gawain Murdock. Jin has appearances in the Marvel vs. Saga. Capcom and Tech Romancer (1998) as an available character. Its main mechanism is BX-02 Blodia.",
-    "NombreReal":"Jin Saotome",
-    "Genero":"Male",
-    "Armas":"Various energy attacks, Blodia",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Jin Saotome",
+    "Genero": "Male",
+    "Armas": "Various energy attacks, Blodia",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Jin.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Jin.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=xSH0oebZ8YQ",
+    "Combos2": "https://www.youtube.com/watch?v=i3rs0jI9xdo",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Saotome Typhoon",
@@ -3445,13 +3595,16 @@
   {
     "Nombre": "Jill",
     "Descripcion": "A team of experts specializing in close combat and the use of firearms, and a pianist who memorized every Beethoven sonata, Jill Valentine was a member of the Alpha team at STARS, a special unit of the Raccoon City Police Department that was it set out to deal with terrorism and the increase in cases of violent and serious crime.",
-    "NombreReal":"Jill Valentine",
-    "Genero":"Female",
-    "Armas":"Different firearms, super-human, agility and strength",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Jill Valentine",
+    "Genero": "Female",
+    "Armas": "Different firearms, super-human, agility and strength",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Jill.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Jill.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=r0FPsnfDvpE",
+    "Combos2": "https://www.youtube.com/watch?v=RFq9fezfDZI",
     "SpecialMoves": [
       {
         "nombreAtaque": "Kinsetsu Sentou A",
@@ -3523,13 +3676,16 @@
   {
     "Nombre": "Felicia",
     "Descripcion": "Felicia was raised by a Catholic nun named Rose. When Rose died, Felicia left her town in hopes of being a musical star. During his travels, he met many other catgirls of his kind. With his new friends, he set out for his dream of being on stage. Finally, she and her friends started a musical with Felicia being the main star.",
-    "NombreReal":"Felicia",
-    "Genero":"Female",
-    "Armas":"Claws, Feline Agility",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Felicia",
+    "Genero": "Female",
+    "Armas": "Claws, Feline Agility",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Felicia.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Felicia.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=KJMmEFtjP5M",
+    "Combos2": "https://www.youtube.com/watch?v=cN0MHN211-s",
     "SpecialMoves": [
       {
         "nombreAtaque": "Rolling Buckler",
@@ -3609,13 +3765,16 @@
   {
     "Nombre": "Morrigan",
     "Descripcion": "A succubus or demonic creature with the ability to seduce men. Known for her voluptuous physique and provocative role models, she is the head of the Aensland House, one of Makai's three main houses. She often leaves her chores to go in search of new adventures. Although Demitri seems to carry that role, it is often suggested and implied that Morrigan is the main character in the Darkstalkers saga, due to his importance in the overall story, as well as his multiple appearances outside of his own video game saga. She can even be considered the protagonist or a kind of anti-hero, because despite her appearance and demonic nature, she is not someone evil.",
-    "NombreReal":"Morrigan Aensland",
-    "Genero":"Female",
-    "Armas":"Various Succubus Powers, Wing Manipulation, and Magic Energy",
-    "Afiliacion":"Neutral",
-    "Universo":"Capcom",
+    "NombreReal": "Morrigan Aensland",
+    "Genero": "Female",
+    "Armas": "Various Succubus Powers, Wing Manipulation, and Magic Energy",
+    "Afiliacion": "Neutral",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Morrigan.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Morrigan.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=fuwJz3IfyLo",
+    "Combos2": "https://www.youtube.com/watch?v=3aWfehCk29o",
     "SpecialMoves": [
       {
         "nombreAtaque": "Soul Fist",
@@ -3695,13 +3854,16 @@
   {
     "Nombre": "Zangief",
     "Descripcion": "As the greatest professional wrestling fighter in the Soviet Union, Zangief was contacted by a man known as Erai Hito (lit. 'Great Man') to represent his country in the second World Warrior tournament. This individual clearly resembles ex-Soviet Union leader and president Mikhail Gorbachev.",
-    "NombreReal":"Zangief",
-    "Genero":"Male",
-    "Armas":"Various professional wrestling movements",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Zangief",
+    "Genero": "Male",
+    "Armas": "Various professional wrestling movements",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Zangief.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Zangief.jpg",
+    "Combos": "https://www.youtube.com/watch?v=UYFIME_wwUQ",
+    "Combos2": "https://www.youtube.com/watch?v=zINiYlwToo8",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Banishing Flat",
@@ -3765,13 +3927,17 @@
   {
     "Nombre": "Amingo",
     "Descripcion": "The only official information about Amingo's character is that he is looking for a mysterious spirit that blows through his land and causes the destruction of all the plant life he touches. He teams up with heroes and villains to defeat Abyss.",
-    "NombreReal":"Amingo",
-    "Genero":"Male",
-    "Armas":"Elastic body and invokes plants",
-    "Afiliacion":"Hero/Neutral",
-    "Universo":"Capcom",
+    "NombreReal": "Amingo",
+    "Genero": "Male",
+    "Armas": "Elastic body and invokes plants",
+    "Afiliacion": "Hero/Neutral",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Amingo.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Amingo.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=Mz2OoWZ9yEQ",
+    "Combos2": "https://www.youtube.com/watch?v=ng7IJ9vmc9I",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Cactus Dash ",
@@ -3833,13 +3999,17 @@
   {
     "Nombre": "Chun-Li",
     "Descripcion": "In the Street Fighter saga, Chun-Li was an Interpol investigator who had been searching for clues to her father's recent death. She befriends a former teacher of hers and her father's friend, Gen, who gives her a clue as to who may have killed her father, the mysterious Shadaloo crime syndicate. Upon finding her leader, M. Bison, she demands that she tell her father what happened. To her surprise, M. Bison was much stronger than she imagined, so he flew away, laughing at her and telling her that if he attacked him again, he would kill her just as he did with his father. With tears in his eyes, Chun-Li swore revenge.",
-    "NombreReal":"Chun-Li",
-    "Genero":"Female",
-    "Armas":"Kenpo chino, Chi",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Chun-Li",
+    "Genero": "Female",
+    "Armas": "Kenpo chino, Chi",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Chun-li.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Chun-li.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=2MRVkF4NFpg",
+    "Combos2": "https://www.youtube.com/watch?v=DnRvR2x9eyg",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Kikou Ken",
@@ -3909,13 +4079,17 @@
   {
     "Nombre": "Hayato",
     "Descripcion": "Abandoned on the streets of Neo Tokyo as a child, Hayato Kanzaki was taken into a foster home, owned by a loving caretaker. As she grew older, she realized that the caregiver was in debt, and she wanted to clarify that as a means of paying her for her kindness. Unable to find any kind of job, Hayato was forced to become a bounty hunter-a line of work that he despised and knew would go against his fierce sense of justice.",
-    "NombreReal":"Hayato Kanzaki",
-    "Genero":"Male",
-    "Armas":"Sword of Energy",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Hayato Kanzaki",
+    "Genero": "Male",
+    "Armas": "Sword of Energy",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Hayato.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Hayato.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=enfbCK386oY",
+    "Combos2": "https://www.youtube.com/watch?v=VV0tbvwY3Yc",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Shiden",
@@ -3987,13 +4161,17 @@
   {
     "Nombre": "Sabretooth",
     "Descripcion": "Although he is believed to have suffered an abusive childhood from his father, who, disgusted by the boy's mutant nature, he was frequently beaten in chains in the dark basement of his home. As an adult, Creed took the name Sabretooth, and by the 1910s he was known by this name in a small community on the Canadian border where he intimidated almost everyone. One of the few exceptions was a young man named Logan, who Sabretooth felt had superhuman abilities similar to his own. She hated the love that existed between Logan and a young indigenous girl named Silver Fox, Sabretooth brutally assaulted her and apparently also raped her for dead. Logan was enraged forcing Sabretooth into a pitched battle, which ended with Sabretooth victorious. Silver Fox unknowingly survived the attack and soon withdrew from the community.",
-    "NombreReal":"Victor Creed",
-    "Genero":"Male",
-    "Armas":"Wild strength and agility",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Victor Creed",
+    "Genero": "Male",
+    "Armas": "Wild strength and agility",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Sabretooth.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Sabretooth.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=Kw-K8b2iK0Y",
+    "Combos2": "https://www.youtube.com/watch?v=Y8WHr5pha0E",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Berserker Claw",
@@ -4059,13 +4237,17 @@
   {
     "Nombre": "Shuma-Gorath",
     "Descripcion": "Although its true origins are unknown, before the arrival of the Celestials' First Host, Shuma-Gorath ruled Earth and ordered human sacrifices, until the time-traveling sorcerer Sise-Neg banished him. He managed to return and establish himself as a god during the Hybrid Era, again demanding bloody sacrifices, but he killed those who sought his favor. Eventually, Crom's power imprisoned him inside a mountain. Even from that prison, he could interact with Conan the Barbarian, Kulan Gath, and many others, before Crom banished him back to his original dimension.",
-    "NombreReal":"Shuma-Gorath",
-    "Genero":"Male",
-    "Armas":"Magic, project energy, change shape, teleportation",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Shuma-Gorath",
+    "Genero": "Male",
+    "Armas": "Magic, project energy, change shape, teleportation",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Shuma-Gorath.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Shuma-Gorath.png",
+
+    "Combos": "https://www.youtube.com/watch?v=dUsE4sLeWe8Y",
+    "Combos2": "https://www.youtube.com/watch?v=we2x4qEXwjA",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Mystic Stare",
@@ -4130,13 +4312,16 @@
   {
     "Nombre": "Thanos",
     "Descripcion": "Thanos was born on Saturn's moon Titan, a world believed to be uninhabited but actually home to an advanced branch of humanity. Thanos was satisfied by the world in peace, and they left to begin their conquest mission. On his travels, he encountered the entity known as Death and fell in love with her. He soon devoted all his energies to pleasing her, and eventually became her servant. Wishing to be his equal, he searched for the Infinity Stones, six stones of great power that would give him control of the universe. When he finally obtained all six gems and placed them in his Infinity Gauntlet, he gained unlimited power. To impress Death, he extinguishes half the life in the universe, and it took the combined strength of many superheroes to finally stop him. It was stripped of the Latticework, and placed on an uninhabited planet where it could do no harm. He had already escaped, and it is only a matter of time before he threatens the universe, in the name of Death once again.",
-    "NombreReal":"Thanos",
-    "Genero":"Male",
-    "Armas":"Superhuman attributes, immortality, reality manipulation with the Infinity Gauntlet",
-    "Afiliacion":"Villain",
-    "Universo":"Marvel",
+    "NombreReal": "Thanos",
+    "Genero": "Male",
+    "Armas": "Superhuman attributes, immortality, reality manipulation with the Infinity Gauntlet",
+    "Afiliacion": "Villain",
+    "Universo": "Marvel",
     "Foto": "imagenes/MvsC2/Thanos.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Thanos.jpg",
+    "Combos": "https://www.youtube.com/watch?v=r_GGJPH2ix4",
+    "Combos2": "https://www.youtube.com/watch?v=VAtnS2W7G4Y",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Titan Crush",
@@ -4203,13 +4388,16 @@
   {
     "Nombre": "Dan",
     "Descripcion": "Go Hibiki, Dan's father, was a kung-fu practitioner who challenged Sagat, the Thai champion of muay thai. It was Go who left Sagat one-eyed and he, enraged, brutally defeated him, who thought he had already defeated Sagat. Go would later die from the wounds.",
-    "NombreReal":"Dan Hibiki",
-    "Genero":"Male",
-    "Armas":"Saikyo Karate",
-    "Afiliacion":"Hero",
-    "Universo":"Capcom",
+    "NombreReal": "Dan Hibiki",
+    "Genero": "Male",
+    "Armas": "Saikyo Karate",
+    "Afiliacion": "Hero",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Dan.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Dan.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=rOQBgsqoa9o",
+    "Combos2": "https://www.youtube.com/watch?v=e6VHTfDl5sw",
 
     "SpecialMoves": [
       {
@@ -4287,13 +4475,16 @@
   {
     "Nombre": "Kobun",
     "Descripcion": "Servbots are adorable little robots created by Tron to fulfill his orders. They behave like children and love and adore Tron like a mother, however strict he may be with them. There are forty Servbots and they help Tron and the rest of the Bonne family in everything, from fighting to housework. Despite their small size, they can be very powerful fighters and are vital to the success of the Bonne family as pirates. Servbots also like to eat spaghetti, curries, and coffee.",
-    "NombreReal":"Servbot / Kobun",
-    "Genero":"Male(Robot)",
-    "Armas":"Common Objects",
-    "Afiliacion":"Villain(Neutral)",
-    "Universo":"Capcom",
+    "NombreReal": "Servbot / Kobun",
+    "Genero": "Male(Robot)",
+    "Armas": "Common Objects",
+    "Afiliacion": "Villain(Neutral)",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Kobun.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Kobun.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=_fYmEdJzCJk",
+    "Combos2": "https://www.youtube.com/watch?v=uAQzmxBM03U",
     "SpecialMoves": [
       {
         "nombreAtaque": "Kobun Fire",
@@ -4354,9 +4545,18 @@
   },
   {
     "Nombre": "Roll",
-    "Descripcion": "PRUEBA",
+    "Descripcion": "Roll is a very pretty, cute, sweet, caring and hard-working female robot, designed for housework rather than fighting. She is Mega Man's little sister, and plays a supporting role in her video games.",
+    "NombreReal": "Roll",
+    "Genero": "Female(Robot)",
+    "Armas": "Buster Roll",
+    "Afiliacion": "Heroe",
+    "Universo": "Capcom",
     "Foto": "imagenes/MvsC2/Roll.jpg",
     "Foto2": "imagenes/PersonajesMVsC/Roll.jpg",
+
+    "Combos": "https://www.youtube.com/watch?v=avu5ooesAcc",
+    "Combos2": "https://www.youtube.com/watch?v=ueIkjCrczFk",
+
     "SpecialMoves": [
       {
         "nombreAtaque": "Roll Buster",
