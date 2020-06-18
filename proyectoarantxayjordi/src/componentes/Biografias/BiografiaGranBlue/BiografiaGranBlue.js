@@ -71,9 +71,21 @@ class BiografiaGranBlue extends React.Component {
                 alt="Error"
               />
             </Col>
+
+
+  
             <Col className="col-md-4  BIOCentrarColDivGB">
-              <h1 className="BiotituloGB"> Biografia</h1>
-              <h6 className="BioDesGB"> {detalles.Descripcion}</h6>
+            <h1 className="BiotituloSF"> Biography</h1>
+              <h6 className="BioDescSF"> {detalles.Descripcion}</h6>
+                 <h1 className="BiotituloSF"> Characteristics </h1>
+                 <h6 className="BioDescSF"> <strong>Hobby: </strong> {detalles.Hobby}</h6>
+
+              <h6 className="BioDescSF"> <strong>Likes: </strong> {detalles.Like} </h6>
+              <h6 className="BioDescSF"> <strong>Bad: </strong> {detalles.Bad} </h6>
+
+              <h6 className="BioDescSF"><strong>Atributo: </strong> {detalles.Atributo} </h6>
+              <h6 className="BioDescSF"> <strong>Height: </strong> {detalles.Height} </h6>
+              <h6 className="BioDescSF"><strong> Race: </strong>{detalles.Race}  </h6>
             </Col>
           </Row>
           <Row className="BioImgyBioGB">
