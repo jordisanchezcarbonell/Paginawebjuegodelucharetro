@@ -21,6 +21,30 @@
     border-bottom: 0px !important;
 }
 
+.DivBotonSF2 {
+
+    margin-top: 3vw !important;
+
+}
+
+
+.BotonSF {
+    background-color: transparent;
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: #e4c69c;
+    width: 70%;
+    padding-left: 2vw;
+    margin-left: 7vw;
+    padding-right: 2vw;
+
+}
+
+.BotonSF:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
+}
+
 /*
 
 .fondoproba .rule {
@@ -484,12 +508,14 @@
 
         transform: skewX(0deg) !important;
     }
-    .AnchoSF{
-        width: 150%!important;
-        margin-left: -13.5vw!important;
+
+    .AnchoSF {
+        width: 150% !important;
+        margin-left: -13.5vw !important;
     }
-    .RowSF{
-        margin-left: 7vw!important;
+
+    .RowSF {
+        margin-left: 7vw !important;
     }
 
 }
@@ -498,18 +524,19 @@
 @media screen and (min-height: 568px) and (max-width: 320px) {
 
     /*iphone5*/
-    .AnchoSF{
-        width: 170%!important;
-        margin-left: -17.3vw!important;
+    .AnchoSF {
+        width: 170% !important;
+        margin-left: -17.3vw !important;
     }
 
 
 }
 
 @media screen and (min-height: 736px) and (max-width: 414px) {
-    .RowSF{
-        margin-left: 1vw!important;
+    .RowSF {
+        margin-left: 1vw !important;
     }
+
     .FotoSF {
 
         width: 20vw !important;
@@ -532,9 +559,10 @@
 
 
 @media screen and (min-height: 667px) and (max-width: 375px) {
-    .RowSF{
-        margin-left: -1vw!important;
+    .RowSF {
+        margin-left: -1vw !important;
     }
+
     /*iphone6/7*/
     .FotoSF {
 
@@ -552,9 +580,9 @@
         transform: skewX(0deg) !important;
     }
 
-    .AnchoSF{
-        width: 150%!important;
-        margin-left: -14vw!important;
+    .AnchoSF {
+        width: 150% !important;
+        margin-left: -14vw !important;
     }
 }
 
@@ -581,36 +609,36 @@
 
 @media screen and (min-height: 1366px) and (max-width: 1024px) {
 
-    .AnchoSF{
-    
-        margin-left:4vw!important;
+    .AnchoSF {
+
+        margin-left: 4vw !important;
     }
 
 
 }
 
 @media screen and (max-height: 1024px) and (min-width: 768px) {
-    .AnchoSF{
-    
-        margin-left:4vw!important;
+    .AnchoSF {
+
+        margin-left: 4vw !important;
     }
 }
 
 @media screen and (max-height: 579px) and (min-width: 1240px) {
 
     .FotoSF {
-      min-width: 90px !important;
-       min-height: 10vw !important;
+        min-width: 90px !important;
+        min-height: 10vw !important;
         border-radius: 0 !important;
         border: 2px white solid;
         margin: 4px;
         transform: skewX(15deg);
-    
-    
+
+
         cursor: pointer;
-    
+
     }
-    
+
     .FotoSF2 {
         width: 90px !important;
         min-width: 5vw !important;
@@ -619,55 +647,62 @@
         border: 2px white solid;
         margin: 4px;
         transform: skewX(-15deg);
-    
-    
+
+
         cursor: pointer;
-    
+
     }
-    
+
 
 }
 
 
 
 @media screen and (min-height: 731px) and (max-width: 411px) {
+
     /*pixel2*/
-    .AnchoSF{
-        width:135%!important;
-        margin-left: -10vw!important;
-        margin-right: 0vw!important;
+    .AnchoSF {
+        width: 135% !important;
+        margin-left: -10vw !important;
+        margin-right: 0vw !important;
 
-    
-    }
-    .RowSF{
-        margin-left: 1vw!important;
+
     }
 
-        .FotoSF {
+    .RowSF {
+        margin-left: 1vw !important;
+    }
 
-            width: 20vw !important;
-            min-height: 30vw !important;
-    
-            transform: skewX(0deg) !important;
-        }
-    
-        .FotoSF2 {
-    
-            width: 20vw !important;
-            min-height: 30vw !important;
-    
-            transform: skewX(0deg) !important;
-        }
+    .FotoSF {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
+
+    .FotoSF2 {
+
+        width: 20vw !important;
+        min-height: 30vw !important;
+
+        transform: skewX(0deg) !important;
+    }
 
 }
+
 @media screen and (min-height: 823px) and (max-width: 411px) {
-   /*pixel xl*/
-   .RowSF{
-    margin-left: 1vw!important;
-}
-   .AnchoSF{
-    width: 150%!important;
-    margin-left: -15vw!important;}
+
+    /*pixel xl*/
+    .RowSF {
+        margin-left: 1vw !important;
+    }
+
+    .AnchoSF {
+        width: 150% !important;
+        margin-left: -15vw !important;
+    }
+
     .FotoSF {
 
         width: 20vw !important;

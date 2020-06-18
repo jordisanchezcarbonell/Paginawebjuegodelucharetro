@@ -195,9 +195,10 @@ class Child extends React.Component {
                 }}
                 className="btn-ki large ghostpulse "
               >
-                <span className="botonSpan">
-                  <span>Biography &amp; Videos</span>
-                </span>
+                <div className="DivBotonSF2 ">
+                  <button className="BotonSF">Biography &amp; Videos</button>
+                </div>
+               
               </Link>{" "}
             </Col>
           </Row>

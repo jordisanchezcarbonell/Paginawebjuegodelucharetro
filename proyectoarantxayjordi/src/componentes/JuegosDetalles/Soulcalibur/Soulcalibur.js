@@ -437,7 +437,7 @@ class Soulcalibur extends React.Component {
                                 alt="Error"
                               />
                               <Link
-                                to={{
+                              P  to={{
                                   pathname: "/BiografiaSoul",
                                   state: {
                                     ALL: personaje,
@@ -445,9 +445,11 @@ class Soulcalibur extends React.Component {
                                 }}
                                 className="btn-ki large ghostpulse "
                               >
-                                <span className="botonSpan">
-                                  <span>Biography &amp; Videos</span>
-                                </span>
+                                <div className="DivBotonSoul2 ">
+                                  <button className="BotonSL">
+                                    Biography &amp; Videos
+                                  </button>
+                                </div>
                               </Link>
                             </Col>
                           </Row>

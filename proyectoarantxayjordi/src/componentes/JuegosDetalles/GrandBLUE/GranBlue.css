@@ -130,6 +130,7 @@
     }
 
 }
+
 /*.tablaGBP1{
     margin-left:3vw!important;
     margin-right:-4vw!important;
@@ -142,24 +143,26 @@
     padding:0!important;
 }*/
 @media screen and (min-width:1025px) {
-    .tablaGBP1{
-        margin-left:-3vw!important;
-        margin-right:1vw!important;
-    
-        padding:0!important;
-    }
-    .tablaGBP{
-        margin-right:2vw!important;
-    
-        padding:0!important;
+    .tablaGBP1 {
+        margin-left: -3vw !important;
+        margin-right: 1vw !important;
+
+        padding: 0 !important;
     }
 
-.products{
-    margin-left:17vw!important;
+    .tablaGBP {
+        margin-right: 2vw !important;
+
+        padding: 0 !important;
+    }
+
+    .products {
+        margin-left: 17vw !important;
+
+    }
 
 }
 
-}
 @media screen and (min-height: 736px) and (max-width: 414px) {
     .products {
         margin-left: 7vw !important;
@@ -443,4 +446,29 @@
         margin-right: 2vw !important;
     }
 
+}
+
+.DivBotonGB {
+
+    margin-top: 3vw !important;
+
+}
+
+
+.BotonGB {
+    background: linear-gradient(#990000, #cc0000);
+
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    color: black;
+    width: 100%;
+    padding-left: 2vw;
+    margin-left: 7vw;
+    padding-right: 2vw;
+
+}
+
+.BotonGB:hover {
+    background: rgba(150, 1, 1, 0.815) !important;
 }
