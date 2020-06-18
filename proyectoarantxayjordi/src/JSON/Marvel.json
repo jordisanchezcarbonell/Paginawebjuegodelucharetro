@@ -8,7 +8,7 @@
     "Afiliacion":"Neutral",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Sentinel.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Sentinel.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Sentinel.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Rocket Punch",
@@ -86,7 +86,7 @@
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Storm.jpg",
 
-    "Foto2": "imagenes/PersonajesMVsC/Storm.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Storm.png",
 
     "SpecialMoves": [
       {
@@ -159,7 +159,7 @@
     "Afiliacion":"Hero",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Cable.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Cable.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Cable.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Viper Beam",
@@ -240,7 +240,7 @@
     "Afiliacion":"X-men",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Magneto.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Magneto.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Magneto.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "E-M Disruptor",
@@ -318,7 +318,7 @@
     "Afiliacion":"Hero",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Cyclops.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Cyclops.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Cyclops.png",
 
     "SpecialMoves": [
       {
@@ -421,7 +421,7 @@
     "Afiliacion":"Hero",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Iron_Man.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Iron-Man.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Iron-Man.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Unibeam",
@@ -488,7 +488,7 @@
     "Afiliacion":"Hero",
     "Universo":"Marvel Comics",
     "Foto": "imagenes/MvsC2/War_Machine.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/War_machine.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/War_machine.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Shoulder Cannon",
@@ -571,7 +571,7 @@
     "Afiliacion":"Villain",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Doctor_Doom.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Doctor_Doom.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Plasma Beam",
@@ -655,7 +655,7 @@
     "Afiliacion":"Hero",
     "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Strider.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Strider_Hiryu.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Ame no Murakumo",
@@ -740,7 +740,7 @@
     "Afiliacion":"Villain",
     "Universo":"Marvel",
     "Foto": "imagenes/MvsC2/Spiral.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Spiral.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Spiral.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Dancing Sword",
@@ -827,7 +827,7 @@
     "Afiliacion":"Hero",
     "Universo":"Capcom",
     "Foto": "imagenes/MvsC2/Dhalsim.jpg",
-    "Foto2": "imagenes/PersonajesMVsC/Dhalsim.jpg",
+    "Foto2": "imagenes/PersonajesMVsC/Dhalsim.png",
     "SpecialMoves": [
       {
         "nombreAtaque": "Yoga Fire",
