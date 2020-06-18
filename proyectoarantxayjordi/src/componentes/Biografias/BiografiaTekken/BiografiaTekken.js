@@ -44,7 +44,14 @@ class BiografiaTekken extends React.Component {
 
           <div>
             <Row className="BioImgyBioTK">
-              <Col className="col-md-5">
+              <div>
+                <FontAwesomeIcon
+                  className="iconoTK"
+                  icon={faArrowLeft}
+                  onClick={this.props.history.goBack}
+                />
+              </div>
+              <Col className="col-md-5 margenesTK">
                 <img
                   className="BioImgTK"
                   variant="top"
@@ -53,31 +60,31 @@ class BiografiaTekken extends React.Component {
                 />
               </Col>
               <Col className="col-md-5  BIOCentrarColDivTK">
-                <h1 className="BiotituloUN"> Biography</h1>
-                <h6 className="BioDescUN"> {detalles.Descripcion}</h6>
-                <h1 className="BiotituloUN"> Personality</h1>
-                <h6 className="BioDescUN"> {detalles.Personality}</h6>
-                <h1 className="BiotituloUN"> Characteristics </h1>
-                <h6 className="BioDescUN">
+                <h1 className="BiotituloTK"> Biography</h1>
+                <h6 className="BioDescTK"> {detalles.Descripcion}</h6>
+                <h1 className="BiotituloTK"> Personality</h1>
+                <h6 className="BioDescTK"> {detalles.Personality}</h6>
+                <h1 className="BiotituloTK"> Characteristics </h1>
+                <h6 className="BioDescTK">
                   <strong>Height: </strong> {detalles.Height}
                 </h6>
-                <h6 className="BioDescUN">
+                <h6 className="BioDescTK">
                   <strong> Weight: </strong>
                   {detalles.Weight}
                 </h6>
-                <h6 className="BioDescUN">
+                <h6 className="BioDescTK">
                   <strong>Likes: </strong> {detalles.Likes}
                 </h6>
-                <h6 className="BioDescUN">
+                <h6 className="BioDescTK">
                   <strong>Dislikes: </strong> {detalles.Dislikes}
                 </h6>
-                <h6 className="BioDescUN">
+                <h6 className="BioDescTK">
                   <strong>Species: </strong> {detalles.Species}
                 </h6>
-                <h6 className="BioDescUN">
+                <h6 className="BioDescTK">
                   <strong> Gender: </strong> {detalles.Gender}
                 </h6>
-                <h6 className="BioDescUN">
+                <h6 className="BioDescTK">
                   <strong> Occupation: </strong> {detalles.Occupation}
                 </h6>
               </Col>
