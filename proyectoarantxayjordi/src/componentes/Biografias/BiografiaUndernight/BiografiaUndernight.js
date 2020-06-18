@@ -54,14 +54,14 @@ class BiografiaUndernight extends React.Component {
               <Col className="col-md-5  BIOCentrarColDivUN">
                 <h1 className="BiotituloUN"> Biografia</h1>
                 <h6 className="BioDescUN"> {detalles.Descripcion}</h6>
-                <h1 className="BiotituloBD"> Personality</h1>
-                <h6 className="BioDescBD"> {detalles.Personality}</h6>
-                <h1 className="BiotituloBD"> Characteristics </h1>
+                <h1 className="BiotituloUN"> Personality</h1>
+                <h6 className="BioDescUN"> {detalles.Personality}</h6>
+                <h1 className="BiotituloUN"> Characteristics </h1>
 
-                <h6 className="BioDescBD">
+                <h6 className="BioDescUN">
                   <strong>Size: </strong> {detalles.Size}
                 </h6>
-                <h6 className="BioDescBD">
+                <h6 className="BioDescUN">
                   <strong> Weight: </strong> {detalles.Weight}
                 </h6>
               </Col>

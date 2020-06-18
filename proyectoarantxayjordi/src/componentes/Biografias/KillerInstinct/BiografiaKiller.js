@@ -50,17 +50,18 @@ class BiografiaKiller extends React.Component {
     return (
       <div className="BioDivTotalKI">
         <div style={({ width: "100%" }, fondoKIBIO)}>
-          <div>
-            <FontAwesomeIcon
-              className="iconoBD"
-              icon={faArrowLeft}
-              onClick={this.props.history.goBack}
-            />
-          </div>
+       
           <h1 className="BioNombreKI"> {detalles.Nombre}</h1>
 
           <div>
             <Row className="BioImgyBioKI">
+            <div className="DivIconKI">
+            <FontAwesomeIcon
+              className="iconoKI"
+              icon={faArrowLeft}
+              onClick={this.props.history.goBack}
+            />
+          </div>
               <Col className="col-md-4">
                 <img
                   className="BioImgKI"
@@ -69,17 +70,17 @@ class BiografiaKiller extends React.Component {
                   alt="Error"
                 />
               </Col>
-              <Col className="col-md-4  BIOCentrarColDivKI">
+              <Col className="col-md-5  BIOCentrarColDivKI">
                 <h1 className="BiotituloKI"> Biografia</h1>
-                <h6 className="BioDesPonys"> {detalles.Descripcion}</h6>
+                <h6 className="BioDesKI"> {detalles.Descripcion}</h6>
                 <h1 className="BiotituloKI"> Personality</h1>
-                <h6 className="BioDesPonys"> {detalles.Personality}</h6>
+                <h6 className="BioDesKI"> {detalles.Personality}</h6>
                 <h1 className="BiotituloKI"> Characteristics </h1>
 
-                <h6 className="BioDesPonys">
+                <h6 className="BioDesKI">
                   <strong>Size: </strong> {detalles.Size}
                 </h6>
-                <h6 className="BioDesPonys">
+                <h6 className="BioDesKI">
                   <strong> Weight: </strong> {detalles.Weight}
                 </h6>
               </Col>
@@ -87,8 +88,12 @@ class BiografiaKiller extends React.Component {
             <Row className="BioImgyBioKI">
               <h1 className="BIOtitulocombosKI"> Combos</h1>
             </Row>
+            <div className="derechaPnys">
             <ResponsivePlayer className="video" url={detalles.Combos} />
+            </div>
+            <div className="izqPnys">
             <ResponsivePlayer className="video" url={detalles.Combos2} />
+            </div>
           </div>
         </div>
       </div>
