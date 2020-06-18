@@ -2645,12 +2645,16 @@
   {
     "Nombre": "Nighwolf",
     "Descripcion": "Every generation, the Great Spirit chooses a worthy warrior to become Nightwolf: the Matoka’s champion and protector. Grey Cloud proved worthy when he laid down his life to prevent the Black Dragon from plundering what remained of his tribe’s sacred artifacts. As Nightwolf, Grey Cloud possesses extraordinary magic granted by the Great Spirit. He uses it not only to fight for the Matoka’s future, but also to defend all of Earthrealm.",
-    "RealName":"Grey Cloud",
-    "Gender":"Male",
-    "Species":"Human/Revenant",
+    "RealName": "Grey Cloud",
+    "Gender": "Male",
+    "Species": "Human/Revenant",
     "Foto1": "imagenes/PersonajesMortalKombat11/Nightwolf.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Nightwolf.png",
+
+    "Combos": "https://www.youtube.com/watch?v=zaH6n8l7oZ8",
+    "Combos2": "https://www.youtube.com/watch?v=7WcP6dJPVYA",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Twin Hares  ",
@@ -2797,12 +2801,17 @@
   {
     "Nombre": "Sub-Zero",
     "Descripcion": "Grandmaster of the Lin Kuei clan. Kuai Liang beat death to redeem his clan for the evil committed by Sektor and the Cyber Lin Kuei. He rebuilt the Lin Kuei and brokered peace with their Shirai Ryu rivals. Now, he hopes to finally close the book on sins of Lin Kuei past.",
-    "RealName":"Kuai Liang",
-    "Gender":"Male",
-    "Species":"Human/Cryomancer",
+    "RealName": "Kuai Liang",
+    "Gender": "Male",
+    "Species": "Human/Cryomancer",
     "Foto1": "imagenes/PersonajesMortalKombat11/Sub-Zero.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Sub-Zero.png",
+
+    "Combos": "https://www.youtube.com/watch?v=O7SvrI42Cd4",
+    "Combos2": "https://www.youtube.com/watch?v=ZwYJ0fXn05I",
+
+    
     "KomboAttacks": [
       {
         "nombreAtaque": "Chinese Ninja Warrior  ",
@@ -2946,12 +2955,17 @@
   {
     "Nombre": "Kung Lao",
     "Descripcion": "Shaolin monk and descendant of Great Kung Lao. The younger Kung Lao claimed his greatness by beating the deadly alliance of Shang Tsung and Quan Chi in Mortal Kombat. Reckless and rebellious, but courageous and indomitable, Kung Lao fights to prove worthy of his glorious ancestors.",
-    "RealName":"Kung Lao",
-    "Gender":"Male",
-    "Species":"Human/Revenant",
+    "RealName": "Kung Lao",
+    "Gender": "Male",
+    "Species": "Human/Revenant",
     "Foto1": "imagenes/PersonajesMortalKombat11/Kung_Lao.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kung_Lao.png",
+
+    "Combos": "https://www.youtube.com/watch?v=tIwroNDGAbE",
+    "Combos2": "https://www.youtube.com/watch?v=7iFSH5hvr4A",
+
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Fist Fury  ",
@@ -3088,12 +3102,17 @@
   {
     "Nombre": "Jax",
     "Descripcion": "Cyber-enhanced officer of the Special Forces. Jax Briggs lost both arms in the line of duty, but he came back to the battlefield twice as strong thanks to cybernetic upgrades. Even with that power, Jax’s sacrifices burden him. He soldiers onward, honorbound to protect Earthrealm.",
-    "RealName":"Jackson Briggs",
-    "Gender":"Male",
-    "Species":"Human",
+    "RealName": "Jackson Briggs",
+    "Gender": "Male",
+    "Species": "Human",
     "Foto1": "imagenes/PersonajesMortalKombat11/Jxan.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Jxan.png",
+
+    "Combos": "https://www.youtube.com/watch?v=COC_Z4EC5KQ",
+    "Combos2": "https://www.youtube.com/watch?v=I0Vtx9u7-J4",
+ 
+ 
     "KomboAttacks": [
       {
         "nombreAtaque": "The Briggs  ",
@@ -3236,12 +3255,16 @@
   {
     "Nombre": "Baraka",
     "Descripcion": "War Chief of the nomadic Tarkatan tribe, a carnivorous people considered subhuman by the Outworld Empire. Baraka dutifully serves Shao Kahn to preserve his tribe’s way of life, who roam the harsh Wastelands, meat carts in tow, consuming everything and everyone in their path.",
-    "RealName":"Baraka",
-    "Gender":"Male",
-    "Species":"Tarkatan",
+    "RealName": "Baraka",
+    "Gender": "Male",
+    "Species": "Tarkatan",
     "Foto1": "imagenes/PersonajesMortalKombat11/baraka1.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/baraka1.png",
+
+    "Combos": "https://www.youtube.com/watch?v=CQh-lIWp3Y4",
+    "Combos2": "https://www.youtube.com/watch?v=vMPVJfLwhzo",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Easy Kill",
@@ -3379,12 +3402,15 @@
   {
     "Nombre": "Frost",
     "Descripcion": "Grandmaster Sub-Zero’s most dangerous apprentice. When Sub-Zero made historic peace with his clan’s enemy, Scorpion, defiant Frost challenged her Grandmaster as unfit to lead. Sub-Zero defeated and banished Frost. For years, she sought the power to destroy him. Now she has it.",
-    "RealName":"Frost",
-    "Gender":"Female",
-    "Species":" Human/Cryomancer/Cyborgr",
+    "RealName": "Frost",
+    "Gender": "Female",
+    "Species": " Human/Cryomancer/Cyborgr",
     "Foto1": "imagenes/PersonajesMortalKombat11/Frost.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Frost.png",
+
+    "Combos": "https://www.youtube.com/watch?v=1jFzYiiYixQ",
+    "Combos2": "https://www.youtube.com/watch?v=BoLI_QrAlEo",
     "KomboAttacks": [
       {
         "nombreAtaque": "Seeking Control ",
@@ -3524,12 +3550,17 @@
   {
     "Nombre": "Sindel",
     "Descripcion": "The former Queen of Edenia will stop at nothing to keep her place. When threatened with the loss of her throne when Shao Kahn conquered her realm, Sindel betrayed her husband, and her people, to keep her privileged position. Now Shao Kahn’s wife and Queen of Outworld, she enjoys power and wealth beyond most people’s imagination. Good luck to anyone who tries to take it from her.",
-    "RealName":"Sindel",
-    "Gender":"Female",
-    "Species":"Edenian",
+    "RealName": "Sindel",
+    "Gender": "Female",
+    "Species": "Edenian",
     "Foto1": "imagenes/PersonajesMortalKombat11/Sindel.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Sindel.png",
+
+    "Combos": "https://www.youtube.com/watch?v=T-_8ZldbKuI",
+    "Combos2": "https://www.youtube.com/watch?v=yrJ2d7XSjRg",
+ 
+ 
     "KomboAttacks": [
       {
         "nombreAtaque": "You Will Die   ",
@@ -3677,12 +3708,16 @@
   {
     "Nombre": "Kitana",
     "Descripcion": "10,000-year-old assassin and Princess of Outworld. Shao Kahn married Kitana’s mother and raised Kitana as his loyal heir, concealing the truth that he murdered her father to conquer Edenia. Now that this truth is out, Kitana is on a quest to avenge her father’s name.",
-    "RealName":"Kitana",
-    "Gender":"Female",
-    "Species":"Edenian/Revenant",
+    "RealName": "Kitana",
+    "Gender": "Female",
+    "Species": "Edenian/Revenant",
     "Foto1": "imagenes/PersonajesMortalKombat11/Kitana.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kitana.png",
+
+    "Combos": "https://www.youtube.com/watch?v=D_T0MM2jpeg",
+    "Combos2": "https://www.youtube.com/watch?v=b6bZwYqdEjs",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Learn Respect  ",
@@ -3829,12 +3864,16 @@
   {
     "Nombre": "Raiden",
     "Descripcion": "Immortal God of Thunder, Protector of Earthrealm. Raiden has saved Earthrealm time and again by rallying the bravest and strongest warriors of the day to defend it. After centuries of kombat and bloodshed, he fears unintended consequences for humanity, and himself.",
-    "RealName":"Raiden",
-    "Gender":"Male",
-    "Species":"God/Human",
+    "RealName": "Raiden",
+    "Gender": "Male",
+    "Species": "God/Human",
     "Foto1": "imagenes/PersonajesMortalKombat11/Raiden.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Raiden.png",
+
+    "Combos": "https://www.youtube.com/watch?v=BgSyVjwnlzQ",
+    "Combos2": "https://www.youtube.com/watch?v=Rcwh5tzTd0M",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "God's Might  ",
@@ -3976,12 +4015,14 @@
   {
     "Nombre": "Kollector",
     "Descripcion": "Tribute collector for the Outworld Empire. Born into poverty, the Kollector seized his imperial collections duty with a zeal that impressed Shao Kahn. He stole riches from Outworld’s people, rewarding himself with wealth and status in turn. He’ll kill anyone to keep it.",
-    "RealName":"Kollector",
-    "Gender":"Male",
-    "Species":"Naknada",
+    "RealName": "Kollector",
+    "Gender": "Male",
+    "Species": "Naknada",
     "Foto1": "imagenes/PersonajesMortalKombat11/Kollector.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kollector.png",
+    "Combos": "https://www.youtube.com/watch?v=dUgwH0QJg-g",
+    "Combos2": "https://www.youtube.com/watch?v=LNGb_L8JlMM",
     "KomboAttacks": [
       {
         "nombreAtaque": "Blood Money  ",
@@ -4120,12 +4161,16 @@
   {
     "Nombre": "Kano",
     "Descripcion": "Arms dealer and leader of the Black Dragon. Kano prides himself as the ultimate deal- maker, with a black market network that spans the realms, but he is never satisfied. Even his loyal followers know he’d stab his mother in the back if the price was right.",
-    "RealName":"Kano",
-    "Gender":"Male",
-    "Species":"Human",
+    "RealName": "Kano",
+    "Gender": "Male",
+    "Species": "Human",
     "Foto1": "imagenes/PersonajesMortalKombat11/Kano.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kano.png",
+
+    "Combos": "https://www.youtube.com/watch?v=ZmLnuGuRVc4",
+    "Combos2": "https://www.youtube.com/watch?v=oiPp5zlZPQc",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Come A Gutser   ",
@@ -4265,12 +4310,16 @@
   {
     "Nombre": "D'Vorah",
     "Descripcion": "One among many Kytinn, a swarm of sentient insects who share a hive mind. D’vorah has served Shao Kahn, Kotal Kahn, and Shinnok, but her true allegiance is to the swarm. She lies, cheats, and backstabs so that when everyone else has died, the Kytinn hive will survive.",
-    "RealName":"D'Vorah",
-    "Gender":"Female",
-    "Species":"Kytinn",
+    "RealName": "D'Vorah",
+    "Gender": "Female",
+    "Species": "Kytinn",
     "Foto1": "imagenes/PersonajesMortalKombat11/DVorah.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/DVorah.png",
+
+    "Combos": "https://www.youtube.com/watch?v=eMsexzaCECk",
+    "Combos2": "https://www.youtube.com/watch?v=o9P-6lWaa58",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Yellow Jacket ",
@@ -4410,13 +4459,14 @@
   {
     "Nombre": "Kotal Kahn",
     "Descripcion": "Osh-Tekk warrior and Emperor of Outworld. Years ago, Kotal saved the Empire from chaos and claimed the throne of Kahn. Now his reign is plagued by rising tensions at home and abroad. Determined to keep order, Kotal wrestles with the temptation to exercise the same brutal tactics as his predecessors.",
-    "RealName":"Ko'atal",
-    "Gender":"Male",
-    "Species":"Osh-Tekk",
+    "RealName": "Ko'atal",
+    "Gender": "Male",
+    "Species": "Osh-Tekk",
     "Foto1": "imagenes/PersonajesMortalKombat11/Kotal.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Kotal.png",
-
+    "Combos": "https://www.youtube.com/watch?v=9MdHZOkrQMw",
+    "Combos2": "https://www.youtube.com/watch?v=AJPAshT5cs0",
     "KomboAttacks": [
       {
         "nombreAtaque": "Tlamaanalo  ",
@@ -4556,6 +4606,11 @@
     "Foto1": "imagenes/PersonajesMortalKombat11/Shao_Kahn.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Shao_Kahn.png",
+
+    "Combos": "https://www.youtube.com/watch?v=0rtmyJPdkUU",
+    "Combos2": "https://www.youtube.com/watch?v=XPShKGSFyr8",
+
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Blood Money  ",
@@ -4694,12 +4749,16 @@
   {
     "Nombre": "Robocop",
     "Descripcion": "Alex Murphy was a dutiful police officer who was brutally executed by a local gang. Brought back to life through OCP technology, Murphy was transformed into RoboCop, a highly advanced cybernetic police officer designed to uphold the law and protect the innocent. Now entering the Mortal Kombat universe, RoboCop has received a few upgrades and is ready to serve the public by apprehending any Kombatants that stand in his way.",
-    "RealName":"Alexander James Murphy",
-    "Gender":"Male",
-    "Species":"Cyborg (formerly Human)",
+    "RealName": "Alexander James Murphy",
+    "Gender": "Male",
+    "Species": "Cyborg (formerly Human)",
     "Foto1": "imagenes/PersonajesMortalKombat11/Robocop.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Robotocp.png",
+
+    "Combos": "https://www.youtube.com/watch?v=nnnlOFw3oPQ",
+    "Combos2": "https://www.youtube.com/watch?v=wUsyTpFALYo",
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Blood Money",
@@ -4838,12 +4897,17 @@
   {
     "Nombre": "Sheeva",
     "Descripcion": "The male Shokan scoffed when Sheeva entered their contest to choose the Shokan’s next leader. But Sheeva proved herself more than their equal. After a resounding victory, she was crowned the first Queen of the Shokan. As Queen, Sheeva now leads her people in the fight to attain their rightful place, as partners in Outworld’s rule.",
-    "RealName":"Sheeva",
-    "Gender":"Female",
-    "Species":"Shokan (Draco lineage)",
+    "RealName": "Sheeva",
+    "Gender": "Female",
+    "Species": "Shokan (Draco lineage)",
     "Foto1": "imagenes/PersonajesMortalKombat11/Sheeva.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Sheeva.png",
+
+    "Combos": "https://www.youtube.com/watch?v=OCykeKVA-BQ",
+    "Combos2": "https://www.youtube.com/watch?v=RRg1VBP5GuY",
+
+
     "KomboAttacks": [
       {
         "nombreAtaque": "Yellow Jacket ",
@@ -4983,12 +5047,15 @@
   {
     "Nombre": "Fujin",
     "Descripcion": "The God of Wind, Fujin serves the Elder Gods alongside his brother, Raiden, as Protectors of Earthrealm. Affable and lighthearted, he’s adept at inspiring peoples’ innate capacity for goodness and heroism to conquer forces of hatred and tyranny. Fujin believes Earthrealm’s best days are still to come, and he fights to ensure that bright future.",
-    "RealName":"Fujin",
-    "Gender":"Male",
-    "Species":"God",
+    "RealName": "Fujin",
+    "Gender": "Male",
+    "Species": "God",
     "Foto1": "imagenes/PersonajesMortalKombat11/Fujin.png",
 
     "Foto2": "imagenes/PersonajesCortadosMk11/Fujin.png",
+
+    "Combos": "https://www.youtube.com/watch?v=GOh6zLtcBqQ",
+    "Combos2": "https://www.youtube.com/watch?v=LoprK6CidWA",
     "KomboAttacks": [
       {
         "nombreAtaque": "Advanced Warfare",
