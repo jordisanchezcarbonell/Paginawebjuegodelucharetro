@@ -10,7 +10,22 @@
     width: 100% !important;
 
 }
+.BotonPonys{
+    background-color: #9e003a;
+    border:4px white solid;
+    padding: 0.5vw;
+    float: right;
+    margin-right: 1.5vw;
+    color: white;
+}
 
+.BotonPonys:hover{
+    background-color: #eb6c9a;
+
+
+
+
+}
 .DIVFONDOPONYUS {
     color: black;
     text-align: center;

@@ -6,6 +6,33 @@
     font-display: swap
 }
 
+.BotonBD{
+    background-color: rgba(58, 59, 59, 0.63);
+    border:4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+   
+    width: 130%;
+  padding-left: 2vw;
+  margin-left: 6vw;
+  padding-right: 2vw;
+  color: white;
+  font-family: 'Lora', serif;
+
+  
+  }
+  /* mirar botn responsive*/
+  .BotonBD:hover{
+  
+    background-color: rgba(128, 130, 131, 0.63);
+  font-weight: bold;
+  
+  }
+  .DivBotonBD{
+  
+    margin-top:2vw!important;
+  
+  }
 .LetraTituloBD {
     font-size: 5vw;
     font-family: "LetraBD";

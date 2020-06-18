@@ -329,7 +329,7 @@ class SkullGirls extends React.Component {
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         alt="Error"
                       />
-                      <Link
+                            <Link
                         to={{
                           pathname: "/BiografiaSkullGirl",
                           state: {
@@ -338,12 +338,14 @@ class SkullGirls extends React.Component {
                         }}
                         className="btn-ki large ghostpulse "
                       >
-                        <span className="botonSpan">
-                          <span>Biography &amp; Videos</span>
-                        </span>
+                            <div className="DivBotonSkull2 ">
+                  <button className="BotonSkull">Biography &amp; Videos</button>
+                </div>
                       </Link>
                     </Col>
+         
                   </Row>
+          
                 </Container>
               </div>
             );
