@@ -1,6 +1,4 @@
-.titulocolor{
-    color: black;
-}
+
 .BioDivTotalSF{
 
 
@@ -16,7 +14,7 @@
 
 
 .BioNombreSF{
-    color: black;
+    color: white;
     padding-top: 1vw;
     padding-bottom: 1vw;
     /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
@@ -42,26 +40,25 @@ margin-right: auto!important;
 margin-right: auto!important;
 }
 .BiotituloSF{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: auto;
+    font-family: "LetraSf";    margin-left: auto;
 margin-right: auto;
  
-    color: black;
+    color: white;
 font-size: 3vw;
-border-bottom: 2px black solid;
+border-bottom: 2px white solid;
 width: 70%;
 
 }
 .BioDescSF{
 
-    color: black;
+    color: white;
+    font-size: ;
 
 }
 
 .BIOtitulocombosSF{
     margin-left: auto;
 margin-right: auto;
-    color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3vw;
+    color: white;
+    font-family: "LetraSf";    font-size: 3vw;
 }

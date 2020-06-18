@@ -63,35 +63,35 @@ class BiografiaStreetfighter extends React.Component {
               />
             </Col>
             <Col className="col-md-5  BIOCentrarColDivSF">
-              <h1 className="BiotituloSoul"> Biography</h1>
-              <h6 className="BioDesSoul"> {detalles.Descripcion}</h6>
-              <h1 className="BiotituloSoul"> Personality</h1>
-              <h6 className="BioDesSoul"> {detalles.Personality}</h6>
-              <h1 className="BiotituloSoul"> Characteristics </h1>
-              <h6 className="BioDesSoul">
+              <h1 className="BiotituloSF"> Biography</h1>
+              <h6 className="BioDesSF"> {detalles.Descripcion}</h6>
+              <h1 className="BiotituloSF"> Personality</h1>
+              <h6 className="BioDesSF"> {detalles.Personality}</h6>
+              <h1 className="BiotituloSF"> Characteristics </h1>
+              <h6 className="BioDesSF">
                 <strong>Likes: </strong> {detalles.Likes}
               </h6>
-              <h6 className="BioDesSoul">
+              <h6 className="BioDesSF">
                 <strong>Dislikes: </strong> {detalles.Dislikes}
               </h6>
 
-              <h6 className="BioDesSoul">
+              <h6 className="BioDesSF">
                 <strong>Skills: </strong> {detalles.Skills}
               </h6>
-              <h6 className="BioDesSoul">
+              <h6 className="BioDesSF">
                 <strong>Affiliation: </strong> {detalles.Affiliation}
               </h6>
-              <h6 className="BioDesSoul">
+              <h6 className="BioDesSF">
                 <strong>Height: </strong> {detalles.Height}
               </h6>
-              <h6 className="BioDesSoul">
+              <h6 className="BioDesSF">
                 <strong> Weight: </strong>
                 {detalles.Weight}
               </h6>
             </Col>
           </Row>
           <div className="">
-            <h1 className="BIOtitulocombosSoul"> Combos</h1>
+            <h1 className="BIOtitulocombosSF"> Combos</h1>
             <div className="derechaBD">
               <ResponsivePlayer className="video" url={detalles.Combos} />
               {/* <Col className="col-md-5 ">

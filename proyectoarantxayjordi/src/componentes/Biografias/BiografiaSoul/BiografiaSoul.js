@@ -41,18 +41,19 @@ class BiografiaSoul extends React.Component {
     return (
       <div className="BioDivTotalSoul">
         <div>
-          <div>
-            <FontAwesomeIcon
-              className="iconoBD"
-              icon={faArrowLeft}
-              onClick={this.props.history.goBack}
-            />
-          </div>
+    
           <h1 className="BioNombreSoul"> {detalles.Nombre}</h1>
 
           <div>
             <Row className="BioImgySoul">
-              <Col className="col-md-4">
+            <div className="DivIconSoul">
+            <FontAwesomeIcon
+              className="iconoSoul"
+              icon={faArrowLeft}
+              onClick={this.props.history.goBack}
+            />
+          </div>
+              <Col className="col-md-5">
                 <img
                   className="BioImgSoul"
                   variant="top"
@@ -60,7 +61,7 @@ class BiografiaSoul extends React.Component {
                   alt="Error"
                 />
               </Col>
-              <Col className="col-md-4  BIOCentrarColDivSoul">
+              <Col className="col-md-5  BIOCentrarColDivSoul">
                 <h1 className="BiotituloSoul"> Biografia</h1>
                 <h6 className="BioDesSoul"> {detalles.Descripcion}</h6>
                 <h1 className="BiotituloSoul"> Personality</h1>
