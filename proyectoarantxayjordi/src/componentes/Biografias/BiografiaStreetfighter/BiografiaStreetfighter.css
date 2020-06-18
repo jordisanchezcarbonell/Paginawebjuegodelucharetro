@@ -31,8 +31,17 @@ margin-right: auto!important;
 
 }
 
+.iconoSF{
+    color: white;
+    font-size: 3vw;
+    margin-left: 2vw;
+    margin-top:1vw;
+    cursor:pointer;
+}
 .BioImgSF{
+    margin-top: 3vw;
     height: 40vw;
+    margin-left: -3vw;
 }
 
 .BIOCentrarColDivSF{
@@ -50,9 +59,9 @@ width: 70%;
 
 }
 .BioDescSF{
-
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
-    font-size: ;
+    font-size: 1vw;
 
 }
 
@@ -60,5 +69,9 @@ width: 70%;
     margin-left: auto;
 margin-right: auto;
     color: white;
+    border-bottom: 2px white solid;
+    width: 20%;
+    margin-top: 2vw;
+    margin-bottom: 1.5vw;
     font-family: "LetraSf";    font-size: 3vw;
 }

@@ -54,6 +54,13 @@ class BiografiaStreetfighter extends React.Component {
 
         <div>
           <Row className="BioImgyBioSF">
+          <div >
+                <FontAwesomeIcon
+                  className="iconoSF"
+                  icon={faArrowLeft}
+                  onClick={this.props.history.goBack}
+                />
+              </div>
             <Col className="col-md-5">
               <img
                 className="BioImgSF"
@@ -64,27 +71,27 @@ class BiografiaStreetfighter extends React.Component {
             </Col>
             <Col className="col-md-5  BIOCentrarColDivSF">
               <h1 className="BiotituloSF"> Biography</h1>
-              <h6 className="BioDesSF"> {detalles.Descripcion}</h6>
+              <h6 className="BioDescSF"> {detalles.Descripcion}</h6>
               <h1 className="BiotituloSF"> Personality</h1>
-              <h6 className="BioDesSF"> {detalles.Personality}</h6>
+              <h6 className="BioDescSF"> {detalles.Personality}</h6>
               <h1 className="BiotituloSF"> Characteristics </h1>
-              <h6 className="BioDesSF">
+              <h6 className="BioDescSF">
                 <strong>Likes: </strong> {detalles.Likes}
               </h6>
-              <h6 className="BioDesSF">
+              <h6 className="BioDescSF">
                 <strong>Dislikes: </strong> {detalles.Dislikes}
               </h6>
 
-              <h6 className="BioDesSF">
+              <h6 className="BioDescSF">
                 <strong>Skills: </strong> {detalles.Skills}
               </h6>
-              <h6 className="BioDesSF">
+              <h6 className="BioDescSF">
                 <strong>Affiliation: </strong> {detalles.Affiliation}
               </h6>
-              <h6 className="BioDesSF">
+              <h6 className="BioDescSF">
                 <strong>Height: </strong> {detalles.Height}
               </h6>
-              <h6 className="BioDesSF">
+              <h6 className="BioDescSF">
                 <strong> Weight: </strong>
                 {detalles.Weight}
               </h6>
