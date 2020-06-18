@@ -1,5 +1,4 @@
-
-.BioDivTotalUN{
+.BioDivTotalUN {
 
 
     color: black;
@@ -11,17 +10,27 @@
     -o-background-size: cover;
     background-size: cover;
     padding-bottom: 3vw;
-  
+
 }
 
-
-.BioEspTopUN{
-
-    padding-top:2vw;
-}
-.BioNombreUN{
+.iconoUnder {
     color: white;
-  
+    font-size: 3vw;
+    margin-left: 1vw;
+    margin-top: 1vw;
+    padding-top: -1vw;
+    cursor: pointer;
+
+}
+
+.BioEspTopUN {
+
+    padding-top: 2vw;
+}
+
+.BioNombreUN {
+    color: white;
+
 
     font-size: 5vw;
 
@@ -29,78 +38,81 @@
     text-align: center;
     border-top: 2px white solid;
     border-bottom: 2px white solid;
-    text-transform: uppercase; 
-    font-family: "tipoUnderBio" ;
+    text-transform: uppercase;
+    font-family: "tipoUnderBio";
     font-size: 4vw;
 
     margin-bottom: 2vw;
-margin-right:auto ;
+    margin-right: auto;
     margin-left: auto;
 
 }
-.BioImgyBioUN{
 
-background-color: rgba(216, 203, 203, 0.589);
-border:4px white solid;
-border-radius: 30px;
-width: 80%;
-margin-left: auto!important;
-margin-right: auto!important;
+.BioImgyBioUN {
+
+    background-color: rgba(216, 203, 203, 0.589);
+    border: 4px white solid;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
 
 }
 
-.BioImgUN{
+.BioImgUN {
 
     height: 35vw;
-    padding-top: 1vw!important;
-    padding-bottom: 0vw!important;
+    padding-top: 1vw !important;
+    padding-bottom: 0vw !important;
 
 }
 
-.BIOCentrarColDivUN{
+.BIOCentrarColDivUN {
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
 }
-.BiotituloUN{
-    font-family: "tipoUnderBio" ;
-        margin-left: auto;
-        font-weight: 600;
-margin-right: auto;
- 
-    color: black;
-font-size: 3vw;
-border-bottom: 2px black solid;
-width: 70%;
 
-}
-.BioDescUN{
+.BiotituloUN {
+    font-family: "tipoUnderBio";
+    margin-left: auto;
+    font-weight: 600;
+    margin-right: auto;
 
     color: black;
+    font-size: 3vw;
+    border-bottom: 2px black solid;
+    width: 70%;
 
 }
 
-.BIOtitulocombosUN{
+.BioDescUN {
+
+    color: black;
+
+}
+
+.BIOtitulocombosUN {
     color: white;
-  
+
 
     font-size: 5vw;
 
     width: 15%;
     text-align: center;
     border-bottom: 2px white solid;
-    font-family: "tipoUnderBio" ;
+    font-family: "tipoUnderBio";
     font-weight: 600;
     font-size: 3vw;
-    margin-right:auto ;
+    margin-right: auto;
     margin-left: auto;
     margin-bottom: 1.5vw;
-padding-top: 1vw;
+    padding-top: 1vw;
 }
 
 
 
-  
+
 
 
 
@@ -108,8 +120,7 @@ padding-top: 1vw;
 
 
 @font-face {
-    font-family: "tipoUnderBio"!important ;
-    src: url(ms-pgothic.ttf)!important;
+    font-family: "tipoUnderBio" !important;
+    src: url(ms-pgothic.ttf) !important;
 
 }
-
