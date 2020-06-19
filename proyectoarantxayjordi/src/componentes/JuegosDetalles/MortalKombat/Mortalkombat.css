@@ -500,6 +500,7 @@ tr {
 
     margin-top: 3vw !important;
 
+
 }
 
 
@@ -511,13 +512,12 @@ tr {
     box-shadow: inset 0 0 0 2px black;
     width: 100%;
     padding-left: 2vw;
-    margin-left: 7vw;
     padding-right: 2vw;
     margin-bottom: 2vw;
 
 }
 
 .BotonMk:hover {
-    border-color: #d38606;
+    border-color: #5a4c30;
 
 }
