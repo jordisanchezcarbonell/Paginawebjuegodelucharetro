@@ -437,7 +437,7 @@ class Soulcalibur extends React.Component {
                                 alt="Error"
                               />
                               <Link
-                              P  to={{
+                                to={{
                                   pathname: "/BiografiaSoul",
                                   state: {
                                     ALL: personaje,

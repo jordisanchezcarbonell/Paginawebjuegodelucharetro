@@ -21,9 +21,7 @@ import BiografiaSoul from "./Biografias/BiografiaSoul/BiografiaSoul";
 import BiografiaStreetfighter from "./Biografias/BiografiaStreetfighter/BiografiaStreetfighter";
 import BiografiaGranBlue from "./Biografias/BiografiaGranBlue/BiografiaGranBlue";
 import BiografiaMK from "./Biografias/BiografiaMK/BiografiaMK";
-
-
-
+import Probadeprincipal from "./Componentepaginaprincipal/Probadeprincipal";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 export class PaginaPrincipal extends Component {
   render() {
@@ -78,9 +76,9 @@ export class PaginaPrincipal extends Component {
                 </ReactBootstrap.Nav>
               </ReactBootstrap.Navbar.Collapse>
             </ReactBootstrap.Navbar>
-
             <Switch>
               {/* Rutas de las paginas */}
+              <Route path="/PaginaPrincipal" component={Probadeprincipal} />
               <Route path="/PaginaPlataformas">
                 <PaginaPlataformas />
               </Route>
@@ -101,10 +99,7 @@ export class PaginaPrincipal extends Component {
                 path="/BiografiaUndernight"
                 component={BiografiaUndernight}
               />
-              <Route
-                path="/BiografiaDragonBall"
-                component={BiografiaDragonBall}
-              />
+
               <Route path="/BiografiaTekken" component={BiografiaTekken} />
               <Route path="/BiografiaSoul" component={BiografiaSoul} />
 
