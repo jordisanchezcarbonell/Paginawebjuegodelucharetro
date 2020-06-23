@@ -95,15 +95,7 @@ class Child extends React.Component {
                   </TableBody>
                 </Table>
               </TableContainer>
-
-            </Col>
-            <Col className="col-md-5 w-100 mb-5 mr-5 escondersi ">
-              <img
-                className="FOTOTK2 my-1 mt-5 "
-                src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
-                alt="imagen personaje"
-              ></img>
-               <Link
+              <Link
                 to={{
                   pathname: "/BiografiaTekken",
                   state: {
@@ -112,15 +104,19 @@ class Child extends React.Component {
                 }}
                 className="btn-ki large ghostpulse "
               >
-                   <div className="DivBotonTK ">
+                <div className="DivBotonTK ">
                   <button className="BotonTK">Biography &amp; Videos</button>
                 </div>
               </Link>
-   
             </Col>
-
+            <Col className="col-md-5 w-100 mb-5 mr-5  ">
+              <img
+                className="FOTOTK2 escondersi my-1 mt-5 "
+                src={process.env.PUBLIC_URL + this.props.elemento.Foto2}
+                alt="imagen personaje"
+              ></img>
+            </Col>
           </Row>
-
         </Container>
       </div>
     );
