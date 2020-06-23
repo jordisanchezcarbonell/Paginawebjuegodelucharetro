@@ -192,12 +192,12 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" fondoTablaMC  mt-2 mb-4  tablaanchuraMC">
+              <TableContainer className=" fondoTablaMC   mt-2 mb-4  tablaanchuraMC">
                 <h3 className=" mifuenteMVC TituloAtaquesMC my-0">
                   AssistMoves
                 </h3>
 
-                <Table className="nomostrarscrollBD">
+                <Table className="nomostrarscrollBD ">
                   <TableBody>
                     {this.props.elemento.AssistMoves.map((Ataque, index) => (
                       <TableRow key={index} className="mx-5 rowSF5">
@@ -248,10 +248,12 @@ class Child extends React.Component {
                     ALL: this.props.elemento,
                   },
                 }}
-                className="btn-MVC large2 PruebadefondoAtaquesSF   "
+                className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <span className="  tablaborderabajo botonSpan colorFondoAtaquesMC">
-                  <span className="rowMVSC">Biography &amp; Videos</span>
+                <span className="  margendelbotoon tablaborderabajo botonSpan colorFondoAtaquesMC">
+                  <span className="colorFondoAtaquesMC mifuenteataquesMVC  rowMVSC">
+                    Biography &amp; Videos
+                  </span>
                 </span>
               </Link>
             </Col>

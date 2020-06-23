@@ -1,34 +1,35 @@
-
-.BotonTK{
+.BotonTK {
     background-color: rgba(25, 65, 66, 0.63);
-    border:4px white solid;
+    border: 4px white solid;
     padding: 0.5vw;
     box-shadow: inset 0 0 0 2px black;
-   
+
     width: 20vw;
-  padding-left: 2vw;
-  margin-left: 10vw;
-  padding-right: 2vw;
-  color: white;
-  font-family: "Letratk";
-  letter-spacing: 2px;
-  font-size: 2vw;
+    padding-left: 2vw;
+    margin-left: 10vw;
+    padding-right: 2vw;
+    color: white;
+    font-family: "Letratk";
+    letter-spacing: 2px;
+    font-size: 2vw;
 
-  }
+}
 
-  .BotonTK:hover{
-  
+.BotonTK:hover {
+
     background-color: rgba(72, 177, 179, 0.63);
-  font-weight: bold;
-  
-  }
-  .DivBotonTK{
-margin-right: -20vw;
-    margin-top:-3vw!important;
+    font-weight: bold;
+
+}
+
+.DivBotonTK {
+    margin-right: -20vw;
+    margin-top: -3vw !important;
     float: right;
 
-  }
-  /*RESPONSIVE BOTON*/
+}
+
+/*RESPONSIVE BOTON*/
 
 
 .fondoTablaTK {
@@ -98,7 +99,9 @@ margin-right: -20vw;
         margin-left: 2vw !important;
     }
 
-
+    .pruebadelbotton {
+        display: block !important;
+    }
 }
 
 @media screen and (min-height: 736px) and (max-width: 414px) {
@@ -153,16 +156,18 @@ margin-right: -20vw;
         margin-left: 3vw !important;
     }
 }
+
 /*tamañodefectoTK*/
 
 @media screen and (min-width: 1025px) {
 
-    .tamañodefectoTK{
+    .tamañodefectoTK {
 
-margin-left: 1vw!important;
+        margin-left: 1vw !important;
 
     }
 }
+
 @media screen and (max-width: 1025px) {
     .LetraTituloTK {
 
@@ -194,6 +199,8 @@ margin-left: 1vw!important;
         display: none !important;
 
     }
+
+
 
     .PruebadefondoAtaques {
         margin-bottom: -12% !important;
@@ -261,6 +268,10 @@ margin-left: 1vw!important;
     footer {
         margin-top: 20% !important;
     }
+
+    .pruebadelbotton {
+        display: block !important;
+    }
 }
 
 .TituloAtaquesTK {
@@ -319,6 +330,8 @@ margin-left: 1vw!important;
     color: white;
     text-shadow: 0.1em 0.1em 0.4em rgb(241, 121, 9), 0 0 0.3em rgb(241, 121, 9);
 }
+
+
 
 .fondonombreTK {
 

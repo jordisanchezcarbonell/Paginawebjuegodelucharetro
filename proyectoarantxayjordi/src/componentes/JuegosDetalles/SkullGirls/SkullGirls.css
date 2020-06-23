@@ -1,27 +1,28 @@
-
-.BotonSkull{
+.BotonSkull {
   background-color: rgba(25, 65, 66, 0.63);
-  border:4px white solid;
+  border: 4px white solid;
   padding: 0.5vw;
   box-shadow: inset 0 0 0 2px black;
- 
-  width: 20vw;
-padding-left: 2vw;
-margin-left: 3vw;
-padding-right: 2vw;
-color: white;
-font-family: 'Lora', serif;
+
+  width: 18vw;
+  padding-left: 2vw;
+  margin-left: 3vw;
+  padding-right: 2vw;
+  color: white;
+  font-family: 'Lora', serif;
 
 }
-.BotonSkull:hover{
+
+.BotonSkull:hover {
 
   background-color: rgba(72, 177, 179, 0.63);
-font-weight: bold;
+  font-weight: bold;
 
 }
-.DivBotonSkull2{
 
-  margin-top:3vw!important;
+.DivBotonSkull2 {
+
+  margin-top: 3vw !important;
 
 }
 
@@ -200,6 +201,14 @@ th {
 @media screen and (max-width: 1027px) {
   .centrado {
     bottom: 5vh;
+
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
 
   }
 
@@ -472,6 +481,14 @@ th {
     overflow-x: auto;
   }
 
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
   .centrado {
     bottom: 0.5vh;
     font-size: 2.5vh;
@@ -486,6 +503,14 @@ th {
   .NavbarSkull {
 
     display: none !important;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
   }
 
   /*MotoG4 GalazyG5*/
@@ -535,6 +560,14 @@ th {
     display: none !important;
   }
 
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
   .centrado {
     bottom: 0.5vh;
     font-size: 2.5vh;
@@ -551,6 +584,14 @@ th {
     font-size: 3.5vh;
   }
 
+  .BotonSkull {
+
+
+    width: auto;
+
+
+  }
+
   .imagenpaddin {
     padding-top: 11vw;
     width: 37vw;
@@ -562,6 +603,14 @@ th {
   .centrado {
     bottom: 9vh;
     font-size: 3.5vh;
+
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
 
   }
 
@@ -580,6 +629,14 @@ th {
   .centrado {
     bottom: 15vh;
     font-size: 3.5vh;
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
+
   }
 
   .imagenpaddin {
@@ -621,6 +678,14 @@ th {
     margin-top: 3vh;
 
     border-bottom: 3px solid black;
+
+  }
+
+  .BotonSkull {
+
+
+    width: auto;
+
 
   }
 

@@ -10,22 +10,24 @@
     width: 100% !important;
 
 }
-.BotonPonys{
+
+.BotonPonys {
     background-color: #9e003a;
-    border:4px white solid;
+    border: 4px white solid;
     padding: 0.5vw;
     float: right;
     margin-right: 1.5vw;
     color: white;
 }
 
-.BotonPonys:hover{
+.BotonPonys:hover {
     background-color: #eb6c9a;
 
 
 
 
 }
+
 .DIVFONDOPONYUS {
     color: black;
     text-align: center;
@@ -149,6 +151,7 @@
 
     }
 
+
     .divImagenPonys {
         margin-bottom: 3vw !important;
 
@@ -211,8 +214,8 @@
 }
 
 
-.RowPonis{
-    margin-left:1%!important;
+.RowPonis {
+    margin-left: 1% !important;
 
 
 }
@@ -246,8 +249,12 @@
 @media screen and (max-height: 640px) and (max-width: 360px) {
 
     /*MotoG4 GalazyG5*/
-    .AnchoPonys{
-        width: 91%!important;
+    .AnchoPonys {
+        width: 91% !important;
+    }
+
+    .BotonPonys {
+        margin-right: 21.5vw;
     }
 }
 
@@ -255,7 +262,9 @@
 @media screen and (min-height: 568px) and (max-width: 320px) {
 
     /*iphone5*/
-
+    .BotonPonys {
+        margin-right: 22.5vw;
+    }
 }
 
 @media screen and (min-height: 736px) and (max-width: 414px) {
@@ -264,6 +273,10 @@
     .colorFondoAtaquesPonys {
 
         font-size: 4.1vw !important;
+    }
+
+    .BotonPonys {
+        margin-right: 28.5vw;
     }
 
     .imgAtaquePN {
@@ -276,8 +289,8 @@
 
     }
 
-    .AnchoPonys{
-        width: 91%!important;
+    .AnchoPonys {
+        width: 91% !important;
     }
 }
 
@@ -303,6 +316,9 @@
 
     }
 
+    .BotonPonys {
+        margin-right: 21.5vw;
+    }
 
 
 }
@@ -334,8 +350,13 @@
         font-size: 5.5vw !important;
 
     }
-    .AnchoPonys{
-        width: 91%!important;
+
+    .AnchoPonys {
+        width: 91% !important;
+    }
+
+    .BotonPonys {
+        margin-right: 26.5vw;
     }
 
 }
@@ -357,11 +378,14 @@
         font-size: 5.5vw;
 
     }
-    .AnchoPonys{
-        width: 90%!important;
+
+    .AnchoPonys {
+        width: 90% !important;
     }
 
-
+    .BotonPonys {
+        margin-right: 26.5vw;
+    }
 
 }
 

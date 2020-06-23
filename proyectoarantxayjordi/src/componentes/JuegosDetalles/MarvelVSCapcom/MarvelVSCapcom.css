@@ -119,6 +119,9 @@ filter: sepia(60%);
 .mifuenteataquesMVC {
     font-size: 1.1vw !important;
 }
+.margendelbotoon{
+    margin-bottom: 10vw;
+}
 
 /*
 @media screen and (max-width: 415px) {

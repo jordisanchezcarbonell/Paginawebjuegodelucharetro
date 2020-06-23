@@ -1,4 +1,9 @@
 @media screen and (max-width: 750px) {
+    .BotonGB {
+
+        margin-left: 0vw !important;
+    }
+
 
     .NavbarGB {
         display: none !important;
@@ -62,6 +67,10 @@
 
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
+    .BotonGB {
+
+        margin-left: 0vw !important;
+    }
 
     /*motog4*/
     .products {
