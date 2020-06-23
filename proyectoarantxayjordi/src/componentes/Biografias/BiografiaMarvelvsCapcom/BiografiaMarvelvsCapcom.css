@@ -11,74 +11,82 @@
 }
 
 
-.BioNombreMvsC{
+.BioNombreMvsC {
     color: white;
     padding-top: 1vw;
     padding-bottom: 2vw;
     /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
     font-family: "LetraMC2";
-    
-    
+
+
     font-size: 5vw;
 }
-.BioImgyBioMvsC{
 
-background-color: rgba(139, 139, 139, 0.171);
-border:4px white solid;
-border-radius: 30px;
-width: 80%;
-margin-left: auto!important;
-margin-right: auto!important;
-padding-top: 1vw;
+.BioImgyBioMvsC {
+
+    background-color: rgba(139, 139, 139, 0.171);
+    border: 4px white solid;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-top: 1vw;
 
 }
-.BioDivTotalMvsC{
+
+.BioDivTotalMvsC {
     background-image: url(https://www.fightersgeneration.com/newspics/bg-red5.gif);
-   
+
 
 }
-.BioImgMvsC{
+
+.BioImgMvsC {
     height: 40vw;
 }
 
-.BIOCentrarColDivMvsC{
-    margin-left: auto!important;
-margin-right: auto!important;
+.BIOCentrarColDivMvsC {
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
-.BiotituloMvsC{
+
+.BiotituloMvsC {
     font-family: "LetraMC2";
     margin-left: auto;
-margin-right: auto;
- 
+    margin-right: auto;
+
     color: white;
-font-size: 3vw;
-border-bottom: 2px white solid;
-width: 70%;
-margin-bottom: 1vw;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
+    margin-bottom: 1vw;
 
 }
-.BioDescMvsC{
+
+.BioDescMvsC {
 
     color: white;
     font-family: "LetraMC";
 
 }
-.iconoMvsC{
+
+.iconoMvsC {
     color: white;
     font-size: 3vw;
     margin-left: 1vw;
-    margin-top:-0.5vw;
+    margin-top: -0.5vw;
     padding-top: -1vw;
-    cursor:pointer;
+    cursor: pointer;
 
 }
-.DivIconoMvsC{
+
+.DivIconoMvsC {
 
     width: 100%;
 }
-.BIOtitulocombosMvsC{
+
+.BIOtitulocombosMvsC {
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3vw;
@@ -90,15 +98,230 @@ margin-right: auto;
 }
 
 
-.derechaMvsC{
-    width: 50vw!important;
+.derechaMvsC {
+    width: 50vw;
     float: right;
 
-margin-right: 9vw!important;
+    margin-right: 9vw;
 }
-.izqMvsC{
-    width: 50vw!important;
-    margin-left: 4vw!important;
 
+.izqMvsC {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+    .BiotituloMvsC {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosMvsC {
+        font-size: 6vw;
+    }
+
+    .iconoMvsC {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaMvsC {
+        width: 90% !important;
+        margin-left: 3vw;
+
+        float: none;
+
+
+    }
+
+    .izqMvsC {
+        width: 90% !important;
+
+        float: none;
+
+
+
+    }
+
+
+}
+
+@media screen and (max-height: 731px) and (min-width: 411px) {
+
+    /*pixel*/
+    .BiotituloMvsC {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosMvsC {
+        font-size: 6vw;
+    }
+
+    .iconoMvsC {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaMvsC {
+        width: 90% !important;
+        margin-left: 3vw;
+
+        float: none;
+
+
+    }
+
+    .izqMvsC {
+        width: 90% !important;
+
+        float: none;
+
+
+
+    }
+}
+
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+    .BiotituloMvsC {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosMvsC {
+        font-size: 6vw;
+    }
+
+    .iconoMvsC {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaMvsC {
+        width: 90% !important;
+        margin-left: 3vw;
+
+        float: none;
+
+
+    }
+
+    .izqMvsC {
+        width: 90% !important;
+
+        float: none;
+
+
+
+    }
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .BiotituloMvsC {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosMvsC {
+        font-size: 6vw;
+    }
+
+    .iconoMvsC {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaMvsC {
+        width: 90% !important;
+        margin-left: 3vw;
+
+        float: none;
+
+
+    }
+
+    .izqMvsC {
+        width: 90% !important;
+
+        float: none;
+
+
+
+    }
+}
+
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .BiotituloMvsC {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosMvsC {
+        font-size: 6vw;
+    }
+
+    .iconoMvsC {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaMvsC {
+        width: 90% !important;
+        margin-left: 3vw;
+
+        float: none;
+
+
+    }
+
+    .izqMvsC {
+        width: 90% !important;
+
+        float: none;
+
+
+
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+    .BiotituloMvsC {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosMvsC {
+        font-size: 6vw;
+    }
+
+    .iconoMvsC {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaMvsC {
+        width: 90% !important;
+        margin-left: 3vw;
+
+        float: none;
+
+
+    }
+
+    .izqMvsC {
+        width: 90% !important;
+
+        float: none;
+
+
+
+    }
 
 }
