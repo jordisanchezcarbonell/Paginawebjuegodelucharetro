@@ -22,15 +22,6 @@ class Child extends React.Component {
     this.myRef = React.createRef(); // Create a ref object
     console.log(props);
   }
-  showModal = (e, imagenes) => {
-    this.setState({
-      show: true,
-      elmento: e,
-      imagen: imagenes,
-    });
-
-    console.log(this.state.elemento);
-  };
 
   state = {
     show: false,
@@ -59,24 +50,6 @@ class Child extends React.Component {
         key={this.props.elemento.Nombre}
         className="mx-auto"
       >
-        <Modal show={this.state.show}>
-          <Modal.Header>
-            <Modal.Title>{this.state.elmento} </Modal.Title>
-          </Modal.Header>
-          <Modal.Body>
-            <img
-              className=""
-              variant="top"
-              src="https://wiki.gbl.gg/images/f/f2/TFH_Arizona_6A.png"
-              alt="Error"
-            />
-          </Modal.Body>
-          <Modal.Footer>
-            <Button variant="secondary" onClick={this.handleCloseModal}>
-              Close
-            </Button>
-          </Modal.Footer>
-        </Modal>
         <div className="fondonombrePnys">
           <h3 className="TextoPersonajeTituloPonys">
             {this.props.elemento.Nombre}
@@ -92,12 +65,6 @@ class Child extends React.Component {
                   {this.props.elemento.Uniquemovement.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
-                        onClick={() =>
-                          this.showModal(
-                            Ataque.nombreAtaque,
-                            Ataque.Animacion[0]
-                          )
-                        }
                         className="  py-2 colorFondoAtaquesPonys  nomostrarscrollBD tablaborderabajo"
                         scope="row"
                         component="td"
@@ -136,12 +103,6 @@ class Child extends React.Component {
                   {this.props.elemento.SUPERATTACKS.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
-                        onClick={() =>
-                          this.showModal(
-                            Ataque.nombreAtaque,
-                            Ataque.Animacion[0]
-                          )
-                        }
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo assa "
                         component="td"
                         scope="row"
@@ -182,12 +143,6 @@ class Child extends React.Component {
                   {this.props.elemento.MAGICSYSTEM.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
-                        onClick={() =>
-                          this.showModal(
-                            Ataque.nombreAtaque,
-                            Ataque.Animacion[0]
-                          )
-                        }
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
                         scope="row"
@@ -226,12 +181,6 @@ class Child extends React.Component {
                   {this.props.elemento.Specials.map((Ataque, index) => (
                     <TableRow key={index} className="mx-5 rowPonys">
                       <TableCell
-                        onClick={() =>
-                          this.showModal(
-                            Ataque.nombreAtaque,
-                            Ataque.Animacion[0]
-                          )
-                        }
                         className="  py-2 colorFondoAtaquesPonys tablaborderabajo "
                         component="td"
                         scope="row"
@@ -273,9 +222,9 @@ class Child extends React.Component {
               }}
               className="btn-ki large ghostpulse "
             >
-                <div className="borderBotonPonys ">
-                  <button className="BotonPonys">Biography &amp; Videos</button>
-                </div>
+              <div className="borderBotonPonys ">
+                <button className="BotonPonys">Biography &amp; Videos</button>
+              </div>
             </Link>
           </Col>
         </Row>
@@ -345,17 +294,6 @@ class PONYS extends React.Component {
     elmento: "",
     imagen: "",
     isActive: false,
-  };
-  showModal = (e, imagenes) => {
-    this.setState({
-      show: true,
-      elmento: e,
-      imagen: imagenes,
-    });
-  };
-
-  handleCloseModal = (e) => {
-    this.setState({ show: false });
   };
 
   render() {

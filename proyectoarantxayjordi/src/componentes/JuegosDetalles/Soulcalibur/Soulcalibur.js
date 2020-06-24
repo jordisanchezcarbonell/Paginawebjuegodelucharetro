@@ -284,17 +284,6 @@ class Soulcalibur extends React.Component {
     imagen: "",
     isActive: false,
   };
-  showModal = (e, imagenes) => {
-    this.setState({
-      show: true,
-      elmento: e,
-      imagen: imagenes,
-    });
-  };
-
-  handleCloseModal = (e) => {
-    this.setState({ show: false });
-  };
 
   render() {
     const style = {
@@ -385,12 +374,8 @@ class Soulcalibur extends React.Component {
                                         className="mx-5 RowSOUL"
                                       >
                                         <TableCell
-                                          onClick={() =>
-                                            this.showModal(
-                                              Ataque.nombreAtaque,
-                                              Ataque.Animacion[0]
-                                            )
-                                          }
+                                   
+                                          
                                           className=" py-2 CellNombreAtaques "
                                           component="td"
                                           scope="row"
