@@ -29,20 +29,6 @@ class SkullGirls extends React.Component {
     imagen: "",
   };
 
-  showModal = (e, imagenes) => {
-    this.setState({
-      show: true,
-      elmento: e,
-      imagen: imagenes,
-    });
-
-    console.log(this.state.elemento);
-  };
-
-  handleCloseModal = (e) => {
-    this.setState({ show: false });
-  };
-
   render() {
     const style = {
       backgroundPosition: "right right",
@@ -159,12 +145,6 @@ class SkullGirls extends React.Component {
                                   className="mx-5 "
                                 >
                                   <TableCell
-                                    onClick={() =>
-                                      this.showModal(
-                                        Ataque.nombreAtaque,
-                                        Ataque.Animacion[0]
-                                      )
-                                    }
                                     className=" py-2 pro "
                                     component="th"
                                     scope="row"
@@ -226,9 +206,6 @@ class SkullGirls extends React.Component {
                                   className=" py-2 pro"
                                   component="th"
                                   scope="row"
-                                  onClick={() =>
-                                    this.showModal(Ataque.nombreAtaque)
-                                  }
                                 >
                                   {Ataque.nombreAtaque}
                                 </TableCell>
@@ -284,9 +261,7 @@ class SkullGirls extends React.Component {
                             {personaje.Blockbusters.map((Ataque, index) => (
                               <TableRow key={Ataque.nombreAtaque}>
                                 <TableCell
-                                  onClick={() =>
-                                    this.showModal(Ataque.nombreAtaque)
-                                  }
+                               
                                   className=" py-2 pro margenesdetablas"
                                   component="th"
                                   scope="row"
@@ -329,7 +304,7 @@ class SkullGirls extends React.Component {
                         src={process.env.PUBLIC_URL + personaje.Foto}
                         alt="Error"
                       />
-                            <Link
+                      <Link
                         to={{
                           pathname: "/BiografiaSkullGirl",
                           state: {
@@ -338,14 +313,14 @@ class SkullGirls extends React.Component {
                         }}
                         className="btn-ki large ghostpulse "
                       >
-                            <div className="DivBotonSkull2 ">
-                  <button className="BotonSkull">Biography &amp; Videos</button>
-                </div>
+                        <div className="DivBotonSkull2 ">
+                          <button className="BotonSkull">
+                            Biography &amp; Videos
+                          </button>
+                        </div>
                       </Link>
                     </Col>
-         
                   </Row>
-          
                 </Container>
               </div>
             );
