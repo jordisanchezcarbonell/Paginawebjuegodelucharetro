@@ -86,7 +86,7 @@ class BiografiaSoul extends React.Component {
             </Row>
             <div className="">
               <h1 className="BIOtitulocombosSoul"> Combos</h1>
-              <div className="derechaBD">
+              <div className="derechaSOUL">
                 <ResponsivePlayer className="video" url={detalles.Combos} />
                 {/* <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos} />
@@ -95,7 +95,7 @@ class BiografiaSoul extends React.Component {
                 <ResponsivePlayer url={detalles.Combos2} />
               </Col> */}
               </div>
-              <div className="izqBD">
+              <div className="izqSOUL">
                 <ResponsivePlayer className="video" url={detalles.Combos2} />
               </div>
             </div>
