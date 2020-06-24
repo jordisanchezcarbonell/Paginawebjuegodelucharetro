@@ -54,13 +54,13 @@ class BiografiaStreetfighter extends React.Component {
 
         <div>
           <Row className="BioImgyBioSF">
-          <div >
-                <FontAwesomeIcon
-                  className="iconoSF"
-                  icon={faArrowLeft}
-                  onClick={this.props.history.goBack}
-                />
-              </div>
+            <div>
+              <FontAwesomeIcon
+                className="iconoSF"
+                icon={faArrowLeft}
+                onClick={this.props.history.goBack}
+              />
+            </div>
             <Col className="col-md-5">
               <img
                 className="BioImgSF"
@@ -99,7 +99,7 @@ class BiografiaStreetfighter extends React.Component {
           </Row>
           <div className="">
             <h1 className="BIOtitulocombosSF"> Combos</h1>
-            <div className="derechaBD">
+            <div className="derechaSF">
               <ResponsivePlayer className="video" url={detalles.Combos} />
               {/* <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos} />
@@ -108,7 +108,7 @@ class BiografiaStreetfighter extends React.Component {
                 <ResponsivePlayer url={detalles.Combos2} />
               </Col> */}
             </div>
-            <div className="izqBD">
+            <div className="izqSF">
               <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
