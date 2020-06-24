@@ -40,16 +40,17 @@ class BiografiaDragonBall extends React.Component {
 
     return (
       <div className="BioDivTotalBD">
-
-
-
         <h1 className="BioNombreBD"> {detalles.Nombre}</h1>
 
         <div className="DivIconoBD">
           <Row className="BioImgyBioBD">
-          <div>
-    <FontAwesomeIcon className="iconoBD" icon={faArrowLeft}  onClick={this.props.history.goBack} />
-  </div>
+            <div>
+              <FontAwesomeIcon
+                className="iconoBD"
+                icon={faArrowLeft}
+                onClick={this.props.history.goBack}
+              />
+            </div>
             <Col className="col-md-5">
               <img
                 className="BioImgBD"
@@ -64,32 +65,46 @@ class BiografiaDragonBall extends React.Component {
               <h1 className="BiotituloBD"> Personality</h1>
               <h6 className="BioDescBD"> {detalles.Personality}</h6>
               <h1 className="BiotituloBD"> Characteristics </h1>
-              <h6 className="BioDescBD"><strong>Anime name: </strong> {detalles.Animename}</h6>
-              <h6 className="BioDescBD"><strong> Manga name:  </strong>{detalles.Manganame}</h6>
-              <h6 className="BioDescBD"> <strong>Raze: </strong> {detalles.Raze}</h6>
-              <h6 className="BioDescBD"> <strong>Gender: </strong> {detalles.Gender}</h6>
-              <h6 className="BioDescBD"> <strong>Size: </strong> {detalles.Size}</h6>
-              <h6 className="BioDescBD"><strong> Weight: </strong> {detalles.Weight}</h6>
+              <h6 className="BioDescBD">
+                <strong>Anime name: </strong> {detalles.Animename}
+              </h6>
+              <h6 className="BioDescBD">
+                <strong> Manga name: </strong>
+                {detalles.Manganame}
+              </h6>
+              <h6 className="BioDescBD">
+                {" "}
+                <strong>Raze: </strong> {detalles.Raze}
+              </h6>
+              <h6 className="BioDescBD">
+                {" "}
+                <strong>Gender: </strong> {detalles.Gender}
+              </h6>
+              <h6 className="BioDescBD">
+                {" "}
+                <strong>Size: </strong> {detalles.Size}
+              </h6>
+              <h6 className="BioDescBD">
+                <strong> Weight: </strong> {detalles.Weight}
+              </h6>
             </Col>
           </Row>
-        
+
           <div className="">
             <h1 className="BIOtitulocombosBD"> Combos</h1>
             <div className="derechaBD">
-            <ResponsivePlayer className="video" url={detalles.Combos} />
+              <ResponsivePlayer className="video" url={detalles.Combos} />
               {/* <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos} />
                 </Col>
                 <Col className="col-md-5 ">
                 <ResponsivePlayer url={detalles.Combos2} />
               </Col> */}
-              
             </div>
             <div className="izqBD">
-            <ResponsivePlayer className="video" url={detalles.Combos2} />
+              <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
-
         </div>
       </div>
     );

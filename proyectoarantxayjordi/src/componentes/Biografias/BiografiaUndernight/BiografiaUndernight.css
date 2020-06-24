@@ -113,6 +113,19 @@
 
 
 
+.derechaUN {
+    width: 50vw;
+    float: right;
+
+    margin-right: 9vw;
+}
+
+.izqUN {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
 
 
 
@@ -122,5 +135,386 @@
 @font-face {
     font-family: "tipoUnderBio" !important;
     src: url(ms-pgothic.ttf) !important;
+
+}
+
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+    .BioNombreUN {
+        font-size: 9vw;
+        width: 43%;
+
+    }
+
+    .BioImgUN {
+        height: 55vw;
+    }
+
+    .BiotituloUN {
+        font-size: 6vw;
+    }
+
+    .BiotituloUN {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosUN {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+    }
+
+    .iconoUnder {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+
+}
+
+
+
+@media screen and (min-height: 731px) and (max-width: 411px) {
+
+    /*pixel*/
+    .BioNombreUN {
+        font-size: 9vw;
+        width: 43%;
+
+    }
+
+    .BioImgUN {
+        height: 95vw;
+    }
+
+    .BiotituloUN {
+        font-size: 6vw;
+    }
+
+    .BiotituloUN {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosUN {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+    }
+
+    .iconoUnder {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+    .BioNombreUN {
+        font-size: 9vw;
+        width: 43%;
+
+    }
+
+    .BioImgUN {
+        height: 95vw;
+    }
+
+    .BiotituloUN {
+        font-size: 6vw;
+    }
+
+    .BiotituloUN {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosUN {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+    }
+
+    .iconoUnder {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .BioNombreUN {
+        font-size: 9vw;
+        width: 43%;
+
+    }
+
+    .BioImgUN {
+        height: 95vw;
+    }
+
+    .BiotituloUN {
+        font-size: 6vw;
+    }
+
+    .BiotituloUN {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosUN {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+    }
+
+    .iconoUnder {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+
+    }
+}
+
+@media screen and (min-height: 1024px) and (max-width: 768px) {
+
+    .BioNombreUN {
+        font-size: 9vw;
+        width: 43%;
+
+    }
+
+    .BioImgUN {
+        height: 40vw;
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+        margin-top: 2vw;
+
+    }
+
+
+}
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .BioNombreUN {
+        font-size: 9vw;
+
+    }
+
+    .BioImgUN {
+        height: 95vw;
+    }
+
+    .BiotituloUN {
+        font-size: 6vw;
+    }
+
+    .BiotituloUN {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosUN {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+    }
+
+    .iconoUnder {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaUN {
+        width: 100% !important;
+        margin-left: 4vw;
+
+        float: none;
+
+
+    }
+
+    .izqUN {
+        width: 100% !important;
+        margin-left: 4vw;
+
+        float: none;
+
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+    .BioNombreUN {
+        font-size: 9vw;
+
+    }
+
+    .BioImgUN {
+        height: 95vw;
+    }
+
+    .BiotituloUN {
+        font-size: 6vw;
+    }
+
+    .BiotituloUN {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosUN {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoUnder {
+
+        margin-left: 2vw;
+    }
+
+    .iconoUnder {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqUN {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+    }
 
 }

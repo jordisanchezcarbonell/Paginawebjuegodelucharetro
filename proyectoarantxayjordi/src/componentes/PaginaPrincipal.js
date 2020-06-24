@@ -107,6 +107,10 @@ export class PaginaPrincipal extends Component {
                 path="/BiografiaStreetfighter"
                 component={BiografiaStreetfighter}
               />
+              <Route
+                path="/BiografiaDragonBall"
+                component={BiografiaDragonBall}
+              />
               <Route path="/BiografiaGranBlue" component={BiografiaGranBlue} />
               <Route path="/BiografiaMK" component={BiografiaMK} />
             </Switch>
