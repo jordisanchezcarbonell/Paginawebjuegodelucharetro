@@ -102,15 +102,15 @@
 }
 
 .derechaPnys {
-    width: 50vw !important;
+    width: 50vw ;
     float: right;
 
-    margin-right: 9vw !important;
+    margin-right: 9vw ;
 }
 
 .izqPnys {
-    width: 50vw !important;
-    margin-left: 4vw !important;
+    width: 50vw ;
+    margin-left: 4vw ;
 
 
 }
