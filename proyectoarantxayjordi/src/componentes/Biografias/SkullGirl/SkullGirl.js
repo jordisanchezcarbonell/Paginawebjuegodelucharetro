@@ -93,10 +93,10 @@ class SkullGirl extends React.Component {
             </Row>
             <div className="">
               <h1 className="BiotituloSG2"> Combos</h1>
-              <div className="derechaBD">
+              <div className=" derechaSG">
                 <ResponsivePlayer className="video" url={detalles.Combos} />
               </div>
-              <div className="izqBD">
+              <div className=" izqSG">
                 <ResponsivePlayer className="video" url={detalles.Combos2} />
               </div>
             </div>
