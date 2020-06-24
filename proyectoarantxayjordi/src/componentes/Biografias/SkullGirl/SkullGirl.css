@@ -108,6 +108,20 @@
 }
 
 
+.derechaSG {
+    width: 50vw;
+    float: right;
+
+    margin-right: 9vw;
+}
+
+.izqSG {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
+
 @font-face {
     font-family: "LetraSkullBio";
     src: url("SelznickRemixNF.otf");
@@ -118,26 +132,30 @@
 
 
 @media screen and (max-height: 640px) and (max-width: 360px) {
-    .BioNombreSG{
+    .BioNombreSG {
         font-size: 12vw;
 
     }
-    .BioDescSG{
+
+    .BioDescSG {
         font-size: 4.5vw;
 
     }
-    .BioImgSG{
+
+    .BioImgSG {
         height: 95vw;
     }
+
     .BiotituloSG {
         font-size: 10vw;
     }
-    .BiotituloSG{
+
+    .BiotituloSG {
         margin-top: 3vw;
 
         margin-bottom: 3vw;
     }
-       
+
     .BiotituloSG2 {
         font-size: 9vw;
         width: 40%;
@@ -147,66 +165,63 @@
         border-bottom: 1px white solid;
 
     }
-.iconoSkull{
-    margin-top: 2vw;
 
-    margin-left: 2vw;
-    font-size: 8vw;
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
 }
-   
-.derechaSG {
-    width: 100% !important;
-    margin-left: 2vw;
-
-    float: none;
 
 
-}
 
-.izqSG {
-    width: 100% !important;
-    margin-left: 2vw;
-    float: none;
-
-
-}
-
-
-}
-
-.derechaSG{
-    width: 50vw;
-    float: right;
-
-margin-right: 9vw;
-}
-.izqSG{
-    width: 50vw;
-    margin-left: 4vw;
-}
 @media screen and (min-height: 731px) and (max-width: 411px) {
 
     /*pixel*/
-    .BioNombreSG{
+    .BioNombreSG {
         font-size: 12vw;
 
     }
-    .BioDescSG{
+
+    .BioDescSG {
         font-size: 4.5vw;
 
     }
-    .BioImgSG{
+
+    .BioImgSG {
         height: 95vw;
     }
+
     .BiotituloSG {
         font-size: 10vw;
     }
-    .BiotituloSG{
+
+    .BiotituloSG {
         margin-top: 3vw;
 
         margin-bottom: 3vw;
     }
-       
+
     .BiotituloSG2 {
         font-size: 9vw;
         width: 40%;
@@ -216,29 +231,30 @@ margin-right: 9vw;
         border-bottom: 1px white solid;
 
     }
-.iconoSkull{
-    margin-top: 2vw;
 
-    margin-left: 2vw;
-    font-size: 8vw;
-}
-   
-.derechaSG {
-    width: 100% !important;
-    margin-left: 2vw;
+    .iconoSkull {
+        margin-top: 2vw;
 
-    float: none;
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
 
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
 
-}
-
-.izqSG {
-    width: 100% !important;
-    margin-left: 2vw;
-    float: none;
+        float: none;
 
 
-}
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
 
 
 }
@@ -247,26 +263,30 @@ margin-right: 9vw;
 @media screen and (min-height: 568px) and (max-width: 320px) {
 
     /*iphone5*/
-    .BioNombreSG{
+    .BioNombreSG {
         font-size: 12vw;
 
     }
-    .BioDescSG{
+
+    .BioDescSG {
         font-size: 4.5vw;
 
     }
-    .BioImgSG{
+
+    .BioImgSG {
         height: 95vw;
     }
+
     .BiotituloSG {
         font-size: 10vw;
     }
-    .BiotituloSG{
+
+    .BiotituloSG {
         margin-top: 3vw;
 
         margin-bottom: 3vw;
     }
-       
+
     .BiotituloSG2 {
         font-size: 9vw;
         width: 40%;
@@ -276,29 +296,30 @@ margin-right: 9vw;
         border-bottom: 1px white solid;
 
     }
-.iconoSkull{
-    margin-top: 2vw;
 
-    margin-left: 2vw;
-    font-size: 8vw;
-}
-   
-.derechaSG {
-    width: 100% !important;
-    margin-left: 2vw;
+    .iconoSkull {
+        margin-top: 2vw;
 
-    float: none;
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
 
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
 
-}
-
-.izqSG {
-    width: 100% !important;
-    margin-left: 2vw;
-    float: none;
+        float: none;
 
 
-}
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
 
 
 }
@@ -306,26 +327,30 @@ margin-right: 9vw;
 @media screen and (min-height: 736px) and (max-width: 414px) {
 
     /*iphone6/7/8*/
-    .BioNombreSG{
+    .BioNombreSG {
         font-size: 12vw;
 
     }
-    .BioDescSG{
+
+    .BioDescSG {
         font-size: 4.5vw;
 
     }
-    .BioImgSG{
+
+    .BioImgSG {
         height: 95vw;
     }
+
     .BiotituloSG {
         font-size: 10vw;
     }
-    .BiotituloSG{
+
+    .BiotituloSG {
         margin-top: 3vw;
 
         margin-bottom: 3vw;
     }
-       
+
     .BiotituloSG2 {
         font-size: 9vw;
         width: 40%;
@@ -335,61 +360,65 @@ margin-right: 9vw;
         border-bottom: 1px white solid;
 
     }
-.iconoSkull{
-    margin-top: 2vw;
 
-    margin-left: 2vw;
-    font-size: 8vw;
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
+
+
 }
-   
-.derechaSG {
-    width: 100% !important;
-    margin-left: 2vw;
 
-    float: none;
-
-
-}
-
-.izqSG {
-    width: 100% !important;
-    margin-left: 2vw;
-    float: none;
-
-
-}
-
-
-}
 @media screen and (min-height: 1024px) and (max-width: 768px) {
 
-    .BioImgSG{
+    .BioImgSG {
         height: 55vw;
         margin-top: 20vw;
         margin-left: -3vw;
 
     }
 
-    .iconoSkull{
-        font-size: 5vw!important;
+    .iconoSkull {
+        font-size: 5vw !important;
 
         margin-left: 1vw;
-                margin-top: 2vw;
+        margin-top: 2vw;
 
     }
 
-    .BioDescSG{
+    .BioDescSG {
         font-size: 2vw;
 
     }
+
     .BiotituloSG {
         font-size: 5vw;
     }
-    .BiotituloSG2 
-    {        font-size: 5vw;
+
+    .BiotituloSG2 {
+        font-size: 5vw;
         color: white;
         border-bottom: 1px white solid;
-        padding-top:1vw ;
+        padding-top: 1vw;
     }
 }
 
@@ -397,26 +426,30 @@ margin-right: 9vw;
 @media screen and (min-height: 667px) and (max-width: 375px) {
 
     /*iphone6/7/8*/
-    .BioNombreSG{
+    .BioNombreSG {
         font-size: 12vw;
 
     }
-    .BioDescSG{
+
+    .BioDescSG {
         font-size: 4.5vw;
 
     }
-    .BioImgSG{
+
+    .BioImgSG {
         height: 95vw;
     }
+
     .BiotituloSG {
         font-size: 10vw;
     }
-    .BiotituloSG{
+
+    .BiotituloSG {
         margin-top: 3vw;
 
         margin-bottom: 3vw;
     }
-       
+
     .BiotituloSG2 {
         font-size: 9vw;
         width: 40%;
@@ -426,29 +459,30 @@ margin-right: 9vw;
         border-bottom: 1px white solid;
 
     }
-.iconoSkull{
-    margin-top: 2vw;
 
-    margin-left: 2vw;
-    font-size: 8vw;
-}
-   
-.derechaSG {
-    width: 100% !important;
-    margin-left: 2vw;
+    .iconoSkull {
+        margin-top: 2vw;
 
-    float: none;
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
 
+    .derechaSG {
+        width: 100% !important;
+        margin-left: 2vw;
 
-}
-
-.izqSG {
-    width: 100% !important;
-    margin-left: 2vw;
-    float: none;
+        float: none;
 
 
-}
+    }
+
+    .izqSG {
+        width: 100% !important;
+        margin-left: 2vw;
+        float: none;
+
+
+    }
 
 
 }
@@ -456,26 +490,30 @@ margin-right: 9vw;
 @media screen and (min-height: 812px) and (max-width: 375px) {
 
     /*iphone X*/
-     .BioNombreSG{
+    .BioNombreSG {
         font-size: 12vw;
 
     }
-    .BioDescSG{
+
+    .BioDescSG {
         font-size: 4.5vw;
 
     }
-    .BioImgSG{
+
+    .BioImgSG {
         height: 95vw;
     }
+
     .BiotituloSG {
         font-size: 10vw;
     }
-    .BiotituloSG{
+
+    .BiotituloSG {
         margin-top: 3vw;
 
         margin-bottom: 3vw;
     }
-       
+
     .BiotituloSG2 {
         font-size: 9vw;
         width: 40%;
@@ -485,13 +523,14 @@ margin-right: 9vw;
         border-bottom: 1px white solid;
 
     }
-.iconoSkull{
-    margin-top: 2vw;
 
-    margin-left: 2vw;
-    font-size: 8vw;
-}
-   
+    .iconoSkull {
+        margin-top: 2vw;
+
+        margin-left: 2vw;
+        font-size: 8vw;
+    }
+
     .derechaSG {
         width: 100% !important;
         margin-left: 2vw;
@@ -512,4 +551,3 @@ margin-right: 9vw;
 
 
 }
-
