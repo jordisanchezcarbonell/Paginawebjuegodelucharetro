@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: "BioLetraPonys";
     src: url(steelfish\ rg.ttf);
@@ -8,7 +7,7 @@
 }
 
 
-.BioNombrePonys{
+.BioNombrePonys {
     padding-top: 2vw;
     padding-bottom: 2vw;
 
@@ -18,40 +17,43 @@
     font-size: 5vw;
 
 }
-.BiotituloPonys{
 
-    font-family: "BioLetraPonys";  
-      margin-left: auto;
-margin-right: auto;
- 
+.BiotituloPonys {
+
+    font-family: "BioLetraPonys";
+    margin-left: auto;
+    margin-right: auto;
+
     color: white;
-font-size: 3vw;
-border-bottom: 2px white solid;
-width: 70%;
-margin-bottom: 1vw;
-margin-top: 1vw;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
+    margin-bottom: 1vw;
+    margin-top: 1vw;
 
 }
 
-.BioDesPonys{
+.BioDesPonys {
     font-family: 'Times New Roman', Times, serif;
     color: white;
     font-size: 1vw;
 
 }
-.BioNavbarPonys{
+
+.BioNavbarPonys {
 
     margin-left: auto;
     margin-right: auto;
-padding-bottom: 1vw;
+    padding-bottom: 1vw;
 }
 
 
-.BIOtitulocombosPonys{
+.BIOtitulocombosPonys {
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
     color: white;
-    font-family: "BioLetraPonys";    font-size: 3vw;
+    font-family: "BioLetraPonys";
+    font-size: 3vw;
     border-bottom: 3px white solid;
     width: 10%;
     margin-bottom: 2vw;
@@ -59,51 +61,411 @@ margin-right: auto;
 
 
 }
-.DivIconPonys{
 
-background-color: rgba(0, 0, 0, 0.568);
-height: 4vw;
-padding-top: 1vw;
-padding-right: 1vw;
+.DivIconPonys {
+
+    background-color: rgba(0, 0, 0, 0.568);
+    height: 4vw;
+    padding-top: 1vw;
+    padding-right: 1vw;
 }
-.BioDivTotalPonys{
+
+.BioDivTotalPonys {
     background-color: rgba(235, 228, 228, 0.246);
 }
-.iconoPonys{
+
+.iconoPonys {
     color: white;
     font-size: 3vw;
     margin-left: 1vw;
-    margin-top:-0.5vw;
+    margin-top: -0.5vw;
     padding-top: -1vw;
-    cursor:pointer;
+    cursor: pointer;
 }
-.BioImgPonys{
+
+.BioImgPonys {
     height: 30vw;
 
 }
 
-.BIOCentrarColDivPonys{
+.BIOCentrarColDivPonys {
     background-color: rgba(0, 0, 0, 0.664);
-    margin-left: auto!important;
-margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
-.BioImgyPonys{
+.BioImgyPonys {
     width: 80%;
-    margin-left: auto!important;
-margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
 }
 
-.derechaPnys{
-    width: 50vw!important;
+.derechaPnys {
+    width: 50vw !important;
     float: right;
 
-margin-right: 9vw!important;
+    margin-right: 9vw !important;
 }
-.izqPnys{
-    width: 50vw!important;
-    margin-left: 4vw!important;
 
+.izqPnys {
+    width: 50vw !important;
+    margin-left: 4vw !important;
+
+
+}
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+
+@media screen and (min-height: 731px) and (max-width: 411px) {
+
+    /*pixel*/
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 1024px) and (max-width: 768px) {
+
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 2vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+
+
+}
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+    .iconoPonys {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .DivIconPonys {
+        height: 6vw;
+    }
+
+    .BioNombrePonys {
+        font-size: 6vw;
+    }
+
+    .BiotituloPonys {
+        font-size: 6vw;
+    }
+
+    .BioDesPonys {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosPonys {
+        font-size: 6vw;
+    }
+
+    .BioImgPonys {
+        margin-bottom: 4vw;
+    }
+
+    .derechaPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqPnys {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
 
 }
