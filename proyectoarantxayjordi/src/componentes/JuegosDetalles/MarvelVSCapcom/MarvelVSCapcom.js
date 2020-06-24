@@ -250,11 +250,12 @@ class Child extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <span className="  margendelbotoon tablaborderabajo botonSpan colorFondoAtaquesMC">
-                  <span className="colorFondoAtaquesMC mifuenteataquesMVC  rowMVSC">
-                    Biography &amp; Videos
-                  </span>
-                </span>
+           
+
+
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">Biography &amp; Videos</button>
+                </div>
               </Link>
             </Col>
           </Row>

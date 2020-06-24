@@ -22,7 +22,7 @@
 
 }
 
-.rowMVSC:hover {
+.botonMC:hover {
     background: rgba(150, 1, 1, 0.815) !important;
 
 }
@@ -119,8 +119,9 @@ filter: sepia(60%);
 .mifuenteataquesMVC {
     font-size: 1.1vw !important;
 }
-.margendelbotoon{
+.margendelbotoonMK{
     margin-bottom: 10vw;
+    background: none;
 }
 
 /*
@@ -459,9 +460,6 @@ filter: sepia(60%);
 
     }
 
-    .colorFondoAtaquesMC {
-        font-size: 2vh !important;
-    }
 
     .RowMC {
         display: inline-block !important;
@@ -555,6 +553,8 @@ filter: sepia(60%);
 }
 
 .colorFondoAtaquesMC {
+    background: none;
+    font-size: 2vh !important;
 
     color: white !important;
     font-family: "LetraMC2" !important;
@@ -562,6 +562,20 @@ filter: sepia(60%);
     font-style: oblique;
     font-weight: lighter !important;
 
+}
+.botonMC{
+    border: 1px #a78d50 solid;
+    background: rgba(0, 0, 0, 0.555);
+    font-size: 2vh !important;
+
+    color: white !important;
+    font-family: "LetraMC2" !important;
+    white-space: nowrap !important;
+    font-style: oblique;
+    font-weight: lighter !important;
+    padding: 1vw;
+    width: 80%;
+    
 }
 
 .fondoTablaMC {
@@ -583,6 +597,7 @@ filter: sepia(60%);
 
 
 .FotoMC:hover {
+    cursor: pointer;
     filter: grayscale(0%);
     transform: scale(1.1) !important;
 
