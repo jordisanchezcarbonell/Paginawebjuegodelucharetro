@@ -88,10 +88,10 @@ class BiografiaKiller extends React.Component {
             <Row className="BioImgyBioKI">
               <h1 className="BIOtitulocombosKI"> Combos</h1>
             </Row>
-            <div className="derechaPnys">
+            <div className="derechaKiller">
             <ResponsivePlayer className="video" url={detalles.Combos} />
             </div>
-            <div className="izqPnys">
+            <div className="izqKiller">
             <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
