@@ -15,6 +15,9 @@
     background-color: #9e003a;
     border: 4px white solid;
     padding: 0.5vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
+
     float: right;
     margin-right: 1.5vw;
     color: white;
