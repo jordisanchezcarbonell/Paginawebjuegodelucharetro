@@ -78,6 +78,8 @@ export class PaginaPrincipal extends Component {
             </ReactBootstrap.Navbar>
             <Switch>
               {/* Rutas de las paginas */}
+              <Route exact path="/" component={Probadeprincipal} />
+
               <Route path="/PaginaPrincipal" component={Probadeprincipal} />
               <Route path="/PaginaPlataformas">
                 <PaginaPlataformas />
