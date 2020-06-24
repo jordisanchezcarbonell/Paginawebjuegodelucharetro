@@ -91,3 +91,363 @@ margin-right: 9vw!important;
     src: url(LeviReBrushed.ttf);
 
 }
+
+
+
+
+
+
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 3vw;
+    }
+    .BioImgBD{
+        height: 95vw;
+    }
+    .BiotituloBD {
+        font-size: 6vw;
+    }
+    .BiotituloBD{
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+.iconoBD{
+font-size: 3vw;
+    margin-left: 2vw;
+}
+    .iconoBD {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+
+}
+
+@media screen and (min-height: 731px) and (max-width: 411px) {
+
+    /*pixel*/
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 3vw;
+    }
+    .BioImgBD{
+        height: 95vw;
+    }
+    .BiotituloBD {
+        font-size: 6vw;
+    }
+    .BiotituloBD{
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+.iconoBD{
+
+    margin-left: 2vw;
+}
+    .iconoBD {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;}
+}
+
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 3vw;
+    }
+    .BioImgBD{
+        height: 95vw;
+    }
+    .BiotituloBD {
+        font-size: 6vw;
+    }
+    .BiotituloBD{
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+.iconoBD{
+
+    margin-left: 2vw;
+}
+    .iconoBD {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;}
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 3vw;
+    }
+    .BioImgBD{
+        height: 95vw;
+    }
+    .BiotituloBD {
+        font-size: 6vw;
+    }
+    .BiotituloBD{
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+.iconoBD{
+
+    margin-left: 2vw;
+}
+    .iconoBD {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+
+    }
+}
+@media screen and (min-height: 1024px) and (max-width: 768px) {
+
+    .BioImgBD{
+        height: 62vw;
+        margin-top: 15vw;
+    }
+
+    .iconoBD{
+      
+            font-size: 6vw;
+                margin-left: 2vw;
+            
+                margin-top: 2vw;
+
+    }
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 2vw;
+
+
+    }
+    .BiotituloBD{
+  font-size: 4vw;
+  width: auto;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 5vw;
+    
+
+    }
+}
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 3vw;
+
+    }
+    .BioImgBD{
+        height: 95vw;
+    }
+    .BiotituloBD {
+        font-size: 6vw;
+    }
+    .BiotituloBD{
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+.iconoBD{
+
+    margin-left: 2vw;
+}
+    .iconoBD {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaBD {
+        width: 100% !important;
+        margin-left: 4vw;
+
+        float: none;
+
+
+    }
+
+    .izqBD {
+        width: 100% !important;
+        margin-left: 4vw;
+
+        float: none;
+
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+    .BioNombreBD{
+        font-size: 11vw;
+        padding-top: 3vw;
+    }
+    .BioImgBD{
+        height: 95vw;
+    }
+    .BiotituloBD {
+        font-size: 6vw;
+    }
+    .BiotituloBD{
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+       
+    .BIOtitulocombosBD {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+.iconoBD{
+
+    margin-left: 2vw;
+}
+    .iconoBD {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqBD {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+    }
+
+}
+
