@@ -1,5 +1,4 @@
-
-.BioDivTotalSF{
+.BioDivTotalSF {
 
 
     background-image: url(https://vignette.wikia.nocookie.net/streetfighter/images/7/7e/Dojo.jpg/revision/latest/scale-to-width-down/1000?cb=20191004230027), linear-gradient(#6e859c, #c0ccd8) !important;
@@ -13,65 +12,487 @@
 }
 
 
-.BioNombreSF{
+.BioNombreSF {
     color: white;
     padding-top: 1vw;
     padding-bottom: 1vw;
     /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-font-size: 5vw;
-}
-.BioImgyBioSF{
-
-    background: rgba(0, 0, 0, 0.7) ;
-border: 4px solid #a78d50;
-border-radius: 30px;
-width: 80%;
-margin-left: auto!important;
-margin-right: auto!important;
-
+    font-size: 5vw;
 }
 
-.iconoSF{
+.BioImgyBioSF {
+
+    background: rgba(0, 0, 0, 0.7);
+    border: 4px solid #a78d50;
+    border-radius: 30px;
+    width: 80%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+
+}
+
+.iconoSF {
     color: white;
     font-size: 3vw;
     margin-left: 2vw;
-    margin-top:1vw;
-    cursor:pointer;
+    margin-top: 1vw;
+    cursor: pointer;
 }
-.BioImgSF{
+
+.BioImgSF {
     margin-top: 3vw;
     height: 40vw;
     margin-left: -3vw;
 }
 
-.BIOCentrarColDivSF{
-    margin-left: auto!important;
-margin-right: auto!important;
+.BIOCentrarColDivSF {
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
-.BiotituloSF{
-    font-family: "LetraSf";    margin-left: auto;
-margin-right: auto;
- 
+
+.BiotituloSF {
+    font-family: "LetraSf";
+    margin-left: auto;
+    margin-right: auto;
+
     color: white;
-font-size: 3vw;
-border-bottom: 2px white solid;
-width: 70%;
+    font-size: 3vw;
+    border-bottom: 2px white solid;
+    width: 70%;
 
 }
-.BioDescSF{
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+.BioDescSF {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
     font-size: 1vw;
 
 }
 
-.BIOtitulocombosSF{
+.BIOtitulocombosSF {
     margin-left: auto;
-margin-right: auto;
+    margin-right: auto;
     color: white;
     border-bottom: 2px white solid;
     width: 20%;
     margin-top: 2vw;
     margin-bottom: 1.5vw;
-    font-family: "LetraSf";    font-size: 3vw;
+    font-family: "LetraSf";
+    font-size: 3vw;
+}
+
+.derechaSF {
+    width: 50vw;
+    float: right;
+
+    margin-right: 9vw;
+}
+
+.izqSF {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
+
+
+
+
+
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+    .BioNombreSF {
+        font-size: 9vw;
+        width: 100%;
+
+    }
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+    .BioImgSF {
+        height: 55vw;
+    }
+
+    .BiotituloSF {
+        font-size: 6vw;
+    }
+
+    .BiotituloSF {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosSF {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+    }
+
+    .iconoSF {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+
+}
+
+
+
+@media screen and (min-height: 731px) and (max-width: 411px) {
+
+    /*pixel*/
+    .BioNombreSF {
+        font-size: 9vw;
+        width: 100%;
+
+    }
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+
+
+    .BiotituloSF {
+        font-size: 6vw;
+    }
+
+    .BiotituloSF {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosSF {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+    }
+
+    .iconoSF {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+    .BioNombreSF {
+        font-size: 9vw;
+        width: 100%;
+
+    }
+
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+    .BiotituloSF {
+        font-size: 6vw;
+    }
+
+    .BiotituloSF {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosSF {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+    }
+
+    .iconoSF {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .BioNombreSF {
+        font-size: 9vw;
+        width: 100%;
+
+    }
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+    .BiotituloSF {
+        font-size: 6vw;
+    }
+
+    .BiotituloSF {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosSF {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+    }
+
+    .iconoSF {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+
+    }
+}
+
+@media screen and (min-height: 1024px) and (max-width: 768px) {
+
+    .BioNombreSF {
+        font-size: 9vw;
+        width: 100%;
+
+    }
+
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+        margin-top: 2vw;
+
+    }
+
+
+}
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .BioNombreSF {
+        font-size: 9vw;
+
+    }
+
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+    .BiotituloSF {
+        font-size: 6vw;
+    }
+
+    .BiotituloSF {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosSF {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+    }
+
+    .iconoSF {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSF {
+        width: 100% !important;
+        margin-left: 4vw;
+
+        float: none;
+
+
+    }
+
+    .izqSF {
+        width: 100% !important;
+        margin-left: 4vw;
+
+        float: none;
+
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+    .BioNombreSF {
+        font-size: 9vw;
+
+    }
+
+
+    .BioDescSF {
+        font-size: 3.5vw;
+
+    }
+
+    .BiotituloSF {
+        font-size: 6vw;
+    }
+
+    .BiotituloSF {
+        margin-top: 3vw;
+
+        margin-bottom: 3vw;
+    }
+
+    .BIOtitulocombosSF {
+        font-size: 6vw;
+        width: 40%;
+        margin-top: 6vw;
+        margin-bottom: 5vw;
+
+    }
+
+    .iconoSF {
+
+        margin-left: 2vw;
+    }
+
+    .iconoSF {
+        margin-top: 2vw;
+        font-size: 8vw;
+    }
+
+    .derechaSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSF {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+    }
+
 }
