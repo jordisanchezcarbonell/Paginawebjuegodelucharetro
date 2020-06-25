@@ -11,8 +11,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 class BiografiaStreetfighter extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(this.props.location.state.ALL);
-    console.log("hijo");
+   
   }
 
   state = {

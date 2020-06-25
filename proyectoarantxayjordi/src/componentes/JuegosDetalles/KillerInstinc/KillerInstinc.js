@@ -23,8 +23,7 @@ import logo from "./logo-ki.png";
 class KillerInstinc extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(props);
-    console.log(this.props.detalles.Foto);
+
   }
 
   state = {
@@ -40,7 +39,6 @@ class KillerInstinc extends React.Component {
       imagen: imagenes,
     });
 
-    console.log(this.state.elemento);
   };
 
   handleCloseModal = (e) => {

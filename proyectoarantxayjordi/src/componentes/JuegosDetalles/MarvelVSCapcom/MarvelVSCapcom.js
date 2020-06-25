@@ -32,7 +32,6 @@ class Child extends React.Component {
       imagen: imagenes,
     });
 
-    console.log(this.state.elemento);
   };
 
   state = {

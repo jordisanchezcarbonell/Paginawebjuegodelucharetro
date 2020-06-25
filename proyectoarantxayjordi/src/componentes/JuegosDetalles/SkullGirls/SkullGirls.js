@@ -19,8 +19,7 @@ import { Link } from "react-router-dom";
 class SkullGirls extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(props);
-    console.log(this.props.detalles.Foto);
+
   }
 
   state = {

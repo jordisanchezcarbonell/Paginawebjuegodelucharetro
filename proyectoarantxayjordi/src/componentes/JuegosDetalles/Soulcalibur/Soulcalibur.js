@@ -19,7 +19,6 @@ import ReactPlayer from "react-player";
 class Child extends React.Component {
   constructor(props) {
     super(props);
-    console.log(props);
     this.myRef = React.createRef(); // Create a ref object
   }
   /*

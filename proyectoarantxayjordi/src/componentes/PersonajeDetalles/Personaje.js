@@ -24,7 +24,6 @@ class PersonajeDetalles extends React.Component {
     const detalles = this.props.location.state.objecto;
     let comp;
 
-    console.log(this.state.visible);
 
     return (
       <div>

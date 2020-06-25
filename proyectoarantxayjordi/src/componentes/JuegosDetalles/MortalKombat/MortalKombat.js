@@ -228,7 +228,7 @@ class MortalKombat extends React.Component {
   renderContent(personaje) {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
-    /*console.log(personaje);
+    /*
     return <div className="pruebadelelemento">prueba</div>;
     */
     // this.setState({ objetoPersonaje: personaje });

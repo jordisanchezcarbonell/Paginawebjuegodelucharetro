@@ -11,8 +11,7 @@ import ResponsivePlayer from "../../video/ResponsivePlayer";
 class BiografiaGranBlue extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(this.props.location.state.ALL);
-    console.log("hijo");
+
   }
 
   state = {

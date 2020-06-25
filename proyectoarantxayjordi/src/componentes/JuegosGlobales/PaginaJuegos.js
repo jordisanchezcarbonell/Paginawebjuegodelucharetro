@@ -8,11 +8,9 @@ export class PaginaJuegos extends Component {
   click(e) {
     //const mother = new Mother();
     //mother.addMother(id);
-    console.log();
   }
 
   render() {
-    console.log("-> render");
     return (
       <div className=" fondodepantalla mx-0 px-5 mx-auto">
         <h2>

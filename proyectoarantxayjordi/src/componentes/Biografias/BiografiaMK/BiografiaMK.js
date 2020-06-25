@@ -10,8 +10,7 @@ import { withRouter } from "react-router-dom";
 class BiografiaMK extends React.Component {
   constructor(props, context) {
     super(props);
-    console.log(this.props.location.state.ALL);
-    console.log("hijo");
+   
   }
   componentDidMount() {
     window.scrollTo(0, 0);
