@@ -28,11 +28,12 @@ export class PaginaPrincipal extends Component {
     return (
       <div className=" fondo">
         <Router>
-          <div>
+          <div className="">
             <ReactBootstrap.Navbar
               bg="light"
               expand="lg"
-              className="NavbarBoostrap px-0 py-0 navGlobal"
+              sticky="top"
+              className=" NavbarBoostrap px-0 py-0 navGlobal"
             >
               <ReactBootstrap.Navbar.Brand
                 className="NavBarTitulo"
