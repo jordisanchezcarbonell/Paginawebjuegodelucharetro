@@ -24,16 +24,28 @@ import BiografiaMK from "./Biografias/BiografiaMK/BiografiaMK";
 import Probadeprincipal from "./Componentepaginaprincipal/Probadeprincipal";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 export class PaginaPrincipal extends Component {
+  state = {
+    navBackground: "white",
+  };
+  componentDidMount() {
+    document.addEventListener("scroll", () => {
+      const backgroundcolor = window.scrollY < 70 ? "white" : "#FFFFFFD9";
+
+      this.setState({ navBackground: backgroundcolor });
+    });
+  }
   render() {
     return (
       <div className=" fondo">
         <Router>
           <div className="">
             <ReactBootstrap.Navbar
-              bg="light"
+              style={{
+                backgroundColor: `${this.state.navBackground}`,
+              }}
               expand="lg"
               sticky="top"
-              className=" NavbarBoostrap px-0 py-0 navGlobal"
+              className=" fondonavbar NavbarBoostrap px-0 py-0 navGlobal"
             >
               <ReactBootstrap.Navbar.Brand
                 className="NavBarTitulo"
@@ -46,7 +58,6 @@ export class PaginaPrincipal extends Component {
                   height="110vw"
                 ></img>
               </ReactBootstrap.Navbar.Brand>
-
               <ReactBootstrap.Navbar.Brand
                 href="/PaginaJuegos"
                 className="textonaV w-100"

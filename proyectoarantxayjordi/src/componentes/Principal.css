@@ -19,3 +19,26 @@
   font-size: 25px !important;
 }
 
+
+
+.fondonavbar {
+  background-color: white;
+}
+
+.fondonavbar.scrolled {
+  background-color: darkblue;
+}
+
+.bg-light.scrolled {
+  background-color: darkblue !important;
+  transition: 500ms ease;
+}
+
+.nav {
+  transition: 500ms ease;
+  background: transparent;
+}
+
+.nav.scrolled {
+  background: #000;
+}
