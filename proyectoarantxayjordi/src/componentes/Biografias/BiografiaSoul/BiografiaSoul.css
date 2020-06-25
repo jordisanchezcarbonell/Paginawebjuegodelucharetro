@@ -1,20 +1,20 @@
-
-
-.iconoSoul{
+.iconoSoul {
     color: white;
     font-size: 3vw;
     margin-left: 1vw;
-    margin-top:-0.5vw;
+    margin-top: -0.5vw;
     padding-top: -1vw;
-    cursor:pointer;
+    cursor: pointer;
 }
-.DivIconSoul{
+
+.DivIconSoul {
 
     background-color: rgba(0, 0, 0, 0.568);
     height: 4vw;
     padding-top: 1vw;
     padding-right: 1vw;
-    }
+}
+
 .BioDivTotalSoul {
 
 
@@ -127,4 +127,437 @@
     margin-left: auto !important;
     margin-right: auto !important;
 
+}
+
+
+
+.derechaSOUL {
+    width: 50vw;
+    float: right;
+
+    margin-right: 9vw;
+}
+
+.izqSOUL {
+    width: 50vw;
+    margin-left: 4vw;
+
+
+}
+
+
+
+
+
+@media screen and (max-height: 640px) and (max-width: 360px) {
+
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 6vw;
+    }
+
+    .BioDesSoul {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 6vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+
+@media screen and (min-height: 731px) and (max-width: 411px) {
+
+    /*pixel*/
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 6vw;
+    }
+
+    .BioDesSoul {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 6vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+
+@media screen and (min-height: 568px) and (max-width: 320px) {
+
+    /*iphone5*/
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 6vw;
+    }
+
+    .BioDesSoul {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 6vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 736px) and (max-width: 414px) {
+
+    /*iphone6/7/8*/
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 6vw;
+    }
+
+    .BioDesSoul {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 6vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 1024px) and (max-width: 768px) {
+
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 2vw;
+    }
+
+    .BioDesSoul {
+        font-size: 1.9vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 3vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+
+}
+
+
+
+
+@media screen and (min-height: 667px) and (max-width: 375px) {
+
+    /*iphone6/7/8*/
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 6vw;
+    }
+
+    .BioDesSoul {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 6vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
+}
+
+@media screen and (min-height: 812px) and (max-width: 375px) {
+
+    /*iphone X*/
+    .iconoSoul {
+        margin-left: 2vw;
+        margin-bottom: 3vw;
+        font-size: 5vw;
+    }
+
+    .BIOCentrarColDivGB {
+        height: auto;
+
+        margin-left: auto;
+    }
+
+    .DivIconSoul {
+        height: 6vw;
+    }
+
+    .BioNombreSoul {
+        font-size: 6vw;
+        padding-top: 10vw;
+    }
+
+    .BiotituloSoul {
+        font-size: 6vw;
+    }
+
+    .BioDesSoul {
+        font-size: 6vw;
+    }
+
+    .BIOtitulocombosSoul {
+        font-size: 6vw;
+    }
+
+    .BioImgSoul {
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+    }
+
+    .derechaSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+
+
+    }
+
+    .izqSOUL {
+        width: 100% !important;
+        margin-left: 2vw;
+
+        float: none;
+    }
 }
