@@ -59,6 +59,7 @@
     width: 80%;
     margin-left: auto !important;
     margin-right: auto !important;
+    padding-bottom: 1vw;
 
 
 }
@@ -80,7 +81,8 @@
 
 .BioImgTK {
 
-    height: 50vw;
+    height: 45vw;
+    margin-left: -4vw;
     padding-bottom: 0vw !important;
 
 }
@@ -137,7 +139,8 @@
     }
 
     .BioImgTK {
-        height: 55vw;
+        height: 85vw;
+        margin-left: -6vw;
     }
 
     .BiotituloTK {
@@ -201,7 +204,8 @@
     }
 
     .BioImgTK {
-        height: 95vw;
+        height: 85vw;
+        margin-left: -6vw;
     }
 
     .BiotituloTK {
@@ -260,7 +264,8 @@
     }
 
     .BioImgTK {
-        height: 95vw;
+        height: 85vw;
+        margin-left: -6vw;
     }
 
     .BiotituloTK {
@@ -318,7 +323,8 @@
     }
 
     .BioImgTK {
-        height: 95vw;
+        height: 85vw;
+        margin-left: -6vw;
     }
 
     .BiotituloTK {
@@ -404,7 +410,8 @@
     }
 
     .BioImgTK {
-        height: 95vw;
+        height: 85vw;
+        margin-left: -6vw;
     }
 
     .BiotituloTK {
@@ -462,7 +469,8 @@
     }
 
     .BioImgTK {
-        height: 95vw;
+        height: 85vw;
+        margin-left: -6vw;
     }
 
     .BiotituloTK {
