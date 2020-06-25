@@ -250,9 +250,6 @@ class Child extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-           
-
-
                 <div className="margendelbotoonMK ">
                   <button className=" botonMC">Biography &amp; Videos</button>
                 </div>
@@ -393,9 +390,7 @@ class MarvelVSCapcom extends React.Component {
                 height="110vw"
               ></img>
             </Col>
-            <Col md="4" className="fondo2MC">
-              <h1 className="TextoTituloDB"></h1>
-            </Col>
+            <Col md="4" className="fondo2MC"></Col>
 
             <Col md="5" style={style}></Col>
           </Row>

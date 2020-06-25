@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./BiografiaUndernight.css";
-import { Container, Row, Col } from "reactstrap";
+import {  Row, Col } from "reactstrap";
 import { withRouter } from "react-router-dom";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";

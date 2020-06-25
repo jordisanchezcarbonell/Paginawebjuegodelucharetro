@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./BiografiaStreetfighter.css";
-import { Container, Row, Col } from "reactstrap";
+import {  Row, Col } from "reactstrap";
 
 import { withRouter } from "react-router-dom";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
@@ -37,16 +37,7 @@ class BiografiaStreetfighter extends React.Component {
 
   render() {
     const detalles = this.props.location.state.ALL;
-    const fondopersonaje = {
-      backgroundImage: "url(" + process.env.PUBLIC_URL + detalles.fondo + ")",
-      WebkitBackgroundSize: "cover",
-      MozBackgroundSize: "cover",
-      OBackgroundSize: "cover",
-      backgroundSize: "cover",
-      color: "black",
-      backgroundPosition: "center center",
-      backgroundAttachment: "fixed",
-    };
+
 
     return (
       <div className="BioDivTotalSF">

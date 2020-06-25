@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./BiografiaSoul.css";
-import { Container, Row, Col } from "reactstrap";
+import {  Row, Col } from "reactstrap";
 
 import { withRouter } from "react-router-dom";
 import ResponsivePlayer from "../../video/ResponsivePlayer";

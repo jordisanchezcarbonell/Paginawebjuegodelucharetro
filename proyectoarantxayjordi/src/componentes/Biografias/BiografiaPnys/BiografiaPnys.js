@@ -3,7 +3,7 @@ import React from "react";
 import "./BiografiaPnys.css";
 
 import { withRouter } from "react-router-dom";
-import { Container, Row, Col } from "reactstrap";
+import { Row, Col } from "reactstrap";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -34,7 +34,6 @@ class BiografiaPnys extends React.Component {
 
   render() {
     const detalles = this.props.location.state.ALL;
-    const arrayponys = this.props.location.state.todo;
     const fondopersonaje = {
       backgroundImage: "url(" + process.env.PUBLIC_URL + detalles.fondo + ")",
       WebkitBackgroundSize: "cover",
@@ -45,11 +44,10 @@ class BiografiaPnys extends React.Component {
       backgroundPosition: "center center",
       backgroundAttachment: "fixed",
       backgroundColor: "black",
-
     };
 
     return (
-      <div   style={({ width: "100%" }, fondopersonaje)}>
+      <div style={({ width: "100%" }, fondopersonaje)}>
         {/*
         <Row >
           <div className="BioNavbarPonys">
@@ -65,21 +63,19 @@ class BiografiaPnys extends React.Component {
           
         </Row>
          */}
-        <div  className="BioDivTotalPonys" >
-      
+        <div className="BioDivTotalPonys">
           <h1 className="BioNombrePonys"> {detalles.Nombre}</h1>
 
           <div>
             <Row className="BioImgyPonys">
-            <div className="DivIconPonys">
-            <FontAwesomeIcon
-              className="iconoPonys"
-              icon={faArrowLeft}
-              onClick={this.props.history.goBack}
-            />
-          </div>
+              <div className="DivIconPonys">
+                <FontAwesomeIcon
+                  className="iconoPonys"
+                  icon={faArrowLeft}
+                  onClick={this.props.history.goBack}
+                />
+              </div>
               <Col className="col-md-4">
-            
                 <img
                   className="BioImgPonys"
                   variant="top"
@@ -96,10 +92,10 @@ class BiografiaPnys extends React.Component {
               <h1 className="BIOtitulocombosPonys"> Combos</h1>
             </Row>
             <div className="derechaPnys">
-            <ResponsivePlayer className="video" url={detalles.Combos} />
+              <ResponsivePlayer className="video" url={detalles.Combos} />
             </div>
             <div className="izqPnys">
-            <ResponsivePlayer className="video" url={detalles.Combos2} />
+              <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
         </div>

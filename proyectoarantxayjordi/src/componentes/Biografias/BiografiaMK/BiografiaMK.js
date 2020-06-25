@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./BiografiaMK.css";
-import { Container, Row, Col } from "reactstrap";
+import {  Row, Col } from "reactstrap";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

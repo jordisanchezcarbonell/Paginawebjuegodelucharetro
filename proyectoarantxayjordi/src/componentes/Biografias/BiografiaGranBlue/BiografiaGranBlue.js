@@ -3,7 +3,7 @@ import React from "react";
 import "./BiografiaGranBlue.css";
 
 import { withRouter } from "react-router-dom";
-import { Container, Row, Col } from "reactstrap";
+import {  Row, Col } from "reactstrap";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ResponsivePlayer from "../../video/ResponsivePlayer";

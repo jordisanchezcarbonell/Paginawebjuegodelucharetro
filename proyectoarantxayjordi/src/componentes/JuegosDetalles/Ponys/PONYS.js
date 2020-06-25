@@ -12,7 +12,6 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 import { Link } from "react-router-dom";
-import ReactPlayer from "react-player";
 
 //AVER SI FUNCIOONA
 
