@@ -89,7 +89,7 @@ responsive     width: 50vw; */
 
         margin-right: 2vw !important;
         border: 3px white solid !important;
-
+  
 
 
     }
@@ -910,6 +910,7 @@ margin-left: -3vw;
     transform: scale(1.05);
     border: 3px solid white;
     background: #bec3c7;
+    cursor: pointer;
 
 }
 
