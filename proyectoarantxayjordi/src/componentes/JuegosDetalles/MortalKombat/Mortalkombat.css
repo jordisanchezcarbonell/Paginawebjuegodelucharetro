@@ -1,4 +1,4 @@
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
     .AnchoMK {
 
@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (min-height: 823px) and (max-width: 411px) {
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
     /*pixel xl*/
 
     .AnchoMK {
@@ -32,7 +32,7 @@
 }
 
 
-@media screen and (max-width: 1024px) and (min-height: 1366px) {
+@media screen and (max-device-width: 1024px) and (min-device-height: 1366px) {
 
     .TituloAtaquesMK {
 
@@ -57,7 +57,7 @@
 
 }
 
-@media screen and (max-width: 768px) and (min-height: 1024px) {
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
     .TituloAtaquesMK {
 
 
@@ -82,7 +82,7 @@
 
 }
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
 
     /*iphone6/7/8*/
 
@@ -101,7 +101,7 @@
 
 }
 
-@media screen and (min-height: 731px) and (max-width: 411px) {
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
     /*pixel*/
 
     .AnchoMK {
@@ -367,7 +367,7 @@ tr {
 
 
 
-@media screen and (max-width: 1107px) {
+@media screen and (max-device-width: 1107px) {
     .TituloElegirMK {
 
         font-size: 7.5vw;
@@ -414,12 +414,14 @@ tr {
 
 .character-thumb:hover:not(.locked):not(.locked)>div:first-child:after {
     border-width: 0 0 20px 20px;
-    border-color: transparent transparent #d38606
+    border-color: transparent transparent #d38606;
 }
 
 .character-thumb:hover:not(.locked) .img-wrapper {
     border-color: #d38606;
-    background: radial-gradient(ellipse at center, #593f13 0, #191105 100%)
+    background: radial-gradient(ellipse at center, #593f13 0, #191105 100%);
+    cursor:pointer;
+
 }
 
 .character-thumb:hover:not(.locked) .img-wrapper img {

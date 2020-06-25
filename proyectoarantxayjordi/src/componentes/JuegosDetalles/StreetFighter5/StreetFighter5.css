@@ -367,21 +367,21 @@
 
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-device-width: 1024px) {
     .TextoPersonajeTituloSF {
         bottom: 3vh;
         margin-top: -1vw;
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-device-width: 1000px) {
     .TextoPersonajeTituloSF {
         bottom: 3vh;
         margin-top: -1vw;
     }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-device-width: 750px) {
     .mifuenteSF {
         font-size: 4vh !important;
 
@@ -455,7 +455,7 @@
 
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-device-width: 750px) {
 
     .NombrePJSOUL {
         font-size: 25px;
@@ -495,7 +495,7 @@
 
 }
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
     /*MotoG4 GalazyG5*/
     .FotoSF {
@@ -526,7 +526,7 @@
 }
 
 /*pruebsssa*/
-@media screen and (min-height: 568px) and (max-width: 320px) {
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
 
     /*iphone5*/
     .AnchoSF {
@@ -537,7 +537,7 @@
 
 }
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
     .RowSF {
         margin-left: 1vw !important;
     }
@@ -563,7 +563,7 @@
 
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
     .RowSF {
         margin-left: -1vw !important;
     }
@@ -591,7 +591,7 @@
     }
 }
 
-@media screen and (min-height: 812px) and (max-width: 375px) {
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
     .FotoSF {
 
         width: 20vw !important;
@@ -612,7 +612,7 @@
 
 
 
-@media screen and (min-height: 1366px) and (max-width: 1024px) {
+@media screen and (min-device-height: 1366px) and (max-device-width: 1024px) {
 
     .AnchoSF {
 
@@ -622,14 +622,14 @@
 
 }
 
-@media screen and (max-height: 1024px) and (min-width: 768px) {
+@media screen and (max-device-height: 1024px) and (min-device-width: 768px) {
     .AnchoSF {
 
         margin-left: 4vw !important;
     }
 }
 
-@media screen and (max-height: 579px) and (min-width: 1240px) {
+@media screen and (max-device-height: 579px) and (min-device-width: 1240px) {
 
     .FotoSF {
         min-width: 90px !important;
@@ -663,7 +663,7 @@
 
 
 
-@media screen and (min-height: 731px) and (max-width: 411px) {
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
 
     /*pixel2*/
     .AnchoSF {
@@ -696,7 +696,7 @@
 
 }
 
-@media screen and (min-height: 823px) and (max-width: 411px) {
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
 
     /*pixel xl*/
     .RowSF {
@@ -731,6 +731,6 @@
 
 
 
-@media screen and (min-width: 1025px) {}
+@media screen and (min-device-width: 1025px) {}
 
-@media screen and (max-width: 1024px) {}
+@media screen and (max-device-width: 1024px) {}

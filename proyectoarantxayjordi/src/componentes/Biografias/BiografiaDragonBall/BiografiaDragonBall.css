@@ -98,7 +98,7 @@ margin-right: 9vw!important;
 
 
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
     .BioNombreBD{
         font-size: 11vw;
         padding-top: 3vw;
@@ -152,7 +152,7 @@ font-size: 3vw;
 
 }
 
-@media screen and (min-height: 731px) and (max-width: 411px) {
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
 
     /*pixel*/
     .BioNombreBD{
@@ -204,7 +204,7 @@ font-size: 3vw;
 }
 
 
-@media screen and (min-height: 568px) and (max-width: 320px) {
+@media screen and (max-device-height: 568px) and (max-device-width: 320px) {
 
     /*iphone5*/
     .BioNombreBD{
@@ -255,7 +255,7 @@ font-size: 3vw;
         float: none;}
 }
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (max-device-height: 736px) and (max-device-width: 414px) {
 
     /*iphone6/7/8*/
     .BioNombreBD{
@@ -309,7 +309,7 @@ font-size: 3vw;
 
     }
 }
-@media screen and (min-height: 1024px) and (max-width: 768px) {
+@media screen and (max-device-height: 1024px) and (max-device-width: 768px) {
 
     .BioImgBD{
         height: 62vw;
@@ -343,7 +343,7 @@ font-size: 3vw;
 }
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (max-device-height: 667px) and (max-device-width: 375px) {
 
     /*iphone6/7/8*/
     .BioNombreBD{
@@ -397,7 +397,7 @@ font-size: 3vw;
     }
 }
 
-@media screen and (min-height: 812px) and (max-width: 375px) {
+@media screen and (max-device-height: 812px) and (max-device-width: 375px) {
 
     /*iphone X*/
     .BioNombreBD{

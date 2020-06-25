@@ -120,7 +120,7 @@
 
 
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
     .iconoGB {
         margin-left: 2vw;
@@ -182,7 +182,7 @@
 
 
 
-@media screen and (min-height: 731px) and (max-width: 411px) {
+@media screen and (min-device-height: 731px) and (max-device-width: 411px) {
 
     /*pixel*/
     .iconoGB {
@@ -244,7 +244,7 @@
 }
 
 
-@media screen and (min-height: 568px) and (max-width: 320px) {
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
 
     /*iphone5*/
     .iconoGB {
@@ -305,7 +305,7 @@
     }
 }
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
 
     /*iphone6/7/8*/
     .iconoGB {
@@ -366,7 +366,7 @@
     }
 }
 
-@media screen and (min-height: 1024px) and (max-width: 768px) {
+@media screen and (min-device-height: 1024px) and (max-device-width: 768px) {
 
 
     .BIOCentrarColDivGB {
@@ -426,7 +426,7 @@ min-width: 50%;
 }
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
 
     /*iphone6/7/8*/
     .iconoGB {
@@ -487,7 +487,7 @@ min-width: 50%;
     }
 }
 
-@media screen and (min-height: 812px) and (max-width: 375px) {
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
 
     /*iphone X*/
     .iconoGB {

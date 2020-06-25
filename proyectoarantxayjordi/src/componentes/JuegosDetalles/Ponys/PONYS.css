@@ -148,7 +148,7 @@
     color: white;
 }
 
-@media screen and (max-width: 1107px) {
+@media screen and (max-device-width: 1107px) {
     .ImagenPonysReponsive {
         display: block !important;
 
@@ -225,7 +225,7 @@
 
 
 
-@media screen and (max-height: 1366px) and (max-width:1024px) {
+@media screen and (max-device-height: 1366px) and (max-device-width:1024px) {
 
 
     .imgAtaquePN {
@@ -249,7 +249,7 @@
 
 
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
     /*MotoG4 GalazyG5*/
     .AnchoPonys {
@@ -262,7 +262,7 @@
 }
 
 /*pruebsssa*/
-@media screen and (min-height: 568px) and (max-width: 320px) {
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
 
     /*iphone5*/
     .BotonPonys {
@@ -270,7 +270,7 @@
     }
 }
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
 
     /*iphone6/7/8*/
     .colorFondoAtaquesPonys {
@@ -301,7 +301,7 @@
 
 
 
-@media screen and (max-height: 667px) and (max-width: 375px) {
+@media screen and (max-device-height: 667px) and (max-device-width: 375px) {
 
     /*iphone6/7/8*/
     .colorFondoAtaquesPonys {
@@ -326,7 +326,7 @@
 
 }
 
-@media screen and (max-height: 812px) and (max-width: 375px) {
+@media screen and (max-device-height: 812px) and (max-device-width: 375px) {
 
     /*iphone X*/
 
@@ -336,7 +336,7 @@
 
 
 
-@media screen and (max-height: 731px) and (max-width: 411px) {
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
 
     /*pixel2 */
     .colorFondoAtaquesPonys {
@@ -364,7 +364,7 @@
 
 }
 
-@media screen and (max-height: 823px) and (max-width: 411px) {
+@media screen and (max-device-height: 823px) and (max-device-width: 411px) {
 
     /*Pixel plus*/
     .colorFondoAtaquesPonys {

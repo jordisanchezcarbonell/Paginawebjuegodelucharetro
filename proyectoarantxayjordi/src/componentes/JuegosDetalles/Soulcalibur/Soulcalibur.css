@@ -175,7 +175,7 @@ margin-left: -3vw;
 
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-device-width: 750px) {
 
     .NombrePJSOUL {
         font-size: 25px;
@@ -215,7 +215,7 @@ margin-left: -3vw;
 
 }
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
     /*MotoG4 GalazyG5*/
 
@@ -256,7 +256,7 @@ margin-left: -3vw;
 }
 
 /*pruebsssa*/
-@media screen and (min-height: 568px) and (max-width: 320px) {
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
 
 
 
@@ -283,7 +283,7 @@ margin-left: -3vw;
 }
 
 
-@media screen and (max-height: 731px) and (min-width: 411px) {
+@media screen and (max-device-height: 731px) and (min-device-width: 411px) {
     .fotoCharacterSOUL {
 
         height: 15% !important;
@@ -293,7 +293,7 @@ margin-left: -3vw;
 
 
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
     }
@@ -326,7 +326,7 @@ margin-left: -3vw;
 
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
     }
@@ -360,7 +360,7 @@ margin-left: -3vw;
 
 
 
-@media screen and (min-height: 812px) and (max-width: 375px) {
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
     }
@@ -380,7 +380,7 @@ margin-left: -3vw;
 
 
 
-@media screen and (min-height: 1366px) and (max-width: 1024px) {
+@media screen and (min-device-height: 1366px) and (max-device-width: 1024px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
     }
@@ -406,7 +406,7 @@ margin-left: -3vw;
     }
 }
 
-@media screen and (min-height: 1024px) and (max-width: 768px) {
+@media screen and (min-device-height: 1024px) and (max-device-width: 768px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
 
@@ -439,7 +439,7 @@ margin-left: -3vw;
 }
 
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (max-device-height: 823px) and (min-device-width: 411px) {
     .ContainerSeparacionSOUL {
         min-width: 100%;
     }
@@ -456,6 +456,6 @@ margin-left: -3vw;
 }
 
 
-@media screen and (min-width: 1025px) {}
+@media screen and (min-device-width: 1025px) {}
 
-@media screen and (max-width: 1024px) {}
+@media screen and (max-device-width: 1024px) {}

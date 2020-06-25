@@ -170,7 +170,7 @@ filter: sepia(60%);
 */
 
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
     /*MotoG4 GalazyG5*/
     .FotoMC {
@@ -199,7 +199,7 @@ filter: sepia(60%);
 }
 
 /*pruebsssa*/
-@media screen and (min-height: 568px) and (max-width: 320px) {
+@media screen and (min-device-height: 568px) and (max-device-width: 320px) {
 
     /*iphone5*/
     .DivFotoMC {
@@ -226,7 +226,7 @@ filter: sepia(60%);
     }
 }
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
 
     /*iphone6/7/8*/
     .DivFotoMC {
@@ -256,7 +256,7 @@ filter: sepia(60%);
 
 
 
-@media screen and (max-height: 731px) and (min-width: 411px) {
+@media screen and (max-device-height: 731px) and (min-device-width: 411px) {
 
     /*pixel*/
     .colPrimeraMarvel {
@@ -267,7 +267,7 @@ filter: sepia(60%);
 
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
 
     /*iphone6/7/8*/
     .DivFotoMC {
@@ -295,7 +295,7 @@ filter: sepia(60%);
     }
 }
 
-@media screen and (min-height: 812px) and (max-width: 375px) {
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
 
     /*iphone X*/
     .DivFotoMC {
@@ -327,7 +327,7 @@ filter: sepia(60%);
 
 
 
-@media screen and (max-height: 1366px) and (min-width: 1024px) {
+@media screen and (max-device-height: 1366px) and (min-device-width: 1024px) {
     .tablaanchuraMC {
 
         width: 190% !important;
@@ -353,7 +353,7 @@ filter: sepia(60%);
     list-style: none;
 }
 
-@media screen and (max-height: 1024px) and (min-width: 768px) {
+@media screen and (max-device-height: 1024px) and (min-device-width: 768px) {
 
 
 
@@ -376,7 +376,7 @@ filter: sepia(60%);
 }
 
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (max-device-height: 823px) and (min-device-width: 411px) {
 
     /*PixelXL*/
     .DivFotoMC {
@@ -411,7 +411,7 @@ filter: sepia(60%);
 }
 
 
-@media screen and (min-width: 1025px) {
+@media screen and (min-device-width: 1025px) {
     .colPrimeraMarvel {
         margin-left: -1%;
 
@@ -433,7 +433,7 @@ filter: sepia(60%);
 
     .RowMC {
 
-        margin-left: 1.5rem !important;
+        margin-left: 0.5rem !important;
     }
 
     .DivFotoMC {
@@ -442,7 +442,7 @@ filter: sepia(60%);
 
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-device-width: 1024px) {
     .mifuenteMVC {
         font-size: 4vh !important;
 
