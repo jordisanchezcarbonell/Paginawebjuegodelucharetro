@@ -1,4 +1,4 @@
-@media screen and (max-width: 750px) {
+@media screen and (max-device-width: 750px) {
     .BotonGB {
 
         margin-left: 0vw !important;
@@ -66,7 +66,7 @@
 }
 
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
     .BotonGB {
 
         margin-left: 0vw !important;
@@ -85,7 +85,7 @@
     }
 }
 
-@media screen and (max-height: 731px) and (max-width: 411px) {
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
 
     /*pixel2*/
     .products {
@@ -107,7 +107,7 @@
 
 }
 
-@media screen and (max-height: 823px) and (min-width: 411px) {
+@media screen and (max-device-height: 823px) and (min-device-width: 411px) {
 
     .products {
         margin-left: 7vw !important;
@@ -125,7 +125,7 @@
 }
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
 
     .products {
         margin-left: 7vw !important;
@@ -151,7 +151,7 @@
 
     padding:0!important;
 }*/
-@media screen and (min-width:1025px) {
+@media screen and (min-device-width:1025px) {
     .tablaGBP1 {
         margin-left: -3vw !important;
         margin-right: 1vw !important;
@@ -180,7 +180,7 @@
 
 }
 
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
     .products {
         margin-left: 7vw !important;
     }
@@ -195,20 +195,20 @@
 
 /*
 
-@media (min-width:360px) {
+@media (min-device-width:360px) {
     .container {
         max-width: 340px
     }
 }
 
-@media (min-width:375px) {
+@media (min-device-width:375px) {
     .container {
         max-width: 360px
     }
 }
 
 
-@media (min-width:576px) {
+@media (min-device-width:576px) {
     .container {
         max-width: 540px
     }
@@ -220,31 +220,31 @@
     }
 }
 
-@media (min-width:992px) {
+@media (min-device-width:992px) {
     .container {
         max-width: 960px
     }
 }
 
-@media (min-width:1200px) {
+@media (min-device-width:1200px) {
     .container {
         max-width: 1140px
     }
 }
 
-@media (min-width:1440px) {
+@media (min-device-width:1440px) {
     .container {
         max-width: 1280px
     }
 }
 
-@media (min-width:1600px) {
+@media (min-device-width:1600px) {
     .container {
         max-width: 1540px
     }
 }
 
-@media (min-width:1920px) {
+@media (min-device-width:1920px) {
     .container {
         max-width: 1880px
     }
@@ -450,9 +450,9 @@
 }
 
 
-@media screen and (max-height: 579px) and (min-width: 1240px) {
+@media screen and (max-device-height: 579px) and (min-device-width: 1240px) {
     .products {
-        margin-left: 10vw !important;
+        margin-left: 9vw !important;
     }
 
     .anchoGB {
@@ -465,8 +465,26 @@
     .contGB{
         margin-left: 10vw!important;
     }
-
 }
+    @media screen and (max-height: 579px) and (min-width: 1240px) {
+        .products {
+            margin-left: 9vw !important;
+        }
+    
+        .anchoGB {
+    
+    
+            width: 81% !important;
+            margin-left: 1vw !important;
+            margin-right: 2vw !important;
+        }
+        .contGB{
+            margin-left: 10vw!important;
+        }
+    
+    }
+
+
 
 .DivBotonGB {
 

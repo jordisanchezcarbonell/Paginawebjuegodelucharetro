@@ -52,7 +52,7 @@
 
 
 
-@media screen and (max-width: 1024px) and (min-height: 1366px) {
+@media screen and (max-device-width: 1024px) and (min-device-height: 1366px) {
 
 
   .AnchoKI {
@@ -72,7 +72,7 @@
 
 }
 
-@media screen and (max-height: 640px) and (max-width: 360px) {
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
 
   /*MotoG4 GalazyG5*/
    .AnchoKI{
@@ -101,7 +101,7 @@
 
 }
 
-@media screen and (max-height: 731px) and (max-width: 411px) {
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
   /*pixel*/
   .AnchoKI{
 
@@ -132,7 +132,7 @@
    
 
 }
-@media screen and (min-height: 736px) and (max-width: 414px) {
+@media screen and (min-device-height: 736px) and (max-device-width: 414px) {
 
   .AnchoKI{
 
@@ -159,7 +159,7 @@
 
 
 }
-@media screen and (min-height: 823px) and (max-width: 411px) {
+@media screen and (min-device-height: 823px) and (max-device-width: 411px) {
   /*pixel xl*/
 
   .AnchoKI{
@@ -188,7 +188,7 @@
 
 }
 
-@media screen and (max-height: 568px) and (min-width: 320px) {
+@media screen and (max-device-height: 568px) and (min-device-width: 320px) {
   /*iphone5*/
 
   /* .AnchoKI{
@@ -208,7 +208,7 @@
 }
 
 
-@media screen and (min-height: 667px) and (max-width: 375px) {
+@media screen and (min-device-height: 667px) and (max-device-width: 375px) {
 
   /*iphone6/7/8*/
   /*  .AnchoKI{
@@ -226,7 +226,7 @@
 
 }
 
-@media screen and  (max-height: 812px) {
+@media screen and  (max-device-height: 812px) {
 
 
 
@@ -236,7 +236,7 @@
 
   margin-bottom:-2vw!important;
 }
-@media screen and (min-height: 812px) and (max-width: 375px) {
+@media screen and (min-device-height: 812px) and (max-device-width: 375px) {
 
   .AnchoKI {
 
@@ -267,7 +267,7 @@
    
 
 }
-@media screen and (max-width: 768px) and (min-height: 1024px) {
+@media screen and (max-device-width: 768px) and (min-device-height: 1024px) {
 
   .AnchoKI {
 
@@ -311,7 +311,7 @@ margin-bottom: -6vw!important;
   display: none;
 }*/
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-device-width: 1024px) {
   .esconder {
     display: none !important;
     justify-content: center !important;
@@ -450,7 +450,7 @@ margin-top: -0.5vw!important;  }
 }
 
 /*
-@media screen and (max-width: 1027px) {
+@media screen and (max-device-width: 1027px) {
   .tamañodelaiamgen {
     height: 50vh !important;
   }
