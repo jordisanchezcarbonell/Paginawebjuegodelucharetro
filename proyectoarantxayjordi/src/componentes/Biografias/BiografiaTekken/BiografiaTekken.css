@@ -80,7 +80,7 @@
 
 .BioImgTK {
 
-    height: 35vw;
+    height: 50vw;
     padding-bottom: 0vw !important;
 
 }
@@ -378,7 +378,9 @@
     }
 
     .BioImgTK {
-        height: 40vw;
+        height: 75vw;
+        margin-left: -10vw;
+        margin-top: 20vw;
     }
 
     .iconoTK {
@@ -390,6 +392,7 @@
 
 
 }
+
 
 
 @media screen and (min-height: 667px) and (max-width: 375px) {

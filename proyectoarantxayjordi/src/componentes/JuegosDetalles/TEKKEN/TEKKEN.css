@@ -23,8 +23,8 @@
 }
 
 .DivBotonTK {
-    margin-right: -40vw;
-    margin-top: -8vw !important;
+    margin-right: -50vw;
+    margin-top: 0vw !important;
     float: right;
 
 }
@@ -52,16 +52,19 @@
 @media screen and (max-width: 1024px) and (min-height: 1366px) {
 
 
-
     .fondoTablaTK {
-        width: 200% !important;
-        margin-left: -15vw !important;
+        width: 250% !important;
+        margin-left: -4vw !important;
     }
 
     .colorFondoAtaquesTK {
 
 
         font-size: 3vw !important;
+    }
+    .DivBotonTK{
+        margin-left: -4vw !important;
+
     }
 }
 
@@ -70,14 +73,18 @@
 
     /*ipad*/
     .fondoTablaTK {
-        width: 200% !important;
-        margin-left: -15vw !important;
+        width: 250% !important;
+        margin-left: -2vw !important;
     }
 
     .colorFondoAtaquesTK {
 
 
         font-size: 3vw !important;
+    }
+    .DivBotonTK{
+        margin-left: -4vw !important;
+
     }
 
 }
@@ -435,6 +442,7 @@
     transform: scale(1.15) !important;
 
     transform: scale(1.05) !important;
+    cursor: pointer;
 }
 
 
