@@ -380,7 +380,8 @@ class UnderNight extends React.Component {
           </Row>
         </div>
 
-        <div className="DivBDFONDOUN ">
+        {/* <div className="DivBDFONDOUN "> */}
+        <div className=" ">
           <div className="w-100 mt-4 ">
             <Container className=" pt-1 containerUN ">
               <h3 className="TextoTituloUN   mx-auto">Character Select</h3>
@@ -402,15 +403,19 @@ class UnderNight extends React.Component {
                         key={personaje.Nombre}
                       >
                         <div className="w-100 divFOTOUN">
+                          <div className="DivFotoUnder">
                           <Image
-                            className="FotoUB Personaje"
+                            className="FotoUB "
                             onClick={() => this.showContent(index)}
                             src={process.env.PUBLIC_URL + personaje.Foto}
                             alt="imagen personaje"
                             fluid
                           ></Image>
-
+                        
+                        <div className="divTectoUnder">
                           <h3 className="puebaNombre">{personaje.Nombre}</h3>
+                          </div>
+                          </div>
                         </div>
 
                         <div>
