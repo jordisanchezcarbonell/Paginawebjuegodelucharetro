@@ -167,13 +167,14 @@
 
     .products {
         margin-left: 17vw !important;
-    
+
 
 
     }
-    .contGB{
-        margin-left: auto!important;
-        margin-right: auto!important;
+
+    .contGB {
+        margin-left: auto !important;
+        margin-right: auto !important;
 
 
     }
@@ -411,11 +412,12 @@
     border-radius: 100 !important;
 }
 
+/*
 .unskew:hover {
     width: 170px;
     min-width: 170px;
     height: auto;
-    /*background: #303030;*/
+    /*background: #303030;
 
 }
 
@@ -424,6 +426,24 @@
     width: 170px;
     min-width: 170px;
     color: #000;
+
+}
+*/
+.unskew:hover {
+    -webkit-transform: scale(1.0);
+    -moz-transform: scale(1.0);
+    -ms-transform: scale(1.0);
+    transform: scale(1.0);
+    /*background: #303030;*/
+
+}
+
+.unskew.active,
+.unskew.active:hover {
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.5);
 
 }
 
@@ -462,27 +482,30 @@
         margin-left: 1vw !important;
         margin-right: 2vw !important;
     }
-    .contGB{
-        margin-left: 10vw!important;
+
+    .contGB {
+        margin-left: 10vw !important;
     }
 }
-    @media screen and (max-height: 579px) and (min-width: 1240px) {
-        .products {
-            margin-left: 9vw !important;
-        }
-    
-        .anchoGB {
-    
-    
-            width: 81% !important;
-            margin-left: 1vw !important;
-            margin-right: 2vw !important;
-        }
-        .contGB{
-            margin-left: 10vw!important;
-        }
-    
+
+@media screen and (max-height: 579px) and (min-width: 1240px) {
+    .products {
+        margin-left: 9vw !important;
     }
+
+    .anchoGB {
+
+
+        width: 81% !important;
+        margin-left: 1vw !important;
+        margin-right: 2vw !important;
+    }
+
+    .contGB {
+        margin-left: 10vw !important;
+    }
+
+}
 
 
 
