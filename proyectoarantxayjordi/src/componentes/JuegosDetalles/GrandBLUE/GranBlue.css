@@ -167,6 +167,14 @@
 
     .products {
         margin-left: 17vw !important;
+    
+
+
+    }
+    .contGB{
+        margin-left: auto!important;
+        margin-right: auto!important;
+
 
     }
 
@@ -253,7 +261,7 @@
 .products {
     width: 90%;
     max-width: 1000px;
-    margin: 5% auto 0 auto;
+    margin: 6% auto 0 auto;
     padding: 20px 1%;
     color: #fff;
     background: linear-gradient(#990000, #cc0000);
@@ -444,7 +452,7 @@
 
 @media screen and (max-height: 579px) and (min-width: 1240px) {
     .products {
-        margin-left: 7vw !important;
+        margin-left: 10vw !important;
     }
 
     .anchoGB {
@@ -454,12 +462,17 @@
         margin-left: 1vw !important;
         margin-right: 2vw !important;
     }
+    .contGB{
+        margin-left: 10vw!important;
+    }
 
 }
 
 .DivBotonGB {
 
-    margin-top: 3vw !important;
+    margin-top: 1vw !important;
+    margin-bottom: 1vw !important;
+
 
 }
 

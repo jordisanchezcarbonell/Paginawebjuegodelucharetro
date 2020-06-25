@@ -125,7 +125,7 @@
     .iconoGB {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 7vw;
     }
 
     .BIOCentrarColDivGB {
@@ -135,28 +135,32 @@
     }
 
     .DivIconGB {
-        height: 6vw;
+        height: 8vw;
+        padding-right: 1.5vw;
     }
 
     .BioNombreGB {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloGB {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDescGB {
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
 
     .BIOtitulocombosGB {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgGB {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        min-height: 125vw!important;
+
     }
 
     .derechaGB {
@@ -184,7 +188,7 @@
     .iconoGB {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 7vw;
     }
 
     .BIOCentrarColDivGB {
@@ -194,28 +198,32 @@
     }
 
     .DivIconGB {
-        height: 6vw;
+        height: 8vw;
+        padding-right: 1.5vw;
     }
 
     .BioNombreGB {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloGB {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDescGB {
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
 
     .BIOtitulocombosGB {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgGB {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        min-height: 125vw!important;
+
     }
 
     .derechaGB {
@@ -242,7 +250,7 @@
     .iconoGB {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 7vw;
     }
 
     .BIOCentrarColDivGB {
@@ -252,28 +260,32 @@
     }
 
     .DivIconGB {
-        height: 6vw;
+        height: 8vw;
+        padding-right: 1.5vw;
     }
 
     .BioNombreGB {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloGB {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDescGB {
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
 
     .BIOtitulocombosGB {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgGB {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        min-height: 125vw!important;
+
     }
 
     .derechaGB {
@@ -299,7 +311,7 @@
     .iconoGB {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 7vw;
     }
 
     .BIOCentrarColDivGB {
@@ -309,28 +321,32 @@
     }
 
     .DivIconGB {
-        height: 6vw;
+        height: 8vw;
+        padding-right: 1.5vw;
     }
 
     .BioNombreGB {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloGB {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDescGB {
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
 
     .BIOtitulocombosGB {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgGB {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        min-height: 125vw!important;
+
     }
 
     .derechaGB {
@@ -352,20 +368,22 @@
 
 @media screen and (min-height: 1024px) and (max-width: 768px) {
 
-    .iconoGB {
-        margin-left: 2vw;
-        margin-bottom: 3vw;
-        font-size: 5vw;
-    }
 
     .BIOCentrarColDivGB {
-        height: auto;
-
-        margin-left: auto;
+margin-right: -3vw!important;
+margin-left: 7vw;
+padding-bottom: 2vw;
+min-width: 50%;
     }
 
+
+
+
+
+   
+
     .DivIconGB {
-        height: 6vw;
+        height: 4.5vw;
     }
 
     .BioNombreGB {
@@ -377,7 +395,7 @@
     }
 
     .BioDescGB {
-        font-size: 3vw;
+        font-size: 2.3vw;
     }
 
     .BIOtitulocombosGB {
@@ -414,7 +432,7 @@
     .iconoGB {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 7vw;
     }
 
     .BIOCentrarColDivGB {
@@ -424,28 +442,32 @@
     }
 
     .DivIconGB {
-        height: 6vw;
+        height: 8vw;
+        padding-right: 1.5vw;
     }
 
     .BioNombreGB {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloGB {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDescGB {
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
 
     .BIOtitulocombosGB {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgGB {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        min-height: 125vw!important;
+
     }
 
     .derechaGB {
@@ -471,7 +493,7 @@
     .iconoGB {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 7vw;
     }
 
     .BIOCentrarColDivGB {
@@ -481,28 +503,32 @@
     }
 
     .DivIconGB {
-        height: 6vw;
+        height: 8vw;
+        padding-right: 1.5vw;
     }
 
     .BioNombreGB {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloGB {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDescGB {
-        font-size: 6vw;
+        font-size: 4.5vw;
     }
 
     .BIOtitulocombosGB {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgGB {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        min-height: 125vw!important;
+
     }
 
     .derechaGB {

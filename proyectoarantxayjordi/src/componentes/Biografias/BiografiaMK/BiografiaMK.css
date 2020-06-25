@@ -138,7 +138,7 @@
     .iconoMK {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 8vw;
     }
 
     .BIOCentrarColDivGB {
@@ -148,28 +148,33 @@
     }
 
     .DivIconMK {
-        height: 6vw;
+        height: 9vw;
+        padding-right: 1.5vw;
+
     }
 
     .BioNombreMK {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloMK {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDesMK {
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .BIOtitulocombosMK {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgMK {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        height: 120vw;
+        margin-left: -30vw;
     }
 
     .derechaMK {
@@ -197,7 +202,7 @@
     .iconoMK {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 8vw;
     }
 
     .BIOCentrarColDivGB {
@@ -207,28 +212,33 @@
     }
 
     .DivIconMK {
-        height: 6vw;
+        height: 9vw;
+        padding-right: 1.5vw;
+
     }
 
     .BioNombreMK {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloMK {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDesMK {
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .BIOtitulocombosMK {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgMK {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        height: 120vw;
+        margin-left: -30vw;
     }
 
     .derechaMK {
@@ -255,7 +265,7 @@
     .iconoMK {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 8vw;
     }
 
     .BIOCentrarColDivGB {
@@ -265,28 +275,33 @@
     }
 
     .DivIconMK {
-        height: 6vw;
+        height: 9vw;
+        padding-right: 1.5vw;
+
     }
 
     .BioNombreMK {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloMK {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDesMK {
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .BIOtitulocombosMK {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgMK {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        height: 120vw;
+        margin-left: -30vw;
     }
 
     .derechaMK {
@@ -312,7 +327,7 @@
     .iconoMK {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 8vw;
     }
 
     .BIOCentrarColDivGB {
@@ -322,28 +337,33 @@
     }
 
     .DivIconMK {
-        height: 6vw;
+        height: 9vw;
+        padding-right: 1.5vw;
+
     }
 
     .BioNombreMK {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloMK {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDesMK {
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .BIOtitulocombosMK {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgMK {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        height: 120vw;
+        margin-left: -30vw;
     }
 
     .derechaMK {
@@ -427,7 +447,7 @@
     .iconoMK {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 8vw;
     }
 
     .BIOCentrarColDivGB {
@@ -437,28 +457,33 @@
     }
 
     .DivIconMK {
-        height: 6vw;
+        height: 9vw;
+        padding-right: 1.5vw;
+
     }
 
     .BioNombreMK {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloMK {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDesMK {
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .BIOtitulocombosMK {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgMK {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        height: 120vw;
+        margin-left: -30vw;
     }
 
     .derechaMK {
@@ -475,8 +500,7 @@
         margin-left: 2vw;
 
         float: none;
-    }
-}
+    }}
 
 @media screen and (min-height: 812px) and (max-width: 375px) {
 
@@ -484,7 +508,7 @@
     .iconoMK {
         margin-left: 2vw;
         margin-bottom: 3vw;
-        font-size: 5vw;
+        font-size: 8vw;
     }
 
     .BIOCentrarColDivGB {
@@ -494,28 +518,33 @@
     }
 
     .DivIconMK {
-        height: 6vw;
+        height: 9vw;
+        padding-right: 1.5vw;
+
     }
 
     .BioNombreMK {
-        font-size: 6vw;
+        font-size: 12vw;
     }
 
     .BiotituloMK {
-        font-size: 6vw;
+        font-size: 8vw;
     }
 
     .BioDesMK {
-        font-size: 6vw;
+        font-size: 5vw;
     }
 
     .BIOtitulocombosMK {
-        font-size: 6vw;
+        font-size: 8vw;
+        width: 40%;
     }
 
     .BioImgMK {
         margin-top: 4vw;
         margin-bottom: 4vw;
+        height: 120vw;
+        margin-left: -30vw;
     }
 
     .derechaMK {
