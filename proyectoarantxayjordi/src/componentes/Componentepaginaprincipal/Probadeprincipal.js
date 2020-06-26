@@ -58,11 +58,12 @@ class Probadeprincipal extends React.Component {
 
                 <p>
                   Somos dos personas que nuestro objetivo es dedicamos ,creacion
-                  paginas, mantenimientto de paginas web cualquier cliente. Para
-                  darnos a conocer , ya que nuestra aficion son los juegos de
-                  lucha hemos creado esta web con react para poder enseñar que
-                  podemos hacer, si os interesa nuestro trabajo, podeis ver esta
-                  web : o enviarnos un correo a :
+                  paginas, mantenimientto de paginas web cualquier cliente nos
+                  llamamos Adinox. Para darnos a conocer , ya que nuestra
+                  aficion son los juegos de lucha hemos creado esta web con
+                  react para poder enseñar que podemos hacer, si os interesa
+                  nuestro trabajo, podeis ver esta web : o enviarnos un correo a
+                  :
                 </p>
 
                 <div>

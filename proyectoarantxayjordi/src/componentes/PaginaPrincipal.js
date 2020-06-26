@@ -154,6 +154,8 @@ export class Footer extends React.Component {
           &copy; {new Date().getFullYear()} Mi Proyecto, Inc. &middot;{" "}
           <a href="#">Política de Privacidad</a> &middot;{" "}
           <a href="#">Términos</a>
+          <a> © 2020, Adinox 2020</a>
+          <a> contacto:Ejemplo@gmail.com</a>
         </p>
       </footer>
     );
