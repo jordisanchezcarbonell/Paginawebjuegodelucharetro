@@ -58,20 +58,21 @@ export class PaginaPrincipal extends Component {
                   height="110vw"
                 ></img>
               </ReactBootstrap.Navbar.Brand>
+              <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav "  />
+              <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav "   >
               <ReactBootstrap.Navbar.Brand
                 href="/PaginaJuegos"
                 className="textonaV w-100"
               >
                 Juegos
               </ReactBootstrap.Navbar.Brand>
-              <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav" />
-              <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav">
+          
                 <ReactBootstrap.Nav className="ml-auto textonaV">
                   <ReactBootstrap.NavDropdown
                     title="Plataformas"
                     id="basic-nav-dropdown"
                   >
-                    <ReactBootstrap.NavDropdown.Item href="#action/3.1">
+                    <ReactBootstrap.NavDropdown.Item href="#action/3.1"   >
                       Action
                     </ReactBootstrap.NavDropdown.Item>
                     <ReactBootstrap.NavDropdown.Item href="#action/3.2">
