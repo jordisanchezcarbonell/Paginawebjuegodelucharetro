@@ -119,8 +119,9 @@ filter: sepia(60%);
 .mifuenteataquesMVC {
     font-size: 1.1vw !important;
 }
-.margendelbotoonMK{
-    margin-bottom: 10vw;
+
+.margendelbotoonMK {
+    margin-bottom: 2vw;
     background: none;
 }
 
@@ -563,7 +564,8 @@ filter: sepia(60%);
     font-weight: lighter !important;
 
 }
-.botonMC{
+
+.botonMC {
     border: 1px #a78d50 solid;
     background: rgba(0, 0, 0, 0.555);
     font-size: 2vh !important;
@@ -575,7 +577,7 @@ filter: sepia(60%);
     font-weight: lighter !important;
     padding: 1vw;
     width: 80%;
-    
+
 }
 
 .fondoTablaMC {

@@ -31,7 +31,6 @@ class Child extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
-
   };
 
   state = {
@@ -268,6 +267,7 @@ class MarvelVSCapcom extends React.Component {
       isItemContentVisible: {},
       numChildren: 0,
     };
+    console.log(props);
   }
   renderContent() {
     const newLocal = this.state;
@@ -399,6 +399,22 @@ class MarvelVSCapcom extends React.Component {
           <div className="w-100 mt-4 mb-4 ">
             <Container className="w-100 mx-auto   ">
               <h3 className="LetraTituloMC  w-100 mb-4">Character Select</h3>
+
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+                className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+              >
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">See Tierlist</button>
+                </div>
+              </Link>
+
               <Row className=" w-100 stage  containerMV RowMC">
                 <div
                   className="col-md-10 mx-auto navMC borderBotBD   "

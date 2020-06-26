@@ -17,6 +17,7 @@ import BiografiaDragonBall from "./Biografias/BiografiaDragonBall/BiografiaDrago
 
 import BiografiaTekken from "./Biografias/BiografiaTekken/BiografiaTekken";
 import BiografiaSoul from "./Biografias/BiografiaSoul/BiografiaSoul";
+import TierList from "./TierList/TierList";
 
 import BiografiaStreetfighter from "./Biografias/BiografiaStreetfighter/BiografiaStreetfighter";
 import BiografiaGranBlue from "./Biografias/BiografiaGranBlue/BiografiaGranBlue";
@@ -58,21 +59,21 @@ export class PaginaPrincipal extends Component {
                   height="110vw"
                 ></img>
               </ReactBootstrap.Navbar.Brand>
-              <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav "  />
-              <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav "   >
-              <ReactBootstrap.Navbar.Brand
-                href="/PaginaJuegos"
-                className="textonaV w-100"
-              >
-                Juegos
-              </ReactBootstrap.Navbar.Brand>
-          
+              <ReactBootstrap.Navbar.Toggle aria-controls="basic-navbar-nav " />
+              <ReactBootstrap.Navbar.Collapse id="basic-navbar-nav ">
+                <ReactBootstrap.Navbar.Brand
+                  href="/PaginaJuegos"
+                  className="textonaV w-100"
+                >
+                  Juegos
+                </ReactBootstrap.Navbar.Brand>
+
                 <ReactBootstrap.Nav className="ml-auto textonaV">
                   <ReactBootstrap.NavDropdown
                     title="Plataformas"
                     id="basic-nav-dropdown"
                   >
-                    <ReactBootstrap.NavDropdown.Item href="#action/3.1"   >
+                    <ReactBootstrap.NavDropdown.Item href="#action/3.1">
                       Action
                     </ReactBootstrap.NavDropdown.Item>
                     <ReactBootstrap.NavDropdown.Item href="#action/3.2">
@@ -92,7 +93,6 @@ export class PaginaPrincipal extends Component {
             <Switch>
               {/* Rutas de las paginas */}
               <Route exact path="/" component={Probadeprincipal} />
-
               <Route path="/PaginaPrincipal" component={Probadeprincipal} />
               <Route path="/PaginaPlataformas">
                 <PaginaPlataformas />
@@ -114,10 +114,8 @@ export class PaginaPrincipal extends Component {
                 path="/BiografiaUndernight"
                 component={BiografiaUndernight}
               />
-
               <Route path="/BiografiaTekken" component={BiografiaTekken} />
               <Route path="/BiografiaSoul" component={BiografiaSoul} />
-
               <Route
                 path="/BiografiaStreetfighter"
                 component={BiografiaStreetfighter}
@@ -128,6 +126,7 @@ export class PaginaPrincipal extends Component {
               />
               <Route path="/BiografiaGranBlue" component={BiografiaGranBlue} />
               <Route path="/BiografiaMK" component={BiografiaMK} />
+              <Route path="/TierList" component={TierList} />
             </Switch>
           </div>
         </Router>
