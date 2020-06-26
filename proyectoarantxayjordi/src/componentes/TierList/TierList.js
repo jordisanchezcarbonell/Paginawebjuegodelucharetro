@@ -3,7 +3,6 @@ import React from "react";
 import "./TierList.css";
 
 import { withRouter } from "react-router-dom";
-import { Row, Col } from "reactstrap";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Table from "react-bootstrap/Table";

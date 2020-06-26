@@ -1,8 +1,6 @@
 import React from "react";
 import "./PaginaPrincipal.css";
-import Card from "react-bootstrap/Card";
-import CardDeck from "react-bootstrap/CardDeck";
-import { Link } from "react-router-dom";
+
 import { Container, Row, Col } from "reactstrap";
 
 class Probadeprincipal extends React.Component {
