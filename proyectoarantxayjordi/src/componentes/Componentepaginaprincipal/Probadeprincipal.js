@@ -11,7 +11,7 @@ class Probadeprincipal extends React.Component {
 
   onClick = (e) => {
     this.setState({
-      showResults: !this.state.showResults,
+      showResults: true,
       name: e.currentTarget.attributes[0].value,
     });
   };
@@ -44,7 +44,12 @@ class Probadeprincipal extends React.Component {
                       display: this.state.showResults ? "block" : "none",
                     }}
                   >
-                    {this.state.name}
+                    <img
+                      className="FotoBracket"
+                      variant="top"
+                      src={process.env.PUBLIC_URL + this.state.name}
+                      alt="Error"
+                    />
                   </div>
                 </div>
               </Col>
@@ -67,10 +72,20 @@ class Probadeprincipal extends React.Component {
 
                   <p>
                     Escoge el juego que deseas ver los resultados.
-                    <h1 onClick={this.onClick} value={"jordi"}>
+                    <h1
+                      onClick={this.onClick}
+                      value={
+                        process.env.PUBLIC_URL + "imagenes/Eliminatoria.jpg"
+                      }
+                    >
                       Juego 1
                     </h1>
-                    <h1>Juego 1</h1>
+                    <h1
+                      onClick={this.onClick}
+                      value={process.env.PUBLIC_URL + "imagenes/elim2.jpg"}
+                    >
+                      Juego 2
+                    </h1>
                     <h1>Juego 1</h1>
                     <h1>Juego 1</h1>
                     <h1>Juego 1</h1>
