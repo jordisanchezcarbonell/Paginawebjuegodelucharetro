@@ -29,7 +29,7 @@ export class PaginaPrincipal extends Component {
   };
   componentDidMount() {
     document.addEventListener("scroll", () => {
-      const backgroundcolor = window.scrollY < 70 ? "white" : "#FFFFFFD9";
+      const backgroundcolor = window.scrollY < 70 ? "white" : "#FFFFFD9";
 
       this.setState({ navBackground: backgroundcolor });
     });
