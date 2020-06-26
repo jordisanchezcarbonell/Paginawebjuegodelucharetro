@@ -12,9 +12,12 @@ class Probadeprincipal extends React.Component {
   onClick = (e) => {
     this.setState({
       showResults: !this.state.showResults,
+      name: e.currentTarget.attributes[0].value,
     });
   };
   render() {
+    console.log(this.state.name);
+
     return (
       <div className="DivPrinc">
         <div>
@@ -41,7 +44,7 @@ class Probadeprincipal extends React.Component {
                       display: this.state.showResults ? "block" : "none",
                     }}
                   >
-                    pruebaa
+                    {this.state.name}
                   </div>
                 </div>
               </Col>
@@ -64,7 +67,9 @@ class Probadeprincipal extends React.Component {
 
                   <p>
                     Escoge el juego que deseas ver los resultados.
-                    <h1 onClick={this.onClick}>Juego 1</h1>
+                    <h1 onClick={this.onClick} value={"jordi"}>
+                      Juego 1
+                    </h1>
                     <h1>Juego 1</h1>
                     <h1>Juego 1</h1>
                     <h1>Juego 1</h1>
