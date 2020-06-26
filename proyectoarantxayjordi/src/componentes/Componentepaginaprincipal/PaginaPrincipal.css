@@ -1,7 +1,14 @@
 .colortextoprincilal {
-    color: black;}
+    color: black;
+}
 
-    .DivPrinc{
+.DivPrinc {
 
-        color: black;
-    }
+    color: black;
+}
+
+
+
+.pruebadeljuego {
+    border: 5px solid red;
+}

@@ -4,77 +4,79 @@ import "./PaginaPrincipal.css";
 import { Container, Row, Col } from "reactstrap";
 
 class Probadeprincipal extends React.Component {
+  state = {
+    name: "",
+    showResults: false,
+  };
+
+  onClick = (e) => {
+    this.setState({
+      showResults: !this.state.showResults,
+    });
+  };
   render() {
     return (
-
-
       <div className="DivPrinc">
+        <div>
+          <Container>
+            <Row>
+              <Col className="col-md-8 RankingGeneral">
+                <div>
+                  <div className="header">
+                    <h1>Ranking</h1>
+                  </div>
 
+                  <p>
+                    Hola sabes que se va hacer la EVO no¿? , en este sitio
+                    podras obtenet toda la informacion de los juegos que se van
+                    a jugar tanto su tierlist,sus moviminetos,sus
+                    curiosidades.... En este apartado podras ir viendo los
+                    resultados de los torneos. Para eso debereis clickear sobre
+                    el juego que os guste
+                  </p>
+                  <div
+                    nameClass="showName"
+                    className="pruebadeljuego"
+                    style={{
+                      display: this.state.showResults ? "block" : "none",
+                    }}
+                  >
+                    pruebaa
+                  </div>
+                </div>
+              </Col>
+              <Col className="col-md-4 QuienesSomos">
+                <h1>Quienes Somos</h1>
 
-<div>
+                <p>
+                  Somos dos personas que nuestro objetivo es dedicamos ,creacion
+                  paginas, mantenimientto de paginas web cualquier cliente. Para
+                  darnos a conocer , ya que nuestra aficion son los juegos de
+                  lucha hemos creado esta web con react para poder enseñar que
+                  podemos hacer, si os interesa nuestro trabajo, podeis ver esta
+                  web : o enviarnos un correo a :
+                </p>
 
-<Container>
+                <div>
+                  <div className="header">
+                    <h1>Lista de juegos</h1>
+                  </div>
 
-  <Row>
-    <Col className="col-md-8 RankingGeneral">
-    <div >
-  <div className="header">
-  <h1>Ranking</h1>
+                  <p>
+                    Escoge el juego que deseas ver los resultados.
+                    <h1 onClick={this.onClick}>Juego 1</h1>
+                    <h1>Juego 1</h1>
+                    <h1>Juego 1</h1>
+                    <h1>Juego 1</h1>
+                    <h1>Juego 1</h1>
+                  </p>
+                </div>
+              </Col>
+            </Row>
+          </Container>
+        </div>
 
-  </div>
-
-<p>
-Somos un equipo blafjsadfklasdjflsadf
-
-
-  
-</p>
-
-
-</div>
-    
-    
-    </Col>
-    <Col className="col-md-4 QuienesSomos">
-    
-    <h1>Quienes Somos</h1>
-    
-<p>
-Somos un equipo blafjsadfklasdjflsadf
-
-
-  
-</p>
-
-
-
-
-<div >
-  <div className="header">
-  <h1>Ranking</h1>
-
-  </div>
-
-<p>
-Somos un equipo blafjsadfklasdjflsadf
-
-
-  
-</p>
-
-
-</div>
-    </Col>
-  </Row>
-</Container>
-
-
-
-
-</div>
-
-
-{/* 
+        {/* 
      
       <CardDeck>
         <Card>
