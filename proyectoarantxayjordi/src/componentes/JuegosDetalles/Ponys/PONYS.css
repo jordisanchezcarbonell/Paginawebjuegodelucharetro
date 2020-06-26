@@ -246,7 +246,9 @@
 }
 
 
-
+.rowGlobalPonys{
+    background-color: white;
+}
 
 
 @media screen and (max-device-height: 640px) and (max-device-width: 360px) {
