@@ -136,11 +136,19 @@ export class PaginaPrincipal extends Component {
 }
 
 export class Footer extends React.Component {
+  constructor(props) {
+    super(props);
+    this.myRef = React.createRef(); // Create a ref object
+  }
+  onClick = (e) => {
+    window.scrollTo(0, 0);
+  };
+
   render() {
     return (
       <footer className="container">
         <p className="float-right">
-          <a href="#">Subir</a>
+          <a onClick={this.onClick}>Subir</a>
         </p>
         <p className="margenesdelfooter">
           &copy; {new Date().getFullYear()} Mi Proyecto, Inc. &middot;{" "}
