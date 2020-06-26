@@ -259,6 +259,20 @@ class TEKKEN extends React.Component {
           <div className="w-100  mt-4 ">
             <Container className="w-100   ">
               <h3 className="LetraTituloTK">Character Select</h3>
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+                className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+              >
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">See Tierlist</button>
+                </div>
+              </Link>
               <Row className=" tamañodefectoTK stage TK2img ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}

@@ -23,7 +23,6 @@ import logo from "./logo-ki.png";
 class KillerInstinc extends React.Component {
   constructor(props, context) {
     super(props);
-
   }
 
   state = {
@@ -38,7 +37,6 @@ class KillerInstinc extends React.Component {
       elmento: e,
       imagen: imagenes,
     });
-
   };
 
   handleCloseModal = (e) => {
@@ -122,6 +120,20 @@ class KillerInstinc extends React.Component {
               <p className="mx-5 parrafodesc ">
                 {this.props.detalles.Descripcion}
               </p>
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+                className="  btn-MVC large2    "
+              >
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">See Tierlist</button>
+                </div>
+              </Link>
             </Row>
           </div>
           {this.props.Juego.map((personaje) => {
@@ -221,7 +233,7 @@ class KillerInstinc extends React.Component {
                           to={{
                             pathname: "/BiografiaKiller",
                             state: {
-                              ALL:personaje,
+                              ALL: personaje,
                             },
                           }}
                           className="btn-ki large ghosq"

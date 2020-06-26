@@ -347,7 +347,20 @@ class PONYS extends React.Component {
           <div className="w-100 mt-4">
             <Container className=" containerPonys">
               <h3 className="LetraCharacterPonys">Character Select</h3>
-
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+                className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+              >
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">See Tierlist</button>
+                </div>
+              </Link>
               <Row className=" w-100  ">
                 <div
                   className=" w-100 nav  justify-content-center margenesresponsive  "

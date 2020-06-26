@@ -345,7 +345,20 @@ class Soulcalibur extends React.Component {
                   className=" mb-3 fotoCharacterSOUL"
                   alt="imagen logo"
                 ></img>
-
+                <Link
+                  to={{
+                    pathname: "/TierList",
+                    state: {
+                      ALL: this.props.Juego,
+                      descripcionjuego: this.props.detalles,
+                    },
+                  }}
+                  className="  btn-MVC large2    "
+                >
+                  <div className="margendelbotoonMK ">
+                    <button className=" botonMC">See Tierlist</button>
+                  </div>
+                </Link>
                 <div className=" nav mx-auto  w-100" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
@@ -373,8 +386,6 @@ class Soulcalibur extends React.Component {
                                         className="mx-5 RowSOUL"
                                       >
                                         <TableCell
-                                   
-                                          
                                           className=" py-2 CellNombreAtaques "
                                           component="td"
                                           scope="row"

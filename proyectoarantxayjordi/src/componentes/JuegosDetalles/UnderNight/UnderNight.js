@@ -232,7 +232,6 @@ class Child extends React.Component {
                 </div>
               </Link>
             </Col>
-            
           </Row>
         </Container>
       </div>
@@ -385,6 +384,20 @@ class UnderNight extends React.Component {
           <div className="w-100 mt-4 ">
             <Container className=" pt-1 containerUN ">
               <h3 className="TextoTituloUN   mx-auto">Character Select</h3>
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+                className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+              >
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">See Tierlist</button>
+                </div>
+              </Link>
               <Row className=" w-100 stage RowUn  centrarelemento">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
@@ -404,17 +417,19 @@ class UnderNight extends React.Component {
                       >
                         <div className="w-100 divFOTOUN">
                           <div className="DivFotoUnder">
-                          <Image
-                            className="FotoUB "
-                            onClick={() => this.showContent(index)}
-                            src={process.env.PUBLIC_URL + personaje.Foto}
-                            alt="imagen personaje"
-                            fluid
-                          ></Image>
-                        
-                        <div className="divTectoUnder">
-                          <h3 className="puebaNombre">{personaje.Nombre}</h3>
-                          </div>
+                            <Image
+                              className="FotoUB "
+                              onClick={() => this.showContent(index)}
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt="imagen personaje"
+                              fluid
+                            ></Image>
+
+                            <div className="divTectoUnder">
+                              <h3 className="puebaNombre">
+                                {personaje.Nombre}
+                              </h3>
+                            </div>
                           </div>
                         </div>
 

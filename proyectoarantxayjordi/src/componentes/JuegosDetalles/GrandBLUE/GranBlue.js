@@ -373,7 +373,20 @@ class GranBlue extends React.Component {
                   className="mx-auto mb-3 logoCharacters"
                   alt="imagen logo"
                 ></img>
-
+                <Link
+                  to={{
+                    pathname: "/TierList",
+                    state: {
+                      ALL: this.props.Juego,
+                      descripcionjuego: this.props.detalles,
+                    },
+                  }}
+                  className="  btn-MVC large2    "
+                >
+                  <div className="margendelbotoonMK ">
+                    <button className=" botonMC">See Tierlist</button>
+                  </div>
+                </Link>
                 <div className=" nav " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (

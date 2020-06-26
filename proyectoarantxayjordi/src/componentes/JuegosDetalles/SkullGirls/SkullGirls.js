@@ -19,7 +19,6 @@ import { Link } from "react-router-dom";
 class SkullGirls extends React.Component {
   constructor(props, context) {
     super(props);
-
   }
 
   state = {
@@ -108,6 +107,20 @@ class SkullGirls extends React.Component {
               />
             </div>
             <h6 className="NombreDesc">{this.props.detalles.Descripcion} </h6>
+            <Link
+              to={{
+                pathname: "/TierList",
+                state: {
+                  ALL: this.props.Juego,
+                  descripcionjuego: this.props.detalles,
+                },
+              }}
+              className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+            >
+              <div className="margendelbotoonMK ">
+                <button className=" botonMC">See Tierlist</button>
+              </div>
+            </Link>
           </Container>
           {this.props.Juego.map((personaje) => {
             return (
@@ -260,7 +273,6 @@ class SkullGirls extends React.Component {
                             {personaje.Blockbusters.map((Ataque, index) => (
                               <TableRow key={Ataque.nombreAtaque}>
                                 <TableCell
-                               
                                   className=" py-2 pro margenesdetablas"
                                   component="th"
                                   scope="row"

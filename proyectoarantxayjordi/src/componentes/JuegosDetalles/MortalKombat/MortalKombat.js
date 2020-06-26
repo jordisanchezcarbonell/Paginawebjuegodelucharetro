@@ -328,6 +328,20 @@ class MortalKombat extends React.Component {
           </Row>
         </div>
         <h1 className="TituloElegirMK"> Choose your character</h1>
+        <Link
+          to={{
+            pathname: "/TierList",
+            state: {
+              ALL: this.props.Juego,
+              descripcionjuego: this.props.detalles,
+            },
+          }}
+          className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+        >
+          <div className="margendelbotoonMK ">
+            <button className=" botonMC">See Tierlist</button>
+          </div>
+        </Link>
         <div className="row rowGlobalKI  ">
           <div className="w-100 mt-4">
             <Container className="w-100 px-0">

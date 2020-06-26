@@ -198,7 +198,6 @@ class Child extends React.Component {
                 <div className="DivBotonSF2 ">
                   <button className="BotonSF">Biography &amp; Videos</button>
                 </div>
-               
               </Link>{" "}
             </Col>
           </Row>
@@ -348,6 +347,20 @@ class StreetFighter5 extends React.Component {
           <div className="w-100 mt-4 mb-4 ">
             <Container className="w-100 mx-auto  ">
               <h3 className="LetraTituloSF mb-4">Character Select</h3>
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+                className="  btn-MVC large2 PruebadefondoAtaquesSF   "
+              >
+                <div className="margendelbotoonMK ">
+                  <button className=" botonMC">See Tierlist</button>
+                </div>
+              </Link>º
               <Row className=" w-100 stage  ml-4  ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}

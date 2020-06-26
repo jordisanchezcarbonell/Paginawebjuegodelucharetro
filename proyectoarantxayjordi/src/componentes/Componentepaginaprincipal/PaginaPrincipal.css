@@ -5,6 +5,7 @@
 .DivPrinc {
 
     color: black;
+    background-color: white;
 }
 
 
@@ -13,6 +14,6 @@
     border: 5px solid red;
 }
 
-.FotoBracket{
+.FotoBracket {
     width: 50%;
 }
