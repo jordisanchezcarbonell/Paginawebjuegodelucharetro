@@ -3,7 +3,7 @@ import React from "react";
 import "./BiografiaKiller.css";
 
 import { withRouter } from "react-router-dom";
-import {  Row, Col } from "reactstrap";
+import { Row, Col } from "reactstrap";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -11,7 +11,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 class BiografiaKiller extends React.Component {
   constructor(props, context) {
     super(props);
-  
   }
 
   state = {
@@ -49,18 +48,17 @@ class BiografiaKiller extends React.Component {
     return (
       <div className="BioDivTotalKI">
         <div style={({ width: "100%" }, fondoKIBIO)}>
-       
           <h1 className="BioNombreKI"> {detalles.Nombre}</h1>
 
           <div>
             <Row className="BioImgyBioKI">
-            <div className="DivIconKI">
-            <FontAwesomeIcon
-              className="iconoKI"
-              icon={faArrowLeft}
-              onClick={this.props.history.goBack}
-            />
-          </div>
+              <div className="DivIconKI">
+                <FontAwesomeIcon
+                  className="iconoKI"
+                  icon={faArrowLeft}
+                  onClick={this.props.history.goBack}
+                />
+              </div>
               <Col className="col-md-4">
                 <img
                   className="BioImgKI"
@@ -88,10 +86,10 @@ class BiografiaKiller extends React.Component {
               <h1 className="BIOtitulocombosKI"> Combos</h1>
             </Row>
             <div className="derechaKiller">
-            <ResponsivePlayer className="video" url={detalles.Combos} />
+              <ResponsivePlayer className="video" url={detalles.Combos} />
             </div>
             <div className="izqKiller">
-            <ResponsivePlayer className="video" url={detalles.Combos2} />
+              <ResponsivePlayer className="video" url={detalles.Combos2} />
             </div>
           </div>
         </div>

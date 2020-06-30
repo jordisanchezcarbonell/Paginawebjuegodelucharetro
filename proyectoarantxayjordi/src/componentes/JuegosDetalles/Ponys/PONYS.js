@@ -357,10 +357,11 @@ class PONYS extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <div className="margendelbotoonMK ">
+                <div className="borderBotonPonys  ">
                   <button className=" botonMC">See Tierlist</button>
                 </div>
               </Link>
+
               <Row className=" w-100  ">
                 <div
                   className=" w-100 nav  justify-content-center margenesresponsive  "

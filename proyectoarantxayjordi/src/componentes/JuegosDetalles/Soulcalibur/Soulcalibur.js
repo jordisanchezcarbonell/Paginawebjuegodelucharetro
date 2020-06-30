@@ -345,6 +345,7 @@ class Soulcalibur extends React.Component {
                   className=" mb-3 fotoCharacterSOUL"
                   alt="imagen logo"
                 ></img>
+
                 <Link
                   to={{
                     pathname: "/TierList",
@@ -353,10 +354,10 @@ class Soulcalibur extends React.Component {
                       descripcionjuego: this.props.detalles,
                     },
                   }}
-                  className="  btn-MVC large2    "
+                  className="btn-ki large ghostpulse "
                 >
-                  <div className="margendelbotoonMK ">
-                    <button className=" botonMC">See Tierlist</button>
+                  <div className="DivBotonSoul2 ">
+                    <button className="BotonSL">See Tierlist</button>
                   </div>
                 </Link>
                 <div className=" nav mx-auto  w-100" role="tablist">
