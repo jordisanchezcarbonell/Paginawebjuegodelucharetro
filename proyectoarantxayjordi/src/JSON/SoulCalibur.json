@@ -3,6 +3,8 @@
     "Nombre": "Ivy",
     "Descripcion": "Isabella Ivy Valentine (Japanese: イザベラ・バレンタイン - アイヴィー, Izabera Barentain - Aivī) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/ivy.png",
+    "FotoTier":"imagenes/SoulTier/ivy.png",
+
     "RealName": "Isabella Valentine",
     "Gender": "Female",
     "Height": "179 cm",
@@ -105,6 +107,8 @@
     "Nombre": "Nightmare",
     "Descripcion": "Nightmare (ナイトメア, Naitomea) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Nightmare.png",
+    "FotoTier":"imagenes/SoulTier/nightmare.png",
+
     "RealName": "Azure Nightmare",
     "Gender": "Male",
     "Height": "172 cm",
@@ -193,6 +197,8 @@
     "Nombre": "Geralt",
     "Descripcion": "Geralt of Rivia (リヴィアのゲラルト Rivia no Geraruto?) is the primary protagonist of The Witcher series of novels and video games. He appeared in Soulcalibur VI as a guest character.",
     "Foto": "imagenes/SOULTODO/Geralt.png",
+    "FotoTier":"imagenes/SoulTier/geralt.png",
+
     "RealName": "Geralt of Rivia",
     "Gender": "Male",
     "Height": "Unknown",
@@ -282,6 +288,8 @@
     "Nombre": "2B",
     "Descripcion": "YoRHa No. 2 Type B (ヨルハ二号B型, YoRuHa Nigō B-gata) or 2B is the main protagonist of the 2017 video game Nier: Automata. She appeared in Soulcalibur VI as a guest via DLC, released on December 18, 2018.",
     "Foto": "imagenes/SOULTODO/2B.png",
+    "FotoTier":"imagenes/SoulTier/2b.png",
+
     "RealName": "YoRHa No.2 Type B",
     "Gender": "Female Model",
     "Height": "168 cm",
@@ -370,6 +378,8 @@
     "Nombre": "Groh",
     "Descripcion": "Grøh (グロー, Gurō) is a brand new character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new Soul series as a whole. He is the first Nordic character depicted by the series.",
     "Foto": "imagenes/SOULTODO/groh.png",
+    "FotoTier":"imagenes/SoulTier/groh.png",
+
     "RealName": "Kingdom of Denmark–Norway",
     "Gender": "Male",
     "Height": "181 cm",
@@ -489,6 +499,8 @@
     "Nombre": "Seong Mi-na",
     "Descripcion": "Seong Mi-na (ソン・ミナ, Son Mina, Hanja: 成美那, Hangul: 성미나) is a character in the Soul series of fighting games. She appeared in the Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Seong_Mi-na.png",
+    "FotoTier":"imagenes/SoulTier/seong-mina.png",
+
 
     "RealName": "Seong Mi-na",
     "Gender": "Female",
@@ -609,6 +621,7 @@
     "Nombre": "Azwel",
     "Descripcion": "Azwel (アズウェル, Azuweru) is a brand new character in the Soul series of fighting games. He first appeared in Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Azwel.png",
+    "FotoTier":"imagenes/SoulTier/azwel.png",
 
     "RealName": "Azwel",
     "Gender": "Male",
@@ -729,6 +742,7 @@
     "Nombre": "Cassandra Alexandra",
     "Descripcion": "Cassandra Alexandra (カサンドラ・アレクサンドル, Kasandora Arekusandoru) is a character in the Soul series of fighting games. She is the final downloadable character of the first season pass in Soulcalibur VI and was made available on August 5th, 2019",
     "Foto": "imagenes/SOULTODO/C_Alexandra.png",
+    "FotoTier":"imagenes/SoulTier/cassandra.png",
 
     "RealName": "Cassandra Alexandra",
     "Gender": "Female",
@@ -850,6 +864,7 @@
     "Nombre": "Sophitia Alexandra",
     "Descripcion": "Sophitia Alexandra (ソフィーティア・アレクサンドル, Sofītia Arekusandoru; Greek: Σοφιτία Αλεξάνδρα) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/S_Alexandra.png",
+    "FotoTier":"imagenes/SoulTier/sophitia.png",
 
     "RealName": "Sophitia Alexandra",
     "Gender": "Female",
@@ -975,6 +990,7 @@
     "Nombre": "Yoshimitsu",
     "Descripcion": "Yoshimitsu (吉光) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Yoshimitsu.png",
+    "FotoTier":"imagenes/SoulTier/yoshimitsu.png",
 
     "RealName": "Yoshimitsu",
     "Gender": "Male",
@@ -1086,6 +1102,8 @@
     "Nombre": "Siegfried Schtauffen",
     "Descripcion": "Siegfried Schtauffen (ジークフリート・シュタウフェン, Jīkufurīto Shutaufen)  is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/S_Schtauffen.png",
+    "FotoTier":"imagenes/SoulTier/siegfried.png",
+
 
     "RealName": "Siegfried Schtauffen",
     "Gender": "Male",
@@ -1198,6 +1216,7 @@
     "Nombre": "Haohmaru",
     "Descripcion": "Haohmaru (覇王丸, Haōmaru; also can be written as Haoumaru) is the titular protagonist of SNK's Samurai Shodown series and one of the series's most known characters, the other being Nakoruru.",
     "Foto": "imagenes/SOULTODO/Haohmaru.png",
+    "FotoTier":"imagenes/SoulTier/haohmaru.png",
 
     "RealName": "Siegfried Schtauffen",
     "Gender": "Male",
@@ -1310,6 +1329,7 @@
     "Nombre": "Hildegard von Krone",
     "Descripcion": "Hildegard von Krone (ヒルデガルド・フォン・クローネ Hirudegarudo fon Kurōne), or Hilde (ヒルダ Hiruda) for short, is a character who appears in Soulcalibur VI on November 26th 2019, as DLC character 7 in Season 2.",
     "Foto": "imagenes/SOULTODO/H_von_krone.png",
+    "FotoTier":"imagenes/SoulTier/hilde.png",
 
     "RealName": "Hildegard von Krone",
     "Gender": "Female",
@@ -1431,6 +1451,7 @@
     "Nombre": "Amy",
     "Descripcion": "Amy Sorel (エイミ・ソレル, Eimi Soreru) is a character in the Soul series of fighting games. She appears in the game Soulcalibur VI as the third downloadable character of the Season 1 Pass, and was released on March 26th, 2019",
     "Foto": "imagenes/SOULTODO/Amy.png",
+    "FotoTier":"imagenes/SoulTier/amy.png",
 
     "RealName": "Amy Sorel",
     "Gender": "Female",
@@ -1542,6 +1563,7 @@
     "Nombre": "Voldo",
     "Descripcion": "Voldo (ヴォルド, Vorudo), is a character in the Soul series. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Voldo.png",
+    "FotoTier":"imagenes/SoulTier/voldo.png",
 
     "RealName": "Voldo",
     "Gender": "Male",
@@ -1653,6 +1675,7 @@
     "Nombre": "Kilik",
     "Descripcion": "Kilik (キリク, Kiriku) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Kilik.png",
+    "FotoTier":"imagenes/SoulTier/kilik.png",
 
     "RealName": "Kilik",
     "Gender": "Male",
@@ -1757,6 +1780,8 @@
     "Nombre": "Zasalamel",
     "Descripcion": "Zasalamel (ザサラメール, Zasaramēru) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Zasalamel.png",
+    "FotoTier":"imagenes/SoulTier/zasalamel.png",
+
     "RealName": "Zasalamel",
     "Gender": "Male",
     "Height": "183 cm",
@@ -1869,6 +1894,7 @@
     "Nombre": "Raphael",
     "Descripcion": "Raphael Sorel (ラファエル・ソレル, Rafaeru Soreru) is a character in the Soul series. He appears in the game Soulcalibur VI, which marked his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Raphael.png",
+    "FotoTier":"imagenes/SoulTier/raphael.png",
 
     "RealName": "Raphael Sorel ",
     "Gender": "Male",
@@ -1981,6 +2007,7 @@
     "Nombre": "Cervantes",
     "Descripcion": "Cervantes de León (セルバンテス・デ・レオン, Serubantesu de Reon) is a character in the Soul series. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Cervantes.png",
+    "FotoTier":"imagenes/SoulTier/cervantes.png",
 
     "RealName": "Cervantes de León",
     "Gender": "Male",
@@ -2059,6 +2086,7 @@
     "Nombre": "Tira",
     "Descripcion": "Tira (ティラ, Tira) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI as the first downloadable character of the Season 1 Pass. This marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Tira.png",
+    "FotoTier":"imagenes/SoulTier/tira.png",
 
     "RealName": "Tira",
     "Gender": "Female",
@@ -2172,6 +2200,7 @@
     "Nombre": "Maxi",
     "Descripcion": "Maxi (マキシ, also written as 真喜志), is a character in the Soul series. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Maxi.png",
+    "FotoTier":"imagenes/SoulTier/maxi.png",
 
     "RealName": "Tira",
     "Gender": "Female",
@@ -2288,6 +2317,7 @@
     "Nombre": "Chai Xianghua",
     "Descripcion": "Chai Xianghua (チャイ・シャンファ, Chai Shanfa, Chinese: 柴香華, Pinyin: Chái Xiānghuà) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/C_Xianghua.png",
+    "FotoTier":"imagenes/SoulTier/xianghua.png",
 
     "RealName": "Chai Xianghua",
     "Gender": "Female",
@@ -2393,6 +2423,7 @@
     "Nombre": "Heishiro Mitsurugi",
     "Descripcion": "Heishiro Mitsurugi (御剣 平四郎, Mitsurugi Heishirō) is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/h_mitsurugi.png",
+    "FotoTier":"imagenes/SoulTier/mitsurugi.png",
 
     "RealName": "Heishiro Mitsurugi",
     "Gender": "Male",
@@ -2520,6 +2551,7 @@
     "Nombre": "Taki",
     "Descripcion": "Taki (タキ, also written as 多喜) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Taki.png",
+    "FotoTier":"imagenes/SoulTier/taki.png",
 
     "RealName": "Taki",
     "Gender": "Female",
@@ -2648,6 +2680,7 @@
     "Nombre": "Talim",
     "Descripcion": "Talim (タリム, Tarimu) is a character in the Soul series of fighting games. She appeared in the game Soulcalibur VI, which marks her debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Talim.png",
+    "FotoTier":"imagenes/SoulTier/talim.png",
 
     "RealName": "Talim",
     "Gender": "Female",
@@ -2753,6 +2786,7 @@
     "Nombre": "Astaroth",
     "Descripcion": "Astaroth (アスタロス, Asutarosu), also known as Azr Ss Trzaous is a character in the Soul series of fighting games. He appeared in the game Soulcalibur VI, which marks his debut appearance in the new, rebooted Soulcalibur timeline.",
     "Foto": "imagenes/SOULTODO/Astaroth.png",
+    "FotoTier":"imagenes/SoulTier/astaroth.png",
 
     "RealName": "Astaroth",
     "Gender": "Male",
