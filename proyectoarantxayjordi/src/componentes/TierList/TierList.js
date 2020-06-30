@@ -36,20 +36,12 @@ class TierList extends React.Component {
   render() {
     const detalles = this.props.location.state.ALL;
     const descripcionbiojuego = this.props.location.state.descripcionjuego;
+    let comp;
 
     console.log(detalles);
 
-  
-
-
-
-
     return (
-
-
-
-
-    /*  const style2 = {
+      /*  const style2 = {
         backgroundPosition: "right right",
         backgroundSize: "cover",
   
@@ -60,40 +52,46 @@ class TierList extends React.Component {
           ")",
         backgroundRepeat: "no-repeat",
       };*/
-  
+
       <div className="DivPrincTier">
-        
- <Row   className="FondoTier">
- <FontAwesomeIcon
-          className="iconoTier"
-          icon={faArrowLeft}
-          onClick={this.props.history.goBack}
-        />
- </Row>
-          <Row className="FondoTier">
-
-            <Col className="col-md-6">
-
-        <div >
-
-
-          
-
-{/*     
+        <Row className="FondoTier">
+          <FontAwesomeIcon
+            className="iconoTier"
+            icon={faArrowLeft}
+            onClick={this.props.history.goBack}
+          />
+        </Row>
+        <Row className="FondoTier">
+          <Col className="col-md-6">
+            <div>
+              {/*     
                   <th>Encabezado 1</th>
 
 <th>Encabezado 2</th>
 
-<th>Encabezado 3</th>*/ }
+<th>Encabezado 3</th>*/}
 
-          
-          {detalles.map((personaje, index) => {
-            return (
-              <div key={index} className="fondotabla ">
-                <Table responsive size="sm" className="TablaTierNumero">
-
+              {detalles.map((personaje, index) => {
+                if (personaje.FotoTier != null) {
+                  comp = (
                     <tr>
-    
+                      <td className="colortexto tdTier">{index + 1}</td>
+                      <td className="tdTierfoto">
+                        <img
+                          src={process.env.PUBLIC_URL + personaje.FotoTier}
+                          alt=""
+                          className="fototier"
+                          height="110vw"
+                        ></img>
+                      </td>
+                      <td className="tdTierNombre">
+                        <h3 className="NombrePersTier">{personaje.Nombre}</h3>
+                      </td>
+                    </tr>
+                  );
+                } else {
+                  comp = (
+                    <tr>
                       <td className="colortexto tdTier">{index + 1}</td>
                       <td className="tdTierfoto">
                         <img
@@ -107,22 +105,26 @@ class TierList extends React.Component {
                         <h3 className="NombrePersTier">{personaje.Nombre}</h3>
                       </td>
                     </tr>
-                </Table>
-              </div>
-            );
-          })}
-        </div>
-        </Col>
-        <Col className="col-md-6">
-        <div>
-        <h1 className="TituloDesc" >
-            Descripcion
-          </h1>
-          <h6 className="  colortextoTier">
-            {descripcionbiojuego.Descripcion}
-          </h6>
-          </div>
-        </Col>
+                  );
+                }
+                return (
+                  <div key={index} className="fondotabla ">
+                    <Table responsive size="sm" className="TablaTierNumero">
+                      <tbody>{comp}</tbody>
+                    </Table>
+                  </div>
+                );
+              })}
+            </div>
+          </Col>
+          <Col className="col-md-6">
+            <div>
+              <h1 className="TituloDesc">Descripcion</h1>
+              <h6 className="  colortextoTier">
+                {descripcionbiojuego.Descripcion}
+              </h6>
+            </div>
+          </Col>
         </Row>
       </div>
     );
