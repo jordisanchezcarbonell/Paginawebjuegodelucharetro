@@ -198,6 +198,443 @@
     ]
   },
   {
+    "Nombre": "Goku Ultra Instinct",
+    "Descripcion": "Pushed to his limits during the Tournament of Power, Goku tapped into this powerful mental state in order to battle Jiren, a technique of such strength that not even a God of Destruction could rival it: Ultra Instinct. Through repeated use, Goku manages to complete the form, allowing him to lead his Universe in standing a chance against Jiren. With his mind and body separated, Goku becomes fast enough to swiftly evade incoming attacks, while fighting purely on instinct alone.",
+    "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
+    "Foto2": "imagenes/PersonajesBD/Goku_UltraInstinct.png",
+    "Animename": "Goku",
+    "Manganame": "Goku",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "175 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Goku and Vegeta spar with Whis who dodges them with ease even causing the two to ram into each other by mistake, Goku watches as Vegeta has a turn attacking Whis on his own and then proceeds to attack once Vegeta has been downed, tapping into the power of Super Saiyan God as he does so though is still unable to hit the angel. Goku and Vegeta then continue their assault, though it soon ends and Whis reveals that he has marked their outfits with his symbol. He then explains the principles of Ultra Instinct to them and points out there flaws. Beerus then interrupts, firing a ki blast in anger, much to the shock of Goku and Vegeta.",
+    "Combos": "https://www.youtube.com/watch?v=SrG36nQcmpw",
+    "Combos2": "https://www.youtube.com/watch?v=ewbCeTJ0PxA",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Does a mid-level jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Appears in the air and does a falling punch.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a mid-level roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Does a charging punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires a shockwave with his fist. ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Jabs at a downward angle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a sweepkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Performs two jumping kicks.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires an energy blas",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does jumping a modified axe kick with both legs.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does a midair jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Does a midair roundhouse kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Does a modified axe kick with both legs.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Does a midair stretch kick. (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spins and fires a ki blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Secret Sensation  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shining Soul  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unrestrained Will(HOLD) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Godly Display ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Autonomous Fist (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Godly Strike (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Transcendence (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Embodied Light(air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unencumbered Mind (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Heat (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/Down.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Accelerating Battle Spirit ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Guiding Impulse (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Silver Dragon Flash",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Adult Gohan",
+    "Descripcion": "Gohan (悟飯, Gohan) is the Saiyan/Human-hybrid son of Goku and Chichi. Two versions of this character exist. This article is on his adult variant.",
+    "Foto": "imagenes/DBZTODO/gohan-adult.png",
+    "Foto2": "imagenes/PersonajesBD/gohan_adulto.png",
+    "Animename": "Gohan",
+    "Manganame": "Son Gohan",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "176cm",
+    "Weight": "61 Kg",
+
+    "Personality": "as a child, Gohan is a shy and studious intellectual child who lacks the Saiyan fighting spirit, so he had to utilize his incredible half-breed Saiyan potential and emotional reserves to protect those he loves, becoming one of the most powerful Z Fighters. As an adult, he achieves his dream career of becoming a great scholar.",
+    "Combos": "https://www.youtube.com/watch?v=ikU-LoPEwFM",
+    "Combos2": "https://www.youtube.com/watch?v=yWXzvRpstpo",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Hitting shin kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A forward reaching kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Opponent flying with a jumping upward side kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A reverse roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A side heel kick with his leading foot.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Launches the opponent away.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A short-range sliding kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumps back and fires a ki  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An jumping roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Downward punch (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A midair sidekick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Downward angled  kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Moves back in the air while firing (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Midair high kick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Falls quickly to the ground.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Ultimate High Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rapid punches",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/3.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jet Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Machine Gun Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ultimate Back Attack",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Masenko ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Potential Unleashed ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Potential Unleashed",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Bros. Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
     "Nombre": "Kid Buu",
     "Descripcion": "Kid Buu (魔人ブウ （純粋）, Majin Bū (Junsui)) is the original, pure form of Majin Buu. He is a playable character in Dragon Ball FighterZ.",
     "Foto": "imagenes/DBZTODO/kid-buu.png",
@@ -638,204 +1075,7 @@
     ]
   },
 
-  {
-    "Nombre": "Adult Gohan",
-    "Descripcion": "Gohan (悟飯, Gohan) is the Saiyan/Human-hybrid son of Goku and Chichi. Two versions of this character exist. This article is on his adult variant.",
-    "Foto": "imagenes/DBZTODO/gohan-adult.png",
-    "Foto2": "imagenes/PersonajesBD/gohan_adulto.png",
-    "Animename": "Gohan",
-    "Manganame": "Son Gohan",
-    "Raze": "Saiyan",
-    "Gender": "Male",
-
-    "Size": "176cm",
-    "Weight": "61 Kg",
-
-    "Personality": "as a child, Gohan is a shy and studious intellectual child who lacks the Saiyan fighting spirit, so he had to utilize his incredible half-breed Saiyan potential and emotional reserves to protect those he loves, becoming one of the most powerful Z Fighters. As an adult, he achieves his dream career of becoming a great scholar.",
-    "Combos": "https://www.youtube.com/watch?v=ikU-LoPEwFM",
-    "Combos2": "https://www.youtube.com/watch?v=yWXzvRpstpo",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "Hitting shin kick",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A forward reaching kick",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Opponent flying with a jumping upward side kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A reverse roundhouse kick.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "A side heel kick with his leading foot.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Launches the opponent away.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "A crouching jab.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A short-range sliding kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Launches the opponen",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Jumps back and fires a ki  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "An jumping roundhouse kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Downward punch (in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A midair sidekick.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Downward angled  kick",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Moves back in the air while firing (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Midair high kick. ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Falls quickly to the ground.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Ultimate High Kick",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/3.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Rapid punches",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/3.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Jet Uppercut",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Machine Gun Kick",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ultimate Back Attack",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Masenko ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Potential Unleashed ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Potential Unleashed",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/H.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Bros. Kamehameha (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
+ 
 
   {
     "Nombre": "Cell",
@@ -1206,213 +1446,6 @@
     "MeteorAttack": [
       {
         "nombreAtaque": "Father-Son Kamehameha",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Gogeta",
-    "Descripcion": "Gogeta (ゴジータ Gojīta), is the immensely powerful result of the Fusion Dance between Goku and Vegeta, whose power is said to be greater than both individuals combined. Gogeta a playable character in Dragon Ball FighterZ. He was first confirmed on January 27th, 2019, during the finals of the first Dragon Ball World Tour along with Broly (DBS) and later received a trailer during the EVO 2019 Event on August 3, 2019 alongside Janemba. Gogeta is the fifth downloadable fighter for FighterZ Pass 2 and was released on September 26, 2019.",
-    "Foto": "imagenes/DBZTODO/gogeta.png",
-    "Foto2": "imagenes/PersonajesBD/gogeta.png",
-    "Animename": "Gogeta",
-    "Manganame": "Gogeta",
-    "Raze": "Saiyan",
-    "Gender": "Male",
-
-    "Size": "175cm",
-    "Weight": "62 Kg",
-
-    "Personality": "Although made in a similar fashion, Gogeta's personality traits are different from those of Vegito, though it is impossible to tell which counterpart's personality is the dominant one or a composite of both Goku and Vegeta, but in terms of humor and a lesser tough attitude, Gogeta acts and uses catch phrases more similar to Goku.",
-    "Combos": "https://www.youtube.com/watch?v=7vu46I4015M",
-    "Combos2": "https://www.youtube.com/watch?v=YKAsn1PzlEU",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "Does two quick jabs.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "Punch that knocks the opponent in the air.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": " On hit or block",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Does an upward kick.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Jump opponent",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Kamehameha ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Low kick",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dropkick with very long range.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Uppercut that launches the opponent",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Jumps and fires a Galick Gun downward.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": " Diagonal kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Punch at a downward angle.(in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "Three quick kicks (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Kick that causes a wallbounce.   (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Kamehameha  (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": " Diagonal kick (in air) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fires a Galick Gun downward (in air) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Performs a dashing knee strike.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "2nd Input ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/follow.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "3rd Input(in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/follow.png",
-          "imagenes/ImagenesAtaqueDB/follow.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Rising Vortex",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Multiplex Afterimage (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Punisher Drive",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "God Punishe",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Stardust Fall (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Big Bang Kamehameha (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/H.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Meteor Explosion (air OK)",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -1835,6 +1868,7 @@
       }
     ]
   },
+  
 
   {
     "Nombre": "Vegeta",
@@ -1995,6 +2029,215 @@
       }
     ]
   },
+  {
+    "Nombre": "Gogeta",
+    "Descripcion": "Gogeta (ゴジータ Gojīta), is the immensely powerful result of the Fusion Dance between Goku and Vegeta, whose power is said to be greater than both individuals combined. Gogeta a playable character in Dragon Ball FighterZ. He was first confirmed on January 27th, 2019, during the finals of the first Dragon Ball World Tour along with Broly (DBS) and later received a trailer during the EVO 2019 Event on August 3, 2019 alongside Janemba. Gogeta is the fifth downloadable fighter for FighterZ Pass 2 and was released on September 26, 2019.",
+    "Foto": "imagenes/DBZTODO/gogeta.png",
+    "Foto2": "imagenes/PersonajesBD/gogeta.png",
+    "Animename": "Gogeta",
+    "Manganame": "Gogeta",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "175cm",
+    "Weight": "62 Kg",
+
+    "Personality": "Although made in a similar fashion, Gogeta's personality traits are different from those of Vegito, though it is impossible to tell which counterpart's personality is the dominant one or a composite of both Goku and Vegeta, but in terms of humor and a lesser tough attitude, Gogeta acts and uses catch phrases more similar to Goku.",
+    "Combos": "https://www.youtube.com/watch?v=7vu46I4015M",
+    "Combos2": "https://www.youtube.com/watch?v=YKAsn1PzlEU",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "Does two quick jabs.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Punch that knocks the opponent in the air.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " On hit or block",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Does an upward kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Jump opponent",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Kamehameha ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Low kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dropkick with very long range.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Uppercut that launches the opponent",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jumps and fires a Galick Gun downward.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Diagonal kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Punch at a downward angle.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Three quick kicks (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Kick that causes a wallbounce.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Kamehameha  (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": " Diagonal kick (in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a Galick Gun downward (in air) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Performs a dashing knee strike.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "2nd Input ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/follow.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "3rd Input(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/follow.png",
+          "imagenes/ImagenesAtaqueDB/follow.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rising Vortex",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Multiplex Afterimage (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Punisher Drive",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "God Punishe",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Stardust Fall (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Big Bang Kamehameha (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Meteor Explosion (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+
 
   {
     "Nombre": "Gotenks",
@@ -2145,6 +2388,170 @@
     "MeteorAttack": [
       {
         "nombreAtaque": "Charging Ultra Volleyball",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Base Vegeta",
+    "Descripcion": "Vegeta came to Earth with the heartless Nappa when the two elites heard of the Dragon Balls over Raditz's scouter. In search of immortality, they rushed to the planet to fulfill their wish. During this time, Goku rushed back from otherworld to defend the planet. However, Krillin, Tien, Yamcha, Piccolo, Chiaotzu, and the young Gohan were forced to fight off the Saiyan threat until their friend arrived. Unfortunately, Yamcha, Tien, Piccolo, and Chiaotzu were dead by the time Goku arrived. After one of the most famous showdowns in anime history, Goku, Krillin, and Gohan just barely managed to send Vegeta packing after using all of their combined strength.",
+    "Foto": "imagenes/DBZTODO/base-vegeta.png",
+    "Foto2": "imagenes/PersonajesBD/vegeta_base.png",
+    "Animename": "Vegeta",
+    "Manganame": "Vegeta",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "164cm",
+    "Weight": "56Kg",
+
+    "Personality": "Vegeta is arrogant throughout the series and becomes bitter due to the abuse his race suffered at the hands of Frieza. Following the destruction of his homeworld Planet Vegeta, his hatred toward Frieza grows. His royalty seems to have bestowed upon him an inflated sense of superiority, holding himself above nearly everyone he encounters. He is immensely proud of his Saiyan heritage and believes his race to be the most powerful in the universe. Despite this, even as an antagonist, he did not act as an ordinary Saiyan, being even crueler and prideful thanks to Frieza's influence.",
+    "Combos": "https://www.youtube.com/watch?v=sy-w7PIgZYY",
+    "Combos2": "https://www.youtube.com/watch?v=a7W_JlatLBA",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A forward jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A low gut punch.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "  Uppercut followed ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An upward knifehand chop.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A thrusting kick that moves Vegeta a bit forward.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A low shinkick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A downward hand sweep..",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Jump KI",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leaps and does a double axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A knee jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An knifehand swipe.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A double axe handle.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward kick. (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ki blast in an upwards arc.(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Deadly Knee Drop (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Energy Cutter (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "I have no use for Saiyans that can't move (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Galick Gun ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Galaxy Breaker",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -2507,171 +2914,7 @@
     ]
   },
 
-  {
-    "Nombre": "Base Vegeta",
-    "Descripcion": "Vegeta came to Earth with the heartless Nappa when the two elites heard of the Dragon Balls over Raditz's scouter. In search of immortality, they rushed to the planet to fulfill their wish. During this time, Goku rushed back from otherworld to defend the planet. However, Krillin, Tien, Yamcha, Piccolo, Chiaotzu, and the young Gohan were forced to fight off the Saiyan threat until their friend arrived. Unfortunately, Yamcha, Tien, Piccolo, and Chiaotzu were dead by the time Goku arrived. After one of the most famous showdowns in anime history, Goku, Krillin, and Gohan just barely managed to send Vegeta packing after using all of their combined strength.",
-    "Foto": "imagenes/DBZTODO/base-vegeta.png",
-    "Foto2": "imagenes/PersonajesBD/vegeta_base.png",
-    "Animename": "Vegeta",
-    "Manganame": "Vegeta",
-    "Raze": "Saiyan",
-    "Gender": "Male",
-
-    "Size": "164cm",
-    "Weight": "56Kg",
-
-    "Personality": "Vegeta is arrogant throughout the series and becomes bitter due to the abuse his race suffered at the hands of Frieza. Following the destruction of his homeworld Planet Vegeta, his hatred toward Frieza grows. His royalty seems to have bestowed upon him an inflated sense of superiority, holding himself above nearly everyone he encounters. He is immensely proud of his Saiyan heritage and believes his race to be the most powerful in the universe. Despite this, even as an antagonist, he did not act as an ordinary Saiyan, being even crueler and prideful thanks to Frieza's influence.",
-    "Combos": "https://www.youtube.com/watch?v=sy-w7PIgZYY",
-    "Combos2": "https://www.youtube.com/watch?v=a7W_JlatLBA",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "A forward jab.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A low gut punch.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "  Uppercut followed ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "An upward knifehand chop.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "A thrusting kick that moves Vegeta a bit forward.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "ki blast ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "A low shinkick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A downward hand sweep..",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Launches the opponen",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Jump KI",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Leaps and does a double axe handle.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A knee jab. (in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "An knifehand swipe.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "A double axe handle.   (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Fires Ki (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "An upward kick. (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ki blast in an upwards arc.(in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Deadly Knee Drop (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Energy Cutter (air OK) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "I have no use for Saiyans that can't move (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Galick Gun ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Galaxy Breaker",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
-
+ 
   {
     "Nombre": "Goku",
     "Descripcion": "Son Goku (孫そん悟ご空くう Son Gokū), born Kakarot (カカロット Kakarotto), is the main protagonist of the Dragon Ball metaseries. Goku is a Saiyan originally sent to destroy Earth as an infant. However, a head injury at an early age alters his memory, ridding him of his initial destructive nature and allowing him to grow up to become one of Earth's greatest defenders. He constantly strives and trains to be the greatest warrior possible, which has kept the Earth and the universe safe from destruction many times",
@@ -3910,36 +4153,38 @@
       }
     ]
   },
+
+
   {
-    "Nombre": "Super Broly",
-    "Descripcion": "Broly (ブロリー Burorī) is the son of Paragus and the misguided main antagonist of Dragon Ball Super: Broly. He is the latest of the Legendary Super Saiyans, a demonic Saiyan warrior who appears every thousand years. Because of his extreme power, he was stranded on the planet Vampa by King Vegeta, where he was raised by his father until rescued years later by the Frieza Force.",
-    "Foto": "imagenes/DBZTODO/super-broly.png",
-    "Foto2": "imagenes/PersonajesBD/broly.png",
-    "Animename": "Kefla",
-    "Manganame": "Kefla",
-    "Raze": "Saiyan",
+    "Nombre": "Hit",
+    "Descripcion": "Hit (ヒット Hitto), renowned as Never-Miss Hit (百発百中のヒット Hyappatsu-hyakuchū no Hitto, lit. Hit the Infallible) and as the Legendary Hitman (伝説の殺し屋 Densetsu no Koroshi-ya, lit. Legendary Assassin) is the legendary assassin of Universe 6. In addition, he also later on becomes the leader for Team Universe 6.",
+    "Foto": "imagenes/DBZTODO/hit.png",
+    "Foto2": "imagenes/PersonajesBD/hit.png",
+    "Animename": "Hit",
+    "Manganame": "Hit",
+    "Raze": "Human",
     "Gender": "Male",
 
-    "Size": "300 cm",
+    "Size": "193  cm",
     "Weight": "75 Kg",
 
-    "Personality": "This incarnation of Broly is very different from his counterpart. While his counterpart was an outright psychotic man with a split personality disorder that would randomly turn him into a maniacal killer, this Broly developed a more sane personality due to his relatively less tragic background. Due to his upbringing on an inhospitable planet living only with his father and no other sentient being, Broly is a quiet fellow with little social skills or manners. His limited education has left him somewhat naïve to normal society, showing a noticeable childlike fascination with the various comforts and advances it has to offer, particularly eating better quality food (curiously though, he is aware of how to operate a shower stall onboard Frieza's ship). ",
-    "Combos": "https://www.youtube.com/watch?v=i6-88CIE8_A",
-    "Combos2": "https://www.youtube.com/watch?v=x2__DwzKZ9g",
+    "Personality": "Hit is stoic and composed, constantly appearing emotionless and indifferent to most events. An expert in his craft, Hit shows great confidence and fortitude in any challenge presented before him. Hit also seems to be quite confident in his abilities. Showing a very no-nonsense attitude, he is straight to the point and speaks no more than necessary. To which, Hit will carry out his contracts, no matter whom his targets may be, nor can he be bribed or convinced to turn away from the assignment. More to his unwavering commitment and resolve, even when at a disadvantage, Hit refuses to back down from the challenge, choosing to face the opponent head-on, as noted by Cabba. ",
+    "Combos": "https://www.youtube.com/watch?v=oCJQf_6CwQc",
+    "Combos2": "https://www.youtube.com/watch?v=CyQfNo7l26o",
     "NormalAttacks": [
       {
-        "nombreAtaque": "Performs a jab at a downward angle",
+        "nombreAtaque": "A quick pressure point jab.",
         "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
       },
       {
-        "nombreAtaque": "Generates an energy",
+        "nombreAtaque": "Teleports forward and does an uppercut.",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/L.png",
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
       },
       {
-        "nombreAtaque": " Elbow strike, ",
+        "nombreAtaque": " Teleports towards the opponent",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/L.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -3947,26 +4192,26 @@
         ]
       },
       {
-        "nombreAtaque": "An advancing side kick",
+        "nombreAtaque": "Teleports forward .",
         "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
       },
       {
-        "nombreAtaque": "Launch opponent",
+        "nombreAtaque": " Non-leading fist.",
         "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
       },
       {
-        "nombreAtaque": "Ki blast ",
+        "nombreAtaque": "Time Skip  ",
         "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
       },
       {
-        "nombreAtaque": "Throws a quick uppercut",
+        "nombreAtaque": "A downward punch. ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
       },
       {
-        "nombreAtaque": "An alternating series of stomps with each foot.",
+        "nombreAtaque": "Stomps the ground with one foot.",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/M.png"
@@ -3979,26 +4224,20 @@
           "imagenes/ImagenesAtaqueDB/H.png"
         ]
       },
+
       {
-        "nombreAtaque": "Fires a green beam forward with a large amount of startup.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Leaps and performs a double axe-handle punch.",
+        "nombreAtaque": "A jumping axe kick.",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Right.png",
           "imagenes/ImagenesAtaqueDB/M.png"
         ]
       },
       {
-        "nombreAtaque": "Performs a midair jab with longer reach than most others. (in air) ",
+        "nombreAtaque": "A side kick.(in air) ",
         "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
       },
       {
-        "nombreAtaque": "Turns and performs a midair kick.(in air)",
+        "nombreAtaque": "A downward punch(in air)",
         "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
       },
       {
@@ -4006,11 +4245,11 @@
         "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
       },
       {
-        "nombreAtaque": "Fires a green energy(in air)",
+        "nombreAtaque": " Time Skip (in air)",
         "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
       },
       {
-        "nombreAtaque": "Grabs the opponent (in air)",
+        "nombreAtaque": "Spins and does an upward kick",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/H.png"
@@ -4019,15 +4258,15 @@
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Headbutt  ",
+        "nombreAtaque": "Icy Glare ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/214.png",
 
           "imagenes/ImagenesAtaqueDB/H.png"
         ]
       },
       {
-        "nombreAtaque": "Raging Quake ",
+        "nombreAtaque": "Vital Point Attack  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
 
@@ -4035,7 +4274,7 @@
         ]
       },
       {
-        "nombreAtaque": "Eraser Blow",
+        "nombreAtaque": "Deadly Intent",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
 
@@ -4043,7 +4282,7 @@
         ]
       },
       {
-        "nombreAtaque": "Gigantic Fury",
+        "nombreAtaque": "Mark of an Assassin ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
 
@@ -4051,18 +4290,26 @@
         ]
       },
       {
-        "nombreAtaque": "Eraser Blow",
+        "nombreAtaque": "Tides of Time ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/236.png",
 
-          "imagenes/ImagenesAtaqueDB/S.png"
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Time Release",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
         ]
       }
     ],
 
     "SuperAttacks": [
       {
-        "nombreAtaque": "Gigantic Charge",
+        "nombreAtaque": "Realized Power",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -4071,16 +4318,7 @@
         ]
       },
       {
-        "nombreAtaque": "Gigantic Impact (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Meteor Shower(in air)",
+        "nombreAtaque": "Death Blow ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
           "imagenes/ImagenesAtaqueDB/H.png",
@@ -4091,7 +4329,7 @@
     ],
     "MeteorAttack": [
       {
-        "nombreAtaque": "Gigantic Roa",
+        "nombreAtaque": "I keep improving",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -4285,190 +4523,8 @@
       }
     ]
   },
-  {
-    "Nombre": "Hit",
-    "Descripcion": "Hit (ヒット Hitto), renowned as Never-Miss Hit (百発百中のヒット Hyappatsu-hyakuchū no Hitto, lit. Hit the Infallible) and as the Legendary Hitman (伝説の殺し屋 Densetsu no Koroshi-ya, lit. Legendary Assassin) is the legendary assassin of Universe 6. In addition, he also later on becomes the leader for Team Universe 6.",
-    "Foto": "imagenes/DBZTODO/hit.png",
-    "Foto2": "imagenes/PersonajesBD/hit.png",
-    "Animename": "Hit",
-    "Manganame": "Hit",
-    "Raze": "Human",
-    "Gender": "Male",
 
-    "Size": "193  cm",
-    "Weight": "75 Kg",
-
-    "Personality": "Hit is stoic and composed, constantly appearing emotionless and indifferent to most events. An expert in his craft, Hit shows great confidence and fortitude in any challenge presented before him. Hit also seems to be quite confident in his abilities. Showing a very no-nonsense attitude, he is straight to the point and speaks no more than necessary. To which, Hit will carry out his contracts, no matter whom his targets may be, nor can he be bribed or convinced to turn away from the assignment. More to his unwavering commitment and resolve, even when at a disadvantage, Hit refuses to back down from the challenge, choosing to face the opponent head-on, as noted by Cabba. ",
-    "Combos": "https://www.youtube.com/watch?v=oCJQf_6CwQc",
-    "Combos2": "https://www.youtube.com/watch?v=CyQfNo7l26o",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "A quick pressure point jab.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "Teleports forward and does an uppercut.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": " Teleports towards the opponent",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Teleports forward .",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": " Non-leading fist.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Time Skip  ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "A downward punch. ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Stomps the ground with one foot.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Launches the opponen",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "A jumping axe kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A side kick.(in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A downward punch(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Overhead   (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": " Time Skip (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Spins and does an upward kick",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Icy Glare ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Vital Point Attack  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Deadly Intent",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Mark of an Assassin ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Tides of Time ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Time Release",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Realized Power",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Death Blow ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/H.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "I keep improving",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
+ 
   {
     "Nombre": "Base Goku",
     "Descripcion": "Son Goku (孫そん悟ご空くう Son Gokū), born Kakarot (カカロット Kakarotto), is the main protagonist of the Dragon Ball metaseries. Goku is a Saiyan originally sent to destroy Earth as an infant. However, a head injury at an early age alters his memory, ridding him of his initial destructive nature and allowing him to grow up to become one of Earth's greatest defenders. He constantly strives and trains to be the greatest warrior possible, which has kept the Earth and the universe safe from destruction many times",
@@ -4845,6 +4901,176 @@
       }
     ]
   },
+
+  {
+    "Nombre": "Broly",
+    "Descripcion": "Broly was born on Planet Vegeta on the same day as Goku with an inordinate power level of 10,000. During his time in the maternity ward, he was constantly tormented by the sound of Goku's crying from the neighboring incubator, instilling in him a deep-rooted resentment toward Goku. Due to his incredible power, King Vegeta saw Broly as a potential threat to his rule and ordered him to be executed, which resulted in him being stabbed in the heart and left for dead alongside his father, Paragus, who attempted to persuade the king to spare his son.",
+    "Foto": "imagenes/DBZTODO/broly.png",
+    "Foto2": "imagenes/PersonajesBD/brolys.png",
+    "Animename": "Broly",
+    "Manganame": "Broly",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "274 cm",
+    "Weight": "229 Kg",
+
+    "Personality": "When first seen, Broly is seen as a rather docile and harmless-looking Saiyan (uncharacteristic of a majority of the Saiyan race). However, Broly has an unpredictable dual nature, as indicated in Paragus's flashback, when he briefly wakes up and calmly asks what Paragus is up to, only to end up going into a screaming fit when realizing that Paragus is about to place the mind-control crown on his head. Once shifting into his more aggressive state, Broly demonstrates his love of fighting and brutality just like the typical Saiyan, but on a far more destructive level. This violent and maniacal side of him seemingly stemmed from both his extraordinary power that he never properly learned to control as well as the traumatic events of his birth, causing his frenzies to happen more frequently and last longer as he grew and these eventually led him to gouge out his father's left eye.",
+    "Combos": "https://www.youtube.com/watch?v=x2__DwzKZ9g",
+    "Combos2": "https://www.youtube.com/watch?v=i6-88CIE8_A",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A straightforward jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Grabs the opponent, ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A stomach-first lunge",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An overhead punch with armor. ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A one-handed handstand kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A jumping downward hand swipe. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ah airborne jab. (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward punch..(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A hand swipe.   (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A falling stomp.(in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Gigantic Claw (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Gigantic Claw ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lariat Express ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eraser Blow",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Powered Shell",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Eraser Cannon",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Gigantic Meteor (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
+
+
   {
     "Nombre": "Janemba",
     "Descripcion": "Janemba (ジャネンバ Janenba) is the main antagonist in the movie Dragon Ball Z: Fusion Reborn, and he appears in several other Dragon Ball media. He is a demon of pure evil and great power. Janemba is the living definition of evil.[4]",
@@ -5220,6 +5446,189 @@
       }
     ]
   },
+  
+  {
+    "Nombre": "Jiren",
+    "Descripcion": "Jiren (ジレン Jiren), also known as Jiren The Gray (灰色のジレン Haiiro no Jiren), is a member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power. An extraordinary powerful being, Jiren is considered to be one of the strongest mortals in all of the multiverse, outclassing even Destroyer Gods.",
+    "Foto": "imagenes/DBZTODO/jiren.png",
+    "Foto2": "imagenes/PersonajesBD/Jiren.png",
+
+    "Animename": "Jiren",
+    "Manganame": "Jiren",
+    "Raze": "Jiren's race",
+    "Gender": "Male",
+
+    "Size": "274 cm",
+    "Weight": "229 Kg",
+
+    "Personality": "Jiren is a man who devotes everything to justice and never acts for selfish reasons; he lives to protect Universe 11, even stating that he would leave the tournament while it was happening in order to return there if any problem arose in the 48 minutes of the tournament. When Top tells Jiren to participate in the Tournament of Power, he initially refuses to enter - as while it is his duty to protect Universe 11, he will not cause the destruction of other universes to save his own. He will never kill any villains he defeats and instead captures them. Even more, he shows disgust towards those who actively kill and do not follow justice. ",
+    "Combos": "https://www.youtube.com/watch?v=9_Tu8_zFL_I",
+    "Combos2": "https://www.youtube.com/watch?v=S6PxZzbiOn0",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A short jab.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A reverse roundhouse kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a red ki blast  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A roundhouse kick.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Grabs the opponent",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Takes a step forward ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "An upward-angled straight punch. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An advancing double kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A half crescent kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shoots a short-ranged",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A jumping double-axe handle.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A midair jab.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An elbow drop followed by a downward punch.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An downward double-axe handle.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Downward with both feet.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fires a ki blast downward (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Shock Tornado ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Infinity Rush",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Charge ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Counter Impact",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Colossal Slash (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Colossal Uppercut",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/H.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Blazing Magnetron",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
   {
     "Nombre": "Cooler",
     "Descripcion": "Cooler (クウラ Kūra, Coora) is the titular main antagonist in the movie Dragon Ball Z: Cooler's Revenge and an emulation of him acts as the main antagonist in Dragon Ball Z: The Return of Cooler. He is the older brother of Frieza and the eldest son of King Cold. Like his brother, he can push his body through transformations. Also, like Frieza, Cooler possesses a biomechanical incarnation, but this is gained from merging with the Big Gete Star.",
@@ -5414,36 +5823,37 @@
       }
     ]
   },
+ 
   {
-    "Nombre": "Broly",
-    "Descripcion": "Broly was born on Planet Vegeta on the same day as Goku with an inordinate power level of 10,000. During his time in the maternity ward, he was constantly tormented by the sound of Goku's crying from the neighboring incubator, instilling in him a deep-rooted resentment toward Goku. Due to his incredible power, King Vegeta saw Broly as a potential threat to his rule and ordered him to be executed, which resulted in him being stabbed in the heart and left for dead alongside his father, Paragus, who attempted to persuade the king to spare his son.",
-    "Foto": "imagenes/DBZTODO/broly.png",
-    "Foto2": "imagenes/PersonajesBD/brolys.png",
-    "Animename": "Broly",
-    "Manganame": "Broly",
+    "Nombre": "Super Broly",
+    "Descripcion": "Broly (ブロリー Burorī) is the son of Paragus and the misguided main antagonist of Dragon Ball Super: Broly. He is the latest of the Legendary Super Saiyans, a demonic Saiyan warrior who appears every thousand years. Because of his extreme power, he was stranded on the planet Vampa by King Vegeta, where he was raised by his father until rescued years later by the Frieza Force.",
+    "Foto": "imagenes/DBZTODO/super-broly.png",
+    "Foto2": "imagenes/PersonajesBD/broly.png",
+    "Animename": "Kefla",
+    "Manganame": "Kefla",
     "Raze": "Saiyan",
     "Gender": "Male",
 
-    "Size": "274 cm",
-    "Weight": "229 Kg",
+    "Size": "300 cm",
+    "Weight": "75 Kg",
 
-    "Personality": "When first seen, Broly is seen as a rather docile and harmless-looking Saiyan (uncharacteristic of a majority of the Saiyan race). However, Broly has an unpredictable dual nature, as indicated in Paragus's flashback, when he briefly wakes up and calmly asks what Paragus is up to, only to end up going into a screaming fit when realizing that Paragus is about to place the mind-control crown on his head. Once shifting into his more aggressive state, Broly demonstrates his love of fighting and brutality just like the typical Saiyan, but on a far more destructive level. This violent and maniacal side of him seemingly stemmed from both his extraordinary power that he never properly learned to control as well as the traumatic events of his birth, causing his frenzies to happen more frequently and last longer as he grew and these eventually led him to gouge out his father's left eye.",
-    "Combos": "https://www.youtube.com/watch?v=x2__DwzKZ9g",
-    "Combos2": "https://www.youtube.com/watch?v=i6-88CIE8_A",
+    "Personality": "This incarnation of Broly is very different from his counterpart. While his counterpart was an outright psychotic man with a split personality disorder that would randomly turn him into a maniacal killer, this Broly developed a more sane personality due to his relatively less tragic background. Due to his upbringing on an inhospitable planet living only with his father and no other sentient being, Broly is a quiet fellow with little social skills or manners. His limited education has left him somewhat naïve to normal society, showing a noticeable childlike fascination with the various comforts and advances it has to offer, particularly eating better quality food (curiously though, he is aware of how to operate a shower stall onboard Frieza's ship). ",
+    "Combos": "https://www.youtube.com/watch?v=i6-88CIE8_A",
+    "Combos2": "https://www.youtube.com/watch?v=x2__DwzKZ9g",
     "NormalAttacks": [
       {
-        "nombreAtaque": "A straightforward jab.",
+        "nombreAtaque": "Performs a jab at a downward angle",
         "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
       },
       {
-        "nombreAtaque": "A roundhouse kick.",
+        "nombreAtaque": "Generates an energy",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/L.png",
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
       },
       {
-        "nombreAtaque": " Grabs the opponent, ",
+        "nombreAtaque": " Elbow strike, ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/L.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -5451,64 +5861,70 @@
         ]
       },
       {
-        "nombreAtaque": "A stomach-first lunge",
+        "nombreAtaque": "An advancing side kick",
         "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
       },
       {
-        "nombreAtaque": "An overhead punch with armor. ",
+        "nombreAtaque": "Launch opponent",
         "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
       },
       {
-        "nombreAtaque": "ki blast ",
+        "nombreAtaque": "Ki blast ",
         "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
       },
       {
-        "nombreAtaque": "A crouching jab.",
+        "nombreAtaque": "Throws a quick uppercut",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/L.png"
         ]
       },
       {
-        "nombreAtaque": "A roundhouse kick.",
+        "nombreAtaque": "An alternating series of stomps with each foot.",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/M.png"
         ]
       },
       {
-        "nombreAtaque": "A one-handed handstand kick",
+        "nombreAtaque": "Launches the opponen",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/H.png"
         ]
       },
-
       {
-        "nombreAtaque": "A jumping downward hand swipe. ",
+        "nombreAtaque": "Fires a green beam forward with a large amount of startup.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Leaps and performs a double axe-handle punch.",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Right.png",
           "imagenes/ImagenesAtaqueDB/M.png"
         ]
       },
       {
-        "nombreAtaque": "Ah airborne jab. (in air) ",
+        "nombreAtaque": "Performs a midair jab with longer reach than most others. (in air) ",
         "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
       },
       {
-        "nombreAtaque": "A downward punch..(in air)",
+        "nombreAtaque": "Turns and performs a midair kick.(in air)",
         "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
       },
       {
-        "nombreAtaque": "A hand swipe.   (in air)",
+        "nombreAtaque": "Overhead   (in air)",
         "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
       },
       {
-        "nombreAtaque": "Fires Ki (in air)",
+        "nombreAtaque": "Fires a green energy(in air)",
         "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
       },
       {
-        "nombreAtaque": "A falling stomp.(in air)",
+        "nombreAtaque": "Grabs the opponent (in air)",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/Down.png",
           "imagenes/ImagenesAtaqueDB/H.png"
@@ -5517,23 +5933,15 @@
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Gigantic Claw (in air)",
+        "nombreAtaque": "Headbutt  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/Right.png",
 
           "imagenes/ImagenesAtaqueDB/H.png"
         ]
       },
       {
-        "nombreAtaque": "Gigantic Claw ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Lariat Express ",
+        "nombreAtaque": "Raging Quake ",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
 
@@ -5549,7 +5957,15 @@
         ]
       },
       {
-        "nombreAtaque": "Powered Shell",
+        "nombreAtaque": "Gigantic Fury",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eraser Blow",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
 
@@ -5560,180 +5976,7 @@
 
     "SuperAttacks": [
       {
-        "nombreAtaque": "Eraser Cannon",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Gigantic Meteor (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Jiren",
-    "Descripcion": "Jiren (ジレン Jiren), also known as Jiren The Gray (灰色のジレン Haiiro no Jiren), is a member of the Pride Troopers. He served as the main fighting antagonist in the Universe Survival Saga and as a major contestant in the Tournament of Power. An extraordinary powerful being, Jiren is considered to be one of the strongest mortals in all of the multiverse, outclassing even Destroyer Gods.",
-    "Foto": "imagenes/DBZTODO/jiren.png",
-    "Foto2": "imagenes/PersonajesBD/Jiren.png",
-
-    "Animename": "Jiren",
-    "Manganame": "Jiren",
-    "Raze": "Jiren's race",
-    "Gender": "Male",
-
-    "Size": "274 cm",
-    "Weight": "229 Kg",
-
-    "Personality": "Jiren is a man who devotes everything to justice and never acts for selfish reasons; he lives to protect Universe 11, even stating that he would leave the tournament while it was happening in order to return there if any problem arose in the 48 minutes of the tournament. When Top tells Jiren to participate in the Tournament of Power, he initially refuses to enter - as while it is his duty to protect Universe 11, he will not cause the destruction of other universes to save his own. He will never kill any villains he defeats and instead captures them. Even more, he shows disgust towards those who actively kill and do not follow justice. ",
-    "Combos": "https://www.youtube.com/watch?v=9_Tu8_zFL_I",
-    "Combos2": "https://www.youtube.com/watch?v=S6PxZzbiOn0",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "A short jab.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A reverse roundhouse kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fires a red ki blast  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A roundhouse kick.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Grabs the opponent",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Takes a step forward ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "An upward-angled straight punch. ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "An advancing double kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A half crescent kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Shoots a short-ranged",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A jumping double-axe handle.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A midair jab.(in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "An elbow drop followed by a downward punch.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "An downward double-axe handle.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Fires Ki (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Downward with both feet.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fires a ki blast downward (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Shock Tornado ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Infinity Rush",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Grand Charge ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Counter Impact",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Colossal Slash (air OK)",
+        "nombreAtaque": "Gigantic Charge",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -5742,7 +5985,16 @@
         ]
       },
       {
-        "nombreAtaque": "Colossal Uppercut",
+        "nombreAtaque": "Gigantic Impact (in air)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Meteor Shower(in air)",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/236.png",
           "imagenes/ImagenesAtaqueDB/H.png",
@@ -5753,7 +6005,7 @@
     ],
     "MeteorAttack": [
       {
-        "nombreAtaque": "Blazing Magnetron",
+        "nombreAtaque": "Gigantic Roa",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -5763,6 +6015,7 @@
       }
     ]
   },
+ 
   {
     "Nombre": "Android 18",
     "Descripcion": "Android 18 (人造人間１８号 Jinzōningen Jū Hachi-Gō, lit. Artificial Human No. 18), originally named Lazuli (ラズリ Razuri)[4] when she was an ordinary human, is the twin sister of Android 17 and Dr. Gero's eighteenth android creation, designed to serve Gero's vendetta against Goku. While her interests do not initially deviate from this expectation, her curiosity to activate Android 16, in spite of Gero's orders not to do so, leads Android 17 to take it upon himself to murder Gero. Eventually, Android 18 becomes a member of the Z Fighters, as well as the wife of Krillin and the mother of their daughter Marron.",
@@ -6095,7 +6348,152 @@
       }
     ]
   },
+ 
   {
+    "Nombre": "Captain Ginyu",
+    "Descripcion": "Ginyu (ギニュー Ginyū), referred to as Captain Ginyu (ギニュー隊長 Ginyū-taichō) by his subordinates, is the strict but loyal captain of the elite mercenary platoon, the eponymous Ginyu Force. Ginyu is an honorable, yet merciless fighter who constantly strikes poses. He possesses the ability to swap bodies.",
+    "Foto": "imagenes/DBZTODO/ginyu.png",
+    "Foto2": "imagenes/PersonajesBD/ginyu.png",
+    "Animename": "Ginyū",
+    "Manganame": "Ginyū",
+    "Raze": "Ginyu's race mutant",
+    "Gender": "Male",
+
+    "Size": "200  cm",
+    "Weight": "106 Kg",
+
+    "Personality": "While very arrogant and merciless in battle, Ginyu has displayed a strong sense of honor in combat and prefers fairness in his battles, as shown when he refused to break Goku's neck due to Jeice interfering in their fight, and even threatening to kill Jeice if he did it again. Goku takes note of this and insinuates that Ginyu may not be all bad and even capable of redemption.",
+    "Combos": "https://www.youtube.com/watch?v=UNit-70ajKg",
+    "Combos2": "https://www.youtube.com/watch?v=SAxJAuv1iXI",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A knifehand swipe.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "Two punches right after each other.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " Launches the opponen",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dashes forward .",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "Spins forward and then does a high kick",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A crouching jab.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A crouching sweepkick. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An upward knifehand ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Jumps forward ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Two quick punches.(in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A side kick.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A downward, knifehand swipe.(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "An upward heel kick that launches the opponent..(in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Strong Jersey  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Together We Are...the Ginyu Force! (air OK)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Powerful Energy Wave ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Body Change  (air OK)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Together we are... the Ginyu Force!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  }, {
     "Nombre": "Majin Buu",
     "Descripcion": "Majin Buu is an ancient creature who brought the universe to its knees before being sealed away on Earth, only to be unleashed by the wicked wizard Babidi. While highly dangerous, Buu was also as innocent as a newborn babe, a fact that Mr. Satan used to help reform him and transform him into a protector of Earth who is friendly to all around him, especially if they come to him with gifts of candy.",
     "Foto": "imagenes/DBZTODO/majin-buu.png",
@@ -6259,151 +6657,6 @@
     "MeteorAttack": [
       {
         "nombreAtaque": "Turn into candy!",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Captain Ginyu",
-    "Descripcion": "Ginyu (ギニュー Ginyū), referred to as Captain Ginyu (ギニュー隊長 Ginyū-taichō) by his subordinates, is the strict but loyal captain of the elite mercenary platoon, the eponymous Ginyu Force. Ginyu is an honorable, yet merciless fighter who constantly strikes poses. He possesses the ability to swap bodies.",
-    "Foto": "imagenes/DBZTODO/ginyu.png",
-    "Foto2": "imagenes/PersonajesBD/ginyu.png",
-    "Animename": "Ginyū",
-    "Manganame": "Ginyū",
-    "Raze": "Ginyu's race mutant",
-    "Gender": "Male",
-
-    "Size": "200  cm",
-    "Weight": "106 Kg",
-
-    "Personality": "While very arrogant and merciless in battle, Ginyu has displayed a strong sense of honor in combat and prefers fairness in his battles, as shown when he refused to break Goku's neck due to Jeice interfering in their fight, and even threatening to kill Jeice if he did it again. Goku takes note of this and insinuates that Ginyu may not be all bad and even capable of redemption.",
-    "Combos": "https://www.youtube.com/watch?v=UNit-70ajKg",
-    "Combos2": "https://www.youtube.com/watch?v=SAxJAuv1iXI",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "A knifehand swipe.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "Two punches right after each other.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": " Launches the opponen",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dashes forward .",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Spins forward and then does a high kick",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Ki blast ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "A crouching jab.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A crouching sweepkick. ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "An upward knifehand ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Jumps forward ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Two quick punches.(in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A side kick.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "A downward, knifehand swipe.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "An upward heel kick that launches the opponent..(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Strong Jersey  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Together We Are...the Ginyu Force! (air OK)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Powerful Energy Wave ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Body Change  (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Together we are... the Ginyu Force!",
         "Animacion": [
           "imagenes/ImagenesAtaqueDB/214.png",
           "imagenes/ImagenesAtaqueDB/L.png",
@@ -6747,6 +7000,166 @@
       }
     ]
   },
+ 
+  {
+    "Nombre": "Nappa",
+    "Descripcion": "Nappa (ナッパ Nappa) is a mid-class Saiyan warrior from Planet Vegeta, and Vegeta's partner in combat. Prior to the destruction of Planet Vegeta, Nappa was the general of the Saiyan Army and aid/partner to the young prince, Vegeta. After his race's demise, he, along with Vegeta and Raditz, worked as soldiers directly under Frieza, which led him to Earth.",
+    "Foto": "imagenes/DBZTODO/nappa.png",
+    "Foto2": "imagenes/PersonajesBD/nappa.png",
+    "Animename": "Nappa",
+    "Manganame": "Nappa",
+    "Raze": "Saiyan",
+    "Gender": "Male",
+
+    "Size": "193 cm",
+    "Weight": "75 Kg",
+
+    "Personality": "Nappa has quite a destructive personality and loves demolition to an extreme level. When arriving on Earth, the first thing he asks Vegeta is if he can destroy a town. When taking time off to wait for Goku, Vegeta allows him to destroy as many things and places as he wants (in the anime only), as long as he does not waste enough energy to break a sweat. Nappa proceeds to demolish an entire Navy fleet division as well as an aerial raid, smashing through many jets and helicopters before leveling a slew of ships. Despite this, however, he usually congratulates his victims when they utilize attacks that come close to killing him, as evidenced when he congratulates Tien Shinhan on his use on a Spirit Tri-Beam that shattered his Battle Armor, citing that, had his aim been better, it would have severely injured him.",
+    "Combos": "https://www.youtube.com/watch?v=0hMmZjxIWRI",
+    "Combos2": "https://www.youtube.com/watch?v=ebh34hycgZc",
+    "NormalAttacks": [
+      {
+        "nombreAtaque": "A downward punch.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "An upward front kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": " A knifehand swipe. ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A leading foot stomp.",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "A charging overhand punch",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Ki blast ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "A backhand swing.  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A low sweepkick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "An overhand clap that launches the opponent.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "A hopping upside-down bicycle kick.",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Right.png",
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A quick jab forward (in air) ",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
+      },
+      {
+        "nombreAtaque": "A downward kick (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
+      },
+      {
+        "nombreAtaque": "An upside-down bicycle kick.    (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
+      },
+      {
+        "nombreAtaque": "Fires Ki (in air)",
+        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
+      },
+      {
+        "nombreAtaque": "Downward and crushes ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/Down.png",
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Saibamen  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/H.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Arm Break ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blazing Storm (air OK) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+
+          "imagenes/ImagenesAtaqueDB/L.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Too bad ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+
+          "imagenes/ImagenesAtaqueDB/S.png"
+        ]
+      }
+    ],
+
+    "SuperAttacks": [
+      {
+        "nombreAtaque": "Giant Storm ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/236.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ],
+    "MeteorAttack": [
+      {
+        "nombreAtaque": "Break Cannon",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueDB/214.png",
+          "imagenes/ImagenesAtaqueDB/L.png",
+
+          "imagenes/ImagenesAtaqueDB/M.png"
+        ]
+      }
+    ]
+  },
   {
     "Nombre": "Krillin",
     "Descripcion": "Krillin had a brief rivalry with Goku when they first met and trained under Master Roshi, but they quickly became lifelong best friends.[9] One of the most powerful and talented martial artists on Earth, Krillin is courageous, faithful, and good-natured. He is a prominent Z Fighter, despite usually being overpowered by the major enemies. His short stature and baldness (with the exception of when he grows out his hair in the Majin Buu Saga onwards, although he occasionally shaves his head in several sagas in Dragon Ball Super) aid him in his ability to provide comic relief during tense moments. During the latter half of Dragon Ball Z, he largely retires from fighting, opting to settle down with his family instead, becoming the husband of Android 18 and the father of Marron. However, he returns to his lifestyle as a warrior later on in Dragon Ball Super.",
@@ -6926,403 +7339,6 @@
         ]
       }
     ]
-  },
-  {
-    "Nombre": "Nappa",
-    "Descripcion": "Nappa (ナッパ Nappa) is a mid-class Saiyan warrior from Planet Vegeta, and Vegeta's partner in combat. Prior to the destruction of Planet Vegeta, Nappa was the general of the Saiyan Army and aid/partner to the young prince, Vegeta. After his race's demise, he, along with Vegeta and Raditz, worked as soldiers directly under Frieza, which led him to Earth.",
-    "Foto": "imagenes/DBZTODO/nappa.png",
-    "Foto2": "imagenes/PersonajesBD/nappa.png",
-    "Animename": "Nappa",
-    "Manganame": "Nappa",
-    "Raze": "Saiyan",
-    "Gender": "Male",
-
-    "Size": "193 cm",
-    "Weight": "75 Kg",
-
-    "Personality": "Nappa has quite a destructive personality and loves demolition to an extreme level. When arriving on Earth, the first thing he asks Vegeta is if he can destroy a town. When taking time off to wait for Goku, Vegeta allows him to destroy as many things and places as he wants (in the anime only), as long as he does not waste enough energy to break a sweat. Nappa proceeds to demolish an entire Navy fleet division as well as an aerial raid, smashing through many jets and helicopters before leveling a slew of ships. Despite this, however, he usually congratulates his victims when they utilize attacks that come close to killing him, as evidenced when he congratulates Tien Shinhan on his use on a Spirit Tri-Beam that shattered his Battle Armor, citing that, had his aim been better, it would have severely injured him.",
-    "Combos": "https://www.youtube.com/watch?v=0hMmZjxIWRI",
-    "Combos2": "https://www.youtube.com/watch?v=ebh34hycgZc",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "A downward punch.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "An upward front kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": " A knifehand swipe. ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A leading foot stomp.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "A charging overhand punch",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Ki blast ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "A backhand swing.  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A low sweepkick",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "An overhand clap that launches the opponent.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "A hopping upside-down bicycle kick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A quick jab forward (in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "A downward kick (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "An upside-down bicycle kick.    (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Fires Ki (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Downward and crushes ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Saibamen  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Arm Break ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Blazing Storm (air OK) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Too bad ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Giant Storm ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Break Cannon",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Goku Ultra Instinct",
-    "Descripcion": "Pushed to his limits during the Tournament of Power, Goku tapped into this powerful mental state in order to battle Jiren, a technique of such strength that not even a God of Destruction could rival it: Ultra Instinct. Through repeated use, Goku manages to complete the form, allowing him to lead his Universe in standing a chance against Jiren. With his mind and body separated, Goku becomes fast enough to swiftly evade incoming attacks, while fighting purely on instinct alone.",
-    "Foto": "imagenes/DBZTODO/ultra-instinct-goku.png",
-    "Foto2": "imagenes/PersonajesBD/Goku_UltraInstinct.png",
-    "Animename": "Goku",
-    "Manganame": "Goku",
-    "Raze": "Saiyan",
-    "Gender": "Male",
-
-    "Size": "175 cm",
-    "Weight": "75 Kg",
-
-    "Personality": "Goku and Vegeta spar with Whis who dodges them with ease even causing the two to ram into each other by mistake, Goku watches as Vegeta has a turn attacking Whis on his own and then proceeds to attack once Vegeta has been downed, tapping into the power of Super Saiyan God as he does so though is still unable to hit the angel. Goku and Vegeta then continue their assault, though it soon ends and Whis reveals that he has marked their outfits with his symbol. He then explains the principles of Ultra Instinct to them and points out there flaws. Beerus then interrupts, firing a ki blast in anger, much to the shock of Goku and Vegeta.",
-    "Combos": "https://www.youtube.com/watch?v=SrG36nQcmpw",
-    "Combos2": "https://www.youtube.com/watch?v=ewbCeTJ0PxA",
-    "NormalAttacks": [
-      {
-        "nombreAtaque": "Does a mid-level jab.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "Appears in the air and does a falling punch.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": " Grabs the opponent ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Does a mid-level roundhouse kick.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Does a charging punch.",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Fires a shockwave with his fist. ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Jabs at a downward angle.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Does a sweepkick.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Performs two jumping kicks.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fires an energy blas",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Does jumping a modified axe kick with both legs.",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Does a midair jab. (in air) ",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/L.png"]
-      },
-      {
-        "nombreAtaque": "Does a midair roundhouse kick.(in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/M.png"]
-      },
-      {
-        "nombreAtaque": "Does a modified axe kick with both legs.   (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/H.png"]
-      },
-      {
-        "nombreAtaque": "Fires Ki (in air)",
-        "Animacion": ["imagenes/ImagenesAtaqueDB/S.png"]
-      },
-      {
-        "nombreAtaque": "Does a midair stretch kick. (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Spins and fires a ki blast",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Secret Sensation  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-
-          "imagenes/ImagenesAtaqueDB/H.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Shining Soul  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Right.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Unrestrained Will(HOLD) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Godly Display ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Autonomous Fist (in air)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Godly Strike (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/L.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Transcendence (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Embodied Light(air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Unencumbered Mind (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Kamehameha (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Rising Heat (air OK)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/Down.png",
-          "imagenes/ImagenesAtaqueDB/Down.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-
-    "SuperAttacks": [
-      {
-        "nombreAtaque": "Accelerating Battle Spirit ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Guiding Impulse (air OK) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/236.png",
-          "imagenes/ImagenesAtaqueDB/H.png",
-
-          "imagenes/ImagenesAtaqueDB/S.png"
-        ]
-      }
-    ],
-    "MeteorAttack": [
-      {
-        "nombreAtaque": "Silver Dragon Flash",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueDB/214.png",
-          "imagenes/ImagenesAtaqueDB/L.png",
-
-          "imagenes/ImagenesAtaqueDB/M.png"
-        ]
-      }
-    ]
   }
+ 
 ]
