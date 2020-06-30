@@ -117,8 +117,11 @@ class SkullGirls extends React.Component {
               }}
               className="  btn-MVC large2 PruebadefondoAtaquesSF   "
             >
-              <div className="margendelbotoonMK ">
-                <button className=" botonMC">See Tierlist</button>
+
+
+
+              <div className="DivBotonSkull2 ">
+                <button className=" BotonSkull2">See Tierlist</button>
               </div>
             </Link>
           </Container>

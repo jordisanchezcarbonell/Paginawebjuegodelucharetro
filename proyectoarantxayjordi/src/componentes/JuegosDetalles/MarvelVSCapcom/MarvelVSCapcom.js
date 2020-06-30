@@ -395,7 +395,7 @@ class MarvelVSCapcom extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <div className="margendelbotoonMK ">
+                <div className="margendelbotoonMK2 ">
                   <button className=" botonMC">See Tierlist</button>
                 </div>
               </Link>

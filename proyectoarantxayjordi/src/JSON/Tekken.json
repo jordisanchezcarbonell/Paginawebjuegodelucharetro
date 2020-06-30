@@ -289,113 +289,6 @@
     ]
   },
   {
-    "Nombre": "Steve",
-    "Descripcion": "Steve is a young British boxer who was adopted at a young age and whose origins long remained shrouded in mystery. Throughout the games, Steve's main objective has been to learn more information about his past, including the origin of the mysterious scar on his arm, and to get revenge against those responsible.",
-    "Foto": "imagenes/TK7/Steve_Fox.png",
-    "Foto2": "imagenes/PersonajesTekken7/Steve_Fox.png",
-    "Personality": "Steve is a polite and gentlemanlike individual whose main motivation is to fight in the ring. He has very few enemies and has made many friends and friendly rivals throughout the series, including Marshall Law and Paul Phoenix.",
-    "Height": "187 cm",
-    "Weight": "75 Kg",
-    "Likes": "Fighting in the ring,Training,Sportsmanship",
-    "Dislikes": "The Mafia and the Mishima Zaibatsu,Heihachi Mishima,Jin Kazama,Bad sportsmanship",
-    "Species": "Human",
-    "Gender": "Male",
-    "Occupation": "Professional Boxer",
-    "Combos": "https://www.youtube.com/watch?v=Nq8TUtoFC-I",
-    "Combos2": "https://www.youtube.com/watch?v=geDadvey7rw",
-    "Ataques": [
-      {
-        "nombreAtaque": "Rage Drive",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/downright.svg",
-          "imagenes/ImagenesataquesTekken/3+4.svg",
-          "imagenes/ImagenesataquesTekken/1+2.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Lightning Combo",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/3.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Vanguard Rush",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/2.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Centurion Rush",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/1.svg",
-
-          "imagenes/ImagenesataquesTekken/right.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Ducking Body Blow to Left Hook",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/right.svg",
-          "imagenes/ImagenesataquesTekken/2.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Dominating Heel",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/downright.svg",
-          "imagenes/ImagenesataquesTekken/4.svg",
-          "imagenes/ImagenesataquesTekken/4.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Knuckle Plow",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/down.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      },
-      {
-        "nombreAtaque": "Lancaster Combination",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/left.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-
-          "imagenes/ImagenesataquesTekken/3.svg",
-
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Uppercut Cross Combo",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/downright.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/2.svg"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Frigate Combo",
-        "Animacion": [
-          "imagenes/ImagenesataquesTekken/left.svg",
-          "imagenes/ImagenesataquesTekken/1.svg",
-          "imagenes/ImagenesataquesTekken/down.svg",
-          "imagenes/ImagenesataquesTekken/3.svg",
-          "imagenes/ImagenesataquesTekken/1.svg"
-        ]
-      }
-    ]
-  },
-  {
     "Nombre": "Paul",
     "Descripcion": "Paul Phoenix (ポール・フェニックス Pōru Fenikkusu?) is a character in the Tekken series who made his debut in the first Tekken game and since then has appeared in every game to date. He is a hotheaded, aggressive character, determined more than ever to win the King of Iron Fist Tournament to prove he is the best fighter in the entire universe.",
     "Foto": "imagenes/TK7/Paul_Phoenix.png",
@@ -513,6 +406,114 @@
       }
     ]
   },
+  {
+    "Nombre": "Steve",
+    "Descripcion": "Steve is a young British boxer who was adopted at a young age and whose origins long remained shrouded in mystery. Throughout the games, Steve's main objective has been to learn more information about his past, including the origin of the mysterious scar on his arm, and to get revenge against those responsible.",
+    "Foto": "imagenes/TK7/Steve_Fox.png",
+    "Foto2": "imagenes/PersonajesTekken7/Steve_Fox.png",
+    "Personality": "Steve is a polite and gentlemanlike individual whose main motivation is to fight in the ring. He has very few enemies and has made many friends and friendly rivals throughout the series, including Marshall Law and Paul Phoenix.",
+    "Height": "187 cm",
+    "Weight": "75 Kg",
+    "Likes": "Fighting in the ring,Training,Sportsmanship",
+    "Dislikes": "The Mafia and the Mishima Zaibatsu,Heihachi Mishima,Jin Kazama,Bad sportsmanship",
+    "Species": "Human",
+    "Gender": "Male",
+    "Occupation": "Professional Boxer",
+    "Combos": "https://www.youtube.com/watch?v=Nq8TUtoFC-I",
+    "Combos2": "https://www.youtube.com/watch?v=geDadvey7rw",
+    "Ataques": [
+      {
+        "nombreAtaque": "Rage Drive",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/3+4.svg",
+          "imagenes/ImagenesataquesTekken/1+2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lightning Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/3.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Vanguard Rush",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Centurion Rush",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Ducking Body Blow to Left Hook",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/right.svg",
+          "imagenes/ImagenesataquesTekken/2.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Dominating Heel",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/4.svg",
+          "imagenes/ImagenesataquesTekken/4.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Knuckle Plow",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+      {
+        "nombreAtaque": "Lancaster Combination",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+
+          "imagenes/ImagenesataquesTekken/3.svg",
+
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Uppercut Cross Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/downright.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/2.svg"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Frigate Combo",
+        "Animacion": [
+          "imagenes/ImagenesataquesTekken/left.svg",
+          "imagenes/ImagenesataquesTekken/1.svg",
+          "imagenes/ImagenesataquesTekken/down.svg",
+          "imagenes/ImagenesataquesTekken/3.svg",
+          "imagenes/ImagenesataquesTekken/1.svg"
+        ]
+      }
+    ]
+  },
+ 
   {
     "Nombre": "Jin",
     "Descripcion": "Jin Kazama (風間 仁 Kazama Jin?) is one of the main characters of the Tekken series. He is featured on the packaging for the console version of almost every sequel following his introduction in Tekken 3.",

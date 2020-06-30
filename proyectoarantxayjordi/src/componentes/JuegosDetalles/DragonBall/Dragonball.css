@@ -20,10 +20,26 @@
     font-family: 'Lora', serif;
 
 
+}.BotonBD2 {
+    background-color: rgba(58, 59, 59, 0.63);
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+
+    width: 90%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    margin-bottom: 1.5vw;
+    margin-top: -1.5vw;
+
+    color: white;
+    font-family: 'Lora', serif;
+
+
 }
 
 /* mirar botn responsive*/
-.BotonBD:hover {
+.BotonBD:hover,.BotonBD2:hover {
 
     background-color: rgba(128, 130, 131, 0.63);
     font-weight: bold;

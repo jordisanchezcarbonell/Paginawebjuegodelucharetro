@@ -13,7 +13,19 @@
 
 }
 
+.BotonUN2{
+    background-color:#0c298c;
+    border:4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+   color: white;
+    width: 80%;
+  padding-left: 2vw;
 
+  padding-right: 2vw;
+  margin-bottom: 2vw;
+  
+  }
 
 .BotonUN{
     background-color:#0c298c;
@@ -27,7 +39,7 @@
   padding-right: 2vw;
   
   }
-  .BotonUN:hover{
+  .BotonUN:hover,.BotonUN2:hover{
     background-color:#90a2dd;
 color: black;
 font-weight: bold;
@@ -170,12 +182,23 @@ responsive     width: 50vw; */
         display: none !important;
     }
 
-
-
+.passs{
+    margin-left: 4vw!important;
+}
 }
 
 
 
+
+@media screen and (min-width:1024px) {
+
+  
+
+.passs{
+    margin-left: 4vw!important;
+}
+
+}
 
 
 

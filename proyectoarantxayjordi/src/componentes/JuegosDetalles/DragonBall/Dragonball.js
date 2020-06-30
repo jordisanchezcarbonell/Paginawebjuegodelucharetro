@@ -47,7 +47,7 @@ class Child extends React.Component {
           <div className="rule "></div>
         </div>
         <Container className="ContainerDB pl-0 ">
-          <Row className="w-100  px-0 mx-0 RowBDP">
+          <Row className="w-100  px-0  RowBDP">
             <Col className="col-md-6 w-100 mb-5  ColDB1 colUniDB ">
               <TableContainer
                 component={Paper}
@@ -407,9 +407,10 @@ class Dragonball extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <div className="margendelbotoonMK ">
-                  <button className=" botonMC">See Tierlist</button>
-                </div>
+      
+                <div className="DivBotonBD ">
+                    <button className="BotonBD2">See Tierlist</button>
+                  </div>
               </Link>
               <Row className="  stage ROWdb ">
                 {/* <img

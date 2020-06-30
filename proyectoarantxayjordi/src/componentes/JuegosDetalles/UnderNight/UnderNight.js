@@ -394,8 +394,11 @@ class UnderNight extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <div className="margendelbotoonMK ">
-                  <button className=" botonMC">See Tierlist</button>
+           
+
+
+                <div className="DivBotonUN2 ">
+                  <button className="BotonUN2">See Tierlist</button>
                 </div>
               </Link>
               <Row className=" w-100 stage RowUn  centrarelemento">

@@ -1,5 +1,161 @@
 [
   {
+    "Nombre": "Liu Kang",
+    "Descripcion": "Shaolin monk and Champion of Earthrealm. Liu Kang was an orphan adopted and trained in the arts of kombat by the Shaolin order. He honored them by defeating Shang Tsung in Mortal Kombat and saving Earthrealm as the Chosen One, a title that weighs heavy on his shoulders.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/liu_kang.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/liu_kang.png",
+
+    "RealName": "Liu Kang",
+    "Gender": "Male",
+    "Species": "1st Timeline: Zombie/Spirit ,2nd Timeline: God (formerly Human/Revenant)",
+    "Combos": "https://www.youtube.com/watch?v=dz5dOMkxm2w",
+    "Combos2": "https://www.youtube.com/watch?v=UZY5RZjpy9s",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Total Distruction",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Twin Lotus ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A Quick End",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Orders ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon's Breath",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "This Will Hurt",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Chinese Warrior ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/up.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Fireball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Low Fireball ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Dragon Fire E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Burn Out (Close) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "One Inch Death Strike ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+  {
     "Nombre": "Sonya",
     "Descripcion": "Decorated officer of the Special Forces. Sonya braved the Mortal Kombat tournament, defended Earthrealm, and rescued her partner, Jax Briggs. Serious to a fault, she never takes time for personal leave, preferring to remain vigilant until all realms are safe from conquest.",
     "Foto1": "imagenes/PersonajesMortalKombat11/Sonya.png",
@@ -161,129 +317,132 @@
     ]
   },
   {
-    "Nombre": "Joker",
-    "Descripcion": "Unpredictable, violent and incredibly dangerous, The Joker is chaos personified. He’s killed a Robin, crippled Batgirl and tortured and murdered countless people throughout the DC universe. And now, he’s the latest Kombatant to join in Mortal Kombat.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Joker.png",
+    "Nombre": "Erron Black",
+    "Descripcion": "The best shot in Texas left home to seek adventure and excitement in Outworld with Kano and the Black Dragon. Outworld turned out to be the playground of Erron’s ultraviolent dreams. He decided to make his home there as the deadliest outlander in Outworld.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Erron_black.png",
 
-    "Foto2": "imagenes/PersonajesCortadosMk11/Joker.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Erron_black.png",
 
-    "RealName": "Unknown",
+    "RealName": "Erron Black",
     "Gender": "Male",
     "Species": "Human",
-    "Combos": "https://www.youtube.com/watch?v=4lbHe7aVyzY",
-    "Combos2": "https://www.youtube.com/watch?v=T-x5VcWwlDE",
-
+    "Combos": "https://www.youtube.com/watch?v=6Hrx-VZK_9k",
+    "Combos2": "https://www.youtube.com/watch?v=Pxqdc_aMGk4",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Jester Of Genocide",
+        "nombreAtaque": "High Noon  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Super Sanity ",
+        "nombreAtaque": "On The Shoot ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "The Man Who Laughs",
-        "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Have A Laugh ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Show's Over",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Joke's On You ",
+        "nombreAtaque": "Violent Ends",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Grand Entrance ",
+        "nombreAtaque": "At The Dooooor  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dead Man's Hand",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/up.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Smells Like Gunpowder ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hideout E   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Batsy-Poo ",
+        "nombreAtaque": "Zaterrean Spit   ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Close Jumping Jester ",
+        "nombreAtaque": "Close Zaterrean Spit ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
+
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/square.png",
-
           "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
 
       {
-        "nombreAtaque": "Far Jumping Jester E ",
+        "nombreAtaque": "Far TNT Toss E ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/right.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Party Pooper (Mid) ",
+        "nombreAtaque": "Melted (Mid)  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Death Trap (Mid)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
 
@@ -306,323 +465,13 @@
         ]
       },
       {
-        "nombreAtaque": "Playful Puppet ",
+        "nombreAtaque": "Speared ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Liu Kang",
-    "Descripcion": "Shaolin monk and Champion of Earthrealm. Liu Kang was an orphan adopted and trained in the arts of kombat by the Shaolin order. He honored them by defeating Shang Tsung in Mortal Kombat and saving Earthrealm as the Chosen One, a title that weighs heavy on his shoulders.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/liu_kang.png",
-    "Foto2": "imagenes/PersonajesCortadosMk11/liu_kang.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
-    "RealName": "Liu Kang",
-    "Gender": "Male",
-    "Species": "1st Timeline: Zombie/Spirit ,2nd Timeline: God (formerly Human/Revenant)",
-    "Combos": "https://www.youtube.com/watch?v=dz5dOMkxm2w",
-    "Combos2": "https://www.youtube.com/watch?v=UZY5RZjpy9s",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Total Distruction",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Twin Lotus ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A Quick End",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dark Orders ",
-        "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dragon's Breath",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "This Will Hurt",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Chinese Warrior ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
 
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Fireball ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Low Fireball ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Dragon Fire E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Burn Out (Close) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "One Inch Death Strike ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Cetrion",
-    "Descripcion": "Elder Goddess of Virtue, Guardian of Life. When Shinnok threatened to conquer the Elder Gods, Cetrion cast him into the Netherrealm. Her blessings answer the prayers of warriors battling against darkness. But at times, the heroic virtues she upholds are at odds with her quest for universal balance.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Cetrion.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Cetrion.png",
-
-    "RealName": "Cetrion",
-    "Gender": "Female",
-    "Species": "Elder God",
-    "Combos": "https://www.youtube.com/watch?v=jg_2CK1BLRc",
-    "Combos2": "https://www.youtube.com/watch?v=fW9C8bJgFAo",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Total Distruction",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Twin Lotus ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A Quick End",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dark Orders ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dragon's Breath",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "This Will Hurt",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Chinese Warrior ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Fireball ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Low Fireball ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Dragon Fire E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Burn Out (Close) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "One Inch Death Strike ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/l1.png"
         ]
       }
     ]
@@ -794,470 +643,7 @@
       }
     ]
   },
-  {
-    "Nombre": "Jacqui Briggs",
-    "Descripcion": "Cyber-enhanced officer of the Special Forces. Jax Briggs lost both arms in the line of duty, but he came back to the battlefield twice as strong thanks to cybernetic upgrades. Even with that power, Jax’s sacrifices burden him. He soldiers onward, honorbound to protect Earthrealm.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Jacqui.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Jacqui.png",
-
-    "RealName": "Jackson Briggs",
-    "Gender": "Male",
-    "Species": "Human",
-    "Combos": "https://www.youtube.com/watch?v=BV42hgfhZu4",
-    "Combos2": "https://www.youtube.com/watch?v=COC_Z4EC5KQ",
-
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Kranked  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ground Recon  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Snake Eater ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "In The Trenches  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "All For One  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "True Hero  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Fallin Soldier ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Shrapnel Blast",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Up Shrapnel Blast",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Wall Of Justice",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/r2.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Spide Mines (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Nothin' But Neck (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Next Level Shit  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Spawn",
-    "Descripcion": "Al Simmons, once the U.S. government’s greatest soldier and most effective assassin, was mercilessly executed by his own men. Resurrected from the ashes of his own grave in a flawed agreement with the powers of darkness, Simmons is reborn as a creature from the depths of Hell. A Hellspawn. Now he is thrust into the world of Mortal Kombat, where he will fight for supremacy against all Kombatants.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Spawn.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Spawn.png",
-
-    "RealName": "Albert Francis Simmons",
-    "Gender": "Male",
-    "Species": "Immortal Hellspawn (formerly Human)",
-    "Combos": "https://www.youtube.com/watch?v=QicLmU915cg",
-    "Combos2": "https://www.youtube.com/watch?v=ENMiwLi5sEU",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Back From Hell  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "D-E-D. Dead!",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "A Quick End",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Vaporizer's Visage  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Vacillator's Decision",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "The King Of Hell  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pale Moonlight  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Necro Blast  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "(Air) Leetha Glide E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Unholy Veil K   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Rest In Pieces (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Unchained (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Speared ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l2.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Erron Black",
-    "Descripcion": "The best shot in Texas left home to seek adventure and excitement in Outworld with Kano and the Black Dragon. Outworld turned out to be the playground of Erron’s ultraviolent dreams. He decided to make his home there as the deadliest outlander in Outworld.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Erron_black.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Erron_black.png",
-
-    "RealName": "Erron Black",
-    "Gender": "Male",
-    "Species": "Human",
-    "Combos": "https://www.youtube.com/watch?v=6Hrx-VZK_9k",
-    "Combos2": "https://www.youtube.com/watch?v=Pxqdc_aMGk4",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "High Noon  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "On The Shoot ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Violent Ends",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "At The Dooooor  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dead Man's Hand",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Smells Like Gunpowder ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hideout E   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Zaterrean Spit   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Close Zaterrean Spit ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Far TNT Toss E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Melted (Mid)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Death Trap (Mid)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Speared ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      }
-    ]
-  },
+  
   {
     "Nombre": "Cassie Cage",
     "Descripcion": "The offspring of Johnny Cage and Sonya Blade laid the smackdown on Shinnok a few years back, but even that wasn’t enough to escape the shadow of her legendary parents. Whenever Cassie isn’t defending Earthrealm, she’s fighting to prove worthy of their legacy.",
@@ -1415,131 +801,133 @@
       }
     ]
   },
+
+  
   {
-    "Nombre": "Jade",
-    "Descripcion": "Stealth assassin and Imperial Bodyguard. Jade’s family traded her to Shao Kahn as a child. Though he was the only parent and master she ever knew, Jade refused his orders to kill her closest friend, Kitana. The Emperor turned against Jade. Now she vows to end his reign.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Jade.png",
+    "Nombre": "Cetrion",
+    "Descripcion": "Elder Goddess of Virtue, Guardian of Life. When Shinnok threatened to conquer the Elder Gods, Cetrion cast him into the Netherrealm. Her blessings answer the prayers of warriors battling against darkness. But at times, the heroic virtues she upholds are at odds with her quest for universal balance.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Cetrion.png",
 
-    "Foto2": "imagenes/PersonajesCortadosMk11/Jade.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Cetrion.png",
 
-    "RealName": "Jade ",
+    "RealName": "Cetrion",
     "Gender": "Female",
-    "Species": "1st Timeline: Edenian,2nd Timeline: Revenant",
-    "Combos": "https://www.youtube.com/watch?v=5rUptMmuS5M",
-    "Combos2": "https://www.youtube.com/watch?v=6o8jzYgle6k",
+    "Species": "Elder God",
+    "Combos": "https://www.youtube.com/watch?v=jg_2CK1BLRc",
+    "Combos2": "https://www.youtube.com/watch?v=fW9C8bJgFAo",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Simple Seduction  ",
+        "nombreAtaque": "Total Distruction",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Baited ",
+        "nombreAtaque": "Twin Lotus ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Tiny Dancer ",
+        "nombreAtaque": "A Quick End",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Enchanted ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-
           "imagenes/ImagenesAtaqueMK/circle.png",
           "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Fatal Attraction ",
+        "nombreAtaque": "Dark Orders ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dragon's Breath",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "This Will Hurt",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "My Pleasure  ",
+        "nombreAtaque": "Chinese Warrior ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Royal Guard  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
+
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/up.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Razor-Rang   ",
+        "nombreAtaque": "Fireball ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
-
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Dodging Shadows  ",
+        "nombreAtaque": "Low Fireball ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
           "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
 
       {
-        "nombreAtaque": "Blazing Nitro Kick",
+        "nombreAtaque": "Dragon Fire E  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle .png"
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Bow Before Me (Any)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pole Dance (Close)  ",
+        "nombreAtaque": "Burn Out (Close) ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/right.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png"
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
 
@@ -1562,139 +950,136 @@
         ]
       },
       {
-        "nombreAtaque": "Speared ",
+        "nombreAtaque": "One Inch Death Strike ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/l1.png"
         ]
       }
     ]
   },
+
   {
-    "Nombre": "Jonhy Cage",
-    "Descripcion": "B-list celebrity, recipient of no acting awards. Following a string of lowbrow direct-to- VHS sequels to Ninja Mime , Johnny Cage’s career peaked at the age of 28. Now, he fights against all odds to save Earthrealm and prove that he’s an even braver hero in real life than on the silver screen.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Johnny_cage.png",
+    "Nombre": "Jacqui Briggs",
+    "Descripcion": "Cyber-enhanced officer of the Special Forces. Jax Briggs lost both arms in the line of duty, but he came back to the battlefield twice as strong thanks to cybernetic upgrades. Even with that power, Jax’s sacrifices burden him. He soldiers onward, honorbound to protect Earthrealm.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Jacqui.png",
 
-    "Foto2": "imagenes/PersonajesCortadosMk11/Johnny_cage.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Jacqui.png",
 
-    "RealName": "Jonathan Carlton ",
+    "RealName": "Jackson Briggs",
     "Gender": "Male",
     "Species": "Human",
-    "Combos": "https://www.youtube.com/watch?v=csNpPG5VVps",
-    "Combos2": "https://www.youtube.com/watch?v=-4V1gPm4jo4",
+    "Combos": "https://www.youtube.com/watch?v=BV42hgfhZu4",
+    "Combos2": "https://www.youtube.com/watch?v=COC_Z4EC5KQ",
 
     "KomboAttacks": [
       {
-        "nombreAtaque": "Stand-In",
+        "nombreAtaque": "Kranked  ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ground Recon  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Post Credits",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Comedy And Tragedy",
+        "nombreAtaque": "Snake Eater ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "No Autographs  ",
+        "nombreAtaque": "In The Trenches  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-
+          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Director's Cut  ",
+        "nombreAtaque": "All For One  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Tear Jerker K  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Wing Man  ",
+        "nombreAtaque": "True Hero  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fallin Soldier ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/circle.png",
+
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Straight Forceball    ",
+        "nombreAtaque": "Shrapnel Blast",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Up Shrapnel Blast",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "High Forceball E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
 
       {
-        "nombreAtaque": "Stunt Double ",
+        "nombreAtaque": "Wall Of Justice",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle .png"
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/r2.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Mr. Cage's Neighbourhood (Close) ",
+        "nombreAtaque": "Spide Mines (Mid) ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
 
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "Pole Dance (Close)  ",
+        "nombreAtaque": "Nothin' But Neck (Mid) ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/right.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png"
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
 
@@ -1717,7 +1102,158 @@
         ]
       },
       {
-        "nombreAtaque": "Speared ",
+        "nombreAtaque": "Next Level Shit  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Shang Tsung",
+    "Descripcion": "Soul Sorcerer and historic host of the Mortal Kombat. Born in Earthrealm, Shang Tsung’s relentless pursuit of powerful magic led him to Outworld, where Shao Kahn offered him a dark power that no sorcerer on Earthrealm could. Shang Tsung pledged his eternal loyalty to Shao Kahn in exchange for this evil magic, but he is no faithful servant. He dreams of the day his sorcery will overtake Shao Kahn’s, and he’ll pay any price to get there.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/shang_tsung.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/shang_tsung.png",
+
+    "RealName": "Shang Tsung",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=V2X25tbaaKI",
+    "Combos2": "https://www.youtube.com/watch?v=WuYD0IAIXYs",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Soul Stain  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dark Arts ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Playtime ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Soul Torment  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Damned Souls   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Ruthless   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/up.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Soul Swap",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Far Ground Eruption E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Shake   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Kondemned To The Damned (Mid)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Shokan Reborn (Mid)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Essence Thief   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
 
@@ -1884,279 +1420,129 @@
     ]
   },
   {
-    "Nombre": "Terminathor",
-    "Descripcion": "The Terminator T-800 from “Terminator: Dark Fate” is a cyborg assassin, sent back in time from a post-apocalyptic future. He is nearly indestructible and possesses superior technology, fighting skills and artificial intelligence making him the ultimate killing machine.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Terminator.png",
+    "Nombre": "Jonhy Cage",
+    "Descripcion": "B-list celebrity, recipient of no acting awards. Following a string of lowbrow direct-to- VHS sequels to Ninja Mime , Johnny Cage’s career peaked at the age of 28. Now, he fights against all odds to save Earthrealm and prove that he’s an even braver hero in real life than on the silver screen.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Johnny_cage.png",
 
-    "Foto2": "imagenes/PersonajesCortadosMk11/Terminator.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Johnny_cage.png",
 
-    "RealName": "Cyberdyne Systems T-800 Model 101",
-    "Gender": "Male",
-    "Species": "Model T-800",
-    "Combos": "https://www.youtube.com/watch?v=-E1TS063fXw",
-    "Combos2": "https://www.youtube.com/watch?v=VezGh6T0AAc",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Security Threat  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Torment ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Eliminate All Humanity ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Say Goodbye  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Catastrophic Crash  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "No Escape   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Unstoppable Machine    ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Sawed Off ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Close Ion Grenade E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Far Ion Grenade E   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "I'm Back (Close)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Target Terminated (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hunter Killer   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Shang Tsung",
-    "Descripcion": "Soul Sorcerer and historic host of the Mortal Kombat. Born in Earthrealm, Shang Tsung’s relentless pursuit of powerful magic led him to Outworld, where Shao Kahn offered him a dark power that no sorcerer on Earthrealm could. Shang Tsung pledged his eternal loyalty to Shao Kahn in exchange for this evil magic, but he is no faithful servant. He dreams of the day his sorcery will overtake Shao Kahn’s, and he’ll pay any price to get there.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/shang_tsung.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/shang_tsung.png",
-
-    "RealName": "Shang Tsung",
+    "RealName": "Jonathan Carlton ",
     "Gender": "Male",
     "Species": "Human",
-    "Combos": "https://www.youtube.com/watch?v=V2X25tbaaKI",
-    "Combos2": "https://www.youtube.com/watch?v=WuYD0IAIXYs",
+    "Combos": "https://www.youtube.com/watch?v=csNpPG5VVps",
+    "Combos2": "https://www.youtube.com/watch?v=-4V1gPm4jo4",
+
     "KomboAttacks": [
       {
-        "nombreAtaque": "Soul Stain  ",
+        "nombreAtaque": "Stand-In",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Dark Arts ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Playtime ",
+        "nombreAtaque": "Post Credits",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Comedy And Tragedy",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Soul Torment  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Damned Souls   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ruthless   ",
+        "nombreAtaque": "No Autographs  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Director's Cut  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tear Jerker K  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wing Man  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Soul Swap",
+        "nombreAtaque": "Straight Forceball    ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
 
-          "imagenes/ImagenesAtaqueMK/right.png"
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Far Ground Eruption E ",
+        "nombreAtaque": "High Forceball E  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/left.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
 
       {
-        "nombreAtaque": "Shake   ",
+        "nombreAtaque": "Stunt Double ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
+          "imagenes/ImagenesAtaqueMK/circle .png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Kondemned To The Damned (Mid)  ",
+        "nombreAtaque": "Mr. Cage's Neighbourhood (Close) ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png"
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Shokan Reborn (Mid)  ",
+        "nombreAtaque": "Pole Dance (Close)  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
 
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
 
@@ -2179,7 +1565,318 @@
         ]
       },
       {
-        "nombreAtaque": "Essence Thief   ",
+        "nombreAtaque": "Speared ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "Nombre": "Joker",
+    "Descripcion": "Unpredictable, violent and incredibly dangerous, The Joker is chaos personified. He’s killed a Robin, crippled Batgirl and tortured and murdered countless people throughout the DC universe. And now, he’s the latest Kombatant to join in Mortal Kombat.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Joker.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Joker.png",
+
+    "RealName": "Unknown",
+    "Gender": "Male",
+    "Species": "Human",
+    "Combos": "https://www.youtube.com/watch?v=4lbHe7aVyzY",
+    "Combos2": "https://www.youtube.com/watch?v=T-x5VcWwlDE",
+
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Jester Of Genocide",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Super Sanity ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The Man Who Laughs",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Have A Laugh ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Show's Over",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Joke's On You ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Grand Entrance ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Batsy-Poo ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Close Jumping Jester ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Far Jumping Jester E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Party Pooper (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pop Goes The Mortal (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Playful Puppet ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jade",
+    "Descripcion": "Stealth assassin and Imperial Bodyguard. Jade’s family traded her to Shao Kahn as a child. Though he was the only parent and master she ever knew, Jade refused his orders to kill her closest friend, Kitana. The Emperor turned against Jade. Now she vows to end his reign.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Jade.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Jade.png",
+
+    "RealName": "Jade ",
+    "Gender": "Female",
+    "Species": "1st Timeline: Edenian,2nd Timeline: Revenant",
+    "Combos": "https://www.youtube.com/watch?v=5rUptMmuS5M",
+    "Combos2": "https://www.youtube.com/watch?v=6o8jzYgle6k",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Simple Seduction  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Baited ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Tiny Dancer ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Enchanted ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Fatal Attraction ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "My Pleasure  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Royal Guard  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Razor-Rang   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Dodging Shadows  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Blazing Nitro Kick",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle .png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Bow Before Me (Any)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pole Dance (Close)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Speared ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
 
@@ -2189,133 +1886,142 @@
     ]
   },
   {
-    "Nombre": "Noob Saibot",
-    "Descripcion": "Shadow of the Netherrealm. In life, Noob Saibot was known as Sub-Zero. Unjustly murdered by Scorpion, he was resurrected by Quan Chi and granted power over darkness, but as Quan Chi’s slave. Now, Quan Chi is dead. Noob Saibot is finally free to reclaim the honor that was stolen from him.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Noob_saibot.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Noob_saibot.png",
-
-    "RealName": "Bi-Han",
+    "Nombre": "Fujin",
+    "Descripcion": "The God of Wind, Fujin serves the Elder Gods alongside his brother, Raiden, as Protectors of Earthrealm. Affable and lighthearted, he’s adept at inspiring peoples’ innate capacity for goodness and heroism to conquer forces of hatred and tyranny. Fujin believes Earthrealm’s best days are still to come, and he fights to ensure that bright future.",
+    "RealName": "Fujin",
     "Gender": "Male",
-    "Species": "Wraith",
-    "Combos": "https://www.youtube.com/watch?v=E7_uuDeY6gA",
-    "Combos2": "https://www.youtube.com/watch?v=JC6o1fOjpbQ",
+    "Species": "God",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Fujin.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Fujin.png",
+
+    "Combos": "https://www.youtube.com/watch?v=GOh6zLtcBqQ",
+    "Combos2": "https://www.youtube.com/watch?v=LoprK6CidWA",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Creeping Shadow   ",
+        "nombreAtaque": "Advanced Warfare",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Empty Grave  ",
+        "nombreAtaque": "Target Acquired",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/square.png",
-
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Resurrected  ",
+        "nombreAtaque": "At Ease",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Overwatch",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Frontal Assault",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/triangle.png",
-
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "As One  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
       {
-        "nombreAtaque": "For The Brotherhood   ",
+        "nombreAtaque": "Vedette",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Sinister Silhouette K    ",
+        "nombreAtaque": "Decisive Victory",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Spirit Ball E",
+        "nombreAtaque": "Energy Rings",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
-
           "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Close Sickle Toss E ",
+        "nombreAtaque": "Close K.A.T. Orbital Drop E",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
-
           "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
 
       {
-        "nombreAtaque": "Far Sickle Toss E    ",
+        "nombreAtaque": "Close K.A.T. Orbital Drop E",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
+          "imagenes/ImagenesAtaqueMK/circle.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Split Decision (Mid)   ",
+        "nombreAtaque": "To The Choppa (Mid)",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
 
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Double Trouble (Close)   ",
+        "nombreAtaque": "Supply Drop (Close)",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
 
       {
-        "nombreAtaque": "Mercy (Mid) ",
+        "nombreAtaque": "Mercy (Mid)",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/l2.png",
           "imagenes/ImagenesAtaqueMK/down.png",
@@ -2326,17 +2032,16 @@
       },
 
       {
-        "nombreAtaque": "The Klassic ",
+        "nombreAtaque": "The Klassic",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Skinned   ",
+        "nombreAtaque": "Popping heads",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
-
           "imagenes/ImagenesAtaqueMK/l1.png"
         ]
       }
@@ -2485,314 +2190,6 @@
           "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Kabal",
-    "Descripcion": "Fleet-footed Black Dragon enforcer. Kabal’s sprinting speed is only outpaced by his greed. He was a rookie cop until Kano tempted him to sell out his police department for cash money and a spot in the Black Dragon. Kabal has run down anyone who's crossed Kano ever since.",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Kabal.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Kabal.png",
-
-    "RealName": "Kabal",
-    "Gender": "Male",
-    "Species": "1st Timeline: Human,2nd Timeline: Revenant",
-    "Combos": "https://www.youtube.com/watch?v=9T8lAWK8lEE",
-    "Combos2": "https://www.youtube.com/watch?v=rzlKZLWOD80",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Last Breath   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hooks And Blood Splatters ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Vapor Trails  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Eviscerated",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Damned Souls   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Extermination Squad K  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Buzzsaw ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hook Grab E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Flash Parry E    ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Road Rash (Mid)   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hooked (Close)   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Spin Me Right Round    ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Nighwolf",
-    "Descripcion": "Every generation, the Great Spirit chooses a worthy warrior to become Nightwolf: the Matoka’s champion and protector. Grey Cloud proved worthy when he laid down his life to prevent the Black Dragon from plundering what remained of his tribe’s sacred artifacts. As Nightwolf, Grey Cloud possesses extraordinary magic granted by the Great Spirit. He uses it not only to fight for the Matoka’s future, but also to defend all of Earthrealm.",
-    "RealName": "Grey Cloud",
-    "Gender": "Male",
-    "Species": "Human/Revenant",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Nightwolf.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Nightwolf.png",
-
-    "Combos": "https://www.youtube.com/watch?v=zaH6n8l7oZ8",
-    "Combos2": "https://www.youtube.com/watch?v=7WcP6dJPVYA",
-
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Twin Hares  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Blade And Edge ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Helmsplitter EK  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Ancestral Rites   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Bull And Bear   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Wing Clipper ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Spirit Arrow ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Spirit Of Komo E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Close Lunar Orbit E   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "War Ritual (Close)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Komo-tose (Close) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Skullcracker   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
         ]
       }
     ]
@@ -2950,120 +2347,1010 @@
       }
     ]
   },
+  
   {
-    "Nombre": "Kung Lao",
-    "Descripcion": "Shaolin monk and descendant of Great Kung Lao. The younger Kung Lao claimed his greatness by beating the deadly alliance of Shang Tsung and Quan Chi in Mortal Kombat. Reckless and rebellious, but courageous and indomitable, Kung Lao fights to prove worthy of his glorious ancestors.",
-    "RealName": "Kung Lao",
+    "Nombre": "Noob Saibot",
+    "Descripcion": "Shadow of the Netherrealm. In life, Noob Saibot was known as Sub-Zero. Unjustly murdered by Scorpion, he was resurrected by Quan Chi and granted power over darkness, but as Quan Chi’s slave. Now, Quan Chi is dead. Noob Saibot is finally free to reclaim the honor that was stolen from him.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Noob_saibot.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Noob_saibot.png",
+
+    "RealName": "Bi-Han",
     "Gender": "Male",
-    "Species": "Human/Revenant",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Kung_Lao.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Kung_Lao.png",
-
-    "Combos": "https://www.youtube.com/watch?v=tIwroNDGAbE",
-    "Combos2": "https://www.youtube.com/watch?v=7iFSH5hvr4A",
-
+    "Species": "Wraith",
+    "Combos": "https://www.youtube.com/watch?v=E7_uuDeY6gA",
+    "Combos2": "https://www.youtube.com/watch?v=JC6o1fOjpbQ",
     "KomboAttacks": [
       {
-        "nombreAtaque": "Fist Fury  ",
+        "nombreAtaque": "Creeping Shadow   ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Empty Grave  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Resurrected  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
           "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Order Of Light  ",
+        "nombreAtaque": "As One  ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "For The Brotherhood   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Sinister Silhouette K    ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Spirit Ball E",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
 
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Fatal Blow  ",
+        "nombreAtaque": "Close Sickle Toss E ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
-      {
-        "nombreAtaque": "Flowing Water K ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png",
+      {
+        "nombreAtaque": "Far Sickle Toss E    ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Split Decision (Mid)   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       },
       {
-        "nombreAtaque": "Iron Broom   ",
+        "nombreAtaque": "Double Trouble (Close)   ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Broken Faith    ",
+        "Nombre": "Robocop",
+        "Descripcion": "Alex Murphy was a dutiful police officer who was brutally executed by a local gang. Brought back to life through OCP technology, Murphy was transformed into RoboCop, a highly advanced cybernetic police officer designed to uphold the law and protect the innocent. Now entering the Mortal Kombat universe, RoboCop has received a few upgrades and is ready to serve the public by apprehending any Kombatants that stand in his way.",
+        "RealName": "Alexander James Murphy",
+        "Gender": "Male",
+        "Species": "Cyborg (formerly Human)",
+        "Foto1": "imagenes/PersonajesMortalKombat11/Robocop.png",
+    
+        "Foto2": "imagenes/PersonajesCortadosMk11/Robotocp.png",
+    
+        "Combos": "https://www.youtube.com/watch?v=nnnlOFw3oPQ",
+        "Combos2": "https://www.youtube.com/watch?v=wUsyTpFALYo",
+    
+        "KomboAttacks": [
+          {
+            "nombreAtaque": "Blood Money",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/cross.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Mine Mine Mine",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+    
+              "imagenes/ImagenesAtaqueMK/square.png",
+    
+              "imagenes/ImagenesAtaqueMK/cross.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Play For Souls K",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/cross.png",
+    
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Pillaged  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Greed ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+    
+              "imagenes/ImagenesAtaqueMK/cross.png",
+              "imagenes/ImagenesAtaqueMK/cross.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Massive Destruction    ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/cross.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          }
+        ],
+        "SpecialMoves": [
+          {
+            "nombreAtaque": "Demonic Mace ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Close Vial Of Sorrow E  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/left.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "Far Vial Of Sorrow E   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/right.png"
+            ]
+          }
+        ],
+        "Finishers": [
+          {
+            "nombreAtaque": "For The Kollection (Close) ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Head lantern (Close)  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/square.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "Mercy (Mid) ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/l2.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/down.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "The Klassic ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Essence Thief   ",
+            "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
+          }
+        ]
+      },
+
+      {
+        "Nombre": "Nighwolf",
+        "Descripcion": "Every generation, the Great Spirit chooses a worthy warrior to become Nightwolf: the Matoka’s champion and protector. Grey Cloud proved worthy when he laid down his life to prevent the Black Dragon from plundering what remained of his tribe’s sacred artifacts. As Nightwolf, Grey Cloud possesses extraordinary magic granted by the Great Spirit. He uses it not only to fight for the Matoka’s future, but also to defend all of Earthrealm.",
+        "RealName": "Grey Cloud",
+        "Gender": "Male",
+        "Species": "Human/Revenant",
+        "Foto1": "imagenes/PersonajesMortalKombat11/Nightwolf.png",
+    
+        "Foto2": "imagenes/PersonajesCortadosMk11/Nightwolf.png",
+    
+        "Combos": "https://www.youtube.com/watch?v=zaH6n8l7oZ8",
+        "Combos2": "https://www.youtube.com/watch?v=7WcP6dJPVYA",
+    
+        "KomboAttacks": [
+          {
+            "nombreAtaque": "Twin Hares  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/square.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Blade And Edge ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Helmsplitter EK  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+    
+              "imagenes/ImagenesAtaqueMK/cross.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Ancestral Rites   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+    
+              "imagenes/ImagenesAtaqueMK/cross.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Bull And Bear   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Wing Clipper ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/cross.png",
+              "imagenes/ImagenesAtaqueMK/circle.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          }
+        ],
+        "SpecialMoves": [
+          {
+            "nombreAtaque": "Spirit Arrow ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/square.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Spirit Of Komo E  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "Close Lunar Orbit E   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+              "imagenes/ImagenesAtaqueMK/left.png"
+            ]
+          }
+        ],
+        "Finishers": [
+          {
+            "nombreAtaque": "War Ritual (Close)  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/right.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Komo-tose (Close) ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "Mercy (Mid) ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/l2.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/down.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "The Klassic ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Skullcracker   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/l1.png"
+            ]
+          }
+        ]
+      },
+
+      {
+        "Nombre": "Sindel",
+        "Descripcion": "The former Queen of Edenia will stop at nothing to keep her place. When threatened with the loss of her throne when Shao Kahn conquered her realm, Sindel betrayed her husband, and her people, to keep her privileged position. Now Shao Kahn’s wife and Queen of Outworld, she enjoys power and wealth beyond most people’s imagination. Good luck to anyone who tries to take it from her.",
+        "RealName": "Sindel",
+        "Gender": "Female",
+        "Species": "Edenian",
+        "Foto1": "imagenes/PersonajesMortalKombat11/Sindel.png",
+    
+        "Foto2": "imagenes/PersonajesCortadosMk11/Sindel.png",
+    
+        "Combos": "https://www.youtube.com/watch?v=T-_8ZldbKuI",
+        "Combos2": "https://www.youtube.com/watch?v=yrJ2d7XSjRg",
+    
+        "KomboAttacks": [
+          {
+            "nombreAtaque": "You Will Die   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/square.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Come Forward  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Banshee's Cry  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+    
+              "imagenes/ImagenesAtaqueMK/cross.png",
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Back It Up   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/cross.png",
+    
+              "imagenes/ImagenesAtaqueMK/circle.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Malevolent Queen   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Evil Queen    ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png",
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/up.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          }
+        ],
+        "SpecialMoves": [
+          {
+            "nombreAtaque": "Mane Squeeze",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/square.png"
+            ]
+          },
+          {
+            "nombreAtaque": "(Air) Far Deadly Echo E ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/square.png",
+              "imagenes/ImagenesAtaqueMK/right.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "(Air) Bellowing Banshee E   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/left.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          }
+        ],
+        "Finishers": [
+          {
+            "nombreAtaque": "Scream Queen (Close)   ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/right.png",
+    
+              "imagenes/ImagenesAtaqueMK/circle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Hair Today Gone Tomorrow  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/right.png",
+              "imagenes/ImagenesAtaqueMK/left.png",
+    
+              "imagenes/ImagenesAtaqueMK/square.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "Mercy (Mid) ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/l2.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/down.png",
+    
+              "imagenes/ImagenesAtaqueMK/down.png"
+            ]
+          },
+    
+          {
+            "nombreAtaque": "The Klassic ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/down.png",
+              "imagenes/ImagenesAtaqueMK/triangle.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Edenian Guillotine  ",
+            "Animacion": [
+              "imagenes/ImagenesAtaqueMK/right.png",
+    
+              "imagenes/ImagenesAtaqueMK/l1.png"
+            ]
+          },
+          {
+            "nombreAtaque": "Violent Uprising   ",
+            "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
+          }
+        ]
+      },
+
+      
+  {
+    "Nombre": "Sheeva",
+    "Descripcion": "The male Shokan scoffed when Sheeva entered their contest to choose the Shokan’s next leader. But Sheeva proved herself more than their equal. After a resounding victory, she was crowned the first Queen of the Shokan. As Queen, Sheeva now leads her people in the fight to attain their rightful place, as partners in Outworld’s rule.",
+    "RealName": "Sheeva",
+    "Gender": "Female",
+    "Species": "Shokan (Draco lineage)",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Sheeva.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Sheeva.png",
+
+    "Combos": "https://www.youtube.com/watch?v=OCykeKVA-BQ",
+    "Combos2": "https://www.youtube.com/watch?v=RRg1VBP5GuY",
+
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Yellow Jacket ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Black Widow ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Wandering Spider  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Bugging Out   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Killer Bee  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Lonomia    ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/circle.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Spin ",
+        "nombreAtaque": "Fireflies   ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Vortex E  ",
+        "nombreAtaque": "Close Ground Swarm  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/left.png",
 
-          "imagenes/ImagenesAtaqueMK/cross.png"
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/left.png"
         ]
       },
 
       {
-        "nombreAtaque": "Buzz Saw E    ",
+        "nombreAtaque": "Far Ground Swarm   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Headed Nowhere (Close) ",
+        "nombreAtaque": "New Species (Close)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Can't Die (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Not Lookin' Good  ",
+        "Animacion": [
           "imagenes/ImagenesAtaqueMK/right.png",
 
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kabal",
+    "Descripcion": "Fleet-footed Black Dragon enforcer. Kabal’s sprinting speed is only outpaced by his greed. He was a rookie cop until Kano tempted him to sell out his police department for cash money and a spot in the Black Dragon. Kabal has run down anyone who's crossed Kano ever since.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kabal.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kabal.png",
+
+    "RealName": "Kabal",
+    "Gender": "Male",
+    "Species": "1st Timeline: Human,2nd Timeline: Revenant",
+    "Combos": "https://www.youtube.com/watch?v=9T8lAWK8lEE",
+    "Combos2": "https://www.youtube.com/watch?v=rzlKZLWOD80",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Last Breath   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hooks And Blood Splatters ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vapor Trails  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eviscerated",
+        "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
 
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Meat Slicer (Close)  ",
+        "nombreAtaque": "Damned Souls   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Extermination Squad K  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Buzzsaw ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hook Grab E ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Flash Parry E    ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Road Rash (Mid)   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hooked (Close)   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Spin Me Right Round    ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+
+  {
+    "Nombre": "Baraka",
+    "Descripcion": "War Chief of the nomadic Tarkatan tribe, a carnivorous people considered subhuman by the Outworld Empire. Baraka dutifully serves Shao Kahn to preserve his tribe’s way of life, who roam the harsh Wastelands, meat carts in tow, consuming everything and everyone in their path.",
+    "RealName": "Baraka",
+    "Gender": "Male",
+    "Species": "Tarkatan",
+    "Foto1": "imagenes/PersonajesMortalKombat11/baraka1.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/baraka1.png",
+
+    "Combos": "https://www.youtube.com/watch?v=CQh-lIWp3Y4",
+    "Combos2": "https://www.youtube.com/watch?v=vMPVJfLwhzo",
+
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Easy Kill",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Mangled ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Splintered ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Painful Swipes ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Cutting Loose  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Doom Kicks K ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Blade Spark  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blade Charge EK   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "War Banner Bash E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Food For Thought (Close)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Rock, Paper, Baraka (Close) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/left.png",
@@ -3091,8 +3378,171 @@
         ]
       },
       {
-        "nombreAtaque": "Not Holding Back  ",
-        "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
+        "nombreAtaque": "Nom Nom ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+ 
+
+    
+  {
+    "Nombre": "Terminathor",
+    "Descripcion": "The Terminator T-800 from “Terminator: Dark Fate” is a cyborg assassin, sent back in time from a post-apocalyptic future. He is nearly indestructible and possesses superior technology, fighting skills and artificial intelligence making him the ultimate killing machine.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Terminator.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Terminator.png",
+
+    "RealName": "Cyberdyne Systems T-800 Model 101",
+    "Gender": "Male",
+    "Species": "Model T-800",
+    "Combos": "https://www.youtube.com/watch?v=-E1TS063fXw",
+    "Combos2": "https://www.youtube.com/watch?v=VezGh6T0AAc",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Security Threat  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Torment ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Eliminate All Humanity ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Say Goodbye  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Catastrophic Crash  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "No Escape   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unstoppable Machine    ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Sawed Off ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Close Ion Grenade E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/left.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Far Ion Grenade E   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/right.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "I'm Back (Close)  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Target Terminated (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Hunter Killer   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
       }
     ]
   },
@@ -3248,117 +3698,122 @@
       }
     ]
   },
+
+  
   {
-    "Nombre": "Baraka",
-    "Descripcion": "War Chief of the nomadic Tarkatan tribe, a carnivorous people considered subhuman by the Outworld Empire. Baraka dutifully serves Shao Kahn to preserve his tribe’s way of life, who roam the harsh Wastelands, meat carts in tow, consuming everything and everyone in their path.",
-    "RealName": "Baraka",
+    "Nombre": "Kung Lao",
+    "Descripcion": "Shaolin monk and descendant of Great Kung Lao. The younger Kung Lao claimed his greatness by beating the deadly alliance of Shang Tsung and Quan Chi in Mortal Kombat. Reckless and rebellious, but courageous and indomitable, Kung Lao fights to prove worthy of his glorious ancestors.",
+    "RealName": "Kung Lao",
     "Gender": "Male",
-    "Species": "Tarkatan",
-    "Foto1": "imagenes/PersonajesMortalKombat11/baraka1.png",
+    "Species": "Human/Revenant",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Kung_Lao.png",
 
-    "Foto2": "imagenes/PersonajesCortadosMk11/baraka1.png",
+    "Foto2": "imagenes/PersonajesCortadosMk11/Kung_Lao.png",
 
-    "Combos": "https://www.youtube.com/watch?v=CQh-lIWp3Y4",
-    "Combos2": "https://www.youtube.com/watch?v=vMPVJfLwhzo",
+    "Combos": "https://www.youtube.com/watch?v=tIwroNDGAbE",
+    "Combos2": "https://www.youtube.com/watch?v=7iFSH5hvr4A",
 
     "KomboAttacks": [
       {
-        "nombreAtaque": "Easy Kill",
+        "nombreAtaque": "Fist Fury  ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Mangled ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Splintered ",
+        "nombreAtaque": "Order Of Light  ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/triangle.png",
 
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Painful Swipes ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Cutting Loose  ",
+        "nombreAtaque": "Fatal Blow  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Flowing Water K ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Iron Broom   ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Doom Kicks K ",
+        "nombreAtaque": "Broken Faith    ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
           "imagenes/ImagenesAtaqueMK/circle.png"
         ]
       }
     ],
     "SpecialMoves": [
       {
-        "nombreAtaque": "Blade Spark  ",
+        "nombreAtaque": "Spin ",
         "Animacion": [
           "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/square.png"
         ]
       },
       {
-        "nombreAtaque": "Blade Charge EK   ",
+        "nombreAtaque": "Vortex E  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
-          "imagenes/ImagenesAtaqueMK/triangle.png"
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
         ]
       },
 
       {
-        "nombreAtaque": "War Banner Bash E  ",
+        "nombreAtaque": "Buzz Saw E    ",
         "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
           "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
+          "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       }
     ],
     "Finishers": [
       {
-        "nombreAtaque": "Food For Thought (Close)  ",
+        "nombreAtaque": "Headed Nowhere (Close) ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
           "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
 
           "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/triangle.png"
         ]
       },
       {
-        "nombreAtaque": "Rock, Paper, Baraka (Close) ",
+        "nombreAtaque": "Meat Slicer (Close)  ",
         "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
 
           "imagenes/ImagenesAtaqueMK/right.png",
           "imagenes/ImagenesAtaqueMK/left.png",
@@ -3386,320 +3841,13 @@
         ]
       },
       {
-        "nombreAtaque": "Nom Nom ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Frost",
-    "Descripcion": "Grandmaster Sub-Zero’s most dangerous apprentice. When Sub-Zero made historic peace with his clan’s enemy, Scorpion, defiant Frost challenged her Grandmaster as unfit to lead. Sub-Zero defeated and banished Frost. For years, she sought the power to destroy him. Now she has it.",
-    "RealName": "Frost",
-    "Gender": "Female",
-    "Species": " Human/Cryomancer/Cyborgr",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Frost.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Frost.png",
-
-    "Combos": "https://www.youtube.com/watch?v=1jFzYiiYixQ",
-    "Combos2": "https://www.youtube.com/watch?v=BoLI_QrAlEo",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Seeking Control ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Blood Sweat and Circuits ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Frozen In Time  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Freezer Burn  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Winter Winds  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Out Cold K  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Ice Auger EK  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Burrowing Auger E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Glacier Calving E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Ice Sculpture (Close)   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "The Cyber Initiative (Mid)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Nom Nom ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Sindel",
-    "Descripcion": "The former Queen of Edenia will stop at nothing to keep her place. When threatened with the loss of her throne when Shao Kahn conquered her realm, Sindel betrayed her husband, and her people, to keep her privileged position. Now Shao Kahn’s wife and Queen of Outworld, she enjoys power and wealth beyond most people’s imagination. Good luck to anyone who tries to take it from her.",
-    "RealName": "Sindel",
-    "Gender": "Female",
-    "Species": "Edenian",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Sindel.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Sindel.png",
-
-    "Combos": "https://www.youtube.com/watch?v=T-_8ZldbKuI",
-    "Combos2": "https://www.youtube.com/watch?v=yrJ2d7XSjRg",
-
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "You Will Die   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Come Forward  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Banshee's Cry  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Back It Up   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Malevolent Queen   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Evil Queen    ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/up.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Mane Squeeze",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "(Air) Far Deadly Echo E ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "(Air) Bellowing Banshee E   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "Scream Queen (Close)   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Hair Today Gone Tomorrow  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Edenian Guillotine  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Violent Uprising   ",
+        "nombreAtaque": "Not Holding Back  ",
         "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
       }
     ]
   },
+
+   
   {
     "Nombre": "Kitana",
     "Descripcion": "10,000-year-old assassin and Princess of Outworld. Shao Kahn married Kitana’s mother and raised Kitana as his loyal heir, concealing the truth that he murdered her father to conquer Edenia. Now that this truth is out, Kitana is on a quest to avenge her father’s name.",
@@ -3856,6 +4004,344 @@
       }
     ]
   },
+  {
+    "Nombre": "Spawn",
+    "Descripcion": "Al Simmons, once the U.S. government’s greatest soldier and most effective assassin, was mercilessly executed by his own men. Resurrected from the ashes of his own grave in a flawed agreement with the powers of darkness, Simmons is reborn as a creature from the depths of Hell. A Hellspawn. Now he is thrust into the world of Mortal Kombat, where he will fight for supremacy against all Kombatants.",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Spawn.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Spawn.png",
+
+    "RealName": "Albert Francis Simmons",
+    "Gender": "Male",
+    "Species": "Immortal Hellspawn (formerly Human)",
+    "Combos": "https://www.youtube.com/watch?v=QicLmU915cg",
+    "Combos2": "https://www.youtube.com/watch?v=ENMiwLi5sEU",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Back From Hell  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "D-E-D. Dead!",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "A Quick End",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vaporizer's Visage  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Vacillator's Decision",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/up.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The King Of Hell  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Pale Moonlight  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Necro Blast  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "(Air) Leetha Glide E ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Unholy Veil K   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Rest In Pieces (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Unchained (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Speared ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l2.png"
+        ]
+      }
+    ]
+  },
+ 
+
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Skinned   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/l1.png"
+        ]
+      }
+    ]
+  },
+
+  
+ 
+ 
+  
+  {
+    "Nombre": "Frost",
+    "Descripcion": "Grandmaster Sub-Zero’s most dangerous apprentice. When Sub-Zero made historic peace with his clan’s enemy, Scorpion, defiant Frost challenged her Grandmaster as unfit to lead. Sub-Zero defeated and banished Frost. For years, she sought the power to destroy him. Now she has it.",
+    "RealName": "Frost",
+    "Gender": "Female",
+    "Species": " Human/Cryomancer/Cyborgr",
+    "Foto1": "imagenes/PersonajesMortalKombat11/Frost.png",
+
+    "Foto2": "imagenes/PersonajesCortadosMk11/Frost.png",
+
+    "Combos": "https://www.youtube.com/watch?v=1jFzYiiYixQ",
+    "Combos2": "https://www.youtube.com/watch?v=BoLI_QrAlEo",
+    "KomboAttacks": [
+      {
+        "nombreAtaque": "Seeking Control ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Blood Sweat and Circuits ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/cross.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Frozen In Time  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Freezer Burn  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Winter Winds  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Out Cold K  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+          "imagenes/ImagenesAtaqueMK/square.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ],
+    "SpecialMoves": [
+      {
+        "nombreAtaque": "Ice Auger EK  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Burrowing Auger E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Glacier Calving E  ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      }
+    ],
+    "Finishers": [
+      {
+        "nombreAtaque": "Ice Sculpture (Close)   ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/square.png"
+        ]
+      },
+      {
+        "nombreAtaque": "The Cyber Initiative (Mid)",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+
+          "imagenes/ImagenesAtaqueMK/right.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/right.png",
+
+          "imagenes/ImagenesAtaqueMK/circle.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "Mercy (Mid) ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/l2.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/down.png",
+
+          "imagenes/ImagenesAtaqueMK/down.png"
+        ]
+      },
+
+      {
+        "nombreAtaque": "The Klassic ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/down.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      },
+      {
+        "nombreAtaque": "Nom Nom ",
+        "Animacion": [
+          "imagenes/ImagenesAtaqueMK/left.png",
+          "imagenes/ImagenesAtaqueMK/triangle.png",
+
+          "imagenes/ImagenesAtaqueMK/triangle.png"
+        ]
+      }
+    ]
+  },
+ 
   {
     "Nombre": "Raiden",
     "Descripcion": "Immortal God of Thunder, Protector of Earthrealm. Raiden has saved Earthrealm time and again by rallying the bravest and strongest warriors of the day to defend it. After centuries of kombat and bloodshed, he fears unintended consequences for humanity, and himself.",
@@ -4739,464 +5225,6 @@
         "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
       }
     ]
-  },
-  {
-    "Nombre": "Robocop",
-    "Descripcion": "Alex Murphy was a dutiful police officer who was brutally executed by a local gang. Brought back to life through OCP technology, Murphy was transformed into RoboCop, a highly advanced cybernetic police officer designed to uphold the law and protect the innocent. Now entering the Mortal Kombat universe, RoboCop has received a few upgrades and is ready to serve the public by apprehending any Kombatants that stand in his way.",
-    "RealName": "Alexander James Murphy",
-    "Gender": "Male",
-    "Species": "Cyborg (formerly Human)",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Robocop.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Robotocp.png",
-
-    "Combos": "https://www.youtube.com/watch?v=nnnlOFw3oPQ",
-    "Combos2": "https://www.youtube.com/watch?v=wUsyTpFALYo",
-
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Blood Money",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Mine Mine Mine",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Play For Souls K",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Pillaged  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Greed ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Massive Destruction    ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Demonic Mace ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Close Vial Of Sorrow E  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Far Vial Of Sorrow E   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "For The Kollection (Close) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Head lantern (Close)  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Essence Thief   ",
-        "Animacion": ["imagenes/ImagenesAtaqueMK/l1.png"]
-      }
-    ]
-  },
-  {
-    "Nombre": "Sheeva",
-    "Descripcion": "The male Shokan scoffed when Sheeva entered their contest to choose the Shokan’s next leader. But Sheeva proved herself more than their equal. After a resounding victory, she was crowned the first Queen of the Shokan. As Queen, Sheeva now leads her people in the fight to attain their rightful place, as partners in Outworld’s rule.",
-    "RealName": "Sheeva",
-    "Gender": "Female",
-    "Species": "Shokan (Draco lineage)",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Sheeva.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Sheeva.png",
-
-    "Combos": "https://www.youtube.com/watch?v=OCykeKVA-BQ",
-    "Combos2": "https://www.youtube.com/watch?v=RRg1VBP5GuY",
-
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Yellow Jacket ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Black Widow ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Wandering Spider  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Bugging Out   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Killer Bee  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Lonomia    ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Fireflies   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Close Ground Swarm  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Far Ground Swarm   ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/right.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "New Species (Close)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Can't Die (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid) ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Not Lookin' Good  ",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
-  },
-  {
-    "Nombre": "Fujin",
-    "Descripcion": "The God of Wind, Fujin serves the Elder Gods alongside his brother, Raiden, as Protectors of Earthrealm. Affable and lighthearted, he’s adept at inspiring peoples’ innate capacity for goodness and heroism to conquer forces of hatred and tyranny. Fujin believes Earthrealm’s best days are still to come, and he fights to ensure that bright future.",
-    "RealName": "Fujin",
-    "Gender": "Male",
-    "Species": "God",
-    "Foto1": "imagenes/PersonajesMortalKombat11/Fujin.png",
-
-    "Foto2": "imagenes/PersonajesCortadosMk11/Fujin.png",
-
-    "Combos": "https://www.youtube.com/watch?v=GOh6zLtcBqQ",
-    "Combos2": "https://www.youtube.com/watch?v=LoprK6CidWA",
-    "KomboAttacks": [
-      {
-        "nombreAtaque": "Advanced Warfare",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Target Acquired",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "At Ease",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Overwatch",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Frontal Assault",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Vedette",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/circle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Decisive Victory",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-          "imagenes/ImagenesAtaqueMK/square.png",
-          "imagenes/ImagenesAtaqueMK/cross.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      }
-    ],
-    "SpecialMoves": [
-      {
-        "nombreAtaque": "Energy Rings",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/square.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Close K.A.T. Orbital Drop E",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Close K.A.T. Orbital Drop E",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/circle.png",
-
-          "imagenes/ImagenesAtaqueMK/left.png"
-        ]
-      }
-    ],
-    "Finishers": [
-      {
-        "nombreAtaque": "To The Choppa (Mid)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/left.png",
-
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Supply Drop (Close)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/left.png",
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/cross.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "Mercy (Mid)",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/l2.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/down.png",
-
-          "imagenes/ImagenesAtaqueMK/down.png"
-        ]
-      },
-
-      {
-        "nombreAtaque": "The Klassic",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/down.png",
-          "imagenes/ImagenesAtaqueMK/triangle.png"
-        ]
-      },
-      {
-        "nombreAtaque": "Popping heads",
-        "Animacion": [
-          "imagenes/ImagenesAtaqueMK/right.png",
-          "imagenes/ImagenesAtaqueMK/l1.png"
-        ]
-      }
-    ]
   }
+ 
 ]

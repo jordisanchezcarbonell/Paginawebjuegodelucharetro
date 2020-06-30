@@ -29,6 +29,18 @@
   margin: 0;
 }
 
+
+.botonSpan2{
+  width: 250%;
+  margin-right: 4vw;
+  margin-left: -4vw;
+}
+.botonTierKI{
+
+  padding-left: 31%!important;
+  padding-right: 31%!important;
+
+}
 /*
 .PersonajesKI {
 

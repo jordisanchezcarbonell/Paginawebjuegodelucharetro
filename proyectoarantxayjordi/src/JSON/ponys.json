@@ -5,6 +5,8 @@
     "Foto": "imagenes/ponys2/arizona.png",
     "Foto2": "imagenes/ponys2/arizonaResponsive.png",
     "Foto3": "imagenes/Ponys/ARIZONA.png",
+    "FotoTier":"imagenes/PonysPequeños/arizona.png",
+
     "fondo": "imagenes/ponys2/wallarizona.jpg",
     "Combos": "https://www.youtube.com/watch?v=og4Jr-jmdGA",
     "Combos2": "https://www.youtube.com/watch?v=DHX8UoPQp1s",
@@ -109,6 +111,7 @@
     "Foto": "imagenes/ponys2/velvet.png",
     "Foto2": "imagenes/ponys2/velvetResponsive.png",
     "Foto3": "imagenes/Ponys/VELVET.png",
+    "FotoTier":"imagenes/PonysPequeños/velvet.png",
 
     "fondo": "imagenes/ponys2/wallvelvet.jpg",
     "Combos": "https://www.youtube.com/watch?v=MaYxxISZ7pU",
@@ -209,6 +212,8 @@
     "Foto2": "imagenes/ponys2/oleanderResponsive.png",
     "fondo": "imagenes/ponys2/FondoWoodlans.png",
     "Foto3": "imagenes/Ponys/OLEANDER.png",
+    "FotoTier":"imagenes/PonysPequeños/oleander.png",
+
     "Combos": "https://www.youtube.com/watch?v=KqPJXQiX2MY",
     "Combos2": "https://www.youtube.com/watch?v=eyUFymSDP0w",
     "Uniquemovement": [
@@ -306,6 +311,8 @@
     "Foto2": "imagenes/ponys2/paprikaResponsive.png",
     "fondo": "imagenes/ponys2/FondoAlpake.png",
     "Foto3": "imagenes/Ponys/PAPRIKA.png",
+    "FotoTier":"imagenes/PonysPequeños/paprika.png",
+
     "Combos": "https://www.youtube.com/watch?v=wv5YyxBHztw",
     "Combos2": "https://www.youtube.com/watch?v=KfEZC-UixsU",
     "Uniquemovement": [
@@ -408,6 +415,8 @@
     "Foto2": "imagenes/ponys2/pomResponsive.png",
     "fondo": "imagenes/ponys2/FondoBaaah.png",
     "Foto3": "imagenes/Ponys/POM.png",
+    "FotoTier":"imagenes/PonysPequeños/pom.png",
+
     "Combos": "https://www.youtube.com/watch?v=k62u-_7IXuE",
     "Combos2": "https://www.youtube.com/watch?v=acRXxEOPpjo",
     "Uniquemovement": [
@@ -506,6 +515,8 @@
     "Foto2": "imagenes/ponys2/tianhuoResponsive.png",
     "fondo": "imagenes/ponys2/FondoHuoshan.png",
     "Foto3": "imagenes/Ponys/TIANHUO.png",
+    "FotoTier":"imagenes/PonysPequeños/tianhuo.png",
+
     "Combos": "https://www.youtube.com/watch?v=dji1aPLh4c0",
     "Combos2": "https://www.youtube.com/watch?v=f6-kh1YTSs8",
     "Uniquemovement": [

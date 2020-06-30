@@ -124,6 +124,11 @@ filter: sepia(60%);
     margin-bottom: 2vw;
     background: none;
 }
+.margendelbotoonMK2 {
+    margin-bottom: 2vw;
+    margin-left: 2vw;
+    background: none;
+}
 
 /*
 @media screen and (max-width: 415px) {

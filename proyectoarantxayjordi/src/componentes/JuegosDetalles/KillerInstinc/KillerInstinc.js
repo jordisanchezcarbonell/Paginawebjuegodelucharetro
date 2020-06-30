@@ -131,8 +131,8 @@ class KillerInstinc extends React.Component {
                 }}
                 className=" btn-ki large ghosq botonmargenes"
               >
-                <span className="botonSpan ">
-                  <span>See Tierlist</span>
+                <span className="botonSpan2 ">
+                  <span className="botonTierKI">See Tierlist</span>
                 </span>
               </Link>
             </Row>

@@ -60,7 +60,7 @@ class TierList extends React.Component {
           />
         </Row>
         <Row className="FondoTier">
-          <Col className="col-md-6">
+          <Col className="col-md-4">
             <div className="margenestablas">
               {/*     
                   <th>Encabezado 1</th>
@@ -115,7 +115,7 @@ class TierList extends React.Component {
               })}
             </div>
           </Col>
-          <Col className="col-md-6">
+          <Col className="col-md-8">
             <div>
               <h1 className="TituloDesc">Descripcion</h1>
               <h6 className="  colortextoTier">
