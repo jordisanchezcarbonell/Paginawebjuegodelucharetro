@@ -360,7 +360,7 @@ class StreetFighter5 extends React.Component {
                 <div className="margendelbotoonMK ">
                   <button className=" botonMC">See Tierlist</button>
                 </div>
-              </Link>º
+              </Link>
               <Row className=" w-100 stage  ml-4  ">
                 {/* <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}

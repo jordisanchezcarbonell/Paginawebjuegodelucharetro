@@ -99,12 +99,7 @@ class Child extends React.Component {
                         className="mx-5  rowSF5 MVCursor"
                       >
                         <TableCell
-                          onClick={() =>
-                            this.showModal(
-                              Ataque.nombreAtaque,
-                              Ataque.Animacion[0]
-                            )
-                          }
+                       
                           className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC tablaborderabajo "
                           scope="row"
                           component="td"
@@ -154,12 +149,7 @@ class Child extends React.Component {
                           scope="row"
                           component="td"
                           align="left"
-                          onClick={() =>
-                            this.showModal(
-                              Ataque.nombreAtaque,
-                              Ataque.Animacion[0]
-                            )
-                          }
+                      
                         >
                           {Ataque.nombreAtaque}
                         </TableCell>
@@ -204,12 +194,7 @@ class Child extends React.Component {
                           component="td"
                           scope="row"
                           align="left"
-                          onClick={() =>
-                            this.showModal(
-                              Ataque.nombreAtaque,
-                              Ataque.Animacion[0]
-                            )
-                          }
+                       
                         >
                           {Ataque.nombreAtaque}
                         </TableCell>

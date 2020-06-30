@@ -120,6 +120,7 @@ class KillerInstinc extends React.Component {
               <p className="mx-5 parrafodesc ">
                 {this.props.detalles.Descripcion}
               </p>
+
               <Link
                 to={{
                   pathname: "/TierList",
@@ -128,11 +129,11 @@ class KillerInstinc extends React.Component {
                     descripcionjuego: this.props.detalles,
                   },
                 }}
-                className="  btn-MVC large2    "
+                className=" btn-ki large ghosq botonmargenes"
               >
-                <div className="margendelbotoonMK ">
-                  <button className=" botonMC">See Tierlist</button>
-                </div>
+                <span className="botonSpan ">
+                  <span>See Tierlist</span>
+                </span>
               </Link>
             </Row>
           </div>
