@@ -38,8 +38,6 @@ class TierList extends React.Component {
     const descripcionbiojuego = this.props.location.state.descripcionjuego;
     let comp;
 
-    console.log(detalles);
-
     return (
       /*  const style2 = {
         backgroundPosition: "right right",
@@ -53,17 +51,17 @@ class TierList extends React.Component {
         backgroundRepeat: "no-repeat",
       };*/
 
-      <div className="DivPrincTier">
+      <div className="DivPrincTier elementodefondos">
         <Row className="FondoTier">
           <FontAwesomeIcon
-            className="iconoTier"
+            className="iconoTier margenesiconos"
             icon={faArrowLeft}
             onClick={this.props.history.goBack}
           />
         </Row>
         <Row className="FondoTier">
           <Col className="col-md-6">
-            <div>
+            <div className="margenestablas">
               {/*     
                   <th>Encabezado 1</th>
 
