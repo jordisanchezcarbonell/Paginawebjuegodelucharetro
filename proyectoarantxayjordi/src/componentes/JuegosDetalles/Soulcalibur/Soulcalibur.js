@@ -339,8 +339,7 @@ class Soulcalibur extends React.Component {
         <div className="row rowGlobal ">
           <div className="w-100  mt-4">
             <Container className="w-100   mx-0  px-0   containerDIV">
-              <Row className=" w-100 stageUC  px-0  mx-0">
-                <img
+            <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className=" mb-3 fotoCharacterSOUL"
                   alt="imagen logo"
@@ -354,12 +353,14 @@ class Soulcalibur extends React.Component {
                       descripcionjuego: this.props.detalles,
                     },
                   }}
-                  className="btn-ki large ghostpulse "
+                
                 >
-                  <div className="DivBotonSoul2 ">
-                    <button className="BotonSL">See Tierlist</button>
+                  <div className="DivBotonSoulTier  " >
+                    <button className="BotonSL2">See Tierlist</button>
                   </div>
                 </Link>
+              <Row className=" w-100 stageUC  px-0  mx-0">
+            
                 <div className=" nav mx-auto  w-100" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (

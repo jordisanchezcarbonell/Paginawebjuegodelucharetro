@@ -338,9 +338,9 @@ class MortalKombat extends React.Component {
           }}
           className="  btn-MVC large2 PruebadefondoAtaquesSF   "
         >
-          <div className="margendelbotoonMK ">
-            <button className=" botonMC">See Tierlist</button>
-          </div>
+            <div className="DivBotonMK ">
+                  <button className="BotonMk2">See Tierlist</button>
+                </div>
         </Link>
         <div className="row rowGlobalKI  ">
           <div className="w-100 mt-4">

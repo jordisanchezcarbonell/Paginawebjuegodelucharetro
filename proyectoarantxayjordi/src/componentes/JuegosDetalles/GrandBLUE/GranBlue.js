@@ -217,7 +217,7 @@ class Child extends React.Component {
                       ALL: this.props.elemento,
                     },
                   }}
-                  className="btn-ki  large ghostpulse  "
+  
                 >
                   <div className="DivBotonGB ">
                     <button className="BotonGB">Biography &amp; Videos</button>
@@ -367,13 +367,12 @@ class GranBlue extends React.Component {
         <div className="row degadadoprueba rowGlobalKI ">
           <div className="w-100 mt-4">
             <Container className="w-100     ">
-              <Row className=" w-100 stage RowGrandBLue   justify-content-center  mx-auto ">
-                <img
+            <img
                   src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
                   className="mx-auto mb-3 logoCharacters"
                   alt="imagen logo"
                 ></img>
-
+              <div>
                 <Link
                   to={{
                     pathname: "/TierList",
@@ -382,12 +381,14 @@ class GranBlue extends React.Component {
                       descripcionjuego: this.props.detalles,
                     },
                   }}
-                  className="btn-ki  large ghostpulse  "
                 >
-                  <div className="DivBotonGB ">
-                    <button className="BotonGB">See Tierlist</button>
+                  <div className="DivBotonGB2 ">
+                    <button className="BotonGB2">See Tierlist</button>
                   </div>
                 </Link>
+                </div>
+              <Row className=" w-100 stage RowGrandBLue   justify-content-center  mx-auto ">
+               
                 <div className=" nav " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (

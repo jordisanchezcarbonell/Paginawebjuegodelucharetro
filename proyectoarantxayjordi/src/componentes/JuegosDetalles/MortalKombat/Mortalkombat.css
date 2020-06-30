@@ -518,8 +518,20 @@ tr {
     margin-bottom: 2vw;
 
 }
+.BotonMk2 {
+    background: linear-gradient(90deg, #150302, #540808 25%, #540808 75%, #150302);
+    color: white;
+    border: 4px white solid;
+    padding: 0.5vw;
+    box-shadow: inset 0 0 0 2px black;
+    width: 75%;
+    padding-left: 2vw;
+    padding-right: 2vw;
+margin-top: -2vw;
+}
 
-.BotonMk:hover {
+
+.BotonMk:hover,.BotonMk2:hover {
     border-color: #5a4c30;
 
 }

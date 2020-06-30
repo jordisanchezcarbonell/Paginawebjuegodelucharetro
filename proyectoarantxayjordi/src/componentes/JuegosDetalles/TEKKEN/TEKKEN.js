@@ -269,8 +269,10 @@ class TEKKEN extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                <div className="margendelbotoonMK ">
-                  <button className=" botonMC">See Tierlist</button>
+
+               
+                <div className="DivBotonTK2 ">
+                  <button className=" BotonTK2">See Tierlist</button>
                 </div>
               </Link>
               <Row className=" tamañodefectoTK stage TK2img ">
