@@ -2,6 +2,8 @@ import React from "react";
 
 import "./TierList.css";
 
+import { Container, Row, Col } from "reactstrap";
+
 import { withRouter } from "react-router-dom";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -37,42 +39,91 @@ class TierList extends React.Component {
 
     console.log(detalles);
 
+  
+
+
+
+
     return (
-      <div>
-        <FontAwesomeIcon
-          className="iconoBD"
+
+
+
+
+    /*  const style2 = {
+        backgroundPosition: "right right",
+        backgroundSize: "cover",
+  
+        display: "block",
+        backgroundImage:
+          "linear-gradient(to left, rgba(255,255,255,0), rgba(0, 0, 0, 1)), url(" +
+          this.props.detalles.personaje +
+          ")",
+        backgroundRepeat: "no-repeat",
+      };*/
+  
+      <div className="DivPrincTier">
+        
+ <Row   className="FondoTier">
+ <FontAwesomeIcon
+          className="iconoTier"
           icon={faArrowLeft}
           onClick={this.props.history.goBack}
         />
-        <div>
-          <h1 className=" pruebadeltitlo colortexto">
-            {descripcionbiojuego.Descripcion}
-          </h1>
+ </Row>
+          <Row className="FondoTier">
+
+            <Col className="col-md-6">
+
+        <div >
+
+
+          
+
+{/*     
+                  <th>Encabezado 1</th>
+
+<th>Encabezado 2</th>
+
+<th>Encabezado 3</th>*/ }
+
+          
           {detalles.map((personaje, index) => {
             return (
-              <div key={index} className="fondotabla">
-                <Table responsive size="sm">
-                  <tbody>
+              <div key={index} className="fondotabla ">
+                <Table responsive size="sm" className="TablaTierNumero">
+
                     <tr>
-                      <td className="colortexto">{index + 1}</td>
-                      <td>
+    
+                      <td className="colortexto tdTier">{index + 1}</td>
+                      <td className="tdTierfoto">
                         <img
                           src={process.env.PUBLIC_URL + personaje.Foto}
                           alt=""
-                          className=""
+                          className="fototier"
                           height="110vw"
                         ></img>
                       </td>
-                      <td>
-                        <h3 className="colortexto">{personaje.Nombre}</h3>
+                      <td className="tdTierNombre">
+                        <h3 className="NombrePersTier">{personaje.Nombre}</h3>
                       </td>
                     </tr>
-                  </tbody>
                 </Table>
               </div>
             );
           })}
         </div>
+        </Col>
+        <Col className="col-md-6">
+        <div>
+        <h1 className="TituloDesc" >
+            Descripcion
+          </h1>
+          <h6 className="  colortextoTier">
+            {descripcionbiojuego.Descripcion}
+          </h6>
+          </div>
+        </Col>
+        </Row>
       </div>
     );
   }

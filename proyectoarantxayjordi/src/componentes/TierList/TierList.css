@@ -1,502 +1,16 @@
-.BioNombreBD {
+.DivPrincTier{
+    margin-left: 8vw;
+    margin-right: 8vw;
+    background-color: rgba(0, 0, 0, 0.473);
+
+}
+.iconoTier{
     color: black;
-    padding-top: 1vw;
-    padding-bottom: 1vw;
-    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
-    font-family: "BioLetraBD";
-    font-size: 5vw;
+    font-size: 4vw;
+   float: left;
 }
 
-.BioImgyBioBD {
-
-    background-color: rgba(0, 0, 0, 0.274);
-    border: 4px black solid;
-    border-radius: 30px;
-    width: 80%;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-bottom: 1vw;
-    padding-top: 1vw;
-
-}
-
-.BioDivTotalBD {
-    background-color: chocolate;
-
-
-}
-
-.BioImgBD {
-    height: 40vw;
-}
-
-.BIOCentrarColDivBD {
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
-.BiotituloBD {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: auto;
-    margin-right: auto;
-
-    color: black;
-    font-size: 3vw;
-    border-bottom: 2px black solid;
-    width: 70%;
-
-}
-
-.BioDescBD {
-
-    color: black;
-
-}
-
-.iconoBD {
-    color: black;
-    font-size: 3vw;
-    margin-left: 1vw;
-    margin-top: -0.5vw;
-    padding-top: -1vw;
-    cursor: pointer;
-
-}
-
-.DivIconoBD {
-
-    width: 100%;
-}
-
-.BIOtitulocombosBD {
-    margin-left: auto;
-    margin-right: auto;
-    color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 3vw;
-    border-bottom: 2px black solid;
-    width: 20%;
-    margin-top: 2vw;
-
-    margin-bottom: 2vw;
-}
-
-
-.derechaBD {
-    width: 50vw !important;
-    float: right;
-
-    margin-right: 9vw !important;
-}
-
-.izqBD {
-    width: 50vw !important;
-    margin-left: 4vw !important;
-
-
-}
-
-@font-face {
-    font-family: "BioLetraBD";
-    src: url(LeviReBrushed.ttf);
-
-}
-
-
-
-
-
-
-
-@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 3vw;
-    }
-
-    .BioImgBD {
-        height: 95vw;
-    }
-
-    .BiotituloBD {
-        font-size: 6vw;
-    }
-
-    .BiotituloBD {
-        margin-top: 3vw;
-
-        margin-bottom: 3vw;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 6vw;
-        width: 40%;
-        margin-top: 6vw;
-        margin-bottom: 5vw;
-
-    }
-
-    .iconoBD {
-        font-size: 3vw;
-        margin-left: 2vw;
-    }
-
-    .iconoBD {
-        margin-top: 2vw;
-        font-size: 8vw;
-    }
-
-    .derechaBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-    }
-
-    .izqBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-    }
-
-
-}
-
-@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
-
-    /*pixel*/
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 3vw;
-    }
-
-    .BioImgBD {
-        height: 95vw;
-    }
-
-    .BiotituloBD {
-        font-size: 6vw;
-    }
-
-    .BiotituloBD {
-        margin-top: 3vw;
-
-        margin-bottom: 3vw;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 6vw;
-        width: 40%;
-        margin-top: 6vw;
-        margin-bottom: 5vw;
-
-    }
-
-    .iconoBD {
-
-        margin-left: 2vw;
-    }
-
-    .iconoBD {
-        margin-top: 2vw;
-        font-size: 8vw;
-    }
-
-    .derechaBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-    }
-
-    .izqBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-    }
-}
-
-
-@media screen and (max-device-height: 568px) and (max-device-width: 320px) {
-
-    /*iphone5*/
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 3vw;
-    }
-
-    .BioImgBD {
-        height: 95vw;
-    }
-
-    .BiotituloBD {
-        font-size: 6vw;
-    }
-
-    .BiotituloBD {
-        margin-top: 3vw;
-
-        margin-bottom: 3vw;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 6vw;
-        width: 40%;
-        margin-top: 6vw;
-        margin-bottom: 5vw;
-
-    }
-
-    .iconoBD {
-
-        margin-left: 2vw;
-    }
-
-    .iconoBD {
-        margin-top: 2vw;
-        font-size: 8vw;
-    }
-
-    .derechaBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-    }
-
-    .izqBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-    }
-}
-
-@media screen and (max-device-height: 736px) and (max-device-width: 414px) {
-
-    /*iphone6/7/8*/
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 3vw;
-    }
-
-    .BioImgBD {
-        height: 95vw;
-    }
-
-    .BiotituloBD {
-        font-size: 6vw;
-    }
-
-    .BiotituloBD {
-        margin-top: 3vw;
-
-        margin-bottom: 3vw;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 6vw;
-        width: 40%;
-        margin-top: 6vw;
-        margin-bottom: 5vw;
-
-    }
-
-    .iconoBD {
-
-        margin-left: 2vw;
-    }
-
-    .iconoBD {
-        margin-top: 2vw;
-        font-size: 8vw;
-    }
-
-    .derechaBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-    }
-
-    .izqBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-
-    }
-}
-
-@media screen and (max-device-height: 1024px) and (max-device-width: 768px) {
-
-    .BioImgBD {
-        height: 62vw;
-        margin-top: 15vw;
-    }
-
-    .iconoBD {
-
-        font-size: 6vw;
-        margin-left: 2vw;
-
-        margin-top: 2vw;
-
-    }
-
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 2vw;
-
-
-    }
-
-    .BiotituloBD {
-        font-size: 4vw;
-        width: auto;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 5vw;
-
-
-    }
-}
-
-
-@media screen and (max-device-height: 667px) and (max-device-width: 375px) {
-
-    /*iphone6/7/8*/
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 3vw;
-
-    }
-
-    .BioImgBD {
-        height: 95vw;
-    }
-
-    .BiotituloBD {
-        font-size: 6vw;
-    }
-
-    .BiotituloBD {
-        margin-top: 3vw;
-
-        margin-bottom: 3vw;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 6vw;
-        width: 40%;
-        margin-top: 6vw;
-        margin-bottom: 5vw;
-
-    }
-
-    .iconoBD {
-
-        margin-left: 2vw;
-    }
-
-    .iconoBD {
-        margin-top: 2vw;
-        font-size: 8vw;
-    }
-
-    .derechaBD {
-        width: 100% !important;
-        margin-left: 4vw;
-
-        float: none;
-
-
-    }
-
-    .izqBD {
-        width: 100% !important;
-        margin-left: 4vw;
-
-        float: none;
-
-    }
-}
-
-@media screen and (max-device-height: 812px) and (max-device-width: 375px) {
-
-    /*iphone X*/
-    .BioNombreBD {
-        font-size: 11vw;
-        padding-top: 3vw;
-    }
-
-    .BioImgBD {
-        height: 95vw;
-    }
-
-    .BiotituloBD {
-        font-size: 6vw;
-    }
-
-    .BiotituloBD {
-        margin-top: 3vw;
-
-        margin-bottom: 3vw;
-    }
-
-    .BIOtitulocombosBD {
-        font-size: 6vw;
-        width: 40%;
-        margin-top: 6vw;
-        margin-bottom: 5vw;
-
-    }
-
-    .iconoBD {
-
-        margin-left: 2vw;
-    }
-
-    .iconoBD {
-        margin-top: 2vw;
-        font-size: 8vw;
-    }
-
-    .derechaBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-
-    }
-
-    .izqBD {
-        width: 100% !important;
-        margin-left: 2vw;
-
-        float: none;
-
-    }
-
-}
-
-.colortexto {
+.colortextoTier {
     color: black;
 }
 
@@ -506,12 +20,104 @@
 
 }
 
+.tdTierNumero{
+    vertical-align: middle!important;
+    margin-bottom: 0!important;
+    padding-bottom: 0!important;
+    width: 15%;
+}
+.tdTierfoto{
+    vertical-align: middle!important;
+    margin-bottom: 0!important;
+    padding-bottom: 0!important;
+    width: 60%;
+}
+.tdTierNombre{
+    vertical-align: middle!important;
+    margin-bottom: 0!important;
+    padding-bottom: 0!important;
+    width: 30%;
+}
+.fototier{
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+    padding-bottom: 0!important;
+    height: 7vw;
+
+}
+.TablaTier{
+    margin-bottom: 0!important;
+    padding-bottom: 0!important;
+}
+.table{
+    margin-bottom: 0!important;
+}
+.NombrePersTier{
+    font-size: 1.4rem;
+}
 .fondotabla {
-    margin-left: 7vw;
-    width: 40%;
+
     background: rgb(255, 255, 255);
     background: -moz-linear-gradient(90deg, rgba(255, 255, 255, 1) 62%, rgba(156, 156, 156, 1) 85%);
     background: -webkit-linear-gradient(90deg, rgba(255, 255, 255, 1) 62%, rgba(156, 156, 156, 1) 85%);
     background: linear-gradient(90deg, rgba(255, 255, 255, 1) 62%, rgba(156, 156, 156, 1) 85%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#9c9c9c", GradientType=1);
 }
+@font-face {
+    font-family: "BioLetraBD";
+    src: url(LeviReBrushed.ttf);
+
+}
+
+.TituloDesc{
+
+    color: black;
+}
+.FondoTier{
+    background-color: rgba(0, 0, 0, 0.301);
+}
+
+
+
+
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
+  
+
+
+}
+
+@media screen and (max-device-height: 731px) and (max-device-width: 411px) {
+
+    /*pixel*/
+
+}
+
+
+@media screen and (max-device-height: 568px) and (max-device-width: 320px) {
+
+    /*iphone5*/
+
+}
+
+@media screen and (max-device-height: 736px) and (max-device-width: 414px) {
+
+    /*iphone6/7/8*/
+
+}
+
+@media screen and (max-device-height: 1024px) and (max-device-width: 768px) {
+
+}
+
+
+@media screen and (max-device-height: 667px) and (max-device-width: 375px) {
+
+    /*iphone6/7/8*/
+
+}
+
+@media screen and (max-device-height: 812px) and (max-device-width: 375px) {
+
+
+}
+
