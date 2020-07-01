@@ -1,3 +1,8 @@
+.margenesUnder {
+    margin-bottom: 3rem !important;
+    margin-right: 3rem !important;
+}
+
 .DivBDFONDOUN {
     color: black;
     text-align: center;
@@ -13,45 +18,48 @@
 
 }
 
-.BotonUN2{
-    background-color:#0c298c;
-    border:4px white solid;
+.BotonUN2 {
+    background-color: #0c298c;
+    border: 4px white solid;
     padding: 0.5vw;
     box-shadow: inset 0 0 0 2px black;
-   color: white;
+    color: white;
     width: 80%;
-  padding-left: 2vw;
+    padding-left: 2vw;
 
-  padding-right: 2vw;
-  margin-bottom: 2vw;
-  
-  }
+    padding-right: 2vw;
+    margin-bottom: 2vw;
 
-.BotonUN{
-    background-color:#0c298c;
-    border:4px white solid;
+}
+
+.BotonUN {
+    background-color: #0c298c;
+    border: 4px white solid;
     padding: 0.5vw;
     box-shadow: inset 0 0 0 2px black;
-   color: white;
+    color: white;
     width: 70%;
-  padding-left: 2vw;
-  margin-left: 6vw;
-  padding-right: 2vw;
-  
-  }
-  .BotonUN:hover,.BotonUN2:hover{
-    background-color:#90a2dd;
-color: black;
-font-weight: bold;
-  }
+    padding-left: 2vw;
+    margin-left: 6vw;
+    padding-right: 2vw;
+
+}
+
+.BotonUN:hover,
+.BotonUN2:hover {
+    background-color: #90a2dd;
+    color: black;
+    font-weight: bold;
+}
+
 /*
 responsive     width: 50vw; */
-  .DivBotonUN2{
+.DivBotonUN2 {
 
-    margin-top:3vw!important;
-  
-  }
-  
+    margin-top: 3vw !important;
+
+}
+
 
 .margenesUn {
     margin-bottom: 30rem !important;
@@ -59,9 +67,9 @@ responsive     width: 50vw; */
 }
 
 @media screen and (max-device-width: 750px) {
-    .margenes {
-        margin-bottom: 0rem !important;
-        margin-right: 1rem !important;
+    .margenesUnder {
+        margin-bottom: 3rem !important;
+        margin-right: 3rem !important;
         margin-left: 2.5rem !important;
 
     }
@@ -101,7 +109,7 @@ responsive     width: 50vw; */
 
         margin-right: 2vw !important;
         border: 3px white solid !important;
-  
+
 
 
     }
@@ -151,7 +159,7 @@ responsive     width: 50vw; */
 }
 
 @media screen and (device-width: 412px) and (device-height: 823px) and (-webkit-device-pixel-ratio: 3.5) and (orientation: landscape) {
-    .margenes {
+    .margenesUnder {
         margin-bottom: 0rem !important;
         margin-right: 0rem !important;
     }
@@ -182,9 +190,9 @@ responsive     width: 50vw; */
         display: none !important;
     }
 
-.passs{
-    margin-left: 4vw!important;
-}
+    .passs {
+        margin-left: 4vw !important;
+    }
 }
 
 
@@ -192,11 +200,11 @@ responsive     width: 50vw; */
 
 @media screen and (min-width:1024px) {
 
-  
 
-.passs{
-    margin-left: 4vw!important;
-}
+
+    .passs {
+        margin-left: 4vw !important;
+    }
 
 }
 
@@ -471,10 +479,10 @@ responsive     width: 50vw; */
         margin-left: 0vw !important
     }
 
-    .margenes {
-        margin-bottom: 0rem !important;
-        margin-right: 5vw !important;
-        margin-left: 8vw !important;
+    .margenesUnder {
+        margin-bottom: 3rem !important;
+        margin-right: 6vw !important;
+        margin-left: 2vw !important;
 
     }
 
@@ -736,9 +744,9 @@ margin-left: -3vw;
     }
 
 
-    .margenes {
+    .margenesUnder {
         margin-bottom: 0rem !important;
-        margin-right: 1rem !important;
+        margin-right: 2rem !important;
         margin-left: 1rem !important;
 
     }
@@ -920,6 +928,7 @@ margin-left: -3vw;
     background-image: url(http://www.aksysgames.com/undernight/wp-content/uploads/sites/20/2019/10/UNICLR_TB3a.jpg),
         linear-gradient(#6e859c, #c0ccd8);
 }
+
 /*    background-image: url(https://cdn.hipwallpaper.com/m/24/25/QpOhy4.jpg),
 */
 
@@ -1070,8 +1079,8 @@ margin-left: -3vw;
 }
 
 .FotoUB {
-border-radius: 3px;
-border:2px white solid;
+    border-radius: 3px;
+    border: 2px white solid;
     width: 7vw !important;
 
     height: 8vw !important;
@@ -1081,7 +1090,8 @@ border:2px white solid;
     max-width: 250px;
 
 }
-.FotoUB:hover{
+
+.FotoUB:hover {
     transform: scale(1.05);
     border: 3px solid white;
     background: #76a4caad;
@@ -1090,7 +1100,7 @@ border:2px white solid;
 
 .divFOTOUN {
 
-padding-bottom:1vw;
+    padding-bottom: 1vw;
     background: none;
     margin-right: 1vw;
 
@@ -1098,23 +1108,24 @@ padding-bottom:1vw;
 
 
 
-.puebaNombre{
+.puebaNombre {
     font-size: 1.3vw;
     margin-left: 0.7vw;
     background-color: #5a7d9967;
 
 }
+
 .divTectoUnder {
     position: absolute;
- margin-top: -1.8vw;
+    margin-top: -1.8vw;
 
 
     color: white;
 
     opacity: 0;
     overflow: hidden;
-    margin-left:auto!important;
-    margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
 }
 
@@ -1124,6 +1135,7 @@ padding-bottom:1vw;
 
 
 }
+
 /*
     top: 80%;
     font-size: 1vw;
@@ -1136,7 +1148,7 @@ padding-bottom:1vw;
 
 
 */
-.divFOTOUN>.puebaNombre{
+.divFOTOUN>.puebaNombre {
     display: none;
 
     width: 100%;
@@ -1154,8 +1166,9 @@ padding-bottom:1vw;
     transform: translate(-50%, -50%);
     font-family: "tipoUnder" !important;
 }
-.divFOTOUN>.puebaNombre:hover{
-opacity:1;
+
+.divFOTOUN>.puebaNombre:hover {
+    opacity: 1;
 
     display: block;
 }
