@@ -73,8 +73,10 @@ class TierList extends React.Component {
                 if (personaje.FotoTier != null) {
                   comp = (
                     <tr>
-                      <td className="colortexto tdTier">{index + 1}</td>
-                      <td className="tdTierfoto">
+                      <td className="colortexto tdTierNombre elominarborders tdTier">
+                        <h3 className="NombrePersTier">{index + 1}</h3>
+                      </td>
+                      <td className="tdTierfoto elominarborders">
                         <img
                           src={process.env.PUBLIC_URL + personaje.FotoTier}
                           alt=""
@@ -82,7 +84,7 @@ class TierList extends React.Component {
                           height="110vw"
                         ></img>
                       </td>
-                      <td className="tdTierNombre">
+                      <td className="tdTierNombre elominarborders">
                         <h3 className="NombrePersTier">{personaje.Nombre}</h3>
                       </td>
                     </tr>
@@ -90,7 +92,9 @@ class TierList extends React.Component {
                 } else {
                   comp = (
                     <tr>
-                      <td className="colortexto tdTier">{index + 1}</td>
+                      <td className="colortexto elominarborders tdTier">
+                        {index + 1}
+                      </td>
                       <td className="tdTierfoto">
                         <img
                           src={process.env.PUBLIC_URL + personaje.Foto}
@@ -106,8 +110,12 @@ class TierList extends React.Component {
                   );
                 }
                 return (
-                  <div key={index} className="fondotabla ">
-                    <Table responsive size="sm" className="TablaTierNumero">
+                  <div key={index} className=" elominarborders">
+                    <Table
+                      responsive
+                      size="sm"
+                      className="elominarborders TablaTierNumero"
+                    >
                       <tbody>{comp}</tbody>
                     </Table>
                   </div>

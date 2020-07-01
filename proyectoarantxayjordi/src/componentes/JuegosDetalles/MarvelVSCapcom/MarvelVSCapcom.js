@@ -99,7 +99,6 @@ class Child extends React.Component {
                         className="mx-5  rowSF5 MVCursor"
                       >
                         <TableCell
-                       
                           className="   py-2 colorFondoAtaquesMC  mifuenteataquesMVC tablaborderabajo "
                           scope="row"
                           component="td"
@@ -149,7 +148,6 @@ class Child extends React.Component {
                           scope="row"
                           component="td"
                           align="left"
-                      
                         >
                           {Ataque.nombreAtaque}
                         </TableCell>
@@ -194,7 +192,6 @@ class Child extends React.Component {
                           component="td"
                           scope="row"
                           align="left"
-                       
                         >
                           {Ataque.nombreAtaque}
                         </TableCell>
@@ -252,7 +249,6 @@ class MarvelVSCapcom extends React.Component {
       isItemContentVisible: {},
       numChildren: 0,
     };
-    console.log(props);
   }
   renderContent() {
     const newLocal = this.state;

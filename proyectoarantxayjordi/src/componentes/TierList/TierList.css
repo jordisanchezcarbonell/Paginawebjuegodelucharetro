@@ -13,10 +13,14 @@
 
 .colortextoTier {
     color: white;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vw;
+
 }
 
 .margenestablas {
-    margin-left: 3vw;
+    margin-left: 5vw;
 }
 
 .margenesiconos {
@@ -74,6 +78,12 @@
 
 .NombrePersTier {
     font-size: 1.4rem;
+    color: white;
+}
+
+.elominarborders {
+    border-top: none !important;
+
 }
 
 .fondotabla {
