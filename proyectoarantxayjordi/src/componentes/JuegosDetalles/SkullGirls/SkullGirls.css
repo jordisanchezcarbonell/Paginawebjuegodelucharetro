@@ -273,11 +273,13 @@ th {
 
 }
 
-.prueba {
+.pruebaskull {
   width: 80%;
   height: 80%;
   text-align: center;
   position: relative;
+  margin-left: auto!important;
+  margin-right: auto!important;
 }
 
 

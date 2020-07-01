@@ -133,7 +133,7 @@ class SkullGirls extends React.Component {
                     <div className="centrado">{personaje.Nombre}</div>
                   </div>
 
-                  <Row className="prueba pt-0 pb-3  mx-auto">
+                  <Row className="pruebaskull pt-0 pb-3  ">
                     <Col md="8">
                       <div className="contenedor mb-3 mt-5">
                         <Image
