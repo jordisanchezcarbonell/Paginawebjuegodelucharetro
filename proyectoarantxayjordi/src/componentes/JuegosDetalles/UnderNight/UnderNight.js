@@ -89,7 +89,7 @@ class Child extends React.Component {
                 </Table>
               </TableContainer>
 
-              <TableContainer className=" UNAFU fondoTablaUN tablaInfinetUNDER mt-3  prrr CONTAINERINFIT AnchoUN">
+              <TableContainer className=" UNAFU fondoTablaUN  mt-3  prrr CONTAINERINFIT AnchoUN">
                 <h3 className="TituloAtaquesUN2 py-2 ">Infinite Worth</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -132,7 +132,7 @@ class Child extends React.Component {
               </TableContainer>
             </Col>
             <Col className="col-md-5 w-100 margenesUnder pUNDERA">
-              <TableContainer className="UNAFU2  fondoTablaUN fondoTablaBD px-0 mt-5 prrr AnchoUN">
+              <TableContainer className="UNAFU2 pt-2 pb-5  fondoTablaUN fondoTablaBD px-0 mt-5 prrr AnchoUN">
                 <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
 
                 <Table className="nomostrarscrollBD">
@@ -394,9 +394,6 @@ class UnderNight extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-           
-
-
                 <div className="DivBotonUN2 ">
                   <button className="BotonUN2">See Tierlist</button>
                 </div>
