@@ -11,6 +11,7 @@ import Table from "react-bootstrap/Table";
 class TierList extends React.Component {
   constructor(props, context) {
     super(props);
+    console.log(this.props.location.state);
   }
 
   state = {
@@ -54,6 +55,9 @@ class TierList extends React.Component {
       <div className="DivPrincTier ">
         <Row className="FondoTier">
           <h1 className="TierNombre">TierList</h1>
+        </Row>
+        <Row>
+          <h1 className="TierNombre">{descripcionbiojuego.Nombre}</h1>
         </Row>
         <Row className="FondoTier">
           <FontAwesomeIcon

@@ -36,6 +36,7 @@
 }
 
 .TierNombre {
+  color: white;
   margin-left: auto;
   margin-right: auto;
 }
@@ -104,21 +105,15 @@
 
 .fondotabla {
   background: rgb(255, 255, 255);
-  background: -moz-linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 62%,
-    rgba(156, 156, 156, 1) 85%
-  );
-  background: -webkit-linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 62%,
-    rgba(156, 156, 156, 1) 85%
-  );
-  background: linear-gradient(
-    90deg,
-    rgba(255, 255, 255, 1) 62%,
-    rgba(156, 156, 156, 1) 85%
-  );
+  background: -moz-linear-gradient(90deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(156, 156, 156, 1) 85%);
+  background: -webkit-linear-gradient(90deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(156, 156, 156, 1) 85%);
+  background: linear-gradient(90deg,
+      rgba(255, 255, 255, 1) 62%,
+      rgba(156, 156, 156, 1) 85%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff", endColorstr="#9c9c9c", GradientType=1);
 }
 
@@ -131,8 +126,7 @@
   color: white;
 }
 
-@media screen and (max-device-height: 640px) and (max-device-width: 360px) {
-}
+@media screen and (max-device-height: 640px) and (max-device-width: 360px) {}
 
 @media screen and (max-device-height: 731px) and (max-device-width: 411px) {
   /*pixel*/
@@ -146,12 +140,10 @@
   /*iphone6/7/8*/
 }
 
-@media screen and (max-device-height: 1024px) and (max-device-width: 768px) {
-}
+@media screen and (max-device-height: 1024px) and (max-device-width: 768px) {}
 
 @media screen and (max-device-height: 667px) and (max-device-width: 375px) {
   /*iphone6/7/8*/
 }
 
-@media screen and (max-device-height: 812px) and (max-device-width: 375px) {
-}
+@media screen and (max-device-height: 812px) and (max-device-width: 375px) {}
