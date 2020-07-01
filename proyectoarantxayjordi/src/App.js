@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <PaginaPrincipal />
 
-      <footer>
+      <footer className="colorprimario">
         <Footer />
       </footer>
     </div>
