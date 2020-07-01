@@ -152,10 +152,8 @@ export class Footer extends React.Component {
         </p>
         <p className="margenesdelfooter">
           &copy; {new Date().getFullYear()} Mi Proyecto, Inc. &middot;{" "}
-          <a href="#">Política de Privacidad</a> &middot;{" "}
-          <a href="#">Términos</a>
-          <a> © 2020, Adinox 2020</a>
-          <a> contacto:Ejemplo@gmail.com</a>
+          <a> © 2020, Adijnor 2020</a>
+          <a> Contacto:Adijnor@gmail.com</a>
         </p>
       </footer>
     );

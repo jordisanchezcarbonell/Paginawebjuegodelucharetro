@@ -80,13 +80,13 @@ class Probadeprincipal extends React.Component {
                   >
                     <h1 className="colortextoprincilal"> QUIENES SOMOS</h1>
                     <span className="colortextoprincilal">
-                      Somos dos personas que nuestro objetivo es dedicamos
+                      Somos un equipo que nuestro objetivo es dedicamos
                       ,creacion paginas, mantenimientto de paginas web cualquier
-                      cliente nos llamamos Adinox. Para darnos a conocer , ya
+                      cliente nos llamamos Adijnor. Para darnos a conocer , ya
                       que nuestra aficion son los juegos de lucha hemos creado
                       esta web con react para poder enseñar que podemos hacer,
                       si os interesa nuestro trabajo, podeis ver esta web : o
-                      enviarnos un correo a :
+                      enviarnos un correo a :Adijnor@gmail.com HEEEELP
                     </span>
                   </div>
                   <div
@@ -107,7 +107,7 @@ class Probadeprincipal extends React.Component {
                     <h1>{this.state.name}</h1>
                   </div>
                 </h4>
-                <span class="poster-author colortextoprincilal">- Adinox</span>
+                <span class="poster-author colortextoprincilal">- Adijnor</span>
               </div>
 
               <div class="slab-wrapper">
