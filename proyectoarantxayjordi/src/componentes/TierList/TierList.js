@@ -69,55 +69,68 @@ class TierList extends React.Component {
         <Row className="FondoTier">
           <Col className="col-md-5">
             <div className="margenestablas testtablas">
-              {detalles.map((personaje, index) => {
-                if (personaje.FotoTier != null) {
-                  comp = (
-                    <tr>
-                      <td className=" tdTierNombre elominarborders tdTier">
-                        <h3 className="NombrePersTier">{index + 1}</h3>
-                      </td>
-                      <td className="tdTierfoto elominarborders">
-                        <img
-                          src={process.env.PUBLIC_URL + personaje.FotoTier}
-                          alt=""
-                          className="fototier"
-                        ></img>
-                      </td>
-                      <td className="tdTierNombre elominarborders">
-                        <h3 className="NombrePersTier">{personaje.Nombre}</h3>
-                      </td>
-                    </tr>
-                  );
-                } else {
-                  comp = (
-                    <tr>
-                      <td className=" elominarborders tdTier">{index + 1}</td>
-                      <td className="tdTierfoto">
-                        <img
-                          src={process.env.PUBLIC_URL + personaje.Foto}
-                          alt=""
-                          className="fototier"
-                          height="110vw"
-                        ></img>
-                      </td>
-                      <td className="tdTierNombre">
-                        <h3 className="NombrePersTier">{personaje.Nombre}</h3>
-                      </td>
-                    </tr>
-                  );
-                }
-                return (
-                  <div key={index} className=" elominarborders ">
-                    <Table
-                      responsive
-                      size="sm"
-                      className="elominarborders  TablaTierNumero"
-                    >
-                      <tbody>{comp}</tbody>
-                    </Table>
-                  </div>
-                );
-              })}
+              <Table
+                responsive
+                size="sm"
+                className="elominarborders  TablaTierNumero"
+              >
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Photo</th>
+                    <th>Name</th>
+                  </tr>
+                </thead>
+                {detalles.map((personaje, index) => {
+                  if (personaje.FotoTier != null) {
+                    comp = (
+                      <tbody key={index}>
+                        <tr>
+                          <td className=" tdTierNombre elominarborders tdTier">
+                            <h3 className="NombrePersTier">{index + 1}</h3>
+                          </td>
+                          <td className="tdTierfoto elominarborders">
+                            <img
+                              src={process.env.PUBLIC_URL + personaje.FotoTier}
+                              alt=""
+                              className="fototier"
+                            ></img>
+                          </td>
+                          <td className="tdTierNombre elominarborders">
+                            <h3 className="NombrePersTier">
+                              {personaje.Nombre}
+                            </h3>
+                          </td>
+                        </tr>
+                      </tbody>
+                    );
+                  } else {
+                    comp = (
+                      <tbody key={index}>
+                        <tr>
+                          <td className=" tdTierNombre elominarborders tdTier">
+                            <h3 className="NombrePersTier">{index + 1}</h3>
+                          </td>
+                          <td className="tdTierfoto elominarborders">
+                            <img
+                              src={process.env.PUBLIC_URL + personaje.Foto}
+                              alt=""
+                              className="fototier"
+                            ></img>
+                          </td>
+                          <td className="tdTierNombre elominarborders">
+                            <h3 className="NombrePersTier">
+                              {personaje.Nombre}
+                            </h3>
+                          </td>
+                        </tr>
+                      </tbody>
+                    );
+                  }
+
+                  return comp;
+                })}
+              </Table>
             </div>
           </Col>
           <Col className="col-md-7">
