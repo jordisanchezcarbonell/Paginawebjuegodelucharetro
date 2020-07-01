@@ -241,6 +241,10 @@ class GranBlue extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -367,11 +371,11 @@ class GranBlue extends React.Component {
         <div className="row degadadoprueba rowGlobalKI ">
           <div className="w-100 mt-4">
             <Container className="w-100     ">
-            <img
-                  src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className="mx-auto mb-3 logoCharacters"
-                  alt="imagen logo"
-                ></img>
+              <img
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
+                className="mx-auto mb-3 logoCharacters"
+                alt="imagen logo"
+              ></img>
               <div>
                 <Link
                   to={{
@@ -386,9 +390,8 @@ class GranBlue extends React.Component {
                     <button className="BotonGB2">See Tierlist</button>
                   </div>
                 </Link>
-                </div>
+              </div>
               <Row className=" w-100 stage RowGrandBLue   justify-content-center  mx-auto ">
-               
                 <div className=" nav " role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (

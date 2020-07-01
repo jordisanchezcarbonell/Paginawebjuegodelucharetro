@@ -240,6 +240,10 @@ class PONYS extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -357,12 +361,9 @@ class PONYS extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-
-
-<div className="borderBotonPonys ">
-                <button className="botonPonys2">See Tierlist</button>
-              </div>
-      
+                <div className="borderBotonPonys ">
+                  <button className="botonPonys2">See Tierlist</button>
+                </div>
               </Link>
 
               <Row className=" w-100  ">

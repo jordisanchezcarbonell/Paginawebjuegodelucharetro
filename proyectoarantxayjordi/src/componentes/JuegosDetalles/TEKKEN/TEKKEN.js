@@ -131,6 +131,10 @@ class TEKKEN extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -269,8 +273,6 @@ class TEKKEN extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-
-               
                 <div className="DivBotonTK2 ">
                   <button className=" BotonTK2">See Tierlist</button>
                 </div>

@@ -217,6 +217,10 @@ class MortalKombat extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   onClickDown = () => {
     scroll.scrollToBottom();
   };
@@ -338,9 +342,9 @@ class MortalKombat extends React.Component {
           }}
           className="  btn-MVC large2 PruebadefondoAtaquesSF   "
         >
-            <div className="DivBotonMK ">
-                  <button className="BotonMk2">See Tierlist</button>
-                </div>
+          <div className="DivBotonMK ">
+            <button className="BotonMk2">See Tierlist</button>
+          </div>
         </Link>
         <div className="row rowGlobalKI  ">
           <div className="w-100 mt-4">

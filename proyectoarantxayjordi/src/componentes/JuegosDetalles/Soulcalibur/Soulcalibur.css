@@ -39,7 +39,7 @@
 
 .coltablasoul {
     z-index: 2 !important;
-
+    margin-top: 0 !important;
 }
 
 .DivBotonSoul2 {
@@ -52,23 +52,23 @@
     font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", serif;
 
     margin-top: 1vw;
-margin-left: -3vw;
+    margin-left: -3vw;
 }
 
 
 
 .BotonSL {
-    
+
     background-color: unset;
     display: block;
     padding: 0.5vw 4vw;
-    border: 1px solid rgba(175,157,132,0.5);
+    border: 1px solid rgba(175, 157, 132, 0.5);
     color: #af9d84;
     transition: .3s ease-in-out;
 
 }
 
-.DivBotonSoulTier{
+.DivBotonSoulTier {
     display: inline-block;
     padding: 2px;
     border: 1px solid #af9d84;
@@ -77,23 +77,25 @@ margin-left: -3vw;
     font-weight: bold;
     font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", serif;
 
-width: 80%;
+    width: 80%;
 
 
 }
+
 .BotonSL2 {
     width: 100%;
-    display: flex!important;
-    justify-content: center!important;
+    display: flex !important;
+    justify-content: center !important;
     align-items: center;
     background-color: unset;
     display: block;
     padding: 0.5vw 4vw;
-    border: 1px solid rgba(175,157,132,0.5);
+    border: 1px solid rgba(175, 157, 132, 0.5);
     color: #af9d84;
     transition: .3s ease-in-out;
 
 }
+
 /*    outline-color: initial;
     outline-style: none;
     outline-width: initial;*/
@@ -103,7 +105,8 @@ width: 80%;
     margin-left: -3vw;
     padding-right: 2vw;*/
 
-.BotonSL:hover,.BotonSL2:hover {
+.BotonSL:hover,
+.BotonSL2:hover {
     background: #af9d84;
     color: #000;
 
@@ -151,8 +154,8 @@ width: 80%;
 
 .RowSOUL {
     border-bottom: none !important;
-    margin-left: auto!important;
-    margin-right: auto!important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 .CellNombreAtaques {

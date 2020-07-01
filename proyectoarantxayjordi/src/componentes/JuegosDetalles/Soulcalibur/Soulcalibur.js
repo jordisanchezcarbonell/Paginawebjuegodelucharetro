@@ -230,6 +230,10 @@ class Soulcalibur extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -339,28 +343,26 @@ class Soulcalibur extends React.Component {
         <div className="row rowGlobal ">
           <div className="w-100  mt-4">
             <Container className="w-100   mx-0  px-0   containerDIV">
-            <img
-                  src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
-                  className=" mb-3 fotoCharacterSOUL"
-                  alt="imagen logo"
-                ></img>
+              <img
+                src={process.env.PUBLIC_URL + this.props.detalles.Logo2}
+                className=" mb-3 fotoCharacterSOUL"
+                alt="imagen logo"
+              ></img>
 
-                <Link
-                  to={{
-                    pathname: "/TierList",
-                    state: {
-                      ALL: this.props.Juego,
-                      descripcionjuego: this.props.detalles,
-                    },
-                  }}
-                
-                >
-                  <div className="DivBotonSoulTier  " >
-                    <button className="BotonSL2">See Tierlist</button>
-                  </div>
-                </Link>
+              <Link
+                to={{
+                  pathname: "/TierList",
+                  state: {
+                    ALL: this.props.Juego,
+                    descripcionjuego: this.props.detalles,
+                  },
+                }}
+              >
+                <div className="DivBotonSoulTier  ">
+                  <button className="BotonSL2">See Tierlist</button>
+                </div>
+              </Link>
               <Row className=" w-100 stageUC  px-0  mx-0">
-            
                 <div className=" nav mx-auto  w-100" role="tablist">
                   {this.props.Juego.map((personaje, index) => {
                     return (
@@ -370,7 +372,7 @@ class Soulcalibur extends React.Component {
                       >
                         <Container className="w-100   mx-0  px-0 ContainerSeparacionSOUL ">
                           <Row className="prueba pt-0 pb-3   RowSOUL ">
-                            <Col md="8" className="coltablasoul">
+                            <Col md="8" className="coltablasoul mt-0">
                               <div className="contenedor   w-100">
                                 <div className="NombrePJSOUL mt-5  ">
                                   {personaje.Nombre}

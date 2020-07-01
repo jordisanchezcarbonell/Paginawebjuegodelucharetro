@@ -24,9 +24,7 @@ class Child extends React.Component {
 
     this.myRef = React.createRef(); // Create a ref object
   }
-  componentDidMount() {
-    window.scrollTo(0, 0);
-  }
+
   render() {
     return (
       <div
@@ -267,6 +265,10 @@ class Dragonball extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -409,10 +411,9 @@ class Dragonball extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-      
                 <div className="DivBotonBD ">
-                    <button className="BotonBD2">See Tierlist</button>
-                  </div>
+                  <button className="BotonBD2">See Tierlist</button>
+                </div>
               </Link>
               <Row className="  stage ROWdb ">
                 {/* <img

@@ -25,6 +25,9 @@ class KillerInstinc extends React.Component {
     super(props);
   }
 
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   state = {
     show: false,
     elmento: "",

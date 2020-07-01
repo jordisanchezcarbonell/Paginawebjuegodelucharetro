@@ -27,6 +27,9 @@ class SkullGirls extends React.Component {
     imagen: "",
   };
 
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   render() {
     const style = {
       backgroundPosition: "right right",
@@ -117,9 +120,6 @@ class SkullGirls extends React.Component {
               }}
               className="  btn-MVC large2 PruebadefondoAtaquesSF   "
             >
-
-
-
               <div className="DivBotonSkull2 ">
                 <button className=" BotonSkull2">See Tierlist</button>
               </div>

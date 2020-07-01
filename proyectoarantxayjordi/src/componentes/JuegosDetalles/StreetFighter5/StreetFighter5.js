@@ -215,6 +215,10 @@ class StreetFighter5 extends React.Component {
       numChildren: 0,
     };
   }
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -357,7 +361,7 @@ class StreetFighter5 extends React.Component {
                 }}
                 className="  btn-MVC large2 PruebadefondoAtaquesSF   "
               >
-                   <div className="DivBotonSF2 ">
+                <div className="DivBotonSF2 ">
                   <button className="BotonSF2">See Tierlist</button>
                 </div>
               </Link>
