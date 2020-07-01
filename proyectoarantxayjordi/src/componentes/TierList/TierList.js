@@ -74,7 +74,7 @@ class TierList extends React.Component {
                 size="sm"
                 className="elominarborders  TablaTierNumero"
               >
-                <thead>
+                <thead className="HeadTablaTier">
                   <tr>
                     <th>#</th>
                     <th>Photo</th>

@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Allerta+Stencil&family=Changa+One:ital@1&family=Open+Sans&display=swap');
 
 .testtablas {
-  border: solid 3px #8c8c8c;
+  border: solid 3px rgba(255, 255, 255, 0.705);
 
   border-radius: 30px;
+  margin-bottom: 2vw;
 }
 
 .DivPrincTier {
@@ -21,6 +22,8 @@
   margin-left: 10vw;
   margin-right: 10vw;
   font-size: 1vw;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .FondoTier {
@@ -58,7 +61,19 @@
 .margenestablas {
   margin-left: 5vw;
 }
+.table thead th{
+  border-left:none!important;
+  border-right:none!important;
+  border-top:none!important;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
 
+
+border-bottom: 1px white solid;
+}
+.thead{
+  border:none!important;
+}
 .margenesiconos {
   margin-top: 3vw;
   margin-left: 3vw;
@@ -76,7 +91,6 @@
   width: 15%;
 }
 
-.tdTierfoto {}
 
 .tdTierNombre {
 
@@ -97,6 +111,11 @@
   height: 7vw;
 }
 
+.HeadTablaTier{
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
 .TablaTier {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
@@ -109,6 +128,8 @@
 .NombrePersTier {
   font-size: 1.4rem;
   color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .elominarborders {
@@ -136,6 +157,7 @@
 
 .TituloDesc {
   color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 @media screen and (max-device-height: 640px) and (max-device-width: 360px) {}
