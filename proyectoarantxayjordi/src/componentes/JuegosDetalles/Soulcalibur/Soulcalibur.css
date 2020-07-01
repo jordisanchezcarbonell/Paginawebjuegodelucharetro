@@ -221,14 +221,7 @@
         height: 4.6vw !important;
     }
 
-    .col-md-8 {
-        margin-top: -10vw !important;
-        position: static;
-        width: 32% !important;
-        padding-right: 0px !important;
-        padding-left: 0px !important;
-        margin-left: -15vw !important;
-    }
+
 
     .imagenestamaño {
         display: none !important;

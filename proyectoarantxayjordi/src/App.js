@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App colorprimario">
       <PaginaPrincipal />
 
       <footer className="colorprimario">
