@@ -135,7 +135,7 @@ class TierList extends React.Component {
           </Col>
           <Col className="col-md-7">
             <div className="testtablas">
-              <h1 className="TituloDesc">Descripcion</h1>
+              <h1 className="TituloDesc">Description</h1>
               <h6 className="DescripcionTier  ">
                 {descripcionbiojuego.Descripcion}
               </h6>
