@@ -24,7 +24,9 @@ class Child extends React.Component {
 
     this.myRef = React.createRef(); // Create a ref object
   }
-
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   render() {
     return (
       <div

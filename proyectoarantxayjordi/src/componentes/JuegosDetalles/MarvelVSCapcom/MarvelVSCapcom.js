@@ -250,6 +250,9 @@ class MarvelVSCapcom extends React.Component {
       numChildren: 0,
     };
   }
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
