@@ -54,10 +54,10 @@ class TierList extends React.Component {
 
       <div className="DivPrincTier ">
         <Row className="FondoTier">
-          <h1 className="TierNombre">TierList</h1>
+          <h1 className="TierNombre">{descripcionbiojuego.Nombre}</h1>
         </Row>
         <Row>
-          <h1 className="TierNombre">{descripcionbiojuego.Nombre}</h1>
+          <h1 className="subtitulo">TierList</h1>
         </Row>
         <Row className="FondoTier">
           <FontAwesomeIcon
@@ -67,7 +67,7 @@ class TierList extends React.Component {
           />
         </Row>
         <Row className="FondoTier">
-          <Col className="col-md-4">
+          <Col className="col-md-5">
             <div className="margenestablas testtablas">
               {detalles.map((personaje, index) => {
                 if (personaje.FotoTier != null) {
@@ -81,7 +81,6 @@ class TierList extends React.Component {
                           src={process.env.PUBLIC_URL + personaje.FotoTier}
                           alt=""
                           className="fototier"
-                          height="110vw"
                         ></img>
                       </td>
                       <td className="tdTierNombre elominarborders">
@@ -121,7 +120,7 @@ class TierList extends React.Component {
               })}
             </div>
           </Col>
-          <Col className="col-md-8">
+          <Col className="col-md-7">
             <div className="testtablas">
               <h1 className="TituloDesc">Descripcion</h1>
               <h6 className="DescripcionTier  ">

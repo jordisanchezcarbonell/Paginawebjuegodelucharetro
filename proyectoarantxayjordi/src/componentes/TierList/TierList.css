@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Allerta+Stencil&family=Changa+One:ital@1&family=Open+Sans&display=swap');
+
 .testtablas {
   border: solid 3px #8c8c8c;
 
@@ -7,7 +9,6 @@
 .DivPrincTier {
   background-color: #b0b0b0;
   color: #111;
-  font-family: Arial;
   font-size: 17px;
   background-image: url(https://media.eventhubs.com/images/design_site_bg2.png);
   background-repeat: repeat-x;
@@ -35,7 +36,20 @@
   cursor: pointer;
 }
 
+.subtitulo {
+  font-family: 'Abel', sans-serif;
+  color: white;
+  font-size: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -2rem;
+}
+
 .TierNombre {
+  margin-top: 3vw;
+  font-size: 5rem;
+
+  font-family: 'Changa One', cursive;
   color: white;
   margin-left: auto;
   margin-right: auto;
@@ -58,30 +72,28 @@
 }
 
 .tdTierNumero {
-  vertical-align: middle !important;
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+
   width: 15%;
 }
 
-.tdTierfoto {
-  vertical-align: middle !important;
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-  width: 60%;
-}
+.tdTierfoto {}
 
 .tdTierNombre {
-  vertical-align: middle !important;
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
+
   width: 30%;
 }
 
-.fototier {
-  margin-top: 0 !important;
+
+.tdTierGeneral {
+  vertical-align: middle !important;
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
+
+
+}
+
+.fototier {
+
   height: 7vw;
 }
 
