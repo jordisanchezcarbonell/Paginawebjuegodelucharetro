@@ -151,6 +151,8 @@ width: 80%;
 
 .RowSOUL {
     border-bottom: none !important;
+    margin-left: auto!important;
+    margin-right: auto!important;
 }
 
 .CellNombreAtaques {

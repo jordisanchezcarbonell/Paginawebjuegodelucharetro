@@ -13,11 +13,11 @@ export class PaginaJuegos extends Component {
   render() {
     return (
       <div className=" fondodepantalla mx-0 px-5 mx-auto">
-        <h2>
-          <strong>
-            All Games<span>( {data.length} )</span>
+        <ar className="hee">
+          <strong className="AllGames">
+            All Games <span>({data.length})</span>
           </strong>
-        </h2>
+        </ar>
         <div className="row justify-content-center px-5">
           {data.map((juego, index) => {
             return (

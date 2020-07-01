@@ -51,7 +51,7 @@ class BiografiaSoul extends React.Component {
                   onClick={this.props.history.goBack}
                 />
               </div>
-              <Col className="col-md-4">
+              <Col className="col-md-4 bioPSoul">
                 <img
                   className="BioImgSoul"
                   variant="top"
