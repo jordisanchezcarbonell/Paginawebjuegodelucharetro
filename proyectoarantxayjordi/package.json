@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
     "icomoon-react": "^2.0.16",
+    "jquery": "^3.5.1",
     "material-ui-next-responsive-table": "^0.5.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
