@@ -313,6 +313,11 @@
 
 }
 
+.poster-footer {
+margin:0!important;
+padding:0!important;
+
+}
 .foot-box {
   align-items: center;
   animation: slideup 1s ease 4.2s normal forwards;

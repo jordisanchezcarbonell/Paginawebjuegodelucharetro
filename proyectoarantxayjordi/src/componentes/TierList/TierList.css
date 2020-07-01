@@ -19,9 +19,9 @@
 }
 
 .DescripcionTier {
-  margin-left: 10vw;
-  margin-right: 10vw;
-  font-size: 1vw;
+  margin-left: 6vw;
+  margin-right: 6vw;
+  font-size: 1.2rem;
   color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -34,7 +34,7 @@
 
 .iconoTier {
   color: black;
-  font-size: 3vw;
+  font-size: 3vh;
   float: left;
   cursor: pointer;
 }
@@ -42,7 +42,7 @@
 .subtitulo {
   font-family: 'Abel', sans-serif;
   color: white;
-  font-size: 4rem;
+  font-size: 6vh;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: -2rem;
@@ -50,7 +50,7 @@
 
 .TierNombre {
   margin-top: 3vw;
-  font-size: 5rem;
+  font-size: 8vh;
 
   font-family: 'Changa One', cursive;
   color: white;

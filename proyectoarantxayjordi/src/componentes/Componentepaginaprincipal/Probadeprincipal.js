@@ -123,7 +123,7 @@ class Probadeprincipal extends React.Component {
                 <div class="slab"></div>
               </div>
             </div>
-            <ul class="poster-footer">
+            <ul className="poster-footer">
               <li class="foot-box" data-num="1">
                 <div class=" foot-link" onClick={this.Mostrarranking}>
                   <span onClick={this.Mostrarranking}>Ranking</span>
@@ -141,7 +141,7 @@ class Probadeprincipal extends React.Component {
               </li>
               <li class="foot-box" data-num="3">
                 <Form.Group className="foot-link">
-                  <Form.Label>Choose your game</Form.Label>
+                  <Form.Label>Show ranking evo</Form.Label>
                   <Form.Control
                     as="select"
                     onChange={this.filterProducts.bind(this)}
