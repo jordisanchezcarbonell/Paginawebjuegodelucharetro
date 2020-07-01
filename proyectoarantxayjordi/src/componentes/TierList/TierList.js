@@ -51,8 +51,12 @@ class TierList extends React.Component {
         backgroundRepeat: "no-repeat",
       };*/
 
-      <div className="DivPrincTier elementodefondos">
+      <div className="DivPrincTier ">
+                <Row className="FondoTier">
+        <h1 className="TierNombre">TierList</h1>
+        </Row>
         <Row className="FondoTier">
+
           <FontAwesomeIcon
             className="iconoTier margenesiconos"
             icon={faArrowLeft}
@@ -62,18 +66,13 @@ class TierList extends React.Component {
         <Row className="FondoTier">
           <Col className="col-md-4">
             <div className="margenestablas">
-              {/*     
-                  <th>Encabezado 1</th>
-
-<th>Encabezado 2</th>
-
-<th>Encabezado 3</th>*/}
+      
 
               {detalles.map((personaje, index) => {
                 if (personaje.FotoTier != null) {
                   comp = (
                     <tr>
-                      <td className="colortexto tdTierNombre elominarborders tdTier">
+                      <td className=" tdTierNombre elominarborders tdTier">
                         <h3 className="NombrePersTier">{index + 1}</h3>
                       </td>
                       <td className="tdTierfoto elominarborders">
@@ -92,7 +91,7 @@ class TierList extends React.Component {
                 } else {
                   comp = (
                     <tr>
-                      <td className="colortexto elominarborders tdTier">
+                      <td className=" elominarborders tdTier">
                         {index + 1}
                       </td>
                       <td className="tdTierfoto">
@@ -126,7 +125,7 @@ class TierList extends React.Component {
           <Col className="col-md-8">
             <div>
               <h1 className="TituloDesc">Descripcion</h1>
-              <h6 className="  colortextoTier">
+              <h6 className="DescripcionTier  ">
                 {descripcionbiojuego.Descripcion}
               </h6>
             </div>

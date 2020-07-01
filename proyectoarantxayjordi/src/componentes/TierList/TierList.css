@@ -1,22 +1,41 @@
+
+
+
 .DivPrincTier {
-    margin-left: 8vw;
-    margin-right: 8vw;
-    background-color: rgba(0, 0, 0, 0.473);
+
+    background-color: #b0b0b0;
+    color: #111;
+    font-family: Arial;
+    font-size: 17px;
+    background-image: url(https://media.eventhubs.com/images/design_site_bg2.png);
+    background-repeat: repeat-x;
+    background-position: left top;
+    margin: 0;
+    padding: 0;
+ 
+}
+
+.DescripcionTier{
+
+    margin-left: 2vw;
+    margin-right: 2vw;
 
 }
 
+.FondoTier{
+background-color: rgba(255, 235, 205, 0.445);
+margin-left: 8vw!important;
+margin-right: 8vw!important;
+}
 .iconoTier {
     color: black;
-    font-size: 4vw;
+    font-size: 3vw;
     float: left;
+    cursor: pointer;
 }
-
-.colortextoTier {
-    color: white;
-    margin-left: 10vw;
-    margin-right: 10vw;
-    margin-top: 5vw;
-
+.TierNombre{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .margenestablas {
@@ -144,16 +163,3 @@
 @media screen and (max-device-height: 812px) and (max-device-width: 375px) {}
 
 
-.DivPrincTier {
-
-    background-color: #b0b0b0;
-    color: #111;
-    font-family: Arial;
-    font-size: 17px;
-    background-image: url(https://media.eventhubs.com/images/design_site_bg2.png);
-    background-repeat: repeat-x;
-    background-position: left top;
-    margin: 0;
-    padding: 0;
-
-}
