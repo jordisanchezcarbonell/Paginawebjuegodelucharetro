@@ -52,11 +52,10 @@ class TierList extends React.Component {
       };*/
 
       <div className="DivPrincTier ">
-                <Row className="FondoTier">
-        <h1 className="TierNombre">TierList</h1>
+        <Row className="FondoTier">
+          <h1 className="TierNombre">TierList</h1>
         </Row>
         <Row className="FondoTier">
-
           <FontAwesomeIcon
             className="iconoTier margenesiconos"
             icon={faArrowLeft}
@@ -65,9 +64,7 @@ class TierList extends React.Component {
         </Row>
         <Row className="FondoTier">
           <Col className="col-md-4">
-            <div className="margenestablas">
-      
-
+            <div className="margenestablas testtablas">
               {detalles.map((personaje, index) => {
                 if (personaje.FotoTier != null) {
                   comp = (
@@ -91,9 +88,7 @@ class TierList extends React.Component {
                 } else {
                   comp = (
                     <tr>
-                      <td className=" elominarborders tdTier">
-                        {index + 1}
-                      </td>
+                      <td className=" elominarborders tdTier">{index + 1}</td>
                       <td className="tdTierfoto">
                         <img
                           src={process.env.PUBLIC_URL + personaje.Foto}
@@ -109,11 +104,11 @@ class TierList extends React.Component {
                   );
                 }
                 return (
-                  <div key={index} className=" elominarborders">
+                  <div key={index} className=" elominarborders ">
                     <Table
                       responsive
                       size="sm"
-                      className="elominarborders TablaTierNumero"
+                      className="elominarborders  TablaTierNumero"
                     >
                       <tbody>{comp}</tbody>
                     </Table>
@@ -123,7 +118,7 @@ class TierList extends React.Component {
             </div>
           </Col>
           <Col className="col-md-8">
-            <div>
+            <div className="testtablas">
               <h1 className="TituloDesc">Descripcion</h1>
               <h6 className="DescripcionTier  ">
                 {descripcionbiojuego.Descripcion}
