@@ -146,7 +146,7 @@ export class Footer extends React.Component {
 
   render() {
     return (
-      <footer className="container">
+      <footer className="colodedefoteer container">
         <p className="float-right">
           <a onClick={this.onClick}>Subir</a>
         </p>

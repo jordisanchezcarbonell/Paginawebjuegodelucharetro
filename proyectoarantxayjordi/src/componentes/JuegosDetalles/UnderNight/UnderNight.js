@@ -133,7 +133,7 @@ class Child extends React.Component {
             </Col>
             <Col className="col-md-5 w-100 margenesUnder pUNDERA">
               <TableContainer className="UNAFU2 pt-2 pb-5  fondoTablaUN fondoTablaBD px-0 mt-5 prrr AnchoUN">
-                <h3 className="TituloAtaquesUN3  py-2 ">Special Attack</h3>
+                <h3 className="TituloAtaquesUN3  py-2> ">Special Attack</h3>
 
                 <Table className="nomostrarscrollBD">
                   <TableBody className="nomostrarscrollBD">
