@@ -67,27 +67,6 @@ export class PaginaPrincipal extends Component {
                 >
                   Juegos
                 </ReactBootstrap.Navbar.Brand>
-
-                <ReactBootstrap.Nav className="ml-auto textonaV">
-                  <ReactBootstrap.NavDropdown
-                    title="Plataformas"
-                    id="basic-nav-dropdown"
-                  >
-                    <ReactBootstrap.NavDropdown.Item href="#action/3.1">
-                      Action
-                    </ReactBootstrap.NavDropdown.Item>
-                    <ReactBootstrap.NavDropdown.Item href="#action/3.2">
-                      Another action
-                    </ReactBootstrap.NavDropdown.Item>
-                    <ReactBootstrap.NavDropdown.Item href="#action/3.3">
-                      Something
-                    </ReactBootstrap.NavDropdown.Item>
-                    <ReactBootstrap.NavDropdown.Divider />
-                    <ReactBootstrap.NavDropdown.Item href="#action/3.4">
-                      Separated link
-                    </ReactBootstrap.NavDropdown.Item>
-                  </ReactBootstrap.NavDropdown>
-                </ReactBootstrap.Nav>
               </ReactBootstrap.Navbar.Collapse>
             </ReactBootstrap.Navbar>
             <Switch>

@@ -99,6 +99,7 @@
   letter-spacing: -0.05rem;
   width: 100%;
   PADDING-BOTTOM: 2VW;
+  margin: auto;
 }
 
 .poster-sub-heading {
@@ -314,10 +315,11 @@
 }
 
 .poster-footer {
-margin:0!important;
-padding:0!important;
+  margin: 0 !important;
+  padding: 0 !important;
 
 }
+
 .foot-box {
   align-items: center;
   animation: slideup 1s ease 4.2s normal forwards;
