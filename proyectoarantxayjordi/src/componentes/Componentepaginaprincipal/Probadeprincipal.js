@@ -65,10 +65,10 @@ class Probadeprincipal extends React.Component {
                     className="colortextoprincilal"
                   >
                     Hola sabes que se va hacer la EVO no¿? , en este sitio
-                    podras obtenet toda la informacion de los juegos que se van
-                    a jugar tanto su tierlist,sus moviminetos,sus
-                    curiosidades.... En este apartado podras ir viendo los
-                    resultados de los torneos. Para eso debereis clickear sobre
+                    podrás obtener toda la información de los juegos que se van
+                    a jugar tanto su tier list,sus movimientos,sus
+                    curiosidades.... En este apartado podrás ir viendo los
+                    resultados de los torneos. Para eso deberás clickear sobre
                     el juego que os guste
                   </p>
                   <div
@@ -81,9 +81,9 @@ class Probadeprincipal extends React.Component {
                     <h1 className="colortextoprincilal"> QUIENES SOMOS</h1>
                     <span className="colortextoprincilal">
                       Somos un equipo que nuestro objetivo es dedicamos
-                      ,creacion paginas, mantenimientto de paginas web cualquier
+                      ,creacion paginas, mantenimiento de paginas web cualquier
                       cliente nos llamamos Adijnor. Para darnos a conocer , ya
-                      que nuestra aficion son los juegos de lucha hemos creado
+                      que nuestra afición son los juegos de lucha hemos creado
                       esta web con react para poder enseñar que podemos hacer,
                       si os interesa nuestro trabajo, podeis ver esta web : o
                       enviarnos un correo a :Adijnor@gmail.com HEEEELP
