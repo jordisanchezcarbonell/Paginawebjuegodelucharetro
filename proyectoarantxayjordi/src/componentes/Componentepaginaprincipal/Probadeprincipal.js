@@ -85,11 +85,12 @@ class Probadeprincipal extends React.Component {
                       just started in fighting games have information at hand
                       for each game. On the web you can see: the different games
                       that were going to be made in the EVO with their tierlist,
-                      movements, biographies and combo. We are not professionals
-                      but we want to dedicate ourselves to this, any questions,
-                      improvement you can send us an email to: Adijnor@gmail.com
-                      a Pm on Twitter @ BT_Kazukun, @ carpediiemm. I hope you
-                      like it.
+                      movements, biographies and combo. We are starting in the
+                      world of web design if you are interested in creating your
+                      page, improving your design, implementing something, do
+                      not hesitate to contact us, you can do it by email to:
+                      Adijnor@gmail.com or a Pm on Twitter @BT_Kazukun,
+                      @carpediiemm. I hope you like it.
                     </span>
                   </div>
                   <div
