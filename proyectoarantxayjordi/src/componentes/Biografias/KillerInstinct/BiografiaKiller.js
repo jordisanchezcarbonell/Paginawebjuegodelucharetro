@@ -7,6 +7,7 @@ import { Row, Col } from "reactstrap";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Helmet } from "react-helmet";
 
 class BiografiaKiller extends React.Component {
   constructor(props, context) {
@@ -47,6 +48,13 @@ class BiografiaKiller extends React.Component {
     };
     return (
       <div className="BioDivTotalKI">
+        <Helmet>
+          <title>Biography Killer Instinct</title>
+          <meta
+            name="description"
+            content="Biography Killer Instinct"
+          />
+        </Helmet>
         <div style={({ width: "100%" }, fondoKIBIO)}>
           <h1 className="BioNombreKI"> {detalles.Nombre}</h1>
 

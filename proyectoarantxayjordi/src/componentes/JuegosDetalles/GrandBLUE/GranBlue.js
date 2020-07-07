@@ -14,6 +14,7 @@ import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
+import { Helmet } from "react-helmet";
 
 //AVER SI FUNCIOONA
 class Child extends React.Component {
@@ -325,6 +326,10 @@ class GranBlue extends React.Component {
 
     return (
       <div className="DivGranBlue degrafado w-100 ml-0">
+        <Helmet>
+          <title>Gran Blue</title>
+          <meta name="description" content="Move Gran Blue" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

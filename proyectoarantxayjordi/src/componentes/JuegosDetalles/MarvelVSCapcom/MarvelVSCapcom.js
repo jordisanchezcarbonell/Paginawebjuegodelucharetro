@@ -12,6 +12,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 // get our fontawesome imports
 
@@ -338,6 +339,10 @@ class MarvelVSCapcom extends React.Component {
 
     return (
       <div className="DivFONDOSMC degrafado w-100 ml-0">
+        <Helmet>
+          <title>Marvel vs Capcom</title>
+          <meta name="description" content="Move Marvel vs Capcom " />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

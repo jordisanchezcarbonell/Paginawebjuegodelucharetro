@@ -7,6 +7,8 @@ import { Row, Col } from "reactstrap";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Helmet } from "react-helmet";
+
 class BiografiaPnys extends React.Component {
   constructor(props, context) {
     super(props);
@@ -48,6 +50,10 @@ class BiografiaPnys extends React.Component {
 
     return (
       <div style={({ width: "100%" }, fondopersonaje)}>
+        <Helmet>
+          <title>Biography Them's Fightin' Herds</title>
+          <meta name="description" content="Biography Them's Fightin' Herds" />
+        </Helmet>
         {/*
         <Row >
           <div className="BioNavbarPonys">

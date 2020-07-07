@@ -15,6 +15,7 @@ import TituloPJ from "./TituloPJ.png";
 // get our fontawesome imports
 import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
+import { Helmet } from "react-helmet";
 
 //AVER SI FUNCIOONA
 class Child extends React.Component {
@@ -249,6 +250,9 @@ class UnderNight extends React.Component {
       numChildren: 0,
     };
   }
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
   renderContent() {
     const newLocal = this.state;
     newLocal.isItemContentVisible = false;
@@ -334,6 +338,10 @@ class UnderNight extends React.Component {
 
     return (
       <div className="DivBDFONDOIMAGEN">
+        <Helmet>
+          <title>UNDER NIGHT IN-BIRTH </title>
+          <meta name="description" content="Move 	UNDER NIGHT IN-BIRTH " />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

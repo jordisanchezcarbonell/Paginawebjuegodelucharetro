@@ -14,6 +14,7 @@ import Image from "react-bootstrap/Image";
 import ReactPlayer from "react-player";
 import Grid from "@material-ui/core/Grid";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 //AVER SI FUNCIOONA
 class SkullGirls extends React.Component {
@@ -45,6 +46,10 @@ class SkullGirls extends React.Component {
 
     return (
       <div className="DivGeneral">
+        <Helmet>
+          <title>SkullGirls</title>
+          <meta name="description" content="Move SkullGirls" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

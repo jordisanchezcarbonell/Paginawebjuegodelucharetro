@@ -16,6 +16,7 @@ import BolaDeDrac from "./bolaDragon.png";
 // get our fontawesome imports
 import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
+import { Helmet } from "react-helmet";
 
 //AVER SI FUNCIOONA
 class Child extends React.Component {
@@ -354,6 +355,10 @@ class Dragonball extends React.Component {
 
     return (
       <div className="DivBDFONDO degrafado w-100 ml-0">
+        <Helmet>
+          <title>Dragon Ball</title>
+          <meta name="description" content="Move Dragon Ball" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

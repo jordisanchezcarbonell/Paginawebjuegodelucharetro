@@ -7,6 +7,8 @@ import { withRouter } from "react-router-dom";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Helmet } from "react-helmet";
+
 class BiografiaTekken extends React.Component {
   constructor(props, context) {
     super(props);
@@ -38,6 +40,10 @@ class BiografiaTekken extends React.Component {
 
     return (
       <div className="BioDivTotalTK">
+        <Helmet>
+          <title>Biography Tekken</title>
+          <meta name="description" content="Biography Tekken" />
+        </Helmet>
         <div className="BioEspTopTK">
           <h1 className="BioNombreTK"> {detalles.Nombre}</h1>
 

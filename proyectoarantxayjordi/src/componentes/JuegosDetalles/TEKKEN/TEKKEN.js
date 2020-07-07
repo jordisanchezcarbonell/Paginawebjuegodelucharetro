@@ -15,6 +15,7 @@ import { animateScroll as scroll } from "react-scroll";
 // get our fontawesome imports
 import { Link } from "react-router-dom";
 import ReactPlayer from "react-player";
+import { Helmet } from "react-helmet";
 
 //AVER SI FUNCIOONA
 class Child extends React.Component {
@@ -220,6 +221,10 @@ class TEKKEN extends React.Component {
 
     return (
       <div className="DivFONDOTK degrafado w-100 ml-0">
+        <Helmet>
+          <title>Tekken</title>
+          <meta name="description" content="Move Tekken" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

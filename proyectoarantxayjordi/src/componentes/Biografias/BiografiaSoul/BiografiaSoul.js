@@ -7,6 +7,7 @@ import { withRouter } from "react-router-dom";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Helmet } from "react-helmet";
 
 class BiografiaSoul extends React.Component {
   constructor(props, context) {
@@ -39,6 +40,10 @@ class BiografiaSoul extends React.Component {
 
     return (
       <div className="BioDivTotalSoul">
+        <Helmet>
+          <title>Biography Soul Calibur</title>
+          <meta name="description" content="Biography Soul Calibur" />
+        </Helmet>
         <div>
           <h1 className="BioNombreSoul"> {detalles.Nombre}</h1>
 

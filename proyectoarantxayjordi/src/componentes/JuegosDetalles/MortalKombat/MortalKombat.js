@@ -14,6 +14,7 @@ import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 import { Link } from "react-router-dom";
 // get our fontawesome imports
+import { Helmet } from "react-helmet";
 
 import ReactPlayer from "react-player";
 
@@ -286,6 +287,10 @@ class MortalKombat extends React.Component {
 
     return (
       <div className="DivMortalkombat  w-100 ml-0">
+        <Helmet>
+          <title>Mortal Kombat</title>
+          <meta name="description" content="Move Mortal Kombat" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

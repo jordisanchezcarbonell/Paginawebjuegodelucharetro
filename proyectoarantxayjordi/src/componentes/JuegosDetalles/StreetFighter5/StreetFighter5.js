@@ -14,6 +14,7 @@ import { animateScroll as scroll } from "react-scroll";
 import imagenLetraSF5 from "./fondo_nombreSF5.jpg";
 import { Link } from "react-router-dom";
 // get our fontawesome imports
+import { Helmet } from "react-helmet";
 
 import ReactPlayer from "react-player";
 
@@ -304,6 +305,10 @@ class StreetFighter5 extends React.Component {
 
     return (
       <div className="DivBDFONDOSF degrafado w-100 ml-0">
+        <Helmet>
+          <title>Street Fighter</title>
+          <meta name="description" content="Move StreetFighter" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

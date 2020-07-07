@@ -7,6 +7,7 @@ import {  Row, Col } from "reactstrap";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ResponsivePlayer from "../../video/ResponsivePlayer";
+import { Helmet } from "react-helmet";
 
 class SkullGirl extends React.Component {
   constructor(props, context) {
@@ -40,6 +41,10 @@ class SkullGirl extends React.Component {
 
     return (
       <div className="BioDivTotalSG">
+        <Helmet>
+          <title>Biography Skullgirls </title>
+          <meta name="description" content="Biography Skullgirls" />
+        </Helmet>
         <div>
           <h1 className="BioNombreSG"> {detalles.Nombre}</h1>
 

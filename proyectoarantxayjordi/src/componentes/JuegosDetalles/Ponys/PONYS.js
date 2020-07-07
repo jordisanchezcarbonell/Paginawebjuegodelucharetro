@@ -12,6 +12,7 @@ import { Modal, Button } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import { animateScroll as scroll } from "react-scroll";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 //AVER SI FUNCIOONA
 
@@ -315,6 +316,10 @@ class PONYS extends React.Component {
 
     return (
       <div className="  w-100 ml-0">
+        <Helmet>
+          <title>Them's Fightin' Herds</title>
+          <meta name="description" content="Move Them's Fightin' Herds" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

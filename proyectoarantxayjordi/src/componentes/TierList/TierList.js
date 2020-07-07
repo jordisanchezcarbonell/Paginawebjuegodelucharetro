@@ -8,6 +8,8 @@ import { withRouter } from "react-router-dom";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Table from "react-bootstrap/Table";
+import { Helmet } from "react-helmet";
+
 class TierList extends React.Component {
   constructor(props, context) {
     super(props);
@@ -53,6 +55,10 @@ class TierList extends React.Component {
       };*/
 
       <div className="DivPrincTier ">
+        <Helmet>
+          <title>Tier List </title>
+          <meta name="description" content="Move Tier List" />
+        </Helmet>
         <Row className="FondoTier">
           <h1 className="TierNombre">{descripcionbiojuego.Nombre}</h1>
         </Row>

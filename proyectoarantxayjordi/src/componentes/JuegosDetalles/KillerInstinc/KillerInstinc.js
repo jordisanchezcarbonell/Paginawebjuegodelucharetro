@@ -3,6 +3,7 @@ import React from "react";
 import Table from "@material-ui/core/Table";
 //import { Table, Thead, Tbody, Tr, Th, Td } from "react-super-responsive-table";
 import "react-super-responsive-table/dist/SuperResponsiveTableStyle.css";
+import { Helmet } from "react-helmet";
 
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
@@ -61,6 +62,10 @@ class KillerInstinc extends React.Component {
 
     return (
       <div className="DivKillintinct">
+        <Helmet>
+          <title>Killer Instinct</title>
+          <meta name="description" content="Move Killer Instinct" />
+        </Helmet>
         <Modal show={this.state.show}>
           <Modal.Header>
             <Modal.Title>{this.state.elmento} </Modal.Title>

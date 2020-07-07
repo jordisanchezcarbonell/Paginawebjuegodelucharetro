@@ -6,6 +6,7 @@ import ResponsivePlayer from "../../video/ResponsivePlayer";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { withRouter } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 class BiografiaMK extends React.Component {
   constructor(props, context) {
@@ -38,6 +39,10 @@ class BiografiaMK extends React.Component {
 
     return (
       <div className="DivBioMK">
+        <Helmet>
+          <title>Biography Mortal Kombat </title>
+          <meta name="description" content="Biography Mortal Kombat " />
+        </Helmet>
         <div className="BioDivTotalMK">
           <h1 className="BioNombreMK"> {detalles.Nombre}</h1>
 

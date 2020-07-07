@@ -3,6 +3,7 @@ import data from "../../JSON/juegos.json";
 import "./JuegosGlobales.css";
 
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 export class PaginaJuegos extends Component {
   click(e) {
@@ -13,6 +14,10 @@ export class PaginaJuegos extends Component {
   render() {
     return (
       <div className=" fondodepantalla mx-0 px-5 mx-auto">
+        <Helmet>
+          <title>All Games</title>
+          <meta name="description" content="All Games Website" />
+        </Helmet>
         <h1 className="hee">
           <strong className="AllGames">
             All Games <span>({data.length})</span>

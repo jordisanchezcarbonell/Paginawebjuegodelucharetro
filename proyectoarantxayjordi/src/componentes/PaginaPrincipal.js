@@ -24,6 +24,8 @@ import BiografiaGranBlue from "./Biografias/BiografiaGranBlue/BiografiaGranBlue"
 import BiografiaMK from "./Biografias/BiografiaMK/BiografiaMK";
 import Probadeprincipal from "./Componentepaginaprincipal/Probadeprincipal";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { Helmet } from "react-helmet";
+
 export class PaginaPrincipal extends Component {
   state = {
     navBackground: "white",
@@ -38,6 +40,10 @@ export class PaginaPrincipal extends Component {
   render() {
     return (
       <div className=" fondo">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Games</title>
+        </Helmet>
         <Router>
           <div className="">
             <ReactBootstrap.Navbar
@@ -65,7 +71,7 @@ export class PaginaPrincipal extends Component {
                   href="/PaginaJuegos"
                   className="textonaV w-100"
                 >
-                  Juegos
+                  Games
                 </ReactBootstrap.Navbar.Brand>
               </ReactBootstrap.Navbar.Collapse>
             </ReactBootstrap.Navbar>
